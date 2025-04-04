@@ -7126,7 +7126,7 @@ Takedown
 Vault
 Controlled Fall
 Forward Roll
-Blink Strike
+Estocada Veloz
 Burst Strike
 Blitz Strike
 Broad Cut
@@ -7141,7 +7141,7 @@ Antler Toss
 Compass Slash
 Full Moon Slash
  
-Skyward Lash
+Corte Ascendente  
 Heavenward Lash
  
 Flesh Skewer
@@ -7400,7 +7400,7 @@ Shield Slam
 Springboard
 Launchboard
  
-Shield Summons
+Chamado do escudo
 Shield Drum
  
 Cymbal Attack
@@ -8646,7 +8646,7 @@ Uma forma avançada de Tusk Toss capaz de<cf>levantar inimigos ainda mais pesado
 Gira com a lâmina estendida, desenhando um<cf>círculo mortal, especialmente eficaz quando<cf>cercado. Empregável enquanto sob ataque.<cf>
 Uma forma avançada de Compass Slash.<cf>Gira com a lâmina estendida, cortando<cf>vários inimigos em uma ampla gama.
 Lança uma enxurrada de golpes em direção ao céu<cf>bem adequados para trazer inimigos voadores ao<cf>solo.
-Uma forma avançada de Skyward Lash. Solta<cf>um longo ataque de golpes adequados<cf>para trazer inimigos voadores ao solo.
+Uma forma avançada do Corte Ascendente. Solta<cf>um longo ataque de golpes adequados<cf>para trazer inimigos voadores ao solo.
 Enfia a lâmina no corpo do alvo,<cf>prendendo-o no lugar enquanto chove<cf>mais golpes sobre ele.
 Uma forma avançada de Flesh Skewer. Prende<cf>o alvo com a lâmina por um longo<cf>tempo e o acerta com golpes.
 Patos para trás antes de atacar<cf>desferem um golpe cortante. Usá-lo como uma manobra evasiva<cf>aumenta seu poder.
@@ -32822,7 +32822,7 @@ Gira com a lâmina estendida, desenhando um<cf>círculo mortal, especialmente ef
 Uma forma avançada de Compass Slash.<cf>Gira com a lâmina estendida, cortando<cf>vários inimigos em uma ampla gama.
 
 Lança uma enxurrada de golpes em direção ao céu<cf>bem adequados para trazer inimigos voadores ao<cf>solo.
-Uma forma avançada de Skyward Lash. Solta<cf>um longo ataque de golpes adequados<cf>para trazer inimigos voadores ao solo.
+Uma forma avançada do Corte Ascendente. Solta<cf>um longo ataque de golpes adequados<cf>para trazer inimigos voadores ao solo.
 
 Enfia a lâmina no corpo do alvo,<cf>prendendo-o no lugar enquanto chove<cf>mais golpes sobre ele.
 Uma forma avançada de Flesh Skewer. Prende<cf>o alvo com a lâmina por um longo<cf>tempo e o acerta com golpes.
@@ -33471,7 +33471,7 @@ Tusk Toss
 Antler Toss
 Compass Slash
 Full Moon Slash
-Skyward Lash
+Corte Ascendente  
 Heavenward Lash
 Flesh Skewer
 Soul Skewer
@@ -34120,7 +34120,7 @@ Prepare-se, Arisen. Eu sinto olhos sobre nós.
 Surgida, a vanguarda marcha sobre a morada do dragão.<cf> Vamos nos apressar e nos juntar a eles!
 Eles precisam da nossa ajuda, mestre!
 Devemos estar seguros aqui por<cf>momento. Mesmo assim, prossiga com cuidado ...
-Um portal para a fenda, aqui?<cf>Levantado, vá e toque naquela pedra.
+Um portal para a Fenda, aqui? <cf>Levante-se, vá e toque naquela pedra.
 Este Pawn está sob seu comando,<cf>Arisen.
 Viemos de outro mundo para servir<cf>a você, Arisen, imortal e sem medo.
 Devemos nos juntar a você, mestre.<cf>Avante, para o covil do wyrm.
@@ -38784,7 +38784,7 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 5> Os ícones ao lado de seu medidor de saúde<cf>indicam quaisquer mudanças em seu status.
 <TUTO 6> Aproxime-se dos aliados caídos e pressione <SIZE 25><ICON TOUCH></SIZE><cf>para reanimá-los.
 <TUTO> Pressione <SIZE 28><ICON PAD_ST></SIZE> para ver os controles do jogo.
-<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa<cf>queda resultará em ferimentos - ou morte.
+<TUTO> Observe o mundo ao seu redor. <cf>Algumas bordas podem ser escaladas, mas uma longa <cf>queda pode causar ferimentos - ou até a morte.
 <TUTO> Esta é uma riftstone. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
 <TUTO> As habilidades com armas disponíveis variam,<cf>dependendo do tipo de arma que você tem<cf>equipado.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
@@ -38792,7 +38792,7 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO> Para empunhar um arco, segure <SIZE 24><ICON SUB_WEP></SIZE> para mirar,<cf>então pressione <SIZE 24><ICON SHOT></SIZE> para disparar uma flecha.
 <TUTO 5> Certos inimigos e áreas podem infligir<cf>debilitações como sono, veneno,<cf>petrificação e cegueira.
 <TUTO 7> Certas ações, como usar habilidades e<cf>e correr, consomem sua resistência.<cf>Tome cuidado para não se exaurir.
-<TUTO> Conforme você avança em suas aventuras, os<cf>Pawns fornecerão informações e dicas úteis para.<cf>
+<TUTO> Conforme você avança em suas aventuras, os<cf>Pawns fornecerão dicas e informações úteis.<cf>
 <TUTO 8> Sua saúde e resistência atuais são<cf>exibidas na parte inferior esquerda da tela.
 <TUTO 9> Encontre sua orientação consultando o mapa<cf>no canto inferior esquerdo da tela.
 <TUTO> Usar uma lanterna irá manter a escuridão sob controle.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
@@ -45994,7 +45994,7 @@ Equipamento
 Itens que restauram a saúde e o vigor,<cf>curam debilitações e assim por diante.
 Itens frequentemente usados em aventuras<cf>​​e batalhas.
 Os itens podem ser combinados ou usados​​<cf>para aprimorar armas e armaduras.
-Itens de importância crucial para sua missão.
+Itens de essenciais para sua missão.
 Itens variados.
 Armamentos empunhados com uma ou ambas<cf>as mãos.
 Armadura para o rosto e a cabeça.
