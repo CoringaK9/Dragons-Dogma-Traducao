@@ -32419,7 +32419,7 @@ Um brilho suave ilumina as margens do Cassardis, curando sua mente e seu corpo. 
 Derrotado, o senescal implora que você conceda a ele um fim. O que ele quis dizer? A lâmina Godsbane parece oferecer uma resposta.
 Por fim, finalmente, tudo está em seu lugar. Você aceitou seu verdadeiro destino: tornar-se senescal, o novo soberano do mundo. A vida eterna será sua no trono - dias intermináveis ​​de serviço, até que um novo Arisen apareça para encerrar seu reinado.
 Você sente um estranho orgulho ao mergulhar o Godsbane em seu peito, como se reivindicasse uma grande vitória. Finalmente, há um fim para sua história - uma escrita por suas próprias mãos, nada menos. Conforme sua consciência se desvanece na escuridão, você sente uma sensação peculiar em seus lábios: você está sorrindo.<cf><cf>Limpado pela arrebentação, um corpo chega à costa em uma praia deserta. Sem nome, esta alma desperta, os olhos brilhando com a vontade de viver e por todas as coisas pelas quais vale a pena viver.
-Em outra terra, sob outro céu, um vasto exército se formou para matar um dragão, a encarnação final do mal. Mas o exército foi esmagado, e assim as esperanças do povo recaíram sobre um escolhido, e com aqueles que seguiram esta alma talentosa. O dragão os espera em seu covil, planejando provações que eles podem superar. Este conto tem um fim? Veremos em breve, se o escolhido estiver fadado a tecer um ...
+Em outra terra, sob outro céu, um vasto exército se formou para matar um dragão, a encarnação final do mal. Mas o exército foi esmagado, e assim as esperanças do povo recaíram sobre um escolhido e aqueles que seguiram essa alma talentosa. O dragão os espera em seu covil, planejando provações que eles podem superar. Este conto tem um fim? Veremos em breve, se o escolhido estiver fadado a tecer um ...
 O grande buraco do Everfall parece interminável, mas isso não pode ser ... Uma voz do outro lado acena para você cada vez mais fundo, cada vez mais para baixo, até o fim de sua jornada. Você não serve mais a nenhum governante, mas à sua própria vontade. Você deve prosseguir e descobrir seu verdadeiro destino.
 O carrinho! O carrinho!
 Maldita Salvação ... Eles ficam mais ousados ​​a cada dia.
@@ -42284,7 +42284,7 @@ Não podemos permitir que o wyrm trabalhe<cf>em mais atrocidades.
 Não ... Temo que toda a vanguarda<cf>tenha sido massacrada.
 Mais corpos ... O wyrm deve ser<cf>feito para saldar esta dívida.
 O que é essa abominação ?! Tenha cuidado,<cf>cuidado, Mestre!
-O recuo contém apenas a morte, Arisen!<cf>Devemos abrir um caminho para a frente!
+Recuar só leva à morte, Arisen!<cf>Temos que abrir caminho à frente!
 Foram os pés de incontáveis ​​peregrinos<cf>que percorreram pela primeira vez esta estrada para o templo.
 Não há outros sobreviventes?
 Monstros destruíram<cf>este lugar ...
@@ -46692,7 +46692,7 @@ Agarrar / escalar
 Empunhar / embainhar a arma
 Traço
 Alternar caminhada / corrida
-Estoque aberto
+Inventário
 Pawns de comando para ir
 Pawns de comando para virem até você
 Pawns de comando para ajudar
