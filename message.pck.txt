@@ -11859,7 +11859,7 @@ Para o bem ou para o mal, fizemos o que pedimos.<cf>Vamos voltar.
 Cabe a você decidir sozinho, Arisen ...
 Receio não ter nenhum conselho a oferecer ...
 Se você acha que um inimigo está além de nossas possibilidades,<cf>não há vergonha em fugir.
-Apenas estar ao seu lado preenche este Pawn<cf>com vigor, Arisen.
+Só de estar perto de você, este pawn se enche de<cf>energia, Arisen.
 Isso deve resolver nossos problemas de esqueleto. Vamos<cf>voltar para a capital.
 Parece que a sombra da Salvação se estende por toda parte.<cf>Sr. Maximilian deve saber disso.
 Ele fugiu, mas é melhor darmos uma palavra<cf>de nossas descobertas mesmo assim.
@@ -12622,7 +12622,7 @@ Uma madeira altamente flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira menos flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira dura usada na confecção de<cf>arcos e flechas.
 Uma madeira extremamente rígida usada na<cf>confecção de arcos e flechas.
-Uma pequena fonte de luz que usa combustível<cf>líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Tem óleo suficiente para<cf>queimar por um tempo.
+Uma pequena fonte de luz que usa combustível líquido,<cf>deve ser reabastecido. Pode ser preso na cintura.<cf>Tem óleo suficiente para queimar por um tempo.
 Uma pequena fonte de luz que usa combustível<cf>líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Atualmente, está quase<cf>cheio de óleo.
 Uma pedra que pode levar o usuário de volta<cf>ao Gran Soren, ou então, a localização<cf>de um cristal de portal em um instante.
 Um recipiente vazio que pode ser usado para<cf>armazenar líquido.
@@ -14393,7 +14393,7 @@ Aumenta sua Força enquanto você se agarra<cf>a um inimigo.
 Evita que você diminua a velocidade enquanto<cf>cruza águas ou pântanos.
 Aumenta o limite para receber<cf>dano de quedas, permitindo a<cf>pousar com segurança de alturas maiores.
 Acelera o processo de recarga para<cf>balistas, permitindo que você solte os parafusos<cf>mais rapidamente.
-Uma pequena fonte de luz que usa combustível<cf>líquido e emite uma luz mais<cf>brilhante e ampla do que uma lanterna normal.<cf>Ele tem óleo suficientepara queimar por um tempo.
+Uma pequena fonte de luz que usa combustível<cf>líquido e emite uma luz mais<cf>brilhante e ampla do que uma lanterna normal.<cf>Ele tem óleo suficiente para queimar por um tempo.
 Detalhes desconhecidos.
 Um anel que permite ao seu portador vender itens<cf>a preços mais elevados.
 Uma pequena fonte de luz que usa combustível<cf>líquido, ela emite uma luz mais<cf>brilhante e mais ampla<cf>do que uma lanterna<cf>normal. Atualmente, está quase cheio de óleo.
@@ -18422,7 +18422,7 @@ Cuidado!<cf>Monstros ferozes espreitam por perto.
 É como se tudo mudasse em<cf>naquele único instante ...
 The Everfall ...<cf>Que segredos se escondem em suas profundezas?
 Isso pode ser parte do julgamento que o dragão<cf>planejou para você?
-Um vasto exército formado para matar um dragão, a encarnação<cf>final do mal. Mas contra tal resistência temível,<cf>o exército foi totalmente esmagado.<cf><cf>As esperanças do povo caíram sobre um escolhido,<cf>e com aqueles que seguiram esta alma talentosa ...
+Um vasto exército formado para matar um dragão, a encarnação do mal.<cf>Mas contra tal resistência temível, o exército foi esmagado.<cf><cf>As esperanças do povo caíram sobre um escolhido,<cf>e com aqueles que seguiram esta alma talentosa ...
 Você sente um orgulho estranho ao mergulhar o Godsbane em seu peito<cf>, como se procurasse uma grande vitória. Finalmente, há um<cf>fim para sua história - escrito por suas próprias mãos, nada menos.<cf>Conforme sua consciência se desvanece na escuridão, você sente uma<cf>sensação peculiar em seus lábios: você está sorrindo .<cf><cf>Limpado pelas ondas, um corpo chega à costa de uma praia<cf>deserta. Sem nome, esta alma desperta, os olhos brilhando com a<cf>vontade de viver e por todas as coisas pelas quais vale a pena viver.
 Hoje, como todos os dias, as ondas batem suavemente na costa<cf>perto de sua pequena aldeia.<cf><cf>As bênçãos gêmeas do sol quente e das águas abundantes proporcionam<cf>uma vida simples, mas agradável. Redes são lançadas e tarefas realizadas;<cf>amigos e familiares se reúnem para rir e conversar ao redor da fogueira.<cf><cf>Assim sempre foi, e sempre será ... disso,<cf>você estão certos.<cf><cf>Até a tarde ficar tarde, e você ouvir o bater de asas ...
 Que destino o espera neste lugar ...?
@@ -24665,7 +24665,7 @@ Você também pode enviar itens para o armazenamento de qualquer local de descan
 Se um Pawn possuir o conhecimento<cf>e as habilidades corretas, ele poderá ajudá-lo<cf>em ataques conjuntos.
 Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
 Equipar armadura destinada a guerreiros de nível<cf>significativamente mais alto que o seu próprio<cf>drenará seu Vigor mais rapidamente.
-Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus<cf>atributos, o mapa completo, informações da missão e muito mais.
+Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos, o mapa completo, informações da missão<cf>e muito mais. 
 Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Qualquer lugar fora das cidades,<cf>correr consumirá Vigor.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
 Clique em <SIZE 24><ICON PAD_R3></SIZE> para redefinir<cf>a posição da câmera.
@@ -28418,7 +28418,7 @@ Uma madeira altamente flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira menos flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira dura usada na confecção de<cf>arcos e flechas.
 Uma madeira extremamente rígida usada na<cf>confecção de arcos e flechas.
-Uma pequena fonte de luz que usa combustível<cf>líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Tem óleo suficiente para<cf>queimar por um tempo.
+Uma pequena fonte de luz que usa combustível líquido,<cf>deve ser reabastecido. Pode ser preso na cintura.<cf>Tem óleo suficiente para queimar por um tempo. 
 Uma pequena fonte de luz que usa combustível<cf>líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Atualmente, está<cf>quase cheio de óleo.
 Uma pedra que pode levar o usuário de volta<cf>ao Gran Soren, ou então, a localização<cf>de um cristal de portal em um instante.
 Um recipiente vazio que pode ser usado para<cf>armazenar líquido.
@@ -38724,7 +38724,7 @@ Você também pode enviar itens para o armazenamento de qualquer local de descan
 Se um Pawn possuir o conhecimento<cf>e as habilidades corretas, ele poderá ajudá-lo<cf>em ataques conjuntos.
 Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
 Equipar armadura destinada a guerreiros de nível<cf>significativamente mais alto que o seu próprio<cf>drenará seu Vigor mais rapidamente.
-Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos,<cf>um mapa completo, informações da missão<cf>e muito mais.
+Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos, o mapa completo, informações da missão<cf>e muito mais. 
 Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Qualquer lugar fora das cidades,<cf>correr consumirá Vigor.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
 Clique em <SIZE 24><ICON PAD_R3></SIZE> para redefinir<cf>a posição da câmera.
@@ -48441,7 +48441,7 @@ Nenhuma outra resposta, ao que parece.
 Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Selecione "Status" no menu de pausa para<cf>ver os detalhes de sua condição atual.
 Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
-Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos,<cf>um mapa completo, informações da missão<cf>e muito mais.
+Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos, o mapa completo, informações da missão<cf>e muito mais. 
 Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Qualquer lugar fora das cidades,<cf>correr consumirá Vigor.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
 Clique em <SIZE 24><ICON PAD_R3></SIZE> para redefinir<cf>a posição da câmera.
