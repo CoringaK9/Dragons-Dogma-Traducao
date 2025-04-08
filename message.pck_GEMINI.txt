@@ -1855,7 +1855,7 @@ Novo Pacote de Opções de Edição de Personagem
 Pacote de Fantasias de Gransys
 Pacote de Armaduras de Bitterblack
 Conjunto de Anéis do Lutador
-Conjunto de Anéis do Andarilho
+Conjunto de Anéis do Ladino
 Conjunto de Anéis do Mago
 O Crisol dos Perdidos
 Mensagem Inválida
@@ -5308,8 +5308,8 @@ Anel do Arqueiro Mágico
 Faixa do Arqueiro Mágico
 Anel do Lutador
 Faixa do Lutador
-Anel do Andarilho
-Faixa do Andarilho
+Anel do Ladino
+Faixa do Ladino
 Anel do Mago
 Faixa do Mago
 Anel do Guerreiro
@@ -10076,7 +10076,7 @@ Armas: Espadas, Maças, Cajados, Escudos Mágicos<cf>Vocação híbrida -- Um gu
 Armas: Espadas, Adagas, Escudos, Arcos<cf>Vocação híbrida -- Um especialista em ataques<cf>secretos auxiliado pelo domínio de uma variedade de armas.
 Armas: Adagas, Cajados, Arcos Mágicos<cf>Vocação híbrida -- Um explorador habilidoso e<cf>aventureiro equilibrado, capaz de empunhar um arco mágico.
 Armas: Espadas Longas, Martelos de Guerra<cf>Vocação avançada -- Um lutador especialmente habilidoso<cf>em combate corpo a corpo, e que não tem medo da morte.
-Armas: Adagas, Arcos Longos<cf>Vocação avançada -- Um andarilho cujas<cf>habilidades excepcionais com o arco o tornam uma ameaça mortal de longe.
+Armas: Adagas, Arcos Longos<cf>Vocação avançada -- Um ladino cujas<cf>habilidades excepcionais com o arco o tornam uma ameaça mortal de longe.
 Armas: Arquicajados<cf>Vocação avançada -- Um mago adepto de todas as formas<cf>de magia, incluindo feitiços ofensivos e punitivos.
 Mensagem Inválida
  ---
@@ -22134,7 +22134,7 @@ Armas: Espadas, Maças, Cajados, Escudos Mágicos<cf>Vocação híbrida -- Um gu
 Armas: Espadas, Adagas, Escudos, Arcos<cf>Vocação híbrida -- Um especialista em ataques secretos<cf>auxiliado pelo domínio de uma variedade de armas.
 Armas: Adagas, Cajados, Arcos Mágicos<cf>Vocação híbrida -- Um explorador habilidoso e bem-<cf>aventureiro equilibrado, capaz de brandir um arco mágico.
 Armas: Espadas Longas, Martelos de Guerra<cf>Vocação avançada -- Um lutador especialmente habilidoso<cf>em combate corpo a corpo, e que não tem medo da morte.
-Armas: Adagas, Arcos Longos<cf>Vocação avançada -- Um andarilho cujas habilidades<cf>excepcionais com arco o tornam uma ameaça mortal de longe.
+Armas: Adagas, Arcos Longos<cf>Vocação avançada -- Um ladino cujas habilidades<cf>excepcionais com arco o tornam uma ameaça mortal de longe.
 Armas: Arquistafes<cf>Vocação avançada -- Um mago adepto de todas as formas<cf>de magia, incluindo feitiços ofensivos e punitivos.
 Mensagem Inválida
  ---
@@ -37665,8 +37665,8 @@ Anel do Arqueiro Mágico
 Braçadeira do Arqueiro Mágico
 Anel do Lutador
 Braçadeira do Lutador
-Anel do Andarilho
-Braçadeira do Andarilho
+Anel do Ladino
+Braçadeira do Ladino
 Anel do Mago
 Braçadeira do Mago
 Anel do Guerreiro
@@ -39273,9 +39273,9 @@ Pedido de Escolta: <I_GT 106><cf>Região: <I_DS 106>
  
  
 Peão Procurado<cf>Descrição: Um lutador alto<cf>Região: Proximidades de Cassardis
-Peão Procurado<cf>Descrição: Um andarilho baixo<cf>Região: Proximidades do Acampamento
+Peão Procurado<cf>Descrição: Um ladino baixo<cf>Região: Proximidades do Acampamento
 Peão Procurado<cf>Descrição: Um lutador careca<cf>Região: Proximidades do Acampamento
-Peão Procurado<cf>Descrição: Um andarilho tatuado<cf>Região: Gransys do Sul
+Peão Procurado<cf>Descrição: Um ladino tatuado<cf>Região: Gransys do Sul
 Peão Procurado<cf>Descrição: Uma maga<cf>Região: ???
 Peão Procurado<cf>Descrição: Uma guerreira<cf>Região: ???
 Peão Procurado<cf>Descrição: Um cavaleiro místico de nível ** ou maior<cf>Região: Gransys do Norte
@@ -46080,7 +46080,7 @@ Resistência Elemental
 Resistência a Debilitação
  
 Lutador
-Andarilho
+Ladino
 Mago
 Cavaleiro Místico
 Assassino
