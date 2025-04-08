@@ -18,7 +18,7 @@ Vamos confiar a ele o fortalecimento de<cf>nossas armas.
 Parece que ele pode oferecer um serviço de ferreiro<cf>capaz de envergonhar os mestres de Gran Soren.
 Não vamos abri-la sem uma chave.
 É uma porta resistente demais para forçar.
-Não vai ceder, ser.
+Não vai ceder, meu senhor.
 Está bem fechada... Precisaremos de uma chave.
 Encontre a chave, e veremos o que está além.
 Pai...? Eu...
@@ -143,7 +143,7 @@ Há ladrões à frente, Mestre... Se você pretende<cf>lutar, estou ao seu lado.
 Aqui, Arisen.
 O que tudo isso significa, primo?
 Você se machucou mais do que a maioria, mas parece forte como um touro, primo.
-Estou em forma para rivalizar com você nisso, fico feliz em dizer.
+Estou em forma para competir com você nisso, fico feliz em dizer.
 Eu dificilmente diria o mesmo se não fosse por sua ajuda, com certeza.
 Vai demorar um pouco até que as nuvens acima de Cassardis se dissipem...
 Eu, por mim, temo que não esteja com vontade de sorrir.
@@ -155,7 +155,7 @@ Com o dragão vindo e tudo mais, ficou perigoso por essas bandas.
 Ainda assim, a floresta fora da vila deve ser segura. Vou buscar outro feixe de ervas.
 O que tudo isso significa, primo?
 Preocupação é para os ociosos, digo eu.
-Estou em forma para rivalizar com você nisso, fico feliz em dizer.
+Estou em forma para competir com você nisso, fico feliz em dizer.
 Duquesa Em Perigo
 Após seu encontro malfadado, Aelinore foi levada<cf>para a mansão do norte e trancada.<cf>Mirabelle implora que você a resgate.
 
@@ -245,7 +245,7 @@ Bem, confio em você?
 Outra hora, talvez?
 Sim.
 Não.
-Por que, obrigado.
+Obrigado, primo..
 Você me lisonjeia com sua gentileza, meu senhor.
 Mm? Oh, não se importe comigo. Apenas procurando por algo, entende...
 Nada a ver com você. Por favor, siga em frente, meu senhor.
@@ -264,7 +264,7 @@ O homem tende a se considerar rei entre os animais, elevado além de sua existê
 Mas no que diz respeito à magia, os animais menores são mestres. É minha teoria que o homem está em desvantagem natural.
 Enquanto o homem é sempre um pau para toda obra, um monstro é conduzido com foco perfeito por um instinto primordial. Esse foco dá força à sua magia. Você não concorda?
 O wyrm é um assunto de profundo interesse...
-Ele possui força e intelecto em igual proporção, e um instinto cristalino para rivalizar com todas as outras feras, sem dúvida.
+Ele possui força e intelecto em igual proporção, e um instinto cristalino para competir com todas as outras feras, sem dúvida.
 Um mago perfeito, verdadeiramente. O poder que ele deve deter está além do cálculo.
 Magia é uma grande busca. Um sujeito poderia estudá-la a vida toda e ainda morrer ignorante da melhor parte dela.
 É um assunto digno para dedicar os dias.
@@ -427,7 +427,7 @@ Note que você se move um pouco mais lento<cf>quando sua arma está em punho.
 Esgotar toda a Stamina vai te impedir<cf>de agir por um tempo. Se liga pra conservar<cf>energia!
 Você pode atacar enquanto está agarrado nos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
-Use Amaciante Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
+Use Suavizador Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
 Seu rank dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa quests. Em ranks<cf>mais altos, uma variedade maior de habilidades estão disponíveis.
 Derrotar inimigos e completar quests te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
 Os peões vão coletar e usar itens por<cf>conta própria.
@@ -598,9 +598,9 @@ Os dois estão reunidos... Você prestou um<cf>grande serviço aqui, Mestre.
 É uma alegria vê-los sorrindo.
 Você está ferido! O que aconteceu,<cf>Arisen!?
 Mestre, você está machucado! Como isso<cf>aconteceu!?
-Alguém no castelo deve ser<cf>o "Campeão da Noite", mas quem?
-Rumores dizem que a Salvação trabalha com um<cf>homem conhecido como o Campeão da Noite...
-Salvação e o Campeão da Noite...<cf>A capital está cheia de boatos ruins.
+Alguém no castelo deve ser<cf>o "Campeão Noturno", mas quem?
+Rumores dizem que a Salvação trabalha com um<cf>homem conhecido como o Campeão Noturno...
+Salvação e o Campeão Noturno...<cf>A capital está cheia de boatos ruins.
 Salvação está na boca de<cf>todos, de camponês a nobre.
 Como esperado de uma área residencial,<cf>é bem mais tranquilo.
 Este é um lugar bem relaxante para os da minha espécie.
@@ -666,7 +666,7 @@ E então?
 À sua saúde.
 Sua Graça deve ter uma razão para tamanha frivolidade...
 Acho difícil aproveitar uma reunião dessas em tempos tão terríveis.
-Desejo-lhe sorte, ser.
+Desejo-lhe sorte, meu senhor.
 Por favor, acalme-se.
 A água é bem funda. Cuidado para sua lanterna<cf>não molhar.
 É um belo curso d'água. Me pergunto onde ele<cf>leva?
@@ -719,11 +719,11 @@ Oh, muito obrigado.
 O quê? A despesa de tal... Sua bondade é demais para suportar.
 Obrigado. Eu amei. De verdade.
 Você deveria estar na cama. Eu queria que você não se esforçasse tanto.
-Eu me preocupo com você, cos.
+Eu me preocupo com você, primo.
 O chefe diz que seu ferimento pode ser uma maldição do dragão.
 Se for, não é algo que eu saiba curar.
 Mas deve haver um jeito...
-Você não foi o único a sofrer a ira da wyrm, cos.
+Você não foi o único a sofrer a ira da wyrm, primo.
 Houve muitos feridos.
 Outros... Alguns não tiveram tanta sorte.
 A vila inteira estava preocupada com você. Eles ficariam bem aliviados<cf>em te ver de pé e andando.
@@ -747,7 +747,7 @@ Penso muito no ferimento que o dragão te causou.
 Eu sei que é tolice, mas não consigo evitar.
 Se algum dia você deixar a vila, vou olhar para aquele ferimento como a causa.
 Benita me contou sobre as flores que você colheu para os feridos.
-Você é gentil como sempre, cos.
+Você é gentil como sempre, primo.
 Às vezes me sinto como um navio contra a corrente...
 Eu jurei curar seu ferimento, mas sinto que sei menos agora do que quando comecei.
 Eu não posso ficar parado enquanto você arrisca tudo para nos salvar!
@@ -861,7 +861,7 @@ Agradeço.
 Eu não poderia estar mais feliz.
 Sim.
 Não.
-Receio que não tenha o suficiente, ser...
+Receio que não tenha o suficiente, meu senhor...
 Por favor, me perdoe.
 Minha mestra sempre dizia que o Arisen deveria dar caridade, mas nunca aceitá-la... Sinto muito.
 Arisen... Tenho a honra de conhecê-lo. <cf>Este peão é conhecido como Johnathan. Eu sou um<cf>colecionador de itens de outros reinos.
@@ -871,14 +871,14 @@ Se você quiser trocar cristais de fenda por bens, basta pedir.<cf>O único dese
 Este peão o ajudará ao máximo de sua capacidade, Arisen.
 Rezo para que veja os sonhos da minha mestra realizados.
 As esperanças da minha mestra caída vão com você... Rezo para que você seja aquele que lhe dará descanso.
-<RMSH>Escolha como quiser, ser.
+<RMSH>Escolha como quiser, meu senhor.
 Comprar
 Deixa pra lá
 Estou sempre ao seu dispor.
 Agradeço.
 Estou sempre ao seu dispor.
 Boa sorte te acompanhe.
-<EQRM>Escolha como quiser, ser.
+<EQRM>Escolha como quiser, meu senhor.
 Comprar
 Trocar equipamento
 Deixa pra lá
@@ -1505,7 +1505,7 @@ Eu poderia suspeitar que apenas a sorte afastou o dragão de Cassardis, se eu n�
 Ah, bem. Tudo está feito e acabado agora.
 Obrigado por toda ajuda que você forneceu. Devo partir.
 Eu admito, ter a visão do futuro é um esporte para tolos...
-Mas eu pensei que o Nascen tivesse um plano mais... esperto em mente.
+Mas eu pensei que o Arisen tivesse um plano mais... esperto em mente.
 Ah, bem. Tudo feito e acabado agora.
 Obrigado pela ajuda que você forneceu. Devo partir.
 Oh, mas espere. Permita-me demonstrar a execução adequada de um plano esperto...
@@ -1516,7 +1516,7 @@ Foi o destino que nos uniu. Eu sei disso de verdade.
 Um barulho muito perturbador vem do poço ultimamente.
 É metade um rosnado e metade uma risada... Muito perturbador.
 Quadro de Avisos da Guilda dos Peões
-Procura-se: Suporte ao Nascen <cf>Todos os tipos de pedidos são postados aqui. Nenhum<cf>Nascen pode se dar ao luxo de ignorar uma alma necessitada.
+Procura-se: Suporte ao Arisen <cf>Todos os tipos de pedidos são postados aqui. Nenhum<cf>Arisen pode se dar ao luxo de ignorar uma alma necessitada.
 
 
 
@@ -1553,12 +1553,12 @@ A missão não pode mais ser concluída.
 Demorou mais do que eu pensava.
 Somos poucos demais! Recuem, todos vocês!
 Grifos nas estradas principais... Um homem não pode sair de casa sem perigo de vida!
-Salve, Nascen. Dando uma volta para clarear a cabeça também? Ou em algum tipo de vigília?
+Salve, Arisen. Dando uma volta para clarear a cabeça também? Ou em algum tipo de vigília?
 Ouço dizer que as ruas esvaziaram desde a vinda do dragão. Muitas vezes me pergunto como era este lugar antes.
 Meu próprio país ficaria tão desolado se o dragão atacasse? Casas deixadas vazias enquanto as pessoas fogem para a segurança...
-Mas me perdoe. Estou te impedindo de fazer sua vigília. Outra hora, Nascen.
+Mas me perdoe. Estou te impedindo de fazer sua vigília. Outra hora, Arisen.
 Sem um parceiro de treino, por acaso? Ou com vontade de brincadeiras?
-De qualquer forma, devo recusar com pesar. Não estou com disposição para brincadeiras, ser.
+De qualquer forma, devo recusar com pesar. Não estou com disposição para brincadeiras, meu senhor.
 Salve, amigo. Faz um tempo. Confio que você esteja bem?
 Mas vamos, se fosse bate-papo o que você queria, teria procurado um pássaro mais bonito do que este corvo velho.
 Corvos trazem notícias, quase sempre sombrias. Eu, trago trabalho. Ainda sombrio, receio. ...E aí?
@@ -1579,7 +1579,7 @@ Já se cansou do canto dos pássaros, então?
 Preciso da sua ajuda numa coisa, amigo.
 Deixa ele falar
 Agora não
-Heh, se meteu em encrenca, amigo? Parece que nem tudo é fácil para um Nascen, hein?
+Heh, se meteu em encrenca, amigo? Parece que nem tudo é fácil para um Arisen, hein?
 Falta de prática, sem dúvida. O que me diz? Quer tentar de novo?
 Deixa ele falar
 Agora não
@@ -1831,7 +1831,7 @@ Nossas táticas são as seguintes:
 Nosso objetivo é atacar pelo portão da frente, mas não temos tempo nem meios para derrubar as portas.
 Peço que você passe pelo buraco que vê ali e abra o portão por dentro.
 Não posso dizer o que pode esperar por você lá dentro. O perigo é grande, mas confio que você prevalecerá.
-Magnífico, ser. A fortaleza é nossa mais uma vez.
+Magnífico, meu senhor. A fortaleza é nossa mais uma vez.
 Enviei notícias de seus feitos para a capital. O duque ficará muito satisfeito.
 Assim como todos nós. Por favor, aceite este sinal de nossa gratidão e estima, Arisen.
 ...Ainda assim, o número deles era grande demais. Não existia tal horda em tempos passados.
@@ -1841,7 +1841,7 @@ Não posso dizer o que pode esperar por você lá dentro. O perigo é grande, ma
 Trabalho esplêndido, Arisen!
 Agora, devemos derrotar as feras de uma vez por todas! Sigam-me, homens!
 Veja ali, Arisen? O chefe deles espera além, eu garanto.
-É uma chance de ganhar um troféu digno de sua habilidade, ser. Vá e passe-os na lâmina!
+É uma chance de ganhar um troféu digno de sua habilidade, meu senhor. Vá e passe-os na lâmina!
 Recuar, homens! Retirada!
 Voltem! Devemos reformar nossa linha!
 Nós conseguimos!
@@ -2082,7 +2082,7 @@ Minha pesquisa atual lida com um ritual estrangeiro de<cf>natureza bem singular,
 Dizem que Auldale, no extremo norte de Gransys,<cf>são os restos de uma cidade arrasada pelo fogo do dragão.<cf>Seus perigos há muito mantêm estudiosos e<cf>ladrões afastados, e assim os rumores de tesouros escondidos<cf>continuam sem diminuir. Alguma alma corajosa<cf>irá provar que são falsos ou verdadeiros?
 Dizem que magos esqueletos são os remanescentes<cf>mortos-vivos de homens possuídos por fantasmas. Bem,<cf>digo eu, se eles eram magos em vida, provavelmente tinham<cf>grimórios. Quem pode dizer qual poder dorme em<cf>tal tomo?
 Quando eu era menino, outro muro ficava em volta da<cf>capital, além do que existe agora. Foi<cf>uma colônia de grifos que o derrubou, uns trinta<cf>anos atrás. Bestas temíveis, aquelas. Passamos<cf>semanas brincando em meio aos destroços... Eu adoraria um<cf>símbolo da lembrança.
-Por favor, não conte isso a ninguém, mas agora estudo<cf>a síntese alquímica de peões! Em teoria,<cf>é possível criar um homem a partir de um único fio de cabelo,<cf>completo, exceto por sua alma. É um crime que apenas<cf>o Nascen deva comandar peões. Eu vou<cf>criar o meu próprio!
+Por favor, não conte isso a ninguém, mas agora estudo<cf>a síntese alquímica de peões! Em teoria,<cf>é possível criar um homem a partir de um único fio de cabelo,<cf>completo, exceto por sua alma. É um crime que apenas<cf>o Arisen deva comandar peões. Eu vou<cf>criar o meu próprio!
 Este novo perfume vindo do continente<cf>dizem servir como proteção contra o dragão. Uma<cf>alegação infundada - nada além de água colorida, eu<cf>apostaria, embora eu não tenha um frasco para provar. Eu<cf>suspeito que os bandidos do sul tenham uma mão neste<cf>esquema.
 Houve uma época em que um domador de feras chamava aquela floresta em<cf>Gransys ocidental de lar. Obcecado em fazer<cf>criaturas existirem por magia, ele era, mas seus sombrios<cf>experimentos sujaram o lugar - por que eles chamam de<cf>Floresta Murcha agora. Alguns dizem que pedaços de seu<cf>ofício ainda permanecem lá. Peço que sejam encontrados para<cf>o bem da pesquisa futura.
 Um homem da Fé -- ou pelo menos era o que<cf>alegava -- me ofereceu uma boa grana pra<cf>recuperar uma certa carta, mas a tarefa tá<cf>se mostrando mais difícil do que eu imaginava.<cf>Agora esse "irmão piedoso" tá me fazendo<cf>ameaças graves a mim e aos meus! Se alguém<cf>puder me ajudar a pegar a tal missiva, eu<cf>compartilho a recompensa numa boa.
@@ -2184,8 +2184,8 @@ Como feras do ar, as harpias são uma ameaça<cf>muito incômoda. Além do mais,
 Relatos de viajantes nas estradas do norte<cf>sendo levados por harpias da neve se tornaram<cf>comuns. Devemos garantir a segurança do<cf>povo. Proponho que um grupo de caça seja<cf>enviado imediatamente.
 Dizem que até aqueles que sobrevivem ao raio<cf>de um fantasma são atormentados para sempre<cf>por má vontade e inquietação. Talvez a fúria<cf>que anima aquelas criaturas caídas tome conta<cf>de suas vítimas também. É claro que a<cf>assombração pelo Altar do Deus da Água deve<cf>ser interrompida.
 Cuidado com o líquido que os sáurios cospem. Eles<cf>geralmente vivem na escuridão, onde um sujeito fica<cf>cego sem uma tocha seca. Além disso, dizem por aí<cf>que tem ninhadas de ovos de sáurio no sul de Gransys e<cf>perto do rio ao norte de Gran Soren. Não podemos<cf>deixar que eles eclodam. Destrua-os à vista.
-Uma raça antiga de réptil foi vista nas<cf>terras perto da Montanha Corrompida. Dizem que são<cf>esses mesmos geo sáurios que deixaram Auldale em<cf>ruínas. Ainda assim, tenho fé que você será vitorioso, ser.
-Meu pai era um caçador, assim como seu pai e o<cf>pai de seu pai antes dele. E cada um<cf>deles, sem exceção, morreu cercado por lobos. Estou<cf>preso na teia do destino, ser. Tenho sangue de<cf>caçador em mim, mas gostaria de mantê-lo lá. Quem<cf>dera esta terra estivesse livre de lobos!
+Uma raça antiga de réptil foi vista nas<cf>terras perto da Montanha Corrompida. Dizem que são<cf>esses mesmos geo sáurios que deixaram Auldale em<cf>ruínas. Ainda assim, tenho fé que você será vitorioso, meu senhor.
+Meu pai era um caçador, assim como seu pai e o<cf>pai de seu pai antes dele. E cada um<cf>deles, sem exceção, morreu cercado por lobos. Estou<cf>preso na teia do destino, meu senhor. Tenho sangue de<cf>caçador em mim, mas gostaria de mantê-lo lá. Quem<cf>dera esta terra estivesse livre de lobos!
 Muitas vezes vaguei perto do<cf>acampamento dos bandidos quando era menino, apenas para voltar correndo para casa<cf>em farrapos, um suspiro à frente de uma matilha de lobos terríveis.<cf>São boas lembranças, à sua maneira, mas eu<cf>fico acordado à noite pensando que meu próprio filho pode fazer<cf>o mesmo. Por favor, mande esses vira-latas para a morte.
 Não podemos permitir que os mortos-vivos vagueiem<cf>sem controle. Eles são os arautos da própria<cf>morte, trompetistas da desgraça que se aproxima. Eles não<cf>devem ter permissão para existir entre os vivos.
 Comecei a trabalhar matando espectros para a Abadia,<cf>mas fui derrotado. Conheço bem meus limites, e<cf>aqueles mortos-vivos robustos são uma força que não posso<cf>superar. Imploro, vá e pare-os em meu<cf>lugar.
@@ -2231,9 +2231,9 @@ Pedidos por bens estão se acumulando de<cf>uma variedade de fontes. Vasculhe Gr
 A Guilda dos Mercadores elaborou uma lista<cf>de materiais que eles querem comercializar. Viaje<cf>pela terra e veja se a ordem deles é cumprida.
 Um oficial da corte de uma terra vizinha<cf>tem gostos curiosos e uma bolsa cheia. Veja<cf>que seus desejos sejam saciados.
 É o dever jurado de todos que servem<cf>o Duque não deixar nenhuma ameaça à<cf>segurança do povo de Gransys sem ser eliminada.<cf>Patrulhe a terra e veja essas feras<cf>derrotadas.
-O Nascen deve sempre lutar por maiores<cf>alturas de habilidade e valor, para que<cf>possam enfrentar todos os desafios. Percorra<cf>Gransys aprimorando sua vantagem contra esses<cf>monstros.
+O Arisen deve sempre lutar por maiores<cf>alturas de habilidade e valor, para que<cf>possam enfrentar todos os desafios. Percorra<cf>Gransys aprimorando sua vantagem contra esses<cf>monstros.
 Parece que a juventude de hoje não tem desejo pela<cf>vida de um mercador de armas. Num mundo perfeito,<cf>eu teria um aprendiz para fazer meus<cf>favores, e na verdade, eu tive mais de<cf>alguns. Tristemente, sua habilidade em metalurgia raramente<cf>se transfere para a habilidade de permanecer vivo no campo.
-Desde que entrou em contato com uma<cf>anomalia no Everfall, este peão tem se sentido<cf>abalado até o âmago.<cf>Nascen... Por favor, nem que seja só uma vez, deixe nós,<cf>humildes peões, vermos sua verdadeira força.<cf>Acalme nossa fé vacilante.
+Desde que entrou em contato com uma<cf>anomalia no Everfall, este peão tem se sentido<cf>abalado até o âmago.<cf>Arisen... Por favor, nem que seja só uma vez, deixe nós,<cf>humildes peões, vermos sua verdadeira força.<cf>Acalme nossa fé vacilante.
 Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:
 Relatos de ataques de pequenos animais estão<cf>mais uma vez em ascensão. Para a segurança<cf>do ducado, pedimos assistência para conter seus<cf>números.
 Procuram-se Guerreiros Leais!<cf>Você ama esta boa terra? Empunharia<cf>espada e escudo para proteger seus<cf>cidadãos? A valente irmandade da<cf>Guarda da Capital precisa de você! Faça sua parte<cf>para expulsar todo o mal de Gransys!
@@ -2370,7 +2370,7 @@ Então, surgiu uma coisa -- um assunto menor, quase<cf>nada, não se preocupe --
 Eu gostaria que viajássemos juntos, Arisen. Não posso<cf>revelar detalhes, mas confie em mim que é um assunto<cf>de grande interesse para sua terra natal e a minha.
 Isso pode não dar em nada, mas...<cf>Pretendo me juntar à vanguarda, mas primeiro preciso<cf>aprender a me virar em Gransys. Gostaria que você<cf>fosse meu guia... Você pode fazer isso, né?<cf>Não me entenda mal, vou te recompensar pelo seu<cf>tempo. Isso é um exercício militar, nada mais.
 Vovó disse que havia lugares lindos neste mundo.<cf>Alguns, ainda mais lindos do que esta floresta.<cf>Você me mostraria?
-Tem um lugar que estou louca para explorar, mas está<cf>cheio de feras demais para eu lidar. Por<cf>que você não vem comigo, cos? Você ficou<cf>tão forte, acho que pode enfrentar qualquer coisa.<cf>Não tenho muito a oferecer em troca, mas pense nisso,<cf>por favor?
+Tem um lugar que estou louca para explorar, mas está<cf>cheio de feras demais para eu lidar. Por<cf>que você não vem comigo, primo? Você ficou<cf>tão forte, acho que pode enfrentar qualquer coisa.<cf>Não tenho muito a oferecer em troca, mas pense nisso,<cf>por favor?
 Precisa-se: um guerreiro de alguma força para servir de<cf>guarda-costas para uma curta jornada.
 Procurando companhia enquanto faço uns<cf>corres. As estradas ficam solitárias, afinal.
 Por mais que eu tente lutar contra isso, a paixão por viajar queima<cf>tão forte quanto o bafo de um dragão no meu peito. A única coisa que impede minha<cf>partida agora é a vontade de ter um companheiro de viagem.
@@ -2438,7 +2438,7 @@ Então, surgiu uma coisa -- assunto menor, quase<cf>nada, não se preocupe -- ma
 Eu gostaria que viajássemos juntos, Arisen. Não posso<cf>revelar detalhes, mas confie em mim que é um assunto<cf>de grande interesse para sua terra natal e a minha.
 Isso pode não dar em nada, mas...<cf>Pretendo me juntar à vanguarda, mas primeiro devo aprender<cf>melhor o caminho por Gransys. Gostaria que você<cf>fosse meu guia... Você consegue fazer isso, né?<cf>Não me entenda mal, vou recompensá-lo pelo seu<cf>tempo. Isso é um exercício militar, nada mais.
 Vovó disse que havia lugares adoráveis neste mundo.<cf>Alguns, ainda mais adoráveis do que esta floresta.<cf>Você me mostraria?
-Há um lugar que estou louca para explorar, mas está<cf>cheio de feras demais para eu lidar.<cf>Por que você não vem comigo, cos? Você ficou<cf>tão forte, acho que você aguenta qualquer coisa.<cf>Não tenho muito a oferecer em troca, mas considere,<cf>por favor?
+Há um lugar que estou louca para explorar, mas está<cf>cheio de feras demais para eu lidar.<cf>Por que você não vem comigo, primo? Você ficou<cf>tão forte, acho que você aguenta qualquer coisa.<cf>Não tenho muito a oferecer em troca, mas considere,<cf>por favor?
 Precisa-se: um guerreiro de alguma força para servir como<cf>guarda-costas para uma curta jornada.
 Procurando companhia enquanto faço uns<cf>corres. As estradas ficam solitárias, afinal.
 Por mais que eu lute contra isso, a paixão por viajar queima<cf>tão forte quanto o bafo de dragão dentro de mim. A única<cf>coisa que impede minha partida agora é a falta de um<cf>companheiro de viagem.
@@ -2648,21 +2648,21 @@ Essas rachaduras que você vê não são eternas. Conforme<cf> Arisen e peões a
 Essas rachaduras que você vê não são eternas. Conforme<cf> Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo solidificando-se em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu vínculo.
 Essas rachaduras que você vê não são eternas. Conforme<cf> Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo solidificando-se em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu vínculo.
 Essas rachaduras que você vê não são eternas. Conforme<cf> Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo solidificando-se em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu vínculo.
-Essas fendas que você vê não são eternas. Como<cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Nascen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
-Essas fendas que você vê não são eternas. Como<cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Nascen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
-Essas fendas que você vê não são eternas. Como<cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Nascen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
-Essas fendas que você vê não são eternas. Como<cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Nascen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
-Essas fendas que você vê não são eternas. Como<cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Nascen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
-Essas fendas que você vê não são eternas. Conforme <cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
-Essas fendas que você vê não são eternas. Conforme <cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
-Essas fendas que você vê não são eternas. Conforme <cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
-Essas fendas que você vê não são eternas. Conforme <cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
-Essas fendas que você vê não são eternas. Conforme <cf>os Nascen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
-As rachaduras que você vê não são eternas. Conforme<cf>os Nascen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
-As rachaduras que você vê não são eternas. Conforme<cf>os Nascen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
-As rachaduras que você vê não são eternas. Conforme<cf>os Nascen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
-As rachaduras que você vê não são eternas. Conforme<cf>os Nascen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
-As rachaduras que você vê não são eternas. Conforme<cf>os Nascen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Nascen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
+Essas fendas que você vê não são eternas. Como<cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
+Essas fendas que você vê não são eternas. Como<cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
+Essas fendas que você vê não são eternas. Como<cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
+Essas fendas que você vê não são eternas. Como<cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
+Essas fendas que você vê não são eternas. Como<cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique-se<cf>ao seu vínculo.
+Essas fendas que você vê não são eternas. Conforme <cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
+Essas fendas que você vê não são eternas. Conforme <cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
+Essas fendas que você vê não são eternas. Conforme <cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
+Essas fendas que você vê não são eternas. Conforme <cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
+Essas fendas que você vê não são eternas. Conforme <cf>os Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua <cf>luz de outro mundo se solidificando em pequenos <cf>medalhões. Poderíamos chamá-los de prova do <cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique <cf>a si mesmo ao seu vínculo.
+As rachaduras que você vê não são eternas. Conforme<cf>os Arisen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
+As rachaduras que você vê não são eternas. Conforme<cf>os Arisen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
+As rachaduras que você vê não são eternas. Conforme<cf>os Arisen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
+As rachaduras que você vê não são eternas. Conforme<cf>os Arisen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
+As rachaduras que você vê não são eternas. Conforme<cf>os Arisen e os peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque nesta prova e rededique<cf>a si mesmo ao seu laço.
 Essas rachaduras que você vê não são eternas. Como<cf>Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque esta prova e rededique<cf>você mesmo ao seu laço.
 Essas rachaduras que você vê não são eternas. Como<cf>Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque esta prova e rededique<cf>você mesmo ao seu laço.
 Essas rachaduras que você vê não são eternas. Como<cf>Arisen e peões as usam, era após era,<cf>o tempo cobra seu preço... as placas desmoronam, sua<cf>luz de outro mundo se solidificando em pequenos<cf>medalhões. Poderíamos chamá-los de prova do<cf>compromisso entre um Arisen e seus peões...<cf>Arisen. Toque esta prova e rededique<cf>você mesmo ao seu laço.
@@ -2774,21 +2774,21 @@ Digo-lhe isso em espírito de misericórdia: Se você não pode me vencer, você
 Você me acha cruel, Arisen? É uma triste verdade que a justiça é um luxo raro na guerra.
 Você jurou matar o wyrm, e só isso.
 Nenhum juramento o liga ao duque, nem minha morte lhe faria grande favor.
-Há quem possa me chamar de monstro, mas não sou um dragão, ser. ...O que você diz?
-Fui derrotado, ser...
+Há quem possa me chamar de monstro, mas não sou um dragão, meu senhor. ...O que você diz?
+Fui derrotado, meu senhor...
 Morto por sua mão, e trazido de volta também...
 Uma derrota tão completa deixa pouco espaço para discussão.
 Devo retornar à capital e me colocar à mercê da corte.
-Eles terão minha confissão, e minha cabeça, se assim o desejarem... E você terá a glória, ser.
+Eles terão minha confissão, e minha cabeça, se assim o desejarem... E você terá a glória, meu senhor.
 Não se preocupe, não tenho intenção de fugir. Mesmo como estou, tenho alguma aparência de orgulho.
 Deixo-lhe com uma palavra de aviso:
-A revolta foi apenas uma diversão. O golpe fatal será desferido em outro lugar... Preste atenção, ser.
+A revolta foi apenas uma diversão. O golpe fatal será desferido em outro lugar... Preste atenção, meu senhor.
 Você me acha um tolo por voltar? Por não fugir?
 ...Talvez eu seja. Na verdade, mal conheço meus próprios motivos.
 Não consigo acreditar que o duque tenha alguma esperança de vitória em sua campanha contra o dragão...
 Pensei que seria uma misericórdia acelerar a terra para sua queda, e então eu semeei a discórdia.
 Melhor que os homens de armas se virem e corram do que fiquem e morram. Com eles fora, o povo também fugiria.
-Eu tinha certeza de que era o melhor caminho. O único caminho... Até que eu vim a conhecê-lo, ser.
+Eu tinha certeza de que era o melhor caminho. O único caminho... Até que eu vim a conhecê-lo, meu senhor.
 Você trouxe dúvida com você. Talvez... Talvez você ainda possa vencer o dragão, eu pensei.
 É estranho ver tamanha esperança ser mal recebida.
 Chega. Por favor, deixe este lugar. Não lhe serve ficar aqui.
@@ -3145,9 +3145,9 @@ Eles retornam ao seu criador com todos<cf>os equipamentos e itens que carregam.
 Se não houver peões adequados disponíveis, basta acessar o pedestal da fenda.
 Através dele, peões podem ser encontrados e invocados.
 Se algum peão em particular te chamar a atenção, fale com ele para recrutá-lo para o seu grupo.
-É o papel de todos os peões servir o Nascen. Sempre te darei cobertura, e você pode contratar e dispensar outros à vontade.
+É o papel de todos os peões servir o Arisen. Sempre te darei cobertura, e você pode contratar e dispensar outros à vontade.
 Apenas mais dois podem se juntar ao nosso grupo a qualquer momento, no entanto.
-Procure a fenda, Nascen.
+Procure a fenda, Arisen.
 Receio que ainda não possamos nos juntar a um pacto.
 É uma honra viajar com você.
 Receio que você não tenha o suficiente.
@@ -3166,25 +3166,25 @@ Ficar
 Entendido.
 Foi bem o suficiente.
 Um resultado justo.
-Sim, Nascen?
+Sim, Arisen?
 Recrutar (<COST>)
 Ver Detalhes
 Adicionar aos Favoritos
 Enviar Pedido de Amizade
 Sair
-Sim, Nascen?
+Sim, Arisen?
 Recrutar (<COST>)
 Ver Detalhes
 Remover dos <ICON FAVORITE>Favoritos
 Enviar Pedido de Amizade
 Sair
-Sim, Nascen?
+Sim, Arisen?
 Recrutar (<COST>)
 Ver Detalhes
 Adicionar aos Favoritos
 Enviar Pedido de Amizade
 Sair
-Sim, Nascen?
+Sim, Arisen?
 Recrutar (<COST>)
 Ver Detalhes
 Remover dos <ICON FAVORITE>Favoritos
@@ -3214,13 +3214,13 @@ Ver Detalhes
 Remover dos <ICON FAVORITE>Favoritos
 Enviar Pedido de Amizade
 Sair
-É um prazer vê-lo novamente, Nascen.
+É um prazer vê-lo novamente, Arisen.
 Recrutar (<COST>)
 Ver Detalhes
 Adicionar aos Favoritos
 Enviar Pedido de Amizade
 Sair
-É um prazer vê-lo novamente, Nascen.
+É um prazer vê-lo novamente, Arisen.
 Recrutar (<COST>)
 Ver Detalhes
 Adicionar aos Favoritos
@@ -3524,7 +3524,7 @@ Frasco de Veneno
 Pano Absorvente
 Pano Limpo
 Item Desconhecido
-Amaciante Secreto
+Suavizador Secreto
 Vigor Líquido
 Bebida Salubre
 Aceleração Engarrafada
@@ -5341,7 +5341,7 @@ Fournival passou por um inquérito? Já era hora da lei pegar esse rato.
 Eu não vou esquecer a dor que ele me causou enquanto eu viver. Aquele canalha arruinou minha casa!
 Eu vou dormir melhor sabendo que ninguém mais vai sofrer o mesmo destino. Que ele apodreça.
 Eu alegremente comprometo meu nome à petição pela condenação dele.
-Eu rezo para que minha contribuição sirva para alguma coisa, ser.
+Eu rezo para que minha contribuição sirva para alguma coisa, meu senhor.
 Que Fournival seja julgado por seus delitos...
 O que será da filha dele?
 Não...
@@ -5481,7 +5481,7 @@ Os baluartes de ontem hoje olham para a porta -- alguns já fugiram<cf>antes.
 É um testemunho de quão longe nossos corações se desviaram de Sua Graça.
 Ainda assim, estou disposto a ficar mais um pouco.
 Aposto que você mata a besta e volta para nós como um herói.
-Estou em dívida com você, ser. De verdade.
+Estou em dívida com você, meu senhor. De verdade.
 Ngh!
 Grah!
 Gwaaaagh...
@@ -5756,7 +5756,7 @@ Você está bem, espero?
 Que o Criador te proteja.
 Sim.
 Deus me livre.
-Eu te agradeço, ser.
+Eu te agradeço, meu senhor.
 Eu não mereço tanta bondade.
 Saudações, viajante. De onde você vem?
 Eu mesmo estou aqui de uma abadia bem a oeste.
@@ -6019,21 +6019,21 @@ Bem-vindo, bom Arisen.
 Não vou te tomar muito tempo, pois a equipe de pesquisa já partiu de Gran Soren.
 Eles seguem para o sul, para as ruínas nas cataratas -- perto do acampamento.
 Não sei quais perigos os aguardam lá, mas ficarei tranquilo sabendo que você os acompanha.
-Reze, voe agora para o lado deles e fique de olho neles. Que o Criador acelere seus passos, ser.
+Reze, voe agora para o lado deles e fique de olho neles. Que o Criador acelere seus passos, meu senhor.
 A equipe de pesquisa partiu para as cataratas perto do acampamento.
-Reze, vá e os mantenha seguros, ser.
+Reze, vá e os mantenha seguros, meu senhor.
 É o papel da Fé servir como uma âncora para os corações dos homens em tempos de dificuldade.
 Para fazer isso, devemos estar calmos diante das provações, rápidos e eficientes em nossas ações.
 É por isso que, acima de tudo, devemos ter conhecimento.
 Permitir que o costume ou a emoção nos impeçam de ter a chance de adquirir novos conhecimentos seria um pecado grave.
 E assim, na busca implacável pela sabedoria, devemos aceitar que haverá baixas...
 Nossa descida foi um trabalho lento e árduo... No fim, custou a vida do meu mestre.
-Este lugar é lar de criaturas terríveis, ser. Tome cuidado...
+Este lugar é lar de criaturas terríveis, meu senhor. Tome cuidado...
 Que visão arrepiante...
 Ver os cadáveres caindo sem parar pelo poço... Faz o corpo deste peão tremer.
 Tens aspirações, ser?
 Eu nunca aprendi o significado dessa palavra e, agora...
-Eu tinha uma tarefa que desejava confiar a você, ser...
+Eu tinha uma tarefa que desejava confiar a você, meu senhor...
 Mas a Ser Mercedes insistiu que fosse dela. Ela foi bem insistente.
 Apesar de ser uma cavaleira vinda de boa fé para nos ajudar, ela continua sendo filha do lorde de Pedra do Lar...
 Não me sinto nada bem em vê-la empreender uma missão tão perigosa.
@@ -6048,7 +6048,7 @@ Peço a você, Arisen. Por favor, vá falar com ela. Ofereça sua ajuda.
 Aceitar
 Agora não
 Então a Ser Mercedes partiu para a Pedra do Norte...
-Ela marcha com uma escolta, mas estes são tempos perigosos, ser. Por favor, dê uma mãozinha a ela.
+Ela marcha com uma escolta, mas estes são tempos perigosos, meu senhor. Por favor, dê uma mãozinha a ela.
 Começou com notícias de agitação entre os homens do forte do norte. Lorde Julien partiu para investigar a questão.
 O capitão da guarda de lá é um sujeito chamado Daerio. Um homem bom e leal.
 Não acredito que ele seja do tipo que abandona seu posto, nem que fomente discórdia...
@@ -6193,7 +6193,7 @@ Note que você se move um pouco mais lento enquanto<cf>sua arma está empunhada.
 Esgotar toda a Stamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
-Use Amaciante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
+Use Suavizador Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
 Sua classificação dentro de uma vocação aumenta à medida que você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma variedade maior de habilidades está disponível.
 Derrotar inimigos e completar missões rende<cf>a você mais disciplina, aumentando sua proeza<cf>em uma vocação.
 Peões coletarão e usarão itens por sua<cf>própria vontade.
@@ -6424,13 +6424,13 @@ Ataque agora.
 Não tenho pressa.
 Que pena. Mas não importa.
 Feche seus olhos, Arisen, para que seu fim chegue mais rápido.
-Ah, bem escolhido, ser. Assim como a vida, a morte deve ser saboreada...
+Ah, bem escolhido, meu senhor. Assim como a vida, a morte deve ser saboreada...
 Só os Homens Sem Nome sabem quando a cortina final vai cair. Deixo você para considerar a verdade disso. Até nos encontrarmos de novo...
 Eu sou aquele que trilha o caminho destruído.
 Não guardo rancor de você, Arisen, mas você vai morrer pelas minhas mãos do mesmo jeito.
 Imagino que já ouviu falar? Então saberá que essa tarefa é minha.
 Não vou mais ser um peso inútil na hospitalidade do duque.
-E certamente você já conquistou glória suficiente, ser. Me permita essa chance de provar meu valor.
+E certamente você já conquistou glória suficiente, meu senhor. Me permita essa chance de provar meu valor.
 Sim
 Não
 Agradeço.
@@ -6439,16 +6439,16 @@ Há boatos de acontecimentos sombrios na Pedra do Norte -- posto de vigia de Lor
 Ele partiu para o forte há algum tempo, mas não tivemos notícias desde então.
 Alguém deve ir ver o que aconteceu com ele. Como um companheiro hóspede do duque, senti que era meu dever.
 Eu o proibiria de interceder, mas sem dúvida você tem suas próprias razões para ir.
-Não vou impedi-lo de se juntar a mim, mas também não posso esperar. Siga se quiser, ser. Estou indo.
-Você não pode me impedir neste assunto, ser. Não quero mais ser visto como um enfeite inútil.
+Não vou impedi-lo de se juntar a mim, mas também não posso esperar. Siga se quiser, meu senhor. Estou indo.
+Você não pode me impedir neste assunto, meu senhor. Não quero mais ser visto como um enfeite inútil.
 Além disso, este assunto diz respeito a Lord Julien também.
 Há boatos de acontecimentos sombrios na Pedra do Norte -- posto de vigia de Lord Julien.
 Ele partiu para o forte há algum tempo, mas não tivemos notícias desde então.
 Como um companheiro hóspede vindo ajudar Gransys, não posso simplesmente deixá-lo ao seu destino.
 Eu insistiria em ir sozinho, mas sem dúvida você tem suas próprias razões para ir.
-Não vou impedi-lo de se juntar a mim, mas também não posso esperar. Siga se quiser, ser. Estou indo.
+Não vou impedi-lo de se juntar a mim, mas também não posso esperar. Siga se quiser, meu senhor. Estou indo.
 Eu pensei... não, confiei que você estivesse acima das traições vis de gente como a Salvação!
-O Campeão da Noite!? Bah! Um traidor como você não é campeão de ninguém, Julien!
+O Campeão Noturno!? Bah! Um traidor como você não é campeão de ninguém, Julien!
 E o que será daqueles desta terra que morrerão por sua paz!?
 Vai ficar parado enquanto um povo perde sua terra, suas próprias vidas para uma praga de feras!?
 Você não é um cavaleiro, vilão!
@@ -6477,7 +6477,7 @@ Até lá, por favor, fique bem...
 ...Para mim, ser?
 Mais adequada para anéis do que para espadas, não é? Deixar uma mulher inútil como cavaleira servir como esposa?
 É isso que você quer dizer?
-...'Tis uma piada, ser. Eu ficaria feliz em usá-lo, como uma lembrança de um amigo querido.
+...'Tis uma piada, meu senhor. Eu ficaria feliz em usá-lo, como uma lembrança de um amigo querido.
 Ah, olá... Como você pode perceber pela minha cara, estou no meu limite.
 Preciso viajar para o sul por esta mina, mas o portão maldito não se move.
 Apesar dos perigos, vim por aqui esperando encurtar minha jornada... Um atalho, né?
@@ -6685,9 +6685,9 @@ Ser Aldous espera por você, Arisen.
 Arisen! Você veio... Temo que nossa derrota seja óbvia<cf>para todos.
 Pensamos em inundar o wyrm com meros<cf>números. Um mar de lâminas... Era uma esperança tola.
 Nosso mar secou, e o exército do duque está perdido no<cf>jogo.
-Arisen... Imploro, ser. Conceda vingança àqueles<cf>que caíram.
+Arisen... Imploro, meu senhor. Conceda vingança àqueles<cf>que caíram.
 Se isto for útil, eu o daria de bom grado.
-Não perca tempo comigo, ser. Vá!
+Não perca tempo comigo, meu senhor. Vá!
 Bem, Madeleine, essa é uma boa sorte que você encontrou...
 Vem para Gran Soren com riquezas em mente...em vez disso, encontra apenas covardes, intimidados pelo medo do dragão.
 As ruas são um caos, meus produtos arruinados ou perdidos...
@@ -7068,7 +7068,7 @@ Note que você se move um pouco mais lento enquanto<cf>sua arma está sacada.
 Esgotar toda a Stamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
-Use Amaciante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
+Use Suavizador Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
 Sua patente dentro de uma vocação aumenta à medida que você<cf>derrota inimigos e completa missões. Em patentes<cf>mais altas, uma variedade maior de habilidades está disponível.
 Derrotar inimigos e completar missões te rende<cf>mais disciplina, impulsionando sua proeza<cf>em uma vocação.
 Os peões coletarão e usarão itens por<cf>vontade própria.
@@ -8554,7 +8554,7 @@ Note que você se move um pouco mais lento<cf>enquanto sua arma tá sacada.
 Acabar com toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Se liga pra economizar<cf>energia!
 Você pode atacar enquanto tá agarrado nos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
-Usa Amaciante Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
+Usa Suavizador Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
 Seu rank dentro de uma vocação sobe conforme você<cf>derrota inimigos e completa quests. Em ranks<cf>mais altos, uma variedade maior de habilidades fica disponível.
 Derrotar inimigos e completar quests te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
 Os peões coletarão e usarão itens por <cf>conta própria.
@@ -9187,7 +9187,7 @@ Eu era seu peão, e sua amada também.
 Por favor... Você deve libertá-lo.
 Que sua vontade de ferro seja como um martelo para quebrar<cf>os laços de ódio que o mantêm aqui.
 E se a liberdade estiver além de seu alcance, ore para oferecer a ele<cf>pelo menos um fim pacífico...
-Por favor, ser... Imploro que o ajude.
+Por favor, meu senhor... Imploro que o ajude.
 Que sua vontade se mostre a mais forte e esmague<cf>os laços de inimizade que o prendem.
 A alma dele tem sido escrava por muito tempo. Por favor,<cf>traga um fim misericordioso ao seu sofrimento...
 Apenas uma vontade mais forte... Uma vontade como a sua pode trazer<cf>paz para ele.
@@ -9963,7 +9963,7 @@ Eu nunca vou sair! Nunca! Nem em mil anos!
 Não, não! Eu já me decidi!
 Agora pare de me perseguir! Me deixe em paz!
 Você não desiste, né?
-E me ensinaram que os Nascen são amigos dos fracos...
+E me ensinaram que os Arisen são amigos dos fracos...
 ...Ah, que diferença faz?
 Até eu sei que quem cruza o caminho do Fournival tem dificuldade em arrumar trabalho.
 E o meu pai não vai enfrentar alguém tão poderoso... Que escolha a gente tem?
@@ -9972,16 +9972,16 @@ Agora, se não tem mais nada, por favor, me deixe em paz.
 Que o Criador amaldiçoe aquele Fournival! Acha que a riqueza dele permite que ele faça o que quiser...
 Uma pena o dragão não ter começado com ele como lanche...
 Ouvi dizer que você salvou nossa casa.
-Eu... eu estava errado sobre você, Nascen.
+Eu... eu estava errado sobre você, Arisen.
 Eu tenho pouco a oferecer, mas por favor, aceite isso como agradecimento.
-Pfft! Que serventia tem os Nascen se não for pra ajudar gente pequena como nós?
+Pfft! Que serventia tem os Arisen se não for pra ajudar gente pequena como nós?
 O quê? O que você quer?
 Aquele buraco, ele... ele engoliu meus pais...
 A culpa é sua disso! Foi sua intromissão que colocou as coisas em movimento.
-Que te raios partam, Nascen! Por que... Por que isso aconteceu comigo?
-Que te raios partam, Nascen! Por que... Por que isso aconteceu comigo?
+Que te raios partam, Arisen! Por que... Por que isso aconteceu comigo?
+Que te raios partam, Arisen! Por que... Por que isso aconteceu comigo?
 Pássaro maldito, fugindo para o ninho no momento em que a sorte vira...
-Não podemos deixar essa chance escapar. Venha, Nascen. Para a Torre Lua Azul!
+Não podemos deixar essa chance escapar. Venha, Arisen. Para a Torre Lua Azul!
 
 -
 Disciplina
@@ -10215,13 +10215,13 @@ Ngh...gaah...
 Hmph!
 Shaah!
 Confio que esteja bem, ser?
-Com sua licença, ser.
+Com sua licença, meu senhor.
 Sim.
 Não...
 Meus humildes agradecimentos.
-Eu mal mereço tanta generosidade, ser.
+Eu mal mereço tanta generosidade, meu senhor.
 Posso ser útil?
-Ah, o Arisen. Bem encontrado, ser.
+Ah, o Arisen. Bem encontrado, meu senhor.
 Sua Graça me disse para esperar por você, meu senhor.
 Você tem livre acesso ao castelo quando precisar.
 Algo mais, meu senhor? Acho que nós, servos, somos de pouca importância para você.
@@ -10464,8 +10464,8 @@ Que te vá bem, então. Que te vá bem.
 Ah, sim.
 Isso não é bem assim.
 Desculpa o incômodo.
-Olha, que lindo, ser.
-Olha, que lindo, ser.
+Olha, que lindo, meu senhor.
+Olha, que lindo, meu senhor.
 Eu te devo a minha vida, meu senhor. Obrigado.
 Ainda tem outros presos lá embaixo. Por favor, liberte-os também!
 Não deixe nenhuma besta viva!
@@ -10501,12 +10501,12 @@ Trabalhando juntos, podemos dar o<cf>golpe final!
 Enquanto ele prepara seu ataque massivo,<cf>devemos agir para impedi-lo!
 Os restos mortais de um monge...<cf>É melhor relatarmos isso.
 Vamos continuar procurando.<cf>Deve estar por aqui em algum lugar.
-Este "Campeão da Noite" parece<cf>saber muito sobre os acontecimentos do castelo.
-A inquietação dentro do castelo deve estar<cf>ligada ao Campeão da Noite...
-O Campeão da Noite...<cf>Talvez seja melhor você aprender mais.
+Este "Campeão Noturno" parece<cf>saber muito sobre os acontecimentos do castelo.
+A inquietação dentro do castelo deve estar<cf>ligada ao Campeão Noturno...
+O Campeão Noturno...<cf>Talvez seja melhor você aprender mais.
 Salvação... Não havia um homem com rumores de<cf>estar conectado a eles?
 Os países vizinhos têm um pacto para dar<cf>ajuda a qualquer terra atacada pelo dragão.
-Este "Campeão da Noite" poderia ter tirado<cf>vantagem da desordem para vir de alguma<cf>terra estrangeira.
+Este "Campeão Noturno" poderia ter tirado<cf>vantagem da desordem para vir de alguma<cf>terra estrangeira.
 Sinto muito, eu não sei de nada...
 Vamos seguir esta estrada.
 Continue até o próximo entroncamento.
@@ -10766,7 +10766,7 @@ Não! Ser Cyrus...! Rrrraaaaaagh!
 Você não deveria ter me irritado, besta!
 Eu vou te ver vingado, Cyrus. Eu juro!
 Vingança... Eu esperava terminar este dia sem motivo para vingança...
-Te devo uma rodada de cerveja, ser.
+Te devo uma rodada de cerveja, meu senhor.
 Apesar da plumagem, a besta tinha o temperamento de um demônio.
 É um pensamento sombrio que vivemos em um mundo cheio de tais bestas...
 Ainda assim, essa é a realidade. Só podemos continuar vivendo da melhor maneira que pudermos.
@@ -10894,14 +10894,14 @@ Ade...us.
 Sim...
 Não...
 Obrigado.
-Obrigado, ser. De verdade.
+Obrigado, meu senhor. De verdade.
 Eu perdi meu pai... Onde será que ele foi parar?
 Ele não fugiria com medo do dragão. Não o meu pai!
-Obrigado novamente por tudo que fez, Nascen.
+Obrigado novamente por tudo que fez, Arisen.
 De mim e do meu pai, ambos...
 Eu quero estudar para ser jardineiro.
 Os tempos são difíceis, e eu estou ansioso para aprender um ofício que pague.
-N-não me entenda mal, ser. Não é que eu simplesmente deseje seguir os passos do meu pai.
+N-não me entenda mal, meu senhor. Não é que eu simplesmente deseje seguir os passos do meu pai.
 Por que você ainda está aqui?
 Vá. Mate o dragão e nos traga um pouco de paz.
 Rezo para encontrá-lo rapidamente...
@@ -10909,7 +10909,7 @@ Rezo para encontrá-lo rapidamente...
 O quê? É tarde demais agora. É tarde demais.
 É assim que tudo termina...
 Nada permanece... Nada perdura.
-Obrigado, ser. De verdade.
+Obrigado, meu senhor. De verdade.
 Ngh.
 Hnngh...
 Aaaugh...
@@ -10980,12 +10980,12 @@ Um homem com a experiência dele não vai perder<cf>tão fácil.
 Vamos treinar e tentar de novo.
 Ainda nos falta experiência.
 Ele não vai nos deixar vencer todo desafio.
-É verdade que o Nascen precisa de força suficiente<cf>para matar qualquer besta.
-O caminho do Nascen é duplo: aprimorar o corpo,<cf>mas também temperar a alma.
+É verdade que o Arisen precisa de força suficiente<cf>para matar qualquer besta.
+O caminho do Arisen é duplo: aprimorar o corpo,<cf>mas também temperar a alma.
 Não se preocupem com a segurança dele. Devemos dar<cf>tudo que temos a ele!
 Ser Berne não vai nos dar um momento de hesitação!
 Foi uma experiência reveladora... Gostaria de ter<cf>outra chance.
-Aprimorar nossos instintos aqui só pode nos ajudar<cf>no campo, Nascen.
+Aprimorar nossos instintos aqui só pode nos ajudar<cf>no campo, Arisen.
 Fomos derrotados... Que venha o próximo desafio,<cf>Mestre.
 O que eu sei dos escritos antigos? Menos do que sei da escrita moderna, e eu nem aprendi a ler!
 Infelizmente, sou um homem da espada, não da pena. Pergunte a um escrivão. Ou a um falsificador, sei lá.
@@ -11136,7 +11136,7 @@ Salvação, era isso? Sim, esse era o nome.
 Pode ser que o dragão ache beleza na destruição. Ou em seu rastro, pelo menos.
 Nós, humanos, vemos a cidade engolida pela terra e ficamos cheios de medo.
 Pode ser que a visão seja tão bela quanto uma rosa florescendo para os olhos de um dragão.
-Bem, que gentileza. Obrigado, ser.
+Bem, que gentileza. Obrigado, meu senhor.
 Está trancado. Você não tem a chave certa...
 Está preso em alguma coisa. Talvez possa abrir pelo outro lado.
 Está trancado com uma barra. Talvez dê pra quebrar o ferrolho.
@@ -11330,7 +11330,7 @@ Reynard esperou a vida toda por notícias de<cf>seu pai. É cruel fazê-lo esper
 Cuidado com a beira, Mestre!
 Uma queda aqui significa morte certa!
 Está difícil atravessar os pântanos.
-Cuidado, ser. Os pântanos dificultam<cf>nossos movimentos.
+Cuidado, meu senhor. Os pântanos dificultam<cf>nossos movimentos.
 Essa névoa nos deixou cegos...
 Pode haver algo à espreita aqui dentro.<cf>Esteja pronto.
 Vamos nessa!
@@ -11372,7 +11372,7 @@ Lugares altos são ótimos postos de vigia. É bom<cf>avistarmos ameaças à dis
 Se estiver cansado, descanse.
 Se você se perder, basta consultar<cf>seu mapa.
 Um grupo bem formado geralmente pode derrubar até inimigos<cf>mais fortes do que eles.
-O combate não precisa ser exaustivo, Nascen. Se o<cf>grupo precisar de ajustes, ajuste-o.
+O combate não precisa ser exaustivo, Arisen. Se o<cf>grupo precisar de ajustes, ajuste-o.
 Tenha cuidado com as luzes na escuridão. Goblins<cf>geralmente carregam tochas.
 Dizem que o mar é a mãe de toda a vida...<cf>Este peão só vê água.
 Fique atento à beira da água, para não atrair<cf>a Salmoura. Ela não vai parar até que você seja totalmente<cf>consumido.
@@ -11391,7 +11391,7 @@ Um gigante caolho espreita lá fora.
 Ouvi dizer que um monstro alado enorme foi<cf>visto atacando humanos.
 Se você pretende coletar materiais, é melhor você<cf>procurar durante o dia.
 Esta estrada é frequentada por vendedores ambulantes.
-Goblins vagam em grupos, Nascen.
+Goblins vagam em grupos, Arisen.
 Este trecho é o lar de lobos. Cuidado<cf>para que eles não nos cerquem.
 Lobos são relutantes em soltar depois que mordem.<cf>Sacuda-os assim que puder.
 Um grande acampamento fica próximo.
@@ -11648,7 +11648,7 @@ A gente provou ser aliado das irmãs do<cf>Labrys de Westron. Colheremos os divi
 É um trabalho de mensageiro simples, Arisen.<cf>Bora pra Gran Soren.
 Temos que entregar o pedido de suprimentos de Ser Daerio<cf>para um dos guardas do castelo, ou para o próprio Lord Julien.
 Eu não consigo evitar a sensação de que fomos usados de alguma forma...
-Parece que esse Campeão da Noite tem alguma<cf>conexão com a Salvação. Isso é preocupante.
+Parece que esse Campeão Noturno tem alguma<cf>conexão com a Salvação. Isso é preocupante.
 Com a confusão causada pelo dragão,<cf>seria fácil entrar na cidade como<cf>parte de alguma comitiva estrangeira.
 Isso afunila nossa busca. Bora pro<cf>sul.
 O Martelo de Ferro mora em um forte perto<cf>da costa sul.
@@ -11825,8 +11825,8 @@ Um pedido da duquesa... Espero que<cf>concordar com isso seja uma boa ideia...
 Você passou por uma provação e tanto, Arisen.<cf>Ofereço meus mais profundos pêsames.
 É uma distância razoável até a mansão. Poderíamos nos beneficiar<cf>de um guia.
 Este peão o levará até a mansão. A duquesa<cf>espera; vamos partir assim que estiver pronto.
-A pessoa através da qual a Salvação está trabalhando...<cf>Poderia ser o boato do Campeão da Noite?
-Quem é esse Campeão da Noite?
+A pessoa através da qual a Salvação está trabalhando...<cf>Poderia ser o boato do Campeão Noturno?
+Quem é esse Campeão Noturno?
 É melhor ficarmos atentos se quisermos determinar um suspeito.
 Esquemas se reproduzem na escuridão e na sombra. Vamos observar<cf>quem sai do castelo à noite.
 Aquele ali, agora mesmo... Bem suspeito, na minha<cf>opinião...
@@ -11834,7 +11834,7 @@ Isso pareceu bem curioso aos olhos deste peão. Vamos<cf>persegui-los!
 É melhor avisarmos Mason sobre essa reunião...<cf>Não, pro dono do bar.
 Intriga acelera o coração... Er, me perdoe,<cf>Arisen.
 Fizemos nossa parte. O resto é com Mason e seus<cf>comparsas.
-O Campeão da Noite se insinuou<cf>na corte pra mandar informações pra<cf>Salvação, quase certeza.
+O Campeão Noturno se insinuou<cf>na corte pra mandar informações pra<cf>Salvação, quase certeza.
 Receio que falhamos, Mestre...
 Nossa tarefa está feita. Pra capital.
 E então, pra Montanha Maculada. Tá na hora de<cf>encarar o dragão de uma vez por todas.
@@ -11850,9 +11850,9 @@ O líder deles se esconde no fundo da<cf>fortaleza. Vamos acertá-lo com a lâmi
 A fortaleza é nossa, Arisen! Vamos<cf>voltar com a notícia.
 Retomamos a fortaleza! Este lugar<cf>terá um novo mestre, agora.
 É o momento decisivo.<cf>Vamos esperar e observar.
-Mestre, você ouviu falar do Campeão da Noite?
-Correm boatos de que o Campeão da Noite é um<cf>espião da Salvação que se infiltrou na corte.
-Que ligação esse Campeão da Noite<cf>tem com a Salvação? É um mistério.
+Mestre, você ouviu falar do Campeão Noturno?
+Correm boatos de que o Campeão Noturno é um<cf>espião da Salvação que se infiltrou na corte.
+Que ligação esse Campeão Noturno<cf>tem com a Salvação? É um mistério.
 Atrás do Elysion!
 O Elysion está fugindo!
 Para o bem ou para o mal, fizemos o que nos pediram.<cf>Vamos voltar.
@@ -11945,7 +11945,7 @@ Vamos acender este fogo, nem que seja por agora.
 Um pouco mais de luz só pode nos ajudar em nossas<cf>explorações.
 Parece que a chama dura um tempo depois de acesa.
 Uma lanterna serve bem no escuro, mas não<cf>se compara à luz de uma fogueira.
-Não estaríamos errados em acender este fogo, ser.
+Não estaríamos errados em acender este fogo, meu senhor.
 A escuridão é nossa inimiga, como qualquer besta. Se<cf>pudermos bani-la com isso, que assim seja.
 Não temeremos emboscadas se dissiparmos a<cf>escuridão com isso.
 Os corredores são estreitos, e suas voltas e<cf>reviravoltas confusas. Vamos ser cautelosos.
@@ -12983,7 +12983,7 @@ Um cajado leve talhado nas árvores retorcidas<cf>das terras selvagens, sua joia
 Um cajado forjado com minério das<cf>terras selvagens. Sua cor misteriosa lembra<cf>o sopro do dragão.
 Detalhes desconhecidos.
 Um cajado encimado com totens das três<cf>espécies de goblins. Especialmente eficaz<cf>contra qualquer inimigo de sua espécie.
-Um cajado imbuído com um pequeno pedaço do<cf>coração de um Nascen. Peões que o equipam<cf>revivem rapidamente após ficarem inconscientes.
+Um cajado imbuído com um pequeno pedaço do<cf>coração de um Arisen. Peões que o equipam<cf>revivem rapidamente após ficarem inconscientes.
 Um cajado que enferrujou por anos de<cf>desuso.
 Um arquicajado de madeira simples. Seu design<cf>simples e fácil disponibilidade o tornaram<cf>uma visão comum em Gransys.
 Um arquicajado com ramos mais largos em<cf>uma extremidade para reunir e concentrar o poder<cf>mágico em cada ataque.
@@ -15166,7 +15166,7 @@ Eu mesmo cuidarei da carga, Arisen. Por favor, diga a Ser Daerio que seu desejo 
 Não precisa mais se preocupar com a carga do Ser Daerio. Estamos providenciando tudo.
 Diga ao capitão que os preparativos foram feitos. Não se esqueça, Arisen: suprimentos extras para dois dias.
 Garanta ao Ser Daerio que os preparativos foram feitos.
-Você tem um interesse nisso e o direito de saber, ser. Você conhece Fournival, certo?
+Você tem um interesse nisso e o direito de saber, meu senhor. Você conhece Fournival, certo?
 Ele é um dos mercadores mais ricos de Gran Soren, embora agora corra o risco de perder tudo.
 Ele é acusado de uma série de crimes. Eu gostaria de pedir um favor, se tiver tempo?
 Aceitar
@@ -15186,16 +15186,16 @@ Entendo...
 Bem, Fournival nunca esteve totalmente livre de boatos ruins. Se o homem é culpado, ele deve pagar sua dívida.
 Bom, você trouxe evidências.
 Aqui. Eu vou cuidar para que seja apresentado ao tribunal.
-Ainda há tempo, ser. Por favor, continue seus esforços.
+Ainda há tempo, meu senhor. Por favor, continue seus esforços.
 Trouxe uma testemunha, não é? Excelente trabalho.
 Eu cuidarei das acomodações necessárias até o dia do julgamento.
-Ainda há tempo, ser. Por favor, continue seus esforços.
+Ainda há tempo, meu senhor. Por favor, continue seus esforços.
 Chegou a notícia do veredicto de Fournival. Ele foi julgado inocente, de alguma forma.
 O inquérito terminou sem incidentes, não graças à sua indolência repreensível.
-Eu não vou tolerar tanta preguiça no futuro, ser.
+Eu não vou tolerar tanta preguiça no futuro, meu senhor.
 A palavra do veredito de Fournival chegou. Ele foi julgado culpado.
 O inquérito terminou sem incidentes, sem agradecimentos à sua repreensível indolência.
-Eu não vou tolerar tamanha preguiça no futuro, ser.
+Eu não vou tolerar tamanha preguiça no futuro, meu senhor.
 A palavra do veredito de Fournival chegou. Ele foi julgado culpado.
 Foi um julgamento justo e completo. A justiça foi feita, graças em grande parte aos seus esforços.
 Eu não sou desprovido de piedade por ele e sua casa, mas tais são os salários da maldade.
@@ -15285,8 +15285,8 @@ Uma hidra!? Meu Deus...
 É um dia negro quando uma criatura dessas rasteja tão perto do nosso lar<cf>e casa.
 Sempre achei que hidras e afins ficavam no Fetor, no oeste.
 Imagino você, detonando uma hidra... E com a ajuda de peões, ainda por cima.
-Eu digo que isso faz de você o verdadeiro Nascen. Se outros quiserem negar, enforque-os e dane-se.
-Sim, os contos antigos falam do Nascen andando pela terra com peões ao seu lado...
+Eu digo que isso faz de você o verdadeiro Arisen. Se outros quiserem negar, enforque-os e dane-se.
+Sim, os contos antigos falam do Arisen andando pela terra com peões ao seu lado...
 Imagino que vai nos deixar, então. Bem, acredito que os eventos se desenrolarão como devem.
 A pobre Quina se preocupa demais com você...
 É medo, tá vendo? Medo de que você vá para terras distantes e encontre seu fim nas garras daquele dragão.
@@ -15347,7 +15347,7 @@ V-você confrontou o dragão? E ainda assim está diante de mim! Seu corpo ainda
 É uma bênção vê-lo de volta. Mas... Na verdade, meus pensamentos ultimamente me enchem de pavor...
 Temo que você esteja sendo arrastado para eventos muito maiores que você.
 Maiores que qualquer um de nós...
-Por que tem que haver dragões!? Por que um Nascen deve ser amaldiçoado a lutar contra eles!?
+Por que tem que haver dragões!? Por que um Arisen deve ser amaldiçoado a lutar contra eles!?
 ...E por que tem que ser você?
 Me... desculpe. Perdoe minhas palavras. Vejo que elas não servem para nada, a não ser aumentar seu fardo.
 Espere um momento, peixinho. Eu quero que você saiba de algo:
@@ -15736,7 +15736,7 @@ Talvez com eles, meu filho... Mas temo não ter forças para evocar seus efeitos
 Talvez com eles, meu filho... Mas temo não ter forças para evocar seus efeitos.
 Um milagre... É um milagre!
 Wilhem! Meu doce Wilhem!
-Palavras não podem expressar minha gratidão, ser. Eu te devo mais do que jamais poderei pagar.
+Palavras não podem expressar minha gratidão, meu senhor. Eu te devo mais do que jamais poderei pagar.
 Você me devolveu meu filho... É a obra do Criador que você faz, ser!
 O mundo é verdadeiramente abençoado por ter você, Arisen.
 Aanh?
@@ -15761,7 +15761,7 @@ Sim
 Não
 Não? Temos relatos de que ela fugiu para cá...
 Atrás dela!
-Com sua licença, ser.
+Com sua licença, meu senhor.
 Eu esperava por isso. Temos relatos da garota nesta área.
 Não a deixem escapar!
 Perdoe-me, ser -- o dever me chama.
@@ -16053,7 +16053,7 @@ Estou sempre ao seu dispor.
 Que a boa sorte esteja com você.
 Sim.
 Não.
-Receio que não tenha o suficiente, ser...
+Receio que não tenha o suficiente, meu senhor...
 Por favor, me perdoe.
 Minha senhora sempre dizia que o Arisen deveria dar caridade, mas nunca aceitá-la... Sinto muito.
 Bem-vindo, Arisen.
@@ -16063,7 +16063,7 @@ Eu jurei à minha senhora caída ajudar o Arisen.
 Este peão o ajudará da melhor maneira possível, Arisen.
 Rezo para que veja os sonhos da minha senhora realizados.
 As esperanças da minha senhora caída vão com você... Rezo para que você seja aquele que lhe concederá descanso.
-<SHOP>Escolha como quiser, ser.
+<SHOP>Escolha como quiser, meu senhor.
 Comprar
 Vender
 Deixa pra lá
@@ -16071,7 +16071,7 @@ Estou sempre ao seu dispor.
 Agradeço.
 Estou sempre ao seu dispor.
 Que a boa sorte esteja com você.
-<EQSH>Escolha como quiser, ser.
+<EQSH>Escolha como quiser, meu senhor.
 Comprar
 Vender
 Trocar equipamento
@@ -17079,7 +17079,7 @@ Fique longe de penhascos e feras além das suas<cf>capacidades e você pode vive
 Se vagar pelo campo perdeu a graça,<cf>more aqui. Eu adoraria um<cf>companheiro de bebida.
 Você tem ouvido vozes desde que chegou a este<cf>lugar, amigo?
 Ecos dos mortos, esses.
-Até o menor deles que caiu aqui foi<cf>um Nascen na vida passada.
+Até o menor deles que caiu aqui foi<cf>um Arisen na vida passada.
 Parece que suas vontades eram fortes demais para acabar com o<cf>corpo, e assim eles permanecem. Coisas obstinadas.
 É uma bênção que eles façam mais do que apenas resmungar<cf>e reclamar. Eu enlouqueceria.
 De onde vêm as feras daqui? Você já<cf>pensou nisso, amigo?
@@ -17190,7 +17190,7 @@ Curativos por perto, Mestre.
 Eu vou procurar materiais.
 Materiais úteis, Arisen!
 Nosso pacto termina amanhã.
-Nosso pacto está chegando ao fim, ser.
+Nosso pacto está chegando ao fim, meu senhor.
 Nesse ritmo, temo que nosso pacto<cf>termine em breve.
 Se não puder obter os cristais da fenda,<cf>nosso pacto terminará amanhã.
 Nosso pacto terminará em breve.
@@ -17996,7 +17996,7 @@ Mensagem Inválida
 Sem dúvida, você está ciente de que as estradas estão cada vez mais infestadas de feras de todos os tipos.
 A ameaça só piorou desde a vinda do dragão. O comércio sofreu, cidadãos morreram.
 Uma companhia dos melhores espadachins da terra foi reunida para diminuir o número de criaturas.
-Não é uma solução perfeita, mas é um começo. Eu gostaria de pedir que você se juntasse a eles, ser.
+Não é uma solução perfeita, mas é um começo. Eu gostaria de pedir que você se juntasse a eles, meu senhor.
 Aceitar
 Agora não
 Não param de chegar relatos de caravanas com tributos destinados a Gran Soren sendo atacadas por monstros.
@@ -18004,7 +18004,7 @@ Entre eles, a ameaça mais terrível é representada pelo grifo.
 Não é uma criatura facilmente subjugada, mas não podemos mais ignorá-la.
 Daí a companhia de elites. E agora parece que eles estão preparados para enfrentar a fera.
 Eles estão à espera do lado de fora do portão do castelo. Vá falar com eles para obter os detalhes.
-Temo que esta possa ser uma longa batalha, ser. Que o Criador seja seu escudo.
+Temo que esta possa ser uma longa batalha, meu senhor. Que o Criador seja seu escudo.
 Você precisará trabalhar em conjunto com os outros para derrotar a fera de uma vez por todas.
 Não duvido da sua força ou valor, meu senhor, mas não deixe a sede por glória te levar a agir sozinho.
 A criatura que você enfrenta já ceifou muitos cavaleiros. Por favor, não abaixe a guarda.
@@ -18448,7 +18448,7 @@ Os itens Bitterblack encontrados nos níveis mais<cf>profundos do labirinto são
 Vozes ecoam aqui e ali... As histórias<cf>que contam podem inflamar um coração.
 "Ondas de lamento ecoam das profundezas,<cf>me lembrando, de alguma forma, da alma do meu mestre..."
 "Vejo sinais de uma batalha feroz se aproximando..."
-"O destino de um Nascen... Parece que<cf>existem caminhos que nem nós, peões, conhecemos..."
+"O destino de um Arisen... Parece que<cf>existem caminhos que nem nós, peões, conhecemos..."
 "Sinto o olhar de alguém... algo<cf>de outro mundo, além da nossa compreensão..."
 Maldito feiticeiro!
 Guardas! Façam alguma coisa!
@@ -18678,7 +18678,7 @@ Sobraram poucos homens pra guardar o castelo, eu entre eles.
 O resto, ele mandou pra todas as fortalezas da terra pra se prepararem pra chegada do dragão.
 O moral está baixo, apesar dos nossos esforços. Os homens são capazes, mas nesse estado...
 Isso me preocupa.
-Seus esforços foram de grande ajuda, ser.
+Seus esforços foram de grande ajuda, meu senhor.
 Sou grato.
 Em breve cavalgaremos sobre o wyrm...
 Não me iludo achando que sou páreo para a besta.
@@ -19696,8 +19696,8 @@ Yaah!
 Bem, eu espero, ser?
 Preciso ir.
 Sim.
-Receio que não, ser...
-Obrigado, ser.
+Receio que não, meu senhor...
+Obrigado, meu senhor.
 Oh, meus sinceros agradecimentos!
 Todos os homens sabem que o dragão é uma terrível desgraça sobre este mundo.
 A Fé considera a besta um mal sem igual por sua destruição gratuita das criações do Criador.
@@ -19705,7 +19705,7 @@ E assim, os devotos há muito o tornaram objeto de estudo.
 Grande parte do nosso conhecimento está selado nos arquivos da Grande Catedral.
 Mesmo que eu viajasse para o continente, um noviço como eu não teria permissão para entrar.
 Desculpe tê-lo incomodado... Não há necessidade, agora.
-Você se saiu admiravelmente, ser.
+Você se saiu admiravelmente, meu senhor.
 Tenho certeza de que o pobre Irmão Jean, retornado ao lado do Criador, também agradece.
 Ainda assim, o dragão permanece sempre uma ameaça...
 É profundamente irritante que nem mesmo a Fé possa realmente prever quando ele aparecerá novamente.
@@ -19733,7 +19733,7 @@ Se o dragão viver para vir uma terceira vez, nosso destino estará selado.
 Nada pode deter os fogos da destruição uma vez que sejam soltos sobre a terra.
 O dragão se mostrou novamente...
 É um sinal de que a besta se tornou forte o suficiente para arruinar esta terra!
-Eu sou apenas um homem, ignorante dos planos do Criador, Nascen. Não posso te guiar agora...
+Eu sou apenas um homem, ignorante dos planos do Criador, Arisen. Não posso te guiar agora...
 Não, talvez não houvesse caminho para a libertação desde o início!
 A perdição está sobre nós! A desgraça certa está próxima!
 A própria terra sob nós se desfaz em nada...
@@ -19743,9 +19743,9 @@ O que importa agora? O que importa alguma coisa?
 Esta terra está fadada a cair na escuridão e na ruína.
 É o fim dos tempos para este mundo falso e estéril...
 E o amanhecer de um novo mundo além dele. O mundo verdadeiro...
-Obrigado, ser.
+Obrigado, meu senhor.
 Quadro de Avisos: Taverna
-Procura-se: Aventureiros Capazes!<cf>Todos os tipos de tarefas são postadas aqui. Talvez<cf>suas habilidades como Nascen possam ser úteis.
+Procura-se: Aventureiros Capazes!<cf>Todos os tipos de tarefas são postadas aqui. Talvez<cf>suas habilidades como Arisen possam ser úteis.
 
 
 
@@ -19892,11 +19892,11 @@ Não.
 Que caminhada, hein?
 Fui enviado da capital para te ajudar em suas viagens, Arisen.
 Posso te oferecer descanso ou mandar itens indesejados de volta para a estalagem em Gran Soren com segurança.
-É um prazer servir, ser.
+É um prazer servir, meu senhor.
 Sim, é um trabalho perigoso, mas feito com prazer pelo bem de Gransys e de você, Arisen.
 O que você acha daquele céu, Arisen...? Não há nada que eu possa fazer além de seguir em frente, de qualquer forma.
 Obrigado!
-<TENT><FSEL 0><FSEL 1>É só dizer, ser.
+<TENT><FSEL 0><FSEL 1>É só dizer, meu senhor.
 Descansar por <PRIC>G
 Enviar itens para o depósito
 Aprender ou equipar habilidades
@@ -20038,7 +20038,7 @@ Mas a corte é um turbilhão constante de boatos...
 Alguns dizem que ela foi enviada sozinha como um desprezo consciente... Outros, que seu nobre pai simplesmente queria se livrar dela.
 Como consequência, muitos aqui evitam sua companhia.
 Tenho certeza que você é um aliado bem-vindo, tanto como o Arisen quanto um estranho à sociedade da corte.
-Como um estrangeiro, igual a ela, não estou em posição de fazer exigências a você, ser...
+Como um estrangeiro, igual a ela, não estou em posição de fazer exigências a você, meu senhor...
 Mas, por favor, faça o que puder por ela.
 Garanto que sua ajuda será uma bênção bem-vinda para a Ser Mercedes, Arisen. Por favor, faça o que puder por ela.
 Este lugar é... familiar.
@@ -20087,10 +20087,10 @@ Sempre um prazer.
 Até a próxima!
 Ah, sim.
 Eu penso diferente.
-Que gentileza, ser.
-Raramente senti tanta felicidade, ser.
-Bem-vindo, ser. Ah, o Arisen, é você?
-O mestre vai te ajudar, ser.
+Que gentileza, meu senhor.
+Raramente senti tanta felicidade, meu senhor.
+Bem-vindo, meu senhor. Ah, o Arisen, é você?
+O mestre vai te ajudar, meu senhor.
 Recebendo ordens direto do Capitão da Caçada, é?
 Então você é um Arisen de verdade, hein? Servindo o povo e tudo mais.
 Vimos alguns Arisen por aqui, viu.
@@ -20101,13 +20101,13 @@ Arisen aparecem até em tempos de paz, ouvi dizer.
 Parece que quando os peões dizem que um cara é um Arisen, é porque é.
 Mas qual critério eles usam para julgar, eu me pergunto?
 Acha estranho termos continuado abertos, com esse dragão vindo aí?
-Este lugar tem bastante história, ser.
+Este lugar tem bastante história, meu senhor.
 Duas gerações atrás, o dono da hospedaria hospedou o próprio Duque, aqui mesmo.
 Nenhuma hospedaria que hospedou Edmun Dragonsbane pode fechar as portas por causa de um dragão, né?
 Derrotou o dragão, então?
 Viu só? Eu sabia que você era um Arisen de verdade.
-Nem pensar que você é um traidor, ser. Não vou nem ouvir falar disso.
-Raramente senti tanta felicidade, ser.
+Nem pensar que você é um traidor, meu senhor. Não vou nem ouvir falar disso.
+Raramente senti tanta felicidade, meu senhor.
 Malditas bestas... Se rendam e aceitem seu destino!
 E os homens posicionados aqui? Não mandaram notícias...
 A fortaleza estava armada com uma balista... Que o Criador nos proteja se as bestas a usarem.
@@ -20143,21 +20143,21 @@ Pedir sua ajuda foi a coisa certa a se fazer; agora a terra pode ser vendida sem
 Você me prestou um grande serviço hoje.
 Espero que esse seja só o começo de uma parceria longa e próspera entre nós dois.
 Como tá indo a sua intervenção? Pra ser sincero, eu esperava que o assunto já tivesse resolvido...
-Já que você está aqui... Talvez você, Nascen, compraria as terras em questão?
+Já que você está aqui... Talvez você, Arisen, compraria as terras em questão?
 Isso permitiria que sua mediação continuasse em ritmo acelerado, mas me libertaria de mais obrigações.
 <R_G>O que você me diz? Claro, vou precisar do seu pagamento integral...
 Comprar a terra (<NOTE>80000</NOTE>G)
 Recusar
 É só questão de tempo até eu ter um comprador para essa propriedade.
-<R_G>...Ainda que colocasse um fim rápido e bom nisso se você comprasse, Nascen.
+<R_G>...Ainda que colocasse um fim rápido e bom nisso se você comprasse, Arisen.
 Comprar a terra (<NOTE>80000</NOTE>G)
 Recusar
 Entendo. Então, posso pedir que você acelere suas negociações?
 Cada dia que passa com a terra não vendida adiciona uma preocupação à minha conta.
-Ah, Nascen! Eu sabia que você, de todas as pessoas, entenderia minha situação.
+Ah, Arisen! Eu sabia que você, de todas as pessoas, entenderia minha situação.
 Agora minhas obrigações estão cumpridas, e os inquilinos não precisam deixar a terra.
 Rezo para que este seja apenas o começo de uma longa e próspera parceria entre você e eu.
-Espere, Nascen. Minha terra vale mais do que você oferece.
+Espere, Arisen. Minha terra vale mais do que você oferece.
 Agradeço a consideração, sim, mas meus credores não concordariam. É ouro que eles querem, e ouro que eu devo fornecer.
 Se esse é todo o peso da sua bolsa, devo pedir que você remova os inquilinos, afinal.
 E as negociações de despejo, senhor?
@@ -20225,7 +20225,7 @@ conquistou essa honra por meio de um acordo desse tipo.
 A decisão é sua, Arisen.
 Agora, escolha!
 É como você vê, Arisen. A Pedra do Norte está cheia de agentes da Salvação.
-O Campeão da Noite é um intelectual temível. Ele escreveu e executou o cenário por completo.
+O Campeão Noturno é um intelectual temível. Ele escreveu e executou o cenário por completo.
 Ele vasculhou os homens do duque em busca de laços com a Salvação, reuniu-os aqui e provocou uma revolta antes que alguém percebesse.
 Eu, particularmente, não dou bola para o credo da Salvação.
 Mas o Campeão alega que o duque está perdido nesta guerra com o dragão, e nisso eu acho que ele fala a verdade.
@@ -20494,7 +20494,7 @@ Estou sempre ao seu dispor.
 Que a boa sorte esteja com você.
 Sim.
 Não.
-Receio que não tenha o suficiente, ser...
+Receio que não tenha o suficiente, meu senhor...
 Por favor, me perdoe.
 Minha senhora sempre dizia que o Arisen deve dar caridade, mas nunca recebê-la... Me desculpe.
 Bem-vindo, Arisen.
@@ -20504,7 +20504,7 @@ Eu jurei à minha falecida mestra ajudar o Arisen.
 Este peão o ajudará da melhor maneira possível, Arisen.
 Rezo para que veja os sonhos da minha mestra realizados.
 As esperanças da minha falecida mestra vão com você... Rezo para que seja você quem lhe conceda descanso.
-<SHOP>Escolha como quiser, ser.
+<SHOP>Escolha como quiser, meu senhor.
 Comprar
 Vender
 Deixa pra lá
@@ -20512,7 +20512,7 @@ Estou sempre ao seu dispor.
 Agradeço.
 Estou sempre ao seu dispor.
 Que a boa sorte esteja com você.
-<EQSH>Escolha como quiser, ser.
+<EQSH>Escolha como quiser, meu senhor.
 Comprar
 Vender
 Trocar equipamento
@@ -20529,7 +20529,7 @@ Adeus, então.
 Ah, sim.
 Acho que não...
 Ah, obrigado.
-Estou em dívida com você, ser. De verdade.
+Estou em dívida com você, meu senhor. De verdade.
 Ei, você aí!
 Excelente escolha, essa.
 Ah, entendo, entendo!
@@ -20551,7 +20551,7 @@ Temos Edmun Dragonsbane nos vigiando. O duque nos manterá seguros.
 Uma visão difícil de engolir, essa.
 O que vamos fazer, hein?
 Talvez estejamos sendo punidos por algum mal que causamos...
-Estou em dívida com você, ser. De verdade.
+Estou em dívida com você, meu senhor. De verdade.
 <SHOP>Venha, venha. Não seja tímido.
 Comprar
 Vender
@@ -21112,13 +21112,13 @@ Guh!
 Waaaugh...
 Huh!
 Eagh!
-É uma honra, ser.
+É uma honra, meu senhor.
 Com sua licença.
 Sim, sim.
 Não, não, longe disso.
 Nossa, que gentileza sua.
 Nossa, nossa, nossa! Que mimo, ser!
-Eu me chamo Mirabelle, ser.
+Eu me chamo Mirabelle, meu senhor.
 Dama de companhia da minha senhora, Aelinore, recém-chegada a este lugar como noiva de Sua Graça. Uma duquesa agora, ela é.
 É um prazer conhecê-lo, Arisen.
 Minha senh...er, a Duquesa e eu viemos de Meloire, ao norte em Auldring.
@@ -21134,9 +21134,9 @@ Você tem um jeito de plebeu, Arisen, que temo que me fez fofocar como uma galin
 O silêncio é ouro, como diz o ditado. Vou calar a boca por um tempo.
 Você tem uma aparência de plebeu, Arisen, que temo que me fez fofocar como uma galinha velha.
 Silêncio é ouro, como diz o ditado. Vou fechar a boca por um tempo.
-Ah, o bom Arisen está de volta! Bem-vindo, ser. Bem-vindo.
+Ah, o bom Arisen está de volta! Bem-vindo, meu senhor. Bem-vindo.
 Apesar de suas viagens agitadas, você sempre aparece para falar comigo. É muito doce, na verdade.
-...Só estou brincando, ser. Sei que você veio falar com milady Aelinore.
+...Só estou brincando, meu senhor. Sei que você veio falar com milady Aelinore.
 Sem dúvida, já disse isso antes, mas Sua Graça deixou minha senhora<cf>tão sozinha ultimamente desde que se casaram.
 Suponho que ela seja apenas a próxima em uma longa fila de noivas para ele, mas<cf>para ela... Bem, você sabe.
 E tudo isso depois de vir de tão longe de casa, sem conhecer uma alma, além disso.
@@ -21245,9 +21245,9 @@ Eu já tinha perdido a esperança de te ver de novo.
 De qualquer forma!
 É claro que forças além da minha compreensão<cf>estão trabalhando aqui...
 Mas não vou fazer perguntas. Não hoje.
-Eu vi você lutar, ser. Não sou idiota de te enfrentar.
+Eu vi você lutar, meu senhor. Não sou idiota de te enfrentar.
 Saiba que esta fortaleza caiu muito antes do primeiro sangue ser derramado.
-Foi o Campeão da Noite que a conquistou. Um cara desse pessoal da "Salvação".
+Foi o Campeão Noturno que a conquistou. Um cara desse pessoal da "Salvação".
 Parece que o objetivo dele era só trazer caos pra terra.
 Você está cego para a verdade, Arisen!
 A perdição está próxima! A hora da redenção chegou!
@@ -21387,7 +21387,7 @@ Passe bem, então.
 Sim, é isso mesmo.
 Você está errado aí.
 Meus agradecimentos.
-Você tem meus agradecimentos, ser.
+Você tem meus agradecimentos, meu senhor.
 Peões servem ao seu propósito em tempos como estes, eu admito.
 Mas isso não é motivo para desfilá-los pelas ruas.
 Use-os, jogue-os fora na batalha se quiser, mas mantenha seus fantoches fora da cidade.
@@ -21399,7 +21399,7 @@ Então, como você se sai com os peões ao seu lado?
 Não tenho grande apreço por eles, mas imagino que você os ache úteis o suficiente?
 Eu vou preferir os humanos de verdade sob meu comando a essas suas bonecas sem cérebro.
 Um mestre que se preze consegue manter a ordem entre os homens tão bem quanto, além disso.
-Agradeço, ser.
+Agradeço, meu senhor.
 Aí! Firmeza, pessoal!
 Benita voltou aos seus chás, é? Parece que faz uma eternidade...
 Houve uma época em que ela colhia flores todos os dias. É raro uma garota ver mais do que beleza em suas pétalas.
@@ -21409,7 +21409,7 @@ Coletando ingredientes, hein?
 Você costuma ver essas flores crescendo nas raízes de árvores maiores. Não que eu esteja a fim de encarar as estradas hoje em dia...
 Só veja se você não se machuca, bom pescador.
 Eu sempre tive tanto medo... Você sempre pareceu que ia partir para um lugar onde eu não pudesse te seguir.
-Voltar para casa não é fugir, cos.
+Voltar para casa não é fugir, primo.
 Tudo que eu pedi foi...estar ao lado de quem eu amava... Tudo que eu...sempre pedi...
 O que você pensa que está fazendo aqui?
 ...Por que você ainda está na minha presença?
@@ -21478,9 +21478,9 @@ Mas esse é o nosso dever.
 Eu entendo... É uma pena, meu senhor.
 O duque fica ansioso ao ouvir falar de qualquer pesquisa que possa render novos conhecimentos sobre o wyrm.
 Nenhum crescimento no número de nossas forças lhe traz alívio... Um produto de sua experiência, sem dúvida.
-Ele é um herói -- o único à altura para rivalizar com a besta. Há um peso nisso que não podemos compreender.
+Ele é um herói -- o único à altura para competir com a besta. Há um peso nisso que não podemos compreender.
 ...Fui negligente em falar tão levianamente. Não cabe a um soldado aconselhar seu comandante.
-Tens meu agradecimento, ser. Terrível o que aconteceu com aquele monge. ...Não havia o que fazer.
+Tens meu agradecimento, meu senhor. Terrível o que aconteceu com aquele monge. ...Não havia o que fazer.
 A Fé, como toda a humanidade, é vítima da loucura causada pela vinda do dragão.
 Que o medo do dragão deva levar um homem a morrer em busca de pedras antigas... Me esqueci.
 Ao fim do dia, o duque ganhou mais do conhecimento que ele tão ardentemente busca. É uma vitória.
@@ -21498,7 +21498,7 @@ Estou sempre ao seu dispor.
 Boa sorte te acompanhe.
 Sim.
 Não.
-Receio que não tenha o suficiente, ser...
+Receio que não tenha o suficiente, meu senhor...
 Por favor, me perdoe.
 Minha senhora sempre dizia que o Arisen deveria dar caridade, mas nunca aceitá-la... Sinto muito.
 Bem vindo, Arisen.
@@ -21508,7 +21508,7 @@ Estou juramentado à minha senhora caída para ajudar o Arisen.
 Este peão o ajudará da melhor maneira possível, Arisen.
 Rezo para que veja os sonhos da minha senhora realizados.
 As esperanças da minha senhora caída vão com você... Rezo para que você seja aquele que lhe concederá descanso.
-<SHOP>Escolha como quiser, ser.
+<SHOP>Escolha como quiser, meu senhor.
 Comprar
 Vender
 Deixa pra lá
@@ -21516,7 +21516,7 @@ Estou sempre ao seu dispor.
 Agradeço.
 Estou sempre ao seu dispor.
 Boa sorte te acompanhe.
-<EQSH>Escolha como quiser, ser.
+<EQSH>Escolha como quiser, meu senhor.
 Comprar
 Vender
 Trocar equipamento
@@ -21615,12 +21615,12 @@ Negócios com a guilda, ser?
 Até a próxima.
 Sim.
 Não.
-Eu te agradeço, ser.
+Eu te agradeço, meu senhor.
 Você tem minha mais profunda gratidão.
-É estranho... Maravilhosamente estranho, ser.
+É estranho... Maravilhosamente estranho, meu senhor.
 No fundo, sabíamos da sua vinda. Acreditávamos que você surgiria.
 E assim nós também viemos, guiados por nossa fé inabalável no Arisen.
-Você não precisa nos poupar nenhum esforço, ser. Somos seus para comandar.
+Você não precisa nos poupar nenhum esforço, meu senhor. Somos seus para comandar.
 A legião de peões não tem eu, vazia de qualquer vontade independente.
 Não temos desejos, nem ambição... nada que impulsione a humanidade a engrandecer o eu.
 E assim a humanidade passou a nos usar, ou então nos evitar completamente. Mas sempre deixando clara a distinção entre nós e eles.
@@ -22820,7 +22820,7 @@ Maul falou de mim...?
 Então eles sabem que sou um traidor... Sim, eu não duvidava que saberiam.
 Maul me acolheu quando eu era garoto. Disse que via promessa em mim...
 E aqui estou eu, sem dar nada em troca por tudo que ele fez. Apenas fui embora. Fui roubar, agora também.
-Você é o Arisen, ser. Talvez você saiba o que é melhor. O que devo fazer?
+Você é o Arisen, meu senhor. Talvez você saiba o que é melhor. O que devo fazer?
 Voltar para o forte de Maul e oferecer sua vida.
 Deixar a vila e fugir para longe.
 Absolutamente nada.
@@ -22865,7 +22865,7 @@ Eu irei em direção a ela, mesmo que meu corpo falhe no caminho...
 Abram logo esse portão!
 Tem algum truque pra abrir esse<cf>portão... Hum...
 Vamos acabar com essa praga de ogros<cf>de uma vez por todas!
-Os monstros aguardam, Nascen.
+Os monstros aguardam, Arisen.
 A toca dos ogros é por aqui.<cf>Está preparado, Mestre?
 Nenhum ogro...<cf>Fique atento, Mestre.
 Parece que o tempo que o portão fica<cf>aberto varia com o peso...
@@ -22882,8 +22882,8 @@ O caminho está livre.
 Vamos voltar a tempo.
 O que eles vão esculpir nas<cf>paredes da pedreira? Uma ideia emocionante.
 Este é o portão, então? Parece que não vai<cf>abrir para nós facilmente.
-O chão... Parece que existe algum<cf>mecanismo, Nascen.
-O painel, Nascen! Ele responde ao peso.
+O chão... Parece que existe algum<cf>mecanismo, Arisen.
+O painel, Arisen! Ele responde ao peso.
 Hum... Talvez algum dispositivo o<cf>abra.
 Um pouco de isca pode nos garantir uma trégua<cf>do combate.
 Não vai abrir. Talvez precise de<cf>uma chave?
@@ -22892,7 +22892,7 @@ Este lugar é um ninho de demônios.
 Fique cauteloso.
 Está fechado e trancado...
 Nós conseguimos!
-Chamado do Nascen
+Chamado do Arisen
 Uma voz misteriosa chamou quando você chegou ao<cf>acampamento. Talvez seja o seu destino que<cf>acena...
 
 
@@ -23023,13 +23023,13 @@ Meu posto me impede de conversar à toa.
 Se você tem negócios aqui dentro, você está livre para passar.
 Pode ser que não seja apropriado para um homem na minha posição dizer isso...
 Mas nenhum de nós conseguiria segurar este lugar por um dia, caso o dragão atacasse.
-É uma benção saber que você está lá fora lutando por nós, ser.
+É uma benção saber que você está lá fora lutando por nós, meu senhor.
 Você matou a besta, ser!? Que tipo de presságio é esse céu escurecido, então?
 Bem, suponho que isso pode esperar. Por agora, por favor, entre. O duque espera.
 Os portões fecham ao pôr do sol. Se você tem negócios depois daqui, terá que esperar até de manhã.
 Não há entrada à noite. Volte quando o sol estiver no alto.
 Por favor, me perdoe, ser, mas estou sob ordens para manter os portões fechados até o amanhecer.
-Sinto muito, ser. Eu vou abri-los ao amanhecer.
+Sinto muito, meu senhor. Eu vou abri-los ao amanhecer.
 Eu tinha a sensação de que você poderia ser nossa escolta.
 Sim, nós somos a companhia de "elites" com quem você deve marchar. Uma piada sem graça, eu sei.
 A gente vai rodear a capital, atacando o grifo quando a gente topar com ele no caminho.
@@ -23186,7 +23186,7 @@ Não vai passar daqui!
 M-mil perdões...
 O que te traz aqui, meu senhor?
 Não posso permitir que nem mesmo o Arisen passe sem ser anunciado.
-Eu agradeceria se você se abstivesse de tais ações no futuro, ser...
+Eu agradeceria se você se abstivesse de tais ações no futuro, meu senhor...
 Eu sabia que você era um vilão!
 Eu sofri sua ganância e decepções por deferência ao cargo de Arisen...
 Mas você mostrou sua verdadeira face, ser! Você é um traidor do duque e de todos nós!
@@ -23194,7 +23194,7 @@ Acorrentem esse bandido, homens! Sua Graça ordena a captura do Arisen, vivo ou 
 Arisen... Ser, como pôde!?
 Não consigo pensar que você é totalmente inocente do que aconteceu, nem duvido das palavras de Sua Graça...
 No entanto... Também não consigo pensar que você é um inimigo do povo de Gransys.
-Infelizmente, sou obrigado a seguir as ordens que me são dadas, ser. Por favor, me perdoe.
+Infelizmente, sou obrigado a seguir as ordens que me são dadas, meu senhor. Por favor, me perdoe.
 Sua Graça ordena a captura do Arisen, homens!
 Ah!
 Aiee!
@@ -23202,11 +23202,11 @@ Aaaaugh...
 Yoh...
 Hrrnagh!
 Confio que o dia o encontre bem, ser?
-Estou me despedindo, ser.
-Você está correto, ser.
-Receio que não seja assim, ser.
+Estou me despedindo, meu senhor.
+Você está correto, meu senhor.
+Receio que não seja assim, meu senhor.
 Nossa, que honra.
-Receio não estar apto a aceitar tamanha generosidade, ser.
+Receio não estar apto a aceitar tamanha generosidade, meu senhor.
 Você é um guerreiro que veio ajudar Sua Graça então, ser?
 O duque é um bom homem, mas tão severo. Espero que seu jeito durão não o tenha ofendido.
 Ele é um herói, com certeza, mas há dias em que temo seu semblante mais do que qualquer fogo de dragão, viu.
@@ -23219,7 +23219,7 @@ Mas ela poderia ter lhe deixado um herdeiro, pelo menos, se ele não fosse tão 
 Sim, sim, então o dragão está vindo...
 Não vejo como lamentar e ranger os dentes vai ajudar.
 Eu disse às outras meninas que ainda há roupa para lavar -- o duque não pode lutar nu, pode?
-Receio não estar apto a aceitar tamanha generosidade, ser.
+Receio não estar apto a aceitar tamanha generosidade, meu senhor.
 Para onde devemos ir, Arisen?
 O caminho da esquerda carrega o fedor<cf>da morte...
 Ouço água corrente vindo da direita.
@@ -23242,13 +23242,13 @@ A luz entra forte lá de cima.
 Deve estar trancado pelo outro lado.
 Não tem nada que possamos fazer daqui.
 Mantenha a lanterna seca!
-Uma mensagem para Lord Julien? Sim, eu repassarei de bom grado, ser.
+Uma mensagem para Lord Julien? Sim, eu repassarei de bom grado, meu senhor.
 Uma escassez de suprimentos na Pedra do Norte? Comida e armas, principalmente... Entendo.
 Foi dito o quanto eles precisam, ser?
 Suprimento para uma semana.
 O suficiente para exercícios de treinamento.
 Foi deixado ao critério dele.
-Entendido, ser.
+Entendido, meu senhor.
 Eu farei com que Lord Julien receba sua mensagem sem falta. Agradeço por transmiti-la.
 Preocupado, ser? Tem a minha palavra, sua mensagem chegará a Lord Julien.
 Por favor, mande lembranças aos homens da Pedra.
@@ -23432,9 +23432,9 @@ Eu sou forjado pelo dragão, conhecedor da besta e conhecido por ela em espécie
 Houve outros Arisen que vieram antes de você para encontrar meu mestre...
 Dois, talvez. Ou três...
 Mesmo quando o dragão desce sobre a terra, o Arisen pode nunca encontrar este lugar.
-Na real, o Nascen não é obrigado a lutar contra o dragão, se não quiser.
+Na real, o Arisen não é obrigado a lutar contra o dragão, se não quiser.
 Enquanto o dragão viver, cada coração roubado também vive...
-O Nascen tem tempo infinito pra decidir como gastar tempo infinito.
+O Arisen tem tempo infinito pra decidir como gastar tempo infinito.
 Eu tinha uma aparência diferente no dia em que meu mestre me tirou da fenda.
 Mas com as eras que passei com o Forjado pelo Dragão, a mudança me atingiu.
 Os pensamentos dele encheram minha cabeça, os sentimentos dele, meu peito.
@@ -23624,7 +23624,7 @@ Mm, você está parecendo bem.
 Outra hora.
 Sim, sim.
 Essa foi boa.
-Por que, obrigado.
+Obrigado, primo..
 Que gentil, obrigado, querido(a).
 Você parece ser uma boa pessoa, mas fechei a loja por um tempo. Se é prazer que você procura, procure com outro.
 A verdade seja dita, não somos poucos a perguntar que sentido há em trabalhar, com o dragão prestes a chegar.
@@ -24164,7 +24164,7 @@ Dragão... A besta chegou...
 Rrgh!
 Waaaugh!
 Eu pensei... não, confiei que você estava acima das traições básicas como as de Salvação!
-O Campeão da Noite!? Bah! Um quebra-juramento da sua laia não é campeão de ninguém, Julien!
+O Campeão Noturno!? Bah! Um quebra-juramento da sua laia não é campeão de ninguém, Julien!
 Salvação? Que se dane todos eles.
 E suas conversas vazias sobre destruição e redenção. Eles eram convenientes para o meu propósito, nada mais.
 O dia de Edmun Dragonsbane já passou. Ele não matará outra serpente.
@@ -25131,7 +25131,7 @@ Um assunto de natureza urgente chegou até nós. Vá para o forte sul imediatame
 Recebi um relatório de que um dos homens do duque retornou de longe gravemente ferido.
 Ele pede para falar com você com toda a pressa, Arisen.
 É estranho que sua mensagem não tenha sido escrita no relatório. Um descuido causado pela pressa, sem dúvida.
-Por favor, voe para o forte de passagem e ouça a mensagem do homem, ser.
+Por favor, voe para o forte de passagem e ouça a mensagem do homem, meu senhor.
 Enquanto isso, devo ver o duque sobre outro assunto não menos urgente... É um dia agitado.
 Um assunto de natureza urgente chegou até nós. Siga para o forte de passagem do sul imediatamente.
 Enquanto isso, devo ver o duque sobre outro assunto não menos urgente... É um dia agitado.
@@ -25143,7 +25143,7 @@ Devemos repensar a prática de tributo para evitar que tal aconteça novamente.
 Por enquanto, porém, o perigo passou... E os danos?
 Verdadeiramente, ser, você é uma maravilha. Você lidou com a tarefa perfeitamente.
 A besta está morta e o tesouro ileso.
-É o primeiro capítulo de uma nova lenda, ser. Ou, no mínimo, uma tarefa bem feita.
+É o primeiro capítulo de uma nova lenda, meu senhor. Ou, no mínimo, uma tarefa bem feita.
 Sem dúvida... Você tem minha gratidão, Arisen. Sua ajuda nos poupou de uma perda maior.
 A besta também foi morta. Na verdade, é um ótimo trabalho.
 Ainda assim, sei que você é capaz de feitos maiores. Que sua próxima vitória seja ainda maior.
@@ -25158,15 +25158,15 @@ Ela é filha do Lorde de Pedra da Lareira, tá vendo...
 E para um cavaleiro enviado para ajudar o duque, ouve-se muito pouco elogio de sua habilidade...
 Se a mulher cair antes que o dragão chegue, teremos outra guerra em nossas mãos.
 Salve, bom Arisen. O que te traz aqui? ...Um soldado ferido? Não vi ninguém assim.
-Receio que esteja enganado, ser. Não enviamos nenhuma mensagem urgente para <cf>ninguém.
+Receio que esteja enganado, meu senhor. Não enviamos nenhuma mensagem urgente para <cf>ninguém.
 Que, homem!? Recupere o fôlego e fale!
 E a capital? O que aconteceu!?
-Rgh! O maldito desmaiou. ...Isso é um mau presságio, ser.
-Eu controlo bem este lugar, ser. Por favor, apresse-se para a capital!
-Parece que algo aconteceu em Gran Soren. É melhor você voltar, ser.
+Rgh! O maldito desmaiou. ...Isso é um mau presságio, meu senhor.
+Eu controlo bem este lugar, meu senhor. Por favor, apresse-se para a capital!
+Parece que algo aconteceu em Gran Soren. É melhor você voltar, meu senhor.
 Não há nada aqui para te deter. ...Um soldado ferido? Não vi ninguém assim.
 Não sei como tal conto surgiu. ...Hmm, isso é suspeito.
-Por favor, volte correndo para a capital, ser.
+Por favor, volte correndo para a capital, meu senhor.
 Alguma vadia matou o ciclope que Lady Ophis mantinha como animal de estimação...
 Ela está terrivelmente furiosa... Pior do que eu já vi. É melhor deixá-la em paz por agora.
 Você é um homem, não é? Então não há nada para você aqui, estranho.
@@ -25515,7 +25515,7 @@ Pode haver outro caminho.
 É uma arma poderosa... Pena que não funciona.
 Algo forte pode ser sentido na pedra. Aparentemente <cf>as memórias de alguém foram gravadas<cf>na superfície do Monumento da Lembrança.
 Então foi derrotado... Incrível. Ser, você é incrível.
-Eu pensava que o Nascen era pouco mais do que histórias antigas... Como eu estava enganado!
+Eu pensava que o Arisen era pouco mais do que histórias antigas... Como eu estava enganado!
 Nh? A porta...? A porta! Claro, ser! Eu vou abri-la imediatamente!
 Waugh.
 Guhah!
@@ -25527,7 +25527,7 @@ Até a próxima.
 Sim, certamente.
 Isso é meio... Hmm.
 Ah, obrigado.
-Meus agradecimentos, ser. Sinceramente.
+Meus agradecimentos, meu senhor. Sinceramente.
 Tem tudo que precisa?
 Chegou a uma decisão?
 Sempre um prazer!
@@ -25680,7 +25680,7 @@ Ah, muito obrigado.
 Eu... eu tô meio emocionado, na real.
 Eu tava no campo no dia que o dragão atacou a costa, mas ouvi dizer que você o atacou onde ele estava?
 Eu achava que as histórias sobre você e a wyrm eram só boatos até ouvir falar do seu confronto com a hidra.
-Tô impressionado, ser.
+Tô impressionado, meu senhor.
 Pensei que vocês, marinheiros, eram brutos no temperamento e fortes no braço, mas isso não era nem metade da coisa!
 Ah, isso? Já passou.
 Gran Soren, hein? Trabalhei nos mercados lá antes de vir para este lugar.
@@ -26207,12 +26207,12 @@ Aanh...
 Waaaugh...
 Nh!
 Eagh!
-Bem vindo, ser...
+Bem vindo, meu senhor...
 Por favor, me desculpe.
 Mm, sim.
 Oh, eu acho que não...
-Eu não sei o que dizer, ser.
-O-obrigado... Ser.
+Eu não sei o que dizer, meu senhor.
+O-obrigado... Meu senhor
 O duque está reunindo homens de grande valor para lutar contra o dragão...
 Eu rezo para que eles tenham sucesso.
 Apesar de toda a sua majestade, eu temo que nem mesmo as muralhas de Gran Soren possam nos proteger do dragão.
@@ -26224,7 +26224,7 @@ Eu perdi minha casa, e com ela minha esperança...
 Isso é penitência por alguma ofensa desconhecida? Ou o mundo é realmente tão cruel?
 Que horror...!
 Pensar que, se tivéssemos permanecido em nossa antiga casa... Eu... Minha família estaria toda...
-O-obrigado... Ser.
+O-obrigado... Meu senhor
 Está trancada. Você não tem a chave certa...
 Está presa em alguma coisa. Talvez possa abrir do outro lado.
 Tá trancado. Talvez dê pra quebrar a tranca.
@@ -26815,14 +26815,14 @@ Me diz, que sonhos grandiosos dançam nessa sua cabeça à noite?
 Visões de conquista, sem dúvida. Matar o dragão e reivindicar a glória como Sua Graça.
 Essa mandíbula firme, decidida, o fogo nos seus olhos...
 Me fazem querer ver meus próprios sonhos de conquista na cama hoje à noite.
-Não dê ouvidos a nenhuma palavra que aquele tolo triste te disser, ser.
+Não dê ouvidos a nenhuma palavra que aquele tolo triste te disser, meu senhor.
 Feste? Não, falo de Fedel, meu marido, embora eu suspeite que o anão seja o homem maior.
 Fedel quer que as pessoas acreditem que ele é do sangue do duque, mas é uma mentira descarada.
 A verdade é que ele era um serviçal a serviço do falecido sobrinho de Sua Graça.
 O garoto já morreu há muitos anos.
 Que eu saiba, o Duque Edmun Dragonsbane não tem nenhum parente de sangue vivo.
 Uma pena que a solidão não seja uma besta que um homem possa conquistar com aço e bravura.
-Tenho outra confissão, ser.
+Tenho outra confissão, meu senhor.
 Estou terrivelmente cansada deste mundo e de tudo nele. Eu simplesmente odeio tudo isso.
 Meu marido, o duque, seu castelo e tudo nele... Até comida e vinho viram cinzas na minha boca.
 Quem dera fosse tudo cinza de verdade! Eu desejo que o dragão venha e coloque o mundo em chamas.
@@ -26886,7 +26886,7 @@ Recuar! Recuar!
 Escuri...dão...
 Aqui é Gran Soren, domínio de Sua Graça Duque Edmun.
 Só viajantes autorizados podem passar. A gente não vai arriscar depois do último ataque do dragão.
-Hum? Ah, o Nascen...
+Hum? Ah, o Arisen...
 Me avisaram que você viria. Pode passar.
 Entendo que você trabalha para Sua Graça?
 Pode passar.
@@ -26895,7 +26895,7 @@ Temo que não demore muito para que a besta incendeie nossa cidade.
 Loucura! A capital inteira está quase perdida!
 Qual o sentido de vigiar um portão em meio a tanto caos?
 Os descuidados que entram no Everfall raramente retornam.<cf>Vamos nos preparar bem.
-Este lugar é a ligação entre este mundo e o próximo.<cf>Caminhamos na sombra da morte, Nascen.
+Este lugar é a ligação entre este mundo e o próximo.<cf>Caminhamos na sombra da morte, Arisen.
 Nossa tarefa está concluída. Vamos retornar.
 Retornamos em segurança... Embora esta não seja a última vez que<cf>veremos aquele lugar, provavelmente.
 É lamentável. Na próxima vez, com certeza...
@@ -27111,7 +27111,7 @@ Você vê a torre, Arisen? É por<cf>aqui.
 Se o que ouvi for verdade, vamos<cf>encontrar o mago aqui.
 Ele provavelmente estará esperando no<cf>topo da torre. Vamos com cuidado.
 Salomet é um arquimago infame. Ele<cf>tem sido visto frequentemente na pedreira antiga.
-Cuidado, Nascen! Não sabemos a<cf>extensão do poder dele.
+Cuidado, Arisen! Não sabemos a<cf>extensão do poder dele.
 Salomet! ...Subestimá-lo<cf>é perigoso, Mestre!
 Se os ataques dele nos alcançarem,<cf>pode ser o nosso fim...
 Ele usa um tipo de bugiganga enfeitiçada...<cf>Não é fácil lutar contra magia.
@@ -27260,7 +27260,7 @@ Note que você se move um pouco mais lento enquanto<cf>sua arma está desembainh
 Ficar sem Vigor vai te deixar incapaz<cf>de agir por um tempo. Cuidado para não<cf>gastar toda a sua energia!
 Você pode atacar enquanto está agarrado nos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
-Use Amaciante Secreto ou algo parecido para<cf>curar qualquer aliado petrificado.
+Use Suavizador Secreto ou algo parecido para<cf>curar qualquer aliado petrificado.
 Seu nível dentro de uma vocação aumenta conforme<cf>você derrota inimigos e completa missões. Em níveis<cf>mais altos, uma variedade maior de habilidades fica disponível.
 Derrotar inimigos e completar missões te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
 Peões vão coletar e usar itens por conta<cf>própria.
@@ -30416,7 +30416,7 @@ Ainda assim, toda a questão deixa um gosto amargo na minha boca.
 O quê? Absolvido? Fournival foi considerado inocente?
 ...Então não há lugar neste mundo para a verdade.
 A lei não passa de um espantalho, feito para espantar corvos. Um pensamento assustador, de fato...
-Eu estou em dívida com você, ser.
+Eu estou em dívida com você, meu senhor.
 Eu dificilmente posso retornar ao meu antigo posto, eu temo, mas eu encontrarei alguma forma de viver.
 Foi a negligência que me comprou meu destino antes. Eu aprenderei com meu erro.
 Eu preciso ser forte, pelo bem do meu filho tanto quanto pelo meu próprio.
@@ -31083,8 +31083,8 @@ Arisen! Que o Criador seja bom, você voltou!
 Logo depois que você partiu, um galoatrice morto trazido como troféu para Sua Graça ganhou vida.
 A besta estava realmente morta, eu garanto. Trazida de volta por alguma arte sombria, sem dúvida.
 O povo local fugiu para a segurança, mas o ataque da besta provavelmente destruirá a outra carga.
-Esse tributo é propriedade do próprio duque, ser. A criatura deve ser morta, e rapidamente!
-Mantivemos nossa posição, de alguma forma. Nem um único troféu foi perdido, ser.
+Esse tributo é propriedade do próprio duque, meu senhor. A criatura deve ser morta, e rapidamente!
+Mantivemos nossa posição, de alguma forma. Nem um único troféu foi perdido, meu senhor.
 É um testemunho dos esforços do Arisen. Nós agradecemos, ser!
 A ordem foi restaurada, embora não sem baixas.
 Alguns dos troféus foram perdidos. Um destino inevitável, dadas as circunstâncias.
@@ -31142,7 +31142,7 @@ Se eu me esforçar muito, posso me tornar um Arisen também?
 Eu quero ficar mais forte. Eu tenho que!
 O que... Por que isso está acontecendo?
 Obrigado, isso é ótimo!
-Receio que esta tarefa não seja um simples chamado à ação, ser. Sem dúvida, exigirá tempo e uma abordagem mais...sutil do que seu outro trabalho.
+Receio que esta tarefa não seja um simples chamado à ação, meu senhor. Sem dúvida, exigirá tempo e uma abordagem mais...sutil do que seu outro trabalho.
 Talvez você já tenha ouvido falar da sociedade que chamam de "Salvação".
 Na verdade, a maior parte do que sabemos é produto de boatos...
 Eles são uma banda de hereges que adoram o dragão e acolhem a perdição que ele traz.
@@ -31150,9 +31150,9 @@ No caos que surgiu com a chegada do wyrm, sua influência cresceu -- notícias r
 Por favor, fique atento a sinais de Salvação enquanto você cuida de seus negócios. Se você encontrar algo, me diga.
 Aceitar
 Agora não
-Bom. Vou ficar mais tranquilo por isso, ser.
+Bom. Vou ficar mais tranquilo por isso, meu senhor.
 Hmm, entendo sua hesitação. É um pedido incomum para se fazer ao Arisen.
-Mas receio que não podemos dispensar homens para investigar isso nós mesmos. Eu agradeceria sua ajuda, ser.
+Mas receio que não podemos dispensar homens para investigar isso nós mesmos. Eu agradeceria sua ajuda, meu senhor.
 Temo que, mesmo agora, as garras da Salvação apertem os corações das pessoas...
 Eu pediria que você relatasse qualquer coisa que descobrir sobre as atividades deles, Arisen.
 Aceitar
@@ -31200,7 +31200,7 @@ Mesmo assim, minha sede por aventura não ouve a razão. Sou chamado a explorar 
 É da minha natureza...mas é melhor eu controlar isso, para que não se torne minha própria desgraça.
 Se não fosse por você, provavelmente teria morrido na floresta.
 Você me ensinou uma lição valiosa. Vou passar a noite toda me preparando para minha próxima expedição!
-Cos? Você me encara...quase como se não acreditasse totalmente em mim.
+Primo? Você me encara...quase como se não acreditasse totalmente em mim.
 Mmm... Essas suas ervas são poderosas mesmo!
 Nunca vi nada igual. Aposto que consigo ir correndo até a Floresta da Bruxa e voltar!
 Hmmm... Pensando bem...
@@ -31306,7 +31306,7 @@ Quando a lanterna brilhar, recue imediatamente!
 É o fim se sua foice te encontrar dormindo!
 Fique esperto! Ele se move num piscar de olhos!
 Quando--Mas como?!
-A Morte não será derrotada de uma vez, ser.
+A Morte não será derrotada de uma vez, meu senhor.
 Aguente firme e expulse este mal!
 A foice do demônio traz morte certa!
 Uh!
@@ -31781,12 +31781,12 @@ Vê agora a diferença que parceiros bem selecionados podem fazer? Sim, sem dúv
 Você aprenderá o resto no combate real. Se tiver problemas, examine seu grupo.
 Bom, você veio... Pronto para treinar?
 Ali... Você ouve isso? O uivo de uma besta faminta...
-As criaturas deste lugar estão famintas, ser...
+As criaturas deste lugar estão famintas, meu senhor...
 Então, é uma tentativa de fuga, hein? Esperava mais do Arisen, esperava!
 Você não ganhará nada desperdiçando sua piedade com os condenados, Arisen.
 E eu não ganharei nada além de trabalho desnecessário. Por favor, deixe isso pra lá.
 Maldito, verme! Fuja de novo, e eu vou te derrubar onde você estiver.
-Suas brincadeiras foram longe demais, ser. Criminosos são punidos. É a lei.
+Suas brincadeiras foram longe demais, meu senhor. Criminosos são punidos. É a lei.
 Bah! Chega de misericórdia! Eu dei um aviso justo, e você o ignorou da mesma forma.
 Prepare-se para morrer!
 Você vai parar com seus joguinhos, ser! Eu não tenho tempo nem estômago para mais!
@@ -31798,7 +31798,7 @@ Por decreto do duque, você tem permissão para entrar livremente no castelo.
 Este direito se estende apenas à sua pessoa, e você é aconselhado a se comportar adequadamente.
 Uma grave violação de conduta resultará em sua remoção do castelo, ou pior...
 Você receberá suas ordens do camareiro do duque, Aldous.
-Fale com ele para obter mais instruções. Que o Criador o guie para mais glórias, ser.
+Fale com ele para obter mais instruções. Que o Criador o guie para mais glórias, meu senhor.
 Esses idiotas barulhentos simplesmente invadiram -- eles me mantêm prisioneiro como um criminoso comum!
 É loucura e um insulto básico!
 Você aí -- você parece ser capaz.
@@ -31962,7 +31962,7 @@ Eu era sua pawn, e sua amada também.
 Por favor... Você deve libertá-lo.
 Que sua vontade de ferro seja como um martelo para quebrar<cf>os laços de ódio que o mantêm aqui.
 E se a liberdade estiver além de seu alcance, ore para oferecer a ele<cf>pelo menos um fim pacífico...
-Por favor, ser... Imploro que você o ajude.
+Por favor, meu senhor... Imploro que você o ajude.
 Que sua vontade se mostre a mais forte, e esmague<cf>os laços de inimizade que o prendem.
 A alma dele tem sido escrava por muito tempo. Rezo para que<cf>traga seu sofrimento a um fim misericordioso...
 Memórias antigas estão vindo à tona...<cf>embora mostrem um passado que não é meu.
@@ -32094,18 +32094,18 @@ Então este é o fim, hein? Ou é o começo de outra coisa...
 Ouçam, ouçam! A valente Tropa de Alistamento do duque despachou a hidra imunda que aterrorizava as terras do sul!
 Ouçam a história emocionante da valente Ser Mercedes, ela que desferiu o golpe mortal contra a criatura cruel!
 Maravilhem-se com a sabedoria de Sua Graça, o Duque Edmun Dragonsbane, sem os conselhos d'Ele a hidra nunca teria sido morta!
-Ouçam, ouçam! Atenção a todos! O Nascen surgiu para pegar em armas contra o temível dragão!
-Com permissão para viajar pela terra concedida pelo próprio Duque Edmun, o Nascen empunha espada e escudo para defender a honra de todos!
-Será que este Nascen vai matar o dragão como nosso Lorde Grace fez? Nós esperamos e ouvimos por mais notícias!
-Ouçam, ouçam! Sua Graça, o Duque Edmun, reconheceu pessoalmente os grandes feitos do Nascen!
-Será que o poder do Nascen não conhece limites? Será que estamos testemunhando a ascensão do próximo grande herói desta terra?
-E quanto ao confronto pendente entre o Nascen e o dragão? Nós esperamos e ouvimos por mais notícias!
+Ouçam, ouçam! Atenção a todos! O Arisen surgiu para pegar em armas contra o temível dragão!
+Com permissão para viajar pela terra concedida pelo próprio Duque Edmun, o Arisen empunha espada e escudo para defender a honra de todos!
+Será que este Arisen vai matar o dragão como nosso Lorde Grace fez? Nós esperamos e ouvimos por mais notícias!
+Ouçam, ouçam! Sua Graça, o Duque Edmun, reconheceu pessoalmente os grandes feitos do Arisen!
+Será que o poder do Arisen não conhece limites? Será que estamos testemunhando a ascensão do próximo grande herói desta terra?
+E quanto ao confronto pendente entre o Arisen e o dragão? Nós esperamos e ouvimos por mais notícias!
 Ouçam, ouçam! Capital em crise! Histórias de rebelião aberta vêm da Grande Muralha!
 Será que Gran Soren espera prevalecer contra enxames de males do oeste?
-Quais notícias do Duque Edmun? Quais notícias do Nascen? Nós esperamos e ouvimos por mais notícias!
+Quais notícias do Duque Edmun? Quais notícias do Arisen? Nós esperamos e ouvimos por mais notícias!
 Ouçam, ouçam! Atenção e ouçam! O dragão despertou e alçou voo!
 Protejam suas famílias! Fechem suas casas! Abram caminho para mulheres e crianças!
-O Nascen e as forças do castelo estão prontos! Todos os outros que puderem empunhar armas, preparem seu aço!
+O Arisen e as forças do castelo estão prontos! Todos os outros que puderem empunhar armas, preparem seu aço!
 Nossa, nossa, o que temos aqui?
 Aquela criatura terrível -- eu a vi do meu posto... O que era aquilo?
 Já foi despachada, então? Graças ao Criador...
@@ -32231,7 +32231,7 @@ Fique bem.
 É isso aí.
 Não, não.
 Oh, eu te agradeço.
-É uma grande gentileza, ser. Eu agradeço.
+É uma grande gentileza, meu senhor. Eu agradeço.
 Minha esposa e meu filho partiram desta cidade há quase quinze dias.
 Eu sou só um fazendeiro. Com dragão ou não, ainda tem plantação pra cuidar.
 De que adianta sobreviver se você morrer de fome no inverno?
@@ -32246,7 +32246,7 @@ Bem, não tem porra nenhuma pra eu fazer aqui mais.
 Acho que vou pro templo e bater um papo com o Criador.
 Você é do tipo que reza, Arisen? Imagino que sim, com tanta matança que você faz.
 Mas vocês Arisen parecem tão ocupados. Talvez oração seja uma coisa que vocês não têm tempo, hein?
-Que grande gentileza, ser. Agradeço.
+Que grande gentileza, meu senhor. Agradeço.
 Uh!
 Guh!
 Grauuugh...
@@ -32261,7 +32261,7 @@ Agradeço... É muita gentileza.
 ...Pra mim, ser?
 Mais adequado para anéis do que para rapieiras, não é? Deixar uma mulher inútil como um cavaleiro servir como esposa?
 É isso que quer dizer?
-...'Tis uma piada, ser. Eu ficaria feliz em usá-lo, como uma lembrança de um querido amigo.
+...'Tis uma piada, meu senhor. Eu ficaria feliz em usá-lo, como uma lembrança de um querido amigo.
 Algo a dizer, ser?
 Você está aqui para se alistar no Corpo?
 Hmm... Você tem a estatura para isso, olhando pra você.
@@ -32278,7 +32278,7 @@ Temo que falar de tais fraudes me tenha levado a suspeitar de você como um dele
 O Duque Edmun derrotou o wyrm em combate antes de vir governar esta terra.
 'Tis uma honra incomparável servir sob tal lenda.
 Não tenho dúvidas de que você está entre os escolhidos, como ele, Arisen.
-Todos esperamos de você obras compatíveis com seu cargo, ser. Rezo para que você exceda nossas esperanças.
+Todos esperamos de você obras compatíveis com seu cargo, meu senhor. Rezo para que você exceda nossas esperanças.
 Atualmente, mais da metade do Corpo é composta de mercenários de outras terras.
 Cada um supera o outro em habilidade e julgamento, e por todas as batalhas que compartilharam, eles se unem como uma família.
 Eles são formidáveis, e sou grato por isso... Embora isso torne a tarefa de liderá-los um desafio maior.
@@ -32308,17 +32308,17 @@ Infelizmente, o duque tem outro uso para mim.
 Arisen... Eu peço a você em meu lugar. Se você escolher se juntar a Georg e seus homens nesta caçada...
 Rezo para vê-los de volta vivos.
 São guerreiros competentes, cada um deles, e não propensos a morrer tão facilmente...
-Mas eu ficaria mais tranquila aqui sabendo que eles marcham com o matador da hidra. ...Por favor, ser.
-Todos os homens estão seguros? Verdadeiramente, eles lhe devem uma dívida, ser. Assim como eu.
+Mas eu ficaria mais tranquila aqui sabendo que eles marcham com o matador da hidra. ...Por favor, meu senhor.
+Todos os homens estão seguros? Verdadeiramente, eles lhe devem uma dívida, meu senhor. Assim como eu.
 Lamento não ter nada para dar, mas juro pelo meu nome que te recompensarei, Arisen.
-É a pura verdade, ser.
+É a pura verdade, meu senhor.
 Estou muito feliz em conhecer um guerreiro como você. Alguém disposto a lutar pelo bem dos outros.
 Entendo... Nem mesmo o Arisen pôde protegê-los a todos...
 Perdoe-me, não quero culpá-lo. A culpa é minha por implorar o impossível.
 A tarefa era difícil e cheia de perigos. A morte está sempre ligada à guerra.
 Ainda assim... Eu realmente gostaria de ter estado lá para lutar ao lado deles.
 Mortos? Todos eles? ...Misericordioso Criador.
-Não, eu... Eu não o culpo, ser. Era uma tarefa perigosa. A morte está sempre ligada à guerra...
+Não, eu... Eu não o culpo, meu senhor. Era uma tarefa perigosa. A morte está sempre ligada à guerra...
 Devo parecer uma farsa de cavaleira para você.
 Abalada assim pela morte de alguns homens que liderou por apenas alguns dias...
 Talvez essa seja a verdade. Talvez eu nunca tenha sido apta para liderar...
@@ -32333,7 +32333,7 @@ Por favor, não se ofenda, mas eu vi uma semelhança em você e no dragão.
 Onde essa semelhança reside, exatamente, eu não poderia dizer... Mas você e ele são coisas separadas do mundo. Únicas.
 Eu sei bem que nenhum esforço que eu possa gastar jamais me tornaria apta para ajudá-lo, Arisen.
 Sou apta apenas para acreditar em você e esperar.
-E assim o farei. Por favor, volte para mim vivo, ser.
+E assim o farei. Por favor, volte para mim vivo, meu senhor.
 
 
 
@@ -32425,11 +32425,11 @@ A carroça! A carroça!
 Maldita Salvação... Eles estão ficando mais ousados a cada dia.
 Temos sorte da cidade ter sofrido tão pouco. É mérito seu, Arisen.
 Se você não estivesse aqui, os eventos teriam tomado um rumo mais sombrio, com certeza.
-Sua Graça enviará notícias em breve, ser. Prometo mantê-lo informado.
+Sua Graça enviará notícias em breve, meu senhor. Prometo mantê-lo informado.
 Salve, Arisen. Boas notícias!
 Sua Graça notou seus feitos e o selecionou para liderar uma expedição.
 É uma tarefa difícil, mas de importância crítica para a defesa da frente.
-O duque foi inflexível de que ninguém faria tão bem quanto você, ser.
+O duque foi inflexível de que ninguém faria tão bem quanto você, meu senhor.
 A jornada o levará para longe, Arisen.
 Se você tem tarefas para completar ou assuntos pessoais para resolver, por favor, faça-o agora.
 É provável que você não veja Gran Soren por algum tempo.
@@ -32440,11 +32440,11 @@ Se você tem tarefas para completar ou assuntos pessoais para resolver, por favo
 É provável que você não veja Gran Soren por algum tempo.
 Aceitar
 Agora não
-Muito bem. Faça seus preparativos, ser. Eu o aguardarei aqui.
+Muito bem. Faça seus preparativos, meu senhor. Eu o aguardarei aqui.
 Então venha. O duque desejava vê-lo antes de você partir.
 À luz de seus feitos recentes, o Duque Edmun achou por bem confiar-lhe uma nova incumbência.
 Seus esforços durante o ataque pouparam pelo menos o castelo de danos... O duque generosamente achou por bem considerar isso louvável.
-Eu tenho minhas próprias expectativas para você, ser. Rezo para que você esteja à altura delas em seus empreendimentos daqui em diante.
+Eu tenho minhas próprias expectativas para você, meu senhor. Rezo para que você esteja à altura delas em seus empreendimentos daqui em diante.
 Por favor, vá logo para o lado de Sua Graça. Não devemos fazê-lo esperar.
 Caça às Bruxas
 Rumores de que a "feiticeira" do Bosque das Bruxas está em <cf>conluio com o dragão certamente incitarão a violência<cf>a menos que medidas sejam tomadas.
@@ -33376,7 +33376,7 @@ Rumores correm sobre o operário do castelo que foi preso.
 Ele não vai ter moleza da Guarda. Vazamento de segredos de estado é um ataque direto à pessoa de Sua Graça.
 As masmorras do duque são um lugar horrível... Aposto que ele vai se afogar em uma poça do próprio sangue em breve...
 Nossa descida foi um trabalho lento e árduo... No final, custou a vida do meu mestre.
-Este lugar é o lar de criaturas temíveis, ser. Tome cuidado...
+Este lugar é o lar de criaturas temíveis, meu senhor. Tome cuidado...
 Quadro de Avisos da Missão: Acampamento
 Todos os tipos de oportunidades de treinamento são postados<cf>aqui. A conclusão bem-sucedida de cada um rende uma<cf>recompensa base de 1000 de ouro e 750 de experiência.
   
@@ -33412,7 +33412,7 @@ Você completou o regime de treinamento. Recompensa<cf>da missão recebida.
 
 
 
-Arisen... Salve, ser. Parece que você realmente se destaca do resto de nós.
+Arisen... Salve, meu senhor. Parece que você realmente se destaca do resto de nós.
 Alguns zombaram quando apresentei a cabeça da hidra. Disseram que foi só você que conseguiu.
 Na verdade, não posso negar. Eu não tive nada a ver com isso... É fato.
 Mas e o Corpo de Recrutamento, então? Que significado tem nossa lealdade?
@@ -34504,14 +34504,14 @@ Se alguém encontrar essa carta, e seu conteúdo se tornar conhecido do público
 Além do mais, um segredo só serve enquanto permanece escondido. A traição deles será mais facilmente frustrada se eles não esperarem que o duque saiba disso.
 A carta deve ser encontrada. Certamente você entende, ser?
 Eu gostaria de pedir que você a encontrasse e a trouxesse de volta para mim.
-Naturalmente, Sua Graça não pode compensá-lo abertamente por esta tarefa, mas eu de bom grado pagarei do meu próprio bolso se você tiver sucesso. Que o Criador acelere seus passos, ser.
+Naturalmente, Sua Graça não pode compensá-lo abertamente por esta tarefa, mas eu de bom grado pagarei do meu próprio bolso se você tiver sucesso. Que o Criador acelere seus passos, meu senhor.
 Eu tava na estrada quando fui atacado. Veio do céu, rasante pra roubar minha mochila.
 Capaz de terem levado pro ninho, mas onde fica, sei lá...
 As montanhas perto da Muralha são cheias de bicho voador. Talvez seja o melhor lugar pra começar.
 E a carta, meu bom?
 Minhas esperanças estão com você.
 Ainda nada da carta? Sua fama dizia que era mais rápido...
-Já sei pra não esperar muito do Nascen em outra hora.
+Já sei pra não esperar muito do Arisen em outra hora.
 Esse selo... Achou a carta!
 E o selo tá intacto. Bom, o segredo tá a salvo.
 Eu mesmo entrego pra Sua Graça assim que puder.
@@ -34725,14 +34725,14 @@ Ah, a sorte sorri para mim. Que bom te ver, Ser Arisen.
 Me chamam de Mason, se te aprouver.
 Agora que você chegou à capital como um herói conquistador, vai precisar de algo pra fazer, né?
 Um conselho: comece com os peões. Pergunte sobre eles aqui em Gran Soren.
-Eles estão intimamente ligados ao destino do Nascen. Se quer conhecer seu destino, conheça-os.
+Eles estão intimamente ligados ao destino do Arisen. Se quer conhecer seu destino, conheça-os.
 Tenho outro assunto pra discutir com você, com o tempo, mas vamos deixar isso pra outro dia, beleza?
 Estou ansioso por isso, amigo.
 Ah, não se preocupe. Esse outro assunto pode esperar, amigo.
 Ah, diga, amigo, você se deparou com um velho estranho ultimamente? Aparência sombria, murmúrios esquisitos...?
 Eles o chamam de Elysion. Um nome que ouço com muita frequência, ultimamente...
 Bem, tenha esse homem em mente. Eu mesmo tenho negócios com ele...
-Parece que você está no centro da tempestade, Nascen.
+Parece que você está no centro da tempestade, Arisen.
 Ou talvez seja você que está girando o resto de nós...
 Nh.
 Mnnh.
@@ -34745,22 +34745,22 @@ Sim.
 Não temo.
 ...Agradeço.
 Você conquistou meus agradecimentos.
-Bem-vindo, ser. Julien de Meloire, às suas ordens.
+Bem-vindo, meu senhor. Julien de Meloire, às suas ordens.
 Comando um batalhão na Caçada da Wyrm, mas deixemos de lado patentes e títulos.
 Sou apenas um homem enviado por um vizinho preocupado para ajudar.
-Então você é o Nascen...?
+Então você é o Arisen...?
 Ouvi dizer que você comanda a legião de peões. A Caçada tem sorte de ter um aliado assim.
-Devo-lhe um pedido de desculpas, ser.
-Confesso que descartei as histórias sobre o Nascen junto com os outros contos antigos que ouvi no colo da minha babá.
+Devo-lhe um pedido de desculpas, meu senhor.
+Confesso que descartei as histórias sobre o Arisen junto com os outros contos antigos que ouvi no colo da minha babá.
 Mas suas ações deixam pouca margem para dúvidas. Estou impressionado.
 Os soldados do duque são um bando irremediavelmente desajeitado. Leva uma eternidade para se preparar para qualquer coisa.
 De que serve pompa e cerimônia quando isso nos impede de estar nas linhas de frente onde somos necessários?
 Infelizmente, minha posição na corte me dá pouca voz em tais assuntos.
-Isso torna um homem grato por aliados ágeis. Invejo sua liberdade, ser.
+Isso torna um homem grato por aliados ágeis. Invejo sua liberdade, meu senhor.
 A wyrm se mostrou.
 Ainda estamos terrivelmente sem homens, mas a besta não vai esperar por nós.
 Eu mesmo partirei para enfrentá-la em breve, sem dúvida...
-Tenha pena de mim, Nascen, pois me falta o peso da lenda para me fortalecer para o desafio.
+Tenha pena de mim, Arisen, pois me falta o peso da lenda para me fortalecer para o desafio.
 Enfrento o dragão sem nenhuma esperança sã de matá-lo.
 Talvez nos encontremos novamente, se o Criador achar adequado nos poupar.
 Até mais, meu caro.
@@ -35347,14 +35347,14 @@ Um povo entorpecido por duas gerações de paz não pode ser esperado que conhe�
 ...Mas eu não deveria falar em termos tão ousados perante Sua Graça.
 Não tenho mais nada a dizer. Por favor, me desculpe.
 Arisen? Meu senhor? Perdão, meu senhor.
-Trago uma mensagem de milady Aelinore. Ela gostaria de falar com você, ser... em particular, se não for incômodo.
+Trago uma mensagem de milady Aelinore. Ela gostaria de falar com você, meu senhor... em particular, se não for incômodo.
 Alguns... achariam estranho tal pedido, dados os votos de milady com o duque... Confio...
 Perdoe-me, Arisen! Devo aprender a segurar a língua perto de gente importante. Por favor, encontre-me hoje à noite nos jardins do castelo.
 Saiba que você é o primeiro companheiro em que milady confiou desde que chegou a este lugar.
 Imagino que ela tenha todo tipo de assunto que gostaria de discutir com você.
-Então, sim... Eu peço que me encontre no jardim do castelo. ...Isto é, se for do seu agrado, ser.
+Então, sim... Eu peço que me encontre no jardim do castelo. ...Isto é, se for do seu agrado, meu senhor.
 Louvado seja o Criador por ter vindo, Arisen! Oh, isto é glorioso, muito glorioso...
-C-com licença, ser. Perdoe os desvarios de uma criada numa missão estranha.
+C-com licença, meu senhor. Perdoe os desvarios de uma criada numa missão estranha.
 É que... O pedido de milady para vê-lo é uma raridade, entende? A primeira em todos os meus anos com ela, na verdade.
 Confio que entende a delicadeza da situação? Milady é uma mulher casada, não preciso lembrá-lo...
 E, bem, sim... Mesmo uma conversa inocente poderia ser distorcida se fosse descoberta por outros.
@@ -35737,7 +35737,7 @@ Matem uns aos outros! Matem à vontade! O fim está próximo!
 Graaaugh!
 Basta olhar para isso... Gran Soren está perdida.
 Volte, Arisen. O caminho à frente é muito perigoso.
-Temo pela segurança do duque, ser. Por favor, vá vê-lo.
+Temo pela segurança do duque, meu senhor. Por favor, vá vê-lo.
 Despertando Suspeitas
 Mirabelle traz notícias de que Lady Aelinore deseja um<cf>encontro secreto. Mesmo como Arisen, você ousaria<cf>atender a tal pedido?
 
@@ -35881,7 +35881,7 @@ Frasco de Veneno
 Pano Absorvente
 Pano Limpo
 Item Desconhecido
-Amaciante Secreto
+Suavizador Secreto
 Vigor Líquido
 Bebida Salubre
 Aceleração Engarrafada
@@ -38734,7 +38734,7 @@ Note que você se move um pouco mais lento<cf>com sua arma sacada.
 Esgotar toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado pra conservar<cf>energia!
 Você pode atacar enquanto estiver agarrado em inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
-Use Amaciante Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
+Use Suavizador Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
 Seu rank dentro de uma vocação aumenta conforme<cf>você derrota inimigos e completa missões. Em ranks<cf>mais altos, uma variedade maior de habilidades está disponível.
 Derrotar inimigos e completar missões te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
 É só aqui que você pode ativar as habilidades<cf>e aumentos que você aprende. Você não pode<cf>trocá-los no campo.
@@ -39008,7 +39008,7 @@ E eu não posso correr, mesmo sabendo que o dragão está sobre nós e essa terr
 Tudo que nós, os fracos, podemos fazer é sentar e nos preocupar.
 Ou você acha que eu sou fraca só por nunca ter tentado?
 Encontrou o duque, então?
-Ouvi dizer que Edmun também foi um Nascen outrora.
+Ouvi dizer que Edmun também foi um Arisen outrora.
 Partiu em sua própria jornada e matou o dragão no final.
 Espadas e feitiçaria... É coisa de sonhos e contos de fadas para uma garota como eu.
 Mas você, quem sabe? Você pode ser o próprio duque antes que tudo termine.
@@ -39106,7 +39106,7 @@ Muita gente está ansiosa demais para oferecer bebida ou moeda para qualquer um 
 É melhor você fazer jus ao seu título. Se mostrar ser falso, é bem provável que perca a cabeça junto com a nossa confiança.
 Tá ligado na Montanha Maculada, né? Pra onde o dragão voou?
 A Montanha Maculada foi onde o Duque Edmun lutou com o dragão há muito tempo.
-Acho que você mesmo vai escalar aquela montanha mais cedo ou mais<cf>tarde. Já que você é o Nascen e tal.
+Acho que você mesmo vai escalar aquela montanha mais cedo ou mais<cf>tarde. Já que você é o Arisen e tal.
 A Grande Muralha? Claro que já ouvi falar! Fica bem na base da Montanha Maculada.
 Todo mundo parece achar que a Grande Muralha vai nos proteger. Mas de que adianta uma muralha se o inimigo pode voar por cima?
 Não sou nenhum estudioso de magia e profecias e tal, mas... você derrotou o dragão, né?
@@ -39889,7 +39889,7 @@ Até a próxima.
 Sim, com certeza.
 Isso é meio... Hmm.
 Ah, obrigado.
-Meus agradecimentos, ser. Sinceramente.
+Meus agradecimentos, meu senhor. Sinceramente.
 Tem tudo que precisa?
 Chegou a uma decisão?
 Sempre um prazer!
@@ -39993,7 +39993,7 @@ Até dragões morrem. Derrubar um grifo deve ser simples o suficiente.
 Nós vamos derrotá-lo... Nós devemos.
 Mantenha seus olhos na besta!
 Eu estou... ferido!
-Diga-me, ser. O que será do meu pai?
+Diga-me, meu senhor. O que será do meu pai?
 Você é o Arisen, não é? Você não pode fazer nada para ajudá-lo!?
 Eu não suportaria perdê-lo...
 Mesmo que as coisas que dizem fossem verdade, eu ainda... Ele sempre foi um pai gentil para mim.
@@ -40323,7 +40323,7 @@ Meu maior arrependimento é que não verei minha<cf>terra natal reconstruída.
 Perdoem-me, meus irmãos... Levo nossos sonhos<cf>agora para o meu túmulo.
 Não tenho medo de morrer neste lugar... Mas eu<cf>não desejaria este destino a mais ninguém.
 Salve, caro guerreiro do belo elmo.
-Receio ter sido negligente em perguntar seu nome, ser.
+Receio ter sido negligente em perguntar seu nome, meu senhor.
 Arisen...? Preciso que me perdoe. Receio ser extremamente ignorante em assuntos de guerra.
 Eu pensava que todos que lutavam compartilhavam o título de "guerreiro".
 Mas, novamente, precisa me desculpar. Sou Aelinore, cheguei há poucos dias como noiva do duque.
@@ -40332,7 +40332,7 @@ Presumo que a coroa que carrega é uma marca de sua posição como o Arisen?
 Preciso me desculpar pela minha risada, bom ser. Asseguro que não tive intenção de desrespeito.
 Você me daria sua coroa, querido guerreiro? Você é muito gentil.
 Eu a guardarei com carinho.
-Eu orarei por suas viagens seguras, ser.
+Eu orarei por suas viagens seguras, meu senhor.
 Até nos encontrarmos novamente, querido Arisen...
 Está trancada. Você não tem a chave certa...
 Está presa em algo. Talvez possa abrir do outro lado.
@@ -40504,7 +40504,7 @@ Note que você se move um pouco mais lento<cf>enquanto sua arma está desembainh
 Esgotar toda a Stamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
-Use Amaciante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
+Use Suavizador Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
 Sua patente dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em patentes<cf>mais altas, uma variedade maior de habilidades está disponível.
 Derrotar inimigos e completar missões rende<cf>a você mais disciplina, impulsionando sua proeza<cf>em uma vocação.
 Peões coletarão e usarão itens por<cf>vontade própria.
@@ -41739,7 +41739,7 @@ Eu vou fechar a ferida!
 A cobra já era!
 O leão caiu!
 Eu vou desviar o ataque!
-O bode está silenciado!
+O bode está morto!
 Quimera!
 Um bando de quimeras!
 Ali, Mestre! Quimeras!
@@ -42642,7 +42642,7 @@ Mi, e'squuorau ait.
 Mi, i'iga...
 Me ajuda! Ele ainda tá vivo!
 Me ajuda! Ela ainda tá viva!
-Bem-vindo, Nascen.
+Bem-vindo, Arisen.
 Não vou perder tempo com retórica:
 Me derrote e tome meu lugar como guardião deste mundo.
 Você viu isso te esperando no fim da sua descida.
@@ -42671,7 +42671,7 @@ Ela vive, seu espelho em alma e corpo,<cf>e eu não vou perdê-la como perdemos 
 Isto eu juro diante do seu túmulo vazio.
 "Você foi escolhido."
 Assim dizendo, o dragão arrancou o coração do meu peito.
-Eu fui feito Nascen: conhecido pelo dragão e destinado a caçá-lo.
+Eu fui feito Arisen: conhecido pelo dragão e destinado a caçá-lo.
 É um destino que eu abraço. Que utilidade eu tenho pra um coração<cf>deixado vazio?
 Em um mundo sem a doce Grette – minha mentora, minha<cf>mãe, minha amada...
 Eu vivo apenas para ver o dragão que alegou tê-la matado.
@@ -42714,7 +42714,7 @@ Eu era sua peão, e sua amada também.
 Por favor... Você deve libertá-lo.
 Que sua vontade de ferro seja como um martelo para estilhaçar<cf>os laços de ódio que o mantêm aqui.
 E se a liberdade estiver além de seu alcance, por favor, ofereça a ele<cf>pelo menos um fim pacífico...
-Por favor, ser... Eu imploro que você o ajude.
+Por favor, meu senhor... Eu imploro que você o ajude.
 Que sua vontade se prove mais forte e esmague<cf>os laços de inimizade que o prendem.
 A alma dele tem sido escrava por muito tempo. Por favor,<cf>traga seu sofrimento a um fim misericordioso...
 Nenhum caminho leva daqui.
@@ -43468,7 +43468,7 @@ Você procura um jardineiro vadio? Receio que eu seja de pouca ajuda para a sua 
 Mas, espere um momento... Tivemos motivos para interrogar um trabalhador do castelo há alguns dias...
 Nossos espiões souberam de um complô em que segredos de estado estavam vazando para um bando de bandidos.
 Acredito que o trabalhador suspeito desta sedição ainda está sob nossa custódia.
-Receio que seja tudo o que sei, ser. Que eu poderia ajudá-lo mais...
+Receio que seja tudo o que sei, meu senhor. Que eu poderia ajudá-lo mais...
 Me procurando, amigo?
 Trazendo boas notícias, espero? ...Ou aqui para me acorrentar, aposto.
 Não, é Salvation que te traz aqui. É?
@@ -43680,7 +43680,7 @@ O que foi?
 Não tenho nada para te dizer.
 Veio se juntar à nossa turminha?
 Como está a estrada te tratando, camarada?
-Er, bem encontrado, ser... Por favor, me perdoe pelo problema que causei.
+Er, bem encontrado, meu senhor... Por favor, me perdoe pelo problema que causei.
 Deixei de lado os roubos, deixei. Me tornei um homem honesto, aprendiz do dono da estalagem...
 Eu devo um favor ao homem. A você também, se me permite. Você me mostrou que há mais na vida do que cuidar de uma barriga vazia.
 Eu gosto muito da minha vida aqui, com certeza, mas... Eu preciso terminar minha vida passada corretamente.
@@ -43904,7 +43904,7 @@ Até então, me despeço...
 Que assim seja, então. É uma grande pena.
 Ser Daerio tinha certeza que você ia entrar em acordo. Parece que nem o julgamento dele é livre de erros.
 Não vou insistir mais no assunto. Pelo menos não aqui.
-Espero sinceramente que esse erro não te traga frutos amargos com o tempo, ser.
+Espero sinceramente que esse erro não te traga frutos amargos com o tempo, meu senhor.
 Por favor, tome cuidado...
 
 Ir para o Menu Principal.
@@ -43930,11 +43930,11 @@ Esla...! Mi thera home...!<cf>(Não...! Não para esse humano...!)
 Morus, se lu'a!?<cf>(Morto, já!?)
 Do poço? Sim, ouvi os barulhos.
 Você não acha que tem monstros lá embaixo? ...Sério mesmo?
-Parece que leva pra dentro da terra, ser.
+Parece que leva pra dentro da terra, meu senhor.
 O caminho termina.
 Você voltou. Pensar que sem o Arisen, Gran Soren cairia no caos tão rápido...
 Qualquer coisa que você possa fazer para ajudar a manter a paz será muito apreciado.
-Eu vou selar o portão atrás de você até que a ordem seja restaurada, ser. Vá, e que o Criador seja seu escudo!
+Eu vou selar o portão atrás de você até que a ordem seja restaurada, meu senhor. Vá, e que o Criador seja seu escudo!
 Você conhece o Elysion, ser?
 Ouvi dois guardas do castelo conversando ontem à noite, bebendo um trago. Dizem que ele é perigoso.
 Que ele vive dizendo que o mundo é louco, então a gente devia abraçar a loucura também.
@@ -44071,7 +44071,7 @@ D-Pad esquerdo
 Ao Arisen! Que o caminho à frente esteja sempre claro!
 Não consigo entender a mente de Sua Graça nisso...
 Não tenho estômago para tais encontros...
-Falemos em outro momento, ser.
+Falemos em outro momento, meu senhor.
 Calma, por favor.
 Se você está viajando com peões, por que não faz uma visita à Guilda dos Peões?
 Nós, guardas, não seguraremos a cidade por uma hora quando o dragão aparecer.
@@ -44084,19 +44084,19 @@ Devemos retomá-la, e logo.
 A segurança de todo o ducado depende deste assunto. Gostaria de pedir sua ajuda para resolvê-lo.
 Aceitar
 Agora não
-Agradeço, ser. Enviarei notícias para a fortaleza em breve.
+Agradeço, meu senhor. Enviarei notícias para a fortaleza em breve.
 Já enviei algumas das espadas do duque à frente. Encontre-os lá e dê seu braço a eles.
 Aguardarei boas notícias do seu sucesso.
 Se você tem assuntos mais urgentes, suponho que não haja nada a fazer...
 Cuide do que deve, então, e volte para mim com toda a pressa.
 Você está preparado para partir para a fortaleza? Por favor, apresse-se, Arisen.
 Esses goblins malditos são bons para um bom pedaço de problema, sem dúvida, mas devemos ter essa fortaleza de volta.
-Ah, bom Arisen. A notícia de sua vitória sobre a horda de goblins o precede, ser.
+Ah, bom Arisen. A notícia de sua vitória sobre a horda de goblins o precede, meu senhor.
 Com o forte de volta em nossas mãos, o sul de Gransys está protegido mais uma vez.
-Você acalmou mais uma das preocupações de Sua Graça. Que seu sucesso continue, ser.
+Você acalmou mais uma das preocupações de Sua Graça. Que seu sucesso continue, meu senhor.
 Uma pena que a fortaleza não pôde ser reconquistada... Foi uma falha em nossos preparativos.
 Os homens da fortaleza enviaram notícias de seus esforços, no entanto. Você os animou muito.
-Moral é uma coisa preciosa, como Sua Graça gostaria de concordar. Por favor, anime-se, ser.
+Moral é uma coisa preciosa, como Sua Graça gostaria de concordar. Por favor, anime-se, meu senhor.
 Talvez devêssemos começar com aqueles<cf>que lidam com tais itens?
 Ouvi dizer que há um falsificador de arte em<cf>Gran Soren.
 Uma colina com um desenho...<cf>É difícil de imaginar.
@@ -44132,7 +44132,7 @@ Olá.
 Obrigado.
 Eu não poderia estar mais feliz.
 Eu não poderia estar mais feliz.
-Ah, o Nascen! Bem-vindo!
+Ah, o Arisen! Bem-vindo!
 Parece que nossos destinos estão intimamente ligados.
 O sono adocicado da destruição<cf>encontrará este lugar...
 E todo o mundo, por sua vez.
@@ -44145,7 +44145,7 @@ quanto esta engenhoca desajeitada de tijolos e argamassa!
 No entanto, o pouco que você pode<cf>atrasar a vinda do dragão
 é blasfêmia da mesma forma.
 Eu tinha trazido meu rebanho para ver<cf>essas paredes reduzidas a pó,
-mas primeiro eles vão tirar a carne<cf>dos seus ossos, meu caro Nascen.
+mas primeiro eles vão tirar a carne<cf>dos seus ossos, meu caro Arisen.
 Tá trancado. Você não tem a chave certa...
 Tá preso em alguma coisa. Talvez dê pra abrir do outro lado.
 Tá trancado com ferrolho. Talvez dê pra quebrar.
@@ -44271,7 +44271,7 @@ Note que você se move um pouco mais lento<cf>enquanto sua arma está em punho.
 Esgotar toda a Stamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
-Use Amaciante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
+Use Suavizador Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
 Seu rank dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa quests. Em ranks mais altos,<cf>uma variedade maior de habilidades está disponível.
 Derrotar inimigos e completar quests te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
 Peões coletarão e usarão itens por sua<cf>própria vontade.
@@ -44649,7 +44649,7 @@ Quem dera você pudesse voltar aos prazeres simples do mar, da música e da cerv
 A vida pode parecer terrível agora, mas tenha coragem!
 Tudo vai acabar bem, anote o que eu digo. Sempre foi assim até agora, e assim será daqui pra frente.
 Como vai sua amada?
-Oh, você é um doce, cos!
+Oh, você é um doce, primo!
 Bem-vindo, Arisen dos dias atuais, novo elo forjado na grande corrente...
 Você veio buscando significado para essa lousa e as palavras que ela carrega... Não há nenhum.
 Nenhum, a não ser que ela te trouxe aqui até mim.
@@ -44843,7 +44843,7 @@ Rrgh...
 Seu desgraçado persistente...
 Se renda, seu maldito!
 Me solte!
-Er, bem encontrado, ser... Por favor, me perdoe pelo problema que causei.
+Er, bem encontrado, meu senhor... Por favor, me perdoe pelo problema que causei.
 Deixei de lado o roubo, sim. Me tornei um homem honesto, aprendiz do dono da estalagem...
 Eu devo um favor ao homem. A você também, se me permite. Você me mostrou que há mais na vida do que alimentar uma barriga vazia.
 Eu gosto muito da minha vida aqui, com certeza, mas... Eu preciso terminar minha vida passada adequadamente.
@@ -44855,9 +44855,9 @@ Yah!
 Hyaaah!
 Como vai o dia?
 Se cuide, hein?
-Sim, ser.
+Sim, meu senhor.
 Oh, não.
-Gentileza sua, ser.
+Gentileza sua, meu senhor.
 Meus agradecimentos!
 Não, ser! Você não pode passar!
 Nada disso, agora!
@@ -45227,7 +45227,7 @@ Agora não
 Oferecer esmola (<NOTE>100,000</NOTE>G)
 Agora não
 ...Hmph. Que bondoso você.
-Saiba disso, ser. Eu vou ver essa dívida paga. Não aceito caridade de ninguém.
+Saiba disso, meu senhor. Eu vou ver essa dívida paga. Não aceito caridade de ninguém.
 Então me deixe em paz.
  
 -
@@ -48172,7 +48172,7 @@ Mensagem Inválida
 Mensagem Inválida
 Mensagem Inválida
 Mensagem Inválida
-Eu te pediria um favor, já que você está a serviço do duque, ser.
+Eu te pediria um favor, já que você está a serviço do duque, meu senhor.
 Tem uma pessoa que estou procurando. Será que posso pedir sua ajuda?
 Aceitar
 Agora não
@@ -48183,10 +48183,10 @@ Maravilha. Você é perfeito para a tarefa, caro Arisen.
 Como eu disse, estou procurando um homem. Ou melhor, um peão, para ser mais preciso.
 Eu gostaria de pedir que você me arrumasse um peão que corresponda à descrição que eu vou te dar.
 Muitos dos meus clientes têm gostos específicos na aparência e habilidade de um mirmidão, sabe.
-Eu escrevi os detalhes em um resumo, ser. Por favor, leia com atenção.
-Por favor, continue como está, ser. Você tem todos os detalhes no resumo que eu te dei.
+Eu escrevi os detalhes em um resumo, meu senhor. Por favor, leia com atenção.
+Por favor, continue como está, meu senhor. Você tem todos os detalhes no resumo que eu te dei.
 Só venha falar comigo quando você trouxer outro. Agradeço, Arisen.
-Perfeito, ser. É exatamente como eu escrevi.
+Perfeito, meu senhor. É exatamente como eu escrevi.
 Você é sempre esperto, caro Arisen. Terei o cuidado de avisá-lo se tiver necessidade semelhante no futuro.
 ...Você leu o resumo que te dei, senhor? Você não trouxe o peão que especifiquei.
 Eu não preciso da sua imaginação, senhor. Por favor, siga as instruções?
@@ -48593,7 +48593,7 @@ Gragh...
 Waaaugh...
 Hah.
 Rragh!
-Bem-vindo, ser.
+Bem-vindo, meu senhor.
 Até a próxima.
 Sim.
 Não.
@@ -48799,7 +48799,7 @@ Eu não sou um deles. Receio que seja tudo que posso dizer, amigo.
 Ao seu sucesso contínuo, Arisen.
 Esta não me parece a hora para festividades.
 Receio não ser uma pessoa festeira.
-Terá que me desculpar, ser.
+Terá que me desculpar, meu senhor.
 Por favor, contenha-se.
 Entristece-me incomodá-lo, cansado da estrada como deve estar, mas temo que problemas estejam se formando.
 Eu imploraria sua ajuda nesta questão, Arisen, se lhe aprouver.
@@ -49439,7 +49439,7 @@ Devemos pensar por nós mesmos e agir por nós mesmos, irmãos.
 Aí reside nossa única esperança de abrir um caminho através do caos e da ordem caída, para que possamos caminhar firmes para o futuro.
 Por favor, coloque uma mão sobre o peito e acalme seu coração acelerado. A dúvida nos cerca por todos os lados...
 Não perca de vista a esperança que reside além. Não confunda a luz que brilha além da sombra do dragão!
-Agradeço, ser.
+Agradeço, meu senhor.
 Uma mulher...?
 Eu ouço uma canção...
 Um pássaro, talvez?
@@ -49594,9 +49594,9 @@ Não
 Você tem certeza? Nenhuma tarefa inacabada? Não precisa mais da licença da Caçada?
 Sim
 Não
-Entendido. Então, por favor, entre no castelo, ser.
+Entendido. Então, por favor, entre no castelo, meu senhor.
 Um guia o aguarda lá dentro para levá-lo até Sua Graça.
-Entendo. Então vá, e cuide dos assuntos que te prendem, ser. Eu o esperarei aqui.
+Entendo. Então vá, e cuide dos assuntos que te prendem, meu senhor. Eu o esperarei aqui.
 Rrgh!
 Você se jogou no vazio, ser?
 Parece que o poço se esvazia sobre si mesmo em um ciclo interminável, de cima para baixo.
@@ -49616,14 +49616,14 @@ Ainda não
 Este peão o aguardará aqui.
 Acabe com isso, Arisen. Que o mundo seja consertado por sua mão.
 Parece que o ofício de Arisen traz consigo partes iguais de força e ambição...
-Estou muito satisfeito com seus trabalhos, ser. Gostaria de vê-lo recompensado por tudo o que fez.
+Estou muito satisfeito com seus trabalhos, meu senhor. Gostaria de vê-lo recompensado por tudo o que fez.
 Venha, siga-me. Tenho algo para lhe dar antes de você partir.
 Pegue tudo o que você vê aqui, Arisen.
 Que você encontre utilidade nisso nos próximos dias.
 Há um tesouro entre eles que não posso oferecer, no entanto, pois o baú está preso com magia.
 A chave é uma bugiganga enfeitiçada minha, o Anel do Rei Verme. Lamentavelmente, não está à mão.
 Quando retornar para mim, garantirei que você receba o tesouro que ele guarda também.
-Não há necessidade de humildade, ser. Pegue.
+Não há necessidade de humildade, meu senhor. Pegue.
 A expedição, sem dúvida, terá sua parcela de perigos. Que o Criador acelere seus passos.
 Estranho.
 O anel deve ter poder sobre a fechadura que prende este baú...
@@ -50130,8 +50130,8 @@ Arisen, em breve você aprenderá!
 Chegou a hora prometida -- as chamas purificadoras do dragão!
 Destruição para todos! Destruição é tudo!
 Esta é a única maneira de salvarmos este mundo condenado!
-Eu realmente preciso te agradecer, ser.
-Este peão é um lutador, ser.
+Eu realmente preciso te agradecer, meu senhor.
+Este peão é um lutador, meu senhor.
 Você pode confiar no meu aço durante o combate corpo a corpo.
 O que você está fazendo!? Fujam!
 Parece que... Elegian? Elysion, era?
