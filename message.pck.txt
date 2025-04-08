@@ -1,41 +1,41 @@
-﻿É um lugar estranho... novo, mas antigo,<cf>a sensação, também.
-Caminho frágil à frente mestre, pise<cf>com cuidado.
+﻿É um lugar estranho... novo, mas com algo<cf>de antigo, também.
+Chão frágil à frente, mestre. Pise<cf>com cuidado.
 Algo pode estar escondido nas sombras.
 Pode haver apoio suficiente para passar.
 Parece que esta sala se conecta a outra aqui.
 O sol demora muito a nascer... É uma<cf>noite interminável.
-Esta não é a terra de Gransys, nem de nenhum de<cf>suas vizinhas. ... Este é um lugar desconhecido.
-Este lugar parece uma ruína, mas sua aparência é<cf>algo que não existe na história desta terra...
+Esta não é terra de Gransys, nem de nenhum<cf>de seus vizinhos. ...É um lugar estranho.
+Este lugar parece uma ruína, mas seu estilo<cf>não existe na história desta terra...
 Que tipo de homem ele é, exatamente?
 Ele também se parece com você, Arisen.
-Ele não é um simples vagante, isso é<cf>claro.
+Ele não é um mero viajante, isso é<cf>claro.
 Parece que ele não nos deseja mal.
-Ele parece saber algo sobre este lugar.
+Ele parece saber algo deste lugar.
 Ele dança conforme a sua própria música.
-Ele é um cara escorregadio.
-Que missão poderia estar mantendo-o<cf>aqui?
-Vamos deixar com ele o fortalecimento de nossas armas.<cf>
-Parece que ele pode oferecer um serviço de ferreiro digno de<cf>envergonhar os mestres de Gran Soren.
-Não vamos conseguir abrir sem uma chave.
+Ele é um cara astuto.
+Que missão poderia mantê-lo<cf>aqui?
+Confiaremos a ele o fortalecimento de nossas armas.<cf>
+Parece que ele oferece serviços de ferreiro que<cf>envergonham os mestres de Gran Soren.
+Não conseguiremos abrir sem uma chave.
 É uma porta muito resistente para arrombar.
 Ela não cede, sir.
 Está bem trancada... Precisaremos de uma chave.
-Encontre a chave e veremos o que há dentro.
+Encontre a chave, e veremos o que há além.
 Pai...? Eu...
 Fazer vigília era mais fácil antes, posso te garantir.
 Antes, era raro ver um monstro a quilômetros de Gran Soren.
-Na verdade, eu não tinha nem mesmo desembainhado minha espada em tempos recentes.
-Eu me juntei à guarda para combater estrangeiros, não bestas saídas de livros de mitos e lendas.
+Na verdade, nem lembrava a última vez que havia desembainhado minha arma.
+Entrei para a guarda para lutar contra hordas estrangeiras, não bestas de mitos e lendas.
 É um grande espetáculo colocar homens nas muralhas, mas hoje em dia isso é inútil.
 Gransys há muito tempo fez as pazes com a maioria de seus vizinhos.
-As guerras dos homens significam pouco diante de um dragão. Até mesmo nossos vizinhos agora vêm oferecer ajuda.
-Temo pelos guardas -- poucos de nós são experientes em batalhas.
-Prosperamos bem sob a longa paz do Duque Edmun, mas isso ainda pode ser nossa ruína.
-Outro dos guardas me perguntou se eu desertaria com ele quando chegasse a hora...
-Eu nunca abandonaria meu posto... embora eu confesse que consigo entender como essa ideia pode surgir na mente dele...
-Meu colega da guarda deixou seu posto. Desertou, como um cão sem ração.
-O caos reina em Gran Soren, mas ainda me considero sortudo. Achei que a cidade seria destruída pela fúria do dragão.
-Estou em paz com minha decisão de ficar. Se eu cair, caio com minha honra intacta.
+As guerras do homem pouco importam diante do dragão. Até nossos vizinhos agora oferecem ajuda.
+Receio pela guarda — poucos de nós são veteranos de batalha.
+Prosperamos sob a longa paz do Duque Edmun, mas isso pode ser nossa ruína.
+Outro guarda me perguntou se desertaria com ele quando a hora chegasse...
+Eu nunca abandonaria meu posto... mas confesso que entendo como a ideia pode brotar na mente de um homem...
+Meu companheiro abandonou o posto. Fugiu como um covarde.
+O caos reina em Gran Soren, mas me considero sortudo. Achei que a cidade seria arrasada pela fúria do dragão.
+Estou em paz com minha escolha de ficar. Se eu cair, que seja com honra intacta.
 Guh!
 Guhagh!
 Eeeaaagh ...
@@ -437,7 +437,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir pactos com outros<cf>Pawns enquanto o seu estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode dar e passar itens para seus Pawns<cf>no menu.
@@ -1384,7 +1384,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -1756,7 +1756,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -1996,7 +1996,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -2175,7 +2175,7 @@ Nas profundezas do Shadow Fort, dizem que se esconde um<cf>ciclope envolto na ar
 Espero por você nas Frontier Caverns.
 Diz-se que uma poderosa cocatriz faz seu kip nas<cf>profundezas do Canyon do Soulflayer. Se surgir e<cf>descer sobre a capital, o dano será<cf>incomensurável. Devemos cuidar para que ele nunca desperte.
 Relatos de vendedores ambulantes e Pawns atacados por<cf>ciclopes se tornaram um assunto diário. O duque<cf>despachou uma força de Gran Soren, mas os brutos<cf>são numerosos. Houve avistamentos<cf>perto das cataratas e no sul. Vá<cf>e diminua suas fileiras.
-Uma rivalidade entre os bandidos do oeste e do sul<cf>os leva a crimes cada vez mais ousados ​​enquanto um<cf>compete contra o outro. Eles não veem<cf>que agora é a hora de se unirem contra<cf>o wyrm? Por favor para limpar as estradas ao sul de<cf>esses ladrões idiotas.
+Uma rivalidade entre os bandidos do oeste e do sul<cf>os leva a crimes cada vez mais ousados<cf>​​enquanto um compete contra o outro. Eles não veem<cf>que agora é a hora de se unirem contra<cf>o wyrm? Por favor para limpar as estradas ao sul de<cf>esses ladrões idiotas.
 É um tolo que considera os goblins um<cf>incômodo inofensivo. O que não representa uma ameaça para um soldado<cf>armado ainda pode matar uma mulher ou criança. Eles<cf>possuem força em números, e mostram uma<cf>ousadia perturbadora, além disso. Se quisermos<cf>desencorajá-los, precisaremos reduzir um bom número<cf>aqui.
 Alguns afirmam que os goblins já foram criaturas dóceis,<cf>embora eu duvide em olhar para os demônios agora.<cf>Eles se tornaram especialmente ousados ​​no final do<cf>sul. Se eles não derem ouvidos à razão, o aço<cf>frio será suficiente.
 Há muitos rumores de que os homens mortos na batalha<cf>tornaram-se mortos-vivos não muito depois. Não posso<cf>deixar de sentir pena que essas pobres almas<cf>tenham sido roubadas até a morte ... Por favor, entregue-lhes<cf>um descanso pacífico - e final.
@@ -3022,7 +3022,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -3427,14 +3427,14 @@ A missão não pode mais ser concluída.
 
 
 
-Airtight Flask
-Scrag of Beast
+Frasco Hermético
+Retalho de fera
 Beast-Steak
 Ambrosial Meat
-Sour Scrag of Beast
+Retalho de fera Azedo
 Sour Beast-Steak
 Sour Ambrosial Meat
-Rotten Scrag of Beast
+Retalho de fera Podre
 Rotten Beast-Steak
 Rotten Ambrosial Meat
 Small Fish
@@ -3456,7 +3456,7 @@ Rotten Berry
 Rotten Apple
 Rotten Grandgrapes
 Twigbean
-Carrot
+Cenoura
 Pumpkin
 Moldy Twigbean
 Moldy Carrot
@@ -3472,9 +3472,9 @@ Moonglow
 Wilted Blossom
 Greenwarish
 Potent Greenwarish
-Mushroom
-Large Mushroom
-Avernal Mushroom
+Cogumelo
+Cogumelo Grande
+Cogumelo Avernal
 Mithridate
 Bringbout
 Small Nut
@@ -3483,7 +3483,7 @@ Copper Ore
 Silver Ore
 Gold Ore
 Fuligin Ore
-Hemp
+Cânhamo
 Wool-Cloth
 Silk
 Argence
@@ -3491,13 +3491,13 @@ Pine Branch
 Cedar Branch
 Chestnut Branch
 Beech Branch
-Lantern
+Lanterna
 Lantern (Half-Full)
 Ferrystone
-Empty Flask
-Flask of Water
-Flask of Oil
-Kindling
+Frasco Vazio
+Frasco com Água
+Frasco com Óleo
+Graveto
 Item Desconhecido
 Ceramic Jug
 Rock
@@ -3509,20 +3509,20 @@ Item Desconhecido
 Throwblast
 Dragon's Spit
 Item Desconhecido
-Smother Sap
+Seiva Abafadora
 Harspud Milk
 Harspud Juice
 Harspud Sauce
 Interventive
-Spicy Mushroom Tea
+Chá Ardente de Cogumelo
 Light-Cure
 Item Desconhecido
 Panacea
 White Wine
 Red Wine
-Poison Flask
+Frasco com veneno	
 Absorbent Rag
-Clean Cloth
+Pano Limpo
 Item Desconhecido
 Suavizador Secreto
 Liquid Vim
@@ -3657,13 +3657,13 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Wyrmking's Ring
-Kept Scrag of Beast
+Retalho de fera conservado
 Kept Beast-Steak
 Kept Ambrosial Meat
-Kept Sour Scrag of Beast
+Retalho de fera conservado azedo
 Kept Sour Beast-Steak
 Kept Sour Ambrosial Meat
-Kept Rotten Scrag of Beast
+Retalho de fera conservado podre
 Kept Rotten Beast-Steak
 Kept Rotten Ambrosial Meat
 Kept Small Fish
@@ -3986,7 +3986,7 @@ Tunic
 Bandages
 Cassardi Shift
 Fine Cassardi Shirt
-Hemp Shirt
+Camisa de Cânhamo
 Leather Chestguard
 Item Desconhecido
 Linen Shirt
@@ -4066,7 +4066,7 @@ Leather Bandings
 Cassardi Trousers
 Fine Cassardi Hosen
 Item Desconhecido
-Hemp Hosen
+Calças de Cânhamo
 Worker's Pants
 Yellow Gaiters
 Half Chain Hosen
@@ -4769,7 +4769,7 @@ Item Desconhecido
 Desiccated Herbs
 Stone-Moss Poultice
 Foreign Medicament
-Pickled Mushrooms
+Cogumelos em Conserva
 Backfat Oil
 Staminal Drench
 Crimson Concoction
@@ -4802,7 +4802,7 @@ Tagilus's Miracle
 Steel Nut Salve
 Salomet's Secret
 Decoction of Bandlily
-Mushroom Potage
+Creme de Cogumelos
 Sobering Wine
 Martyr's Talisman
 Golden Talisman
@@ -4874,7 +4874,7 @@ Nightcry
 Waterfell Gentian Root
 Waterfell Gentian Leaf
 z
-Polar Mushroom
+Cogumelo Polar
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
@@ -5438,7 +5438,7 @@ A missão não pode mais ser concluída.
 
 
 Missão bem-sucedida
-Você pegou em armas e saiu da sala.<cf>Recompensa da missão recebida.
+Você pegou suas armas e saiu da sala.<cf>Recompensa da missão recebida.
 
 
 
@@ -6203,7 +6203,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -6895,7 +6895,7 @@ Pode haver outro caminho.
 É uma arma poderosa ... Pena que não funciona.
 Mensagem Inválida
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 sim
 Não
@@ -7078,7 +7078,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -7236,7 +7236,7 @@ Shearing Wind
 Toss And Trigger
 Advanced Trigger
  
-Scarlet Kisses
+Sussurros do Carrasco
 Hundred Kisses
 Thousand Kisses
 Dazzle Hold
@@ -7470,7 +7470,7 @@ Holy Grace
  
 Loose
 Quick-Loose
-Threefold Arrow
+Rajada Tripla
 Fivefold Flurry
  
 Triad Shot
@@ -7799,7 +7799,7 @@ Aqueles com ícones verdes têm novas missões<cf>para oferecer.
 Pessoas com ícones vermelhos aparecendo sobre suas<cf>cabeças têm informações relevantes para sua missão prioritária.<cf>
 Sente-se nesta cadeira especial para ser o mentor de seu Pawn principal.<cf>
 Para certas magias poderosas, conjurar<cf>o mesmo feitiço que um Pawn encurtará o<cf>tempo necessário para lançá-lo.
-Tocar nesta riftstone única permitirá que<cf>você lute contra o Ur-Dragon.
+Tocar nesta pedra do abismo única permitirá que<cf>você lute contra o Ur-Dragon.
 Executar ações que as pessoas não gostam<cf>diminuirá a afinidade delas por você.
 Um Ferrystone o levará de volta ao Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viagem, mas cada pedra desaparece após<cf>um único uso.
@@ -7828,7 +7828,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -8178,7 +8178,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -8421,7 +8421,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -8564,7 +8564,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -9450,7 +9450,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -9807,7 +9807,7 @@ Leaper's Ledge
 Sala de Recepção
 Corredor Subterrâneo
 Área de testes
-Riftstone
+pedra do abismo
 Cadeira de conhecimento
 Caverna da Besta
 Caverns of Delusion
@@ -10111,7 +10111,7 @@ A visita do dragão deixou ferimentos e tristeza em seu<cf>rastro. Colete flores
 
 
 Entregue flores para Benita
-Benita precisa de luz solar e luz da lua para<cf>seu cataplasma. Primeiro reúna um pouco de brilho solar<cf>e traga para ela.
+Benita precisa de luz solar e luz da lua para<cf>seu cataplasma. Primeiro reúna um pouco de<cf>brilho solar e traga para ela.
 
 
 
@@ -11242,7 +11242,7 @@ Pode haver outro caminho.
 É uma arma poderosa ... Pena que não funciona.
 Mensagem Inválida
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 Sim
 Não
@@ -11325,7 +11325,7 @@ Somos como cegos na escuridão.
 As masmorras do castelo podem conter alguma pista.
 Lembro-me de um local onde podemos descansar não muito longe<cf>daqui.
 É o diário do pai de Reynard.
-Lá! Uma riftstone!
+Lá! Uma pedra do abismo!
 Reynard esperou a vida inteira por notícias de<cf>seu pai. É cruel mantê-lo esperando.
 Cuidado com o limite, Mestre!
 Uma queda aqui significa morte certa!
@@ -11358,7 +11358,7 @@ Temos curativos suficientes?
 Muitos bens podem ser mais um obstáculo<cf>do que uma ajuda.
 Mantenha-se vigilante. É sempre melhor vermos nossos<cf>inimigos antes que eles nos vejam.
 Ouça bem, pois poucos são os monstros que<cf>se calam.
-Lucky é o Pawn capaz de lutar ao lado de<cf>Arisen. Eu sou grato.
+Sortudo é o Pawn capaz de lutar ao lado do<cf>Arisen! Eu Sou grato!
 É meu dever compartilhar esta jornada com você,<cf>e uma honra além disso.
 Hmm? Você disse algo, Arisen?
 Como posso atendê-lo?
@@ -11924,8 +11924,8 @@ Parece que não vai abrir deste lado.
 Estar seguro do outro lado.
 Parece um outdoor podre ...
 Parece que algo está escrito aqui.
-Esta riftstone está quebrada ...
-Não vamos usar a pedra fenda nesta<cf>condição, Arisen.
+Esta pedra do abismo está quebrada ...
+Não vamos usar a pedra do abismo  nesta<cf>condição, Arisen.
 O brilho do fogo é uma visão bem-vinda<cf>de fato.
 Um farol apagado, Arisen.
 Melhor descansarmos aqui.
@@ -11935,10 +11935,10 @@ Vamos descansar antes de prosseguir?
 Melhor consertarmos aquela fenda assim que<cf>pudermos.
 Consertar uma fenda tem um custo.
 O acesso ao Rift é vital nas entranhas de<cf>tal lugar.
-Saber que uma pedra fenda está próxima é<cf>bem-vinda para aliviar um Pawn.
-Este Pawn se sente mais à vontade perto de uma pedra fenda.<cf>
-É uma surpresa bem-vinda encontrar uma<cf>riftstone em um lugar tão terrível ...
-Abençoado alívio. Esta pedra fenda vai curar nossas feridas.<cf>
+Saber que uma pedra do abismo está próxima é<cf>bem-vinda para aliviar um Pawn.
+Este Pawn se sente mais à vontade perto de um pedra do abismo.<cf>
+É uma surpresa bem-vinda encontrar uma<cf>pedra do abismo em um lugar tão terrível ...
+Abençoado alívio. Esta pedra do abismo  vai curar nossas feridas.<cf>
 Vamos continuar nossa exploração usando esta pedra<cf>como um centro.
 São os ingredientes de um farol de fogo, mestre.<cf>Precisamos apenas oferecer Rift Crystals para acendê-lo.
 Vamos acender este fogo, mesmo que apenas por enquanto.
@@ -12328,7 +12328,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -15993,7 +15993,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -16120,7 +16120,7 @@ Certo, vamos ver.
 Este aqui, sim?
 Como você quiser.
 Receio que não.
-Uma nuvem de inquietoação paira sobre a terra atualmente.
+Uma nuvem de inquietação paira sobre o mundo hoje.
 Por mais forte que você seja, ainda é humano. Há um limite para o que se pode fazer.
 A quem recorrer?
 De que adianta correr atrás de moedas quando o dragão veio para nos transformar em cinzas?
@@ -17109,7 +17109,7 @@ Outro era uma mulher. Ahh, ela teria sido uma verdadeira joia<cf>, exceto por su
 No final, ela me tratou com o mesmo<cf>desprezo que ela trataria a uma besta.
 Se ela tivesse sido mais livre com seus encantos ao redor das feras<cf>, ela não teria acabado servindo<cf>como seu jantar. Mesmo assim, uma pena ...
 É pura sorte eu ter sobrevivido tanto tempo. Eu<cf>não tenho ilusões quanto a isso.
-Mesmo neste inferno abandonado, há riftstones<cf>prestes a pedir Pawns.
+Mesmo neste inferno abandonado, há pedra do abismos<cf>prestes a pedir Pawns.
 Muitos estão em mau estado, mas o preço certo irá<cf>comprá-los de volta à utilidade, ao que parece.
 Coisa conveniente, isso.
 Talvez este lugar seja parecido com o outro mundo<cf>de que fala a legião de Pawns.
@@ -18437,7 +18437,7 @@ Você pode pensar que purificou uma área de monstros<cf>, mas isso não signifi
 O labirinto contém criaturas que nenhum homem da península jamais viu antes.
 "Eu sinto ... algum tipo de presença aqui ..."
 Outro quadro de pedidos espera por você aqui.
-Riftstones quebrados podem funcionar<cf>novamente se puderem ser reparados.
+pedra do abismos quebrados podem funcionar<cf>novamente se puderem ser reparados.
 Uma alma destruída assombra cada centímetro<cf>deste lugar terrível ...
 Este estrato parece de alguma forma diferente do<cf>anterior. Esteja sempre vigilante.
 Quanto mais fundo você viaja, mais agressivas<cf>as criaturas que se alimentam de cadáveres parecem se tornar ...
@@ -18601,7 +18601,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -18788,7 +18788,7 @@ Pode haver outro caminho.
 É uma arma poderosa ... Pena que não funciona.
 Algo forte pode ser sentido na pedra. Parece que<cf>as memórias de alguém foram gravadas<cf>na superfície do Monumento da Memória.
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 As encostas da The Tainted Mountain são mortalmente íngremes e repletas de perigos, Sr.
 Se você precisa ir, por favor, vá preparado para o pior.
@@ -20351,8 +20351,8 @@ A missão não pode mais ser concluída.
 
 Não tenho vontade de quase nada, verdade seja dita.
 Isso é horrível ... Pior do que eu temia.
-Uma nuvem de inquietoação paira sobre a terra atualmente.
-Uma nuvem de inquietoação paira sobre a terra atualmente.
+Uma nuvem de inquietação paira sobre o mundo hoje.
+Uma nuvem de inquietação paira sobre o mundo hoje.
 Não chore por mim, pois eu dou as boas-vindas à libertação.
 Finalmente, estou livre da eternidade ... Do infinito ...
 Livre do anel cruel e interminável!
@@ -21317,7 +21317,7 @@ Para honrar seus nobres trabalhos, você é bem-vindo à Caçada à Wyrm.
 Agora você pode aceitar ordens de Sr. Maximilian, Capitão da Caçada.
 Traga este mandado para Sr. Maximilian, fora dos portões do castelo. Ele irá instruí-lo ainda mais.
 Esse documento confere a você o status de caçador. Leve-o sempre consigo.
-Uma nuvem de inquietoação paira sobre a terra atualmente.
+Uma nuvem de inquietação paira sobre o mundo hoje.
 A quem recorrer?
 Não tenho vontade de quase nada, verdade seja dita.
 A quem recorrer?
@@ -21914,7 +21914,7 @@ Pode haver outro caminho.
 Mensagem Inválida
 A fechadura se abre.
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 Mensagem Inválida
 Mensagem Inválida
@@ -22778,7 +22778,7 @@ Ah, trouxe o resto deles, não é? Meu obrigado, prima.
 Tudo o que resta é encontrar um pouco de Moonglow. Uma pitada misturada com estes dará um ótimo remédio.
 Sim, é esse mesmo! Você encontrou!
 Moonglow tornou-se raro nestas partes ultimamente. É um alívio ver isso.
-Bom, são os dois. Na verdade, estou surpreso ao ver que eles ficaram tão rapidamente.
+Bom, são as duas. Na verdade, estou surpreso ao ver que elas tão rapidamente.
 Vou trabalhar diretamente. Com sorte, teremos todos de volta à saúde em breve. É coisa sua, primo.
 Temo que haja pouco que eu possa lhe oferecer em agradecimento, exceto isso. Por favor, pegue. Agora, para fazer um remédio!
 Graças a você, os feridos pelo dragão estão bem e curados.
@@ -24319,7 +24319,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -24695,7 +24695,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Os Pawns perdidos esquecem qualquer informação nova que<cf>aprendeu em sua jornada.
@@ -24704,7 +24704,7 @@ Aqueles com ícones verdes têm novas missões<cf>para oferecer.
 Pessoas com ícones vermelhos aparecendo sobre suas<cf>cabeças têm informações relevantes para sua missão prioritária.<cf>
 Sente-se nesta cadeira especial para ser o mentor de seu Pawn principal.<cf>
 Para certas magias poderosas, conjurar<cf>o mesmo feitiço que um Pawn encurtará o<cf>tempo necessário para lançá-lo.
-Tocar nesta riftstone única permitirá que<cf>você lute contra o Ur-Dragon.
+Tocar nesta pedra do abismo única permitirá que<cf>você lute contra o Ur-Dragon.
 O conteúdo para download inclui armas<cf>extras, armaduras, missões e muito mais.
 Algum conteúdo para download pode tornar sua jornada<cf>mais fácil.
 Se você encontrar um Pawn equipado com<cf>equipamento estranho ou desconhecido, ele<cf>pode ser um conteúdo para download.
@@ -24726,7 +24726,7 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 6> Aproxime-se dos aliados caídos e pressione <SIZE 25><ICON TOUCH></SIZE><cf>para reanimá-los.
 <TUTO> Pressione <SIZE 28><ICON PAD_ST></SIZE> para ver os controles do jogo.
 <TUTO> Observe o mundo ao seu redor. <cf>Algumas bordas podem ser escaladas, mas uma longa <cf>queda pode causar ferimentos - ou até a morte.
-<TUTO> Esta é uma riftstone. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
+<TUTO> Esta é uma pedra do abismo. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
 <TUTO> As habilidades com armas disponíveis variam,<cf>dependendo do tipo de arma que você tem<cf>equipado.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
 <TUTO> Segure <SIZE 24><ICON SUB_WEP></SIZE> para bloquear.
@@ -24757,7 +24757,7 @@ Para receber os efeitos das magias curativas,<cf>entre na área da luz de cura.
 Agora você pode assumir as missões de<cf>Caça à Wyrm. Vá para os portões do castelo no<cf>bairro nobre de Gran Soren e fale com Sr.Maximilian.
 É hora de você começar sua jornada como<cf>Surgido. Mas antes que você possa ganhar seu coração<cf>de volta do dragão, você precisa se preparar ...
 Comece perguntando ao redor da aldeia por pistas.<cf>Alguém deve ser capaz de apontar você na<cf>direção certa.
-Para saber realmente o que os Arisen pretendem fazer,<cf>provavelmente é melhor seguir a liderança do Pawn.
+Para saber realmente o que os Arisen pretendem fazer,provavelmente é<cf>melhor seguir a liderança do Pawn.
 Finalmente, você saiu da vila de sua<cf>juventude. Pegue as estradas e siga para o acampamento.<cf>
 Mercedes pegou a cabeça da hidra para oferecer<cf>como tributo ao duque. Vá para a Montanha<cf>Waycastle e ajude-a a escoltá-la.
 Existem muitas informações sobre o dragão<cf>que podem ser encontradas em Gran Soren. Participe de algumas missões<cf>e explore a cidade.
@@ -24766,7 +24766,7 @@ Você não pode permitir que os enredos do Elysion<cf>aconteçam. Vá para Great
 Você derrubou o dragão e completou<cf>seu objetivo! Relate sua vitória para os<cf>aldeões.
 Você derrubou o dragão, mas o que<cf>aconteceu com Gran Soren? Depois de falar com<cf>os aldeões, é melhor ver por si mesmo.
 Você progride no jogo completando missões.<cf>Sempre converse com as pessoas que você encontrar.<cf>Eles certamente terão algo para você fazer.
-Se você chegou a um impasse em uma missão, tente<cf>defini-la como sua missão prioritária para garantir que<cf>receba dicas e informações úteis.
+Se você chegou a um impasse em uma missão,<cf>tente defini-la como sua missão prioritária <cf>para garantir que receba dicas e informações<cf>úteis.
 Diferentes Pawns têm diferentes forças, então<cf>use Pawns de suporte para ajustar seu grupo para atender<cf>suas necessidades atuais.
 Ecbal, localizado no quartel-general de comando<cf>do acampamento, fornece muitas funções de suporte<cf>diferentes para aventureiros.
 Fale com ele para descansar e curar suas feridas,<cf>aprender e habilitar habilidades úteis com armas ou<cf>armazenar itens em excesso.
@@ -25091,7 +25091,7 @@ Pode haver outro caminho.
 Mensagem Inválida
 Não há mais tarefas a serem realizadas.
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 Sim
 Não
@@ -25322,7 +25322,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -26330,7 +26330,7 @@ Pode haver outro caminho.
 É uma arma poderosa ... Pena que não funciona.
 Mensagem Inválida
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 Algo forte pode ser sentido na pedra. Parece que<cf>as memórias de alguém foram gravadas<cf>na superfície do Monumento da Memória.
 Mensagem Inválida
@@ -27270,7 +27270,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -30811,7 +30811,7 @@ Compartilhamos essas estradas com vendedores ambulantes<cf>, guardas e outras pe
 Os aldeões ficarão felizes em ver<cf>você em casa novamente, Arisen.
 Bem resistente, este lugar ...
 Construído para manter os goblins afastados, devo<cf>pensar.
-Este acampamento serve como um excelente baluarte<cf>contra monstros.
+Este acampamento serve como um excelente<cf>baluartecontra monstros.
 Atrevo-me a dizer que esta estrada raramente é usada por<cf>civis.
 Eu rezo para que os monstros do dia não<cf>assombrem as estradas não esteja longe.
 Estamos prontos para encontrar bandidos e ladrões<cf>tão frequentemente quanto vendedores ambulantes, Mestre. Esteja atento.
@@ -31823,7 +31823,7 @@ Foi retirado dos goblins, com certeza, mas eles dizem que nenhum homem ainda exi
 E agora há histórias de uma voz misteriosa e um monstro gigante, nada menos. É uma bagunça certa!
 Pouca misericórdia de saber que a capital não é o único lugar atormentado por tais males ...
 Fala-se de monstros emergindo das águas rasas ao longo da costa.
-Coisas desagradáveis ​​também. A Salmoura, eles os chamam ... Eles dizem que são muitos e ainda um, seja o que for que isso signifique.
+Coisas desagradáveis ​​também. A Salmoura, eles os chamam ...<cf>Eles dizem que são muitos e ainda um, seja o que for que isso signifique.
 Parece que esta "salmoura" não pode ser superada, o que é mais. Nada a fazer a não ser evitar a beira da água.
 Os tempos estão realmente difíceis ...
 Tenho um mau pressentimento sobre isso ...
@@ -32381,7 +32381,7 @@ Você acorda e se encontra deitado em seu quarto. O ataque do dragão foi apenas
 A vila está calma mais uma vez, mas o ataque do dragão ainda pesa sobre as mentes e corpos de seus companheiros pescadores. Tudo isso porque você não pôde protegê-los ... Você está arrasado de vergonha pela absoluta inadequação de suas habilidades.
 Você é encontrado por um "Pawn", um de uma raça frequentemente contratada por suas habilidades marciais. Nem humanos nem desumanos, esses mirmidões tornam sua presença conhecida por aqueles que estão fadados à batalha. A maioria como este Pawn irá guiá-lo pelo caminho que você deve percorrer.
 Você segue o Pawn até um acampamento do Corpo de Alistamento, um exército recrutado para matar o dragão. Assim que você entra, palavras estranhas ecoam em sua mente - palavras que parecem emanar de uma lousa enigmática perto da sede de comando do acampamento ...
-Você encontra uma "riftstone", uma espécie de portal entre o seu mundo e o da legião de Pawns. Uma voz vem de lá, chamando você de "Arisen" e encarregando-o de um teste para provar o seu valor. Você sabe pouco sobre esses assuntos, mas só pode confiar que essa voz está ligada ao seu destino.
+Você encontra uma "pedra do abismo", uma espécie de portal entre o seu mundo e o da legião de Pawns. Uma voz vem de lá, chamando você de "Arisen" e encarregando-o de um teste para provar o seu valor. Você sabe pouco sobre esses assuntos, mas só pode confiar que essa voz está ligada ao seu destino.
 Treinamento em andamento, você retorna a Cassardis e se depara com um homem sombrio com palavras sombrias para combinar. Ele parece quase dar as boas-vindas à destruição causada pelo dragão ... O encontro o deixa abalado, mas você deve continuar com seu dever.
 A voz da fenda declara que você é digno de ser Arisen ... alguém com o poder de matar o dragão. Agora você tem Pawns sob seu comando e as esperanças de cada homem e mulher em Gransys sobre seus ombros ...<cf><cf>Ainda há dúvidas sobre se você pode executar o dever de seu novo cargo. No mínimo, sua nova habilidade de comandar Pawns parece ter despertado o interesse do Mestre de Armas Berne e do Capitão Mercedes do Corpo de Alistamento.
 Você aprende a arte do combate em grupo ao lado de Pawns nos campos de treinamento, completando assim outra tentativa. Sua nova habilidade de comandar habilmente os myrmidons deve ser uma fonte de satisfação, mas o jugo de Arisenship fica mais pesado a cada dia.
@@ -32638,7 +32638,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -33539,8 +33539,8 @@ Biting Wind
 Cutting Wind
 Toss And Trigger
 Advanced Trigger
-Scarlet Kisses
-Hundred Kisses
+Sussurros do Carrasco
+Cem golpes de Aço
 Dazzle Hold
 Dazzle Blast
 Sprint
@@ -33701,7 +33701,7 @@ Holy Aid
 Holy Grace
 Loose
 Quick-Loose
-Threefold Arrow
+Rajada Tripla 
 Fivefold Flurry
 Triad Shot
 Pentad Shot
@@ -34120,7 +34120,7 @@ Prepare-se, Arisen. Eu sinto olhos sobre nós.
 Surgida, a vanguarda marcha sobre a morada do dragão.<cf> Vamos nos apressar e nos juntar a eles!
 Eles precisam da nossa ajuda, mestre!
 Devemos estar seguros aqui por<cf>momento. Mesmo assim, prossiga com cuidado ...
-Um portal para a Fenda, aqui? <cf>Vá e toque naquela pedra.
+Um portal para a Fenda, aqui? <cf>Arisen,vá e toque naquela pedra.
 Este Pawn está sob seu comando,<cf>Arisen.
 Viemos de outro mundo para servir<cf>a você, Arisen, imortal e sem medo.
 Devemos nos juntar a você, mestre.<cf>Avante, para o covil do wyrm.
@@ -35304,7 +35304,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -35602,7 +35602,7 @@ Pode haver outro caminho.
 Mensagem Inválida
 Não há mais tarefas a serem realizadas.
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 Sim
 Não
@@ -35784,14 +35784,14 @@ Não é possível continuar a missão
 A missão não pode mais ser concluída.
 Se não fosse por aquela besta, meu mestre ainda viveria ...
 Mas ele se foi, enquanto eu permaneço ... sozinho ...
-Airtight Flask
-Scrag of Beast
+Frasco Hermético
+Retalho de fera
 Beast-Steak
 Ambrosial Meat
-Sour Scrag of Beast
+Retalho de fera Azedo
 Sour Beast-Steak
 Sour Ambrosial Meat
-Rotten Scrag of Beast
+Retalho de fera Podre
 Rotten Beast-Steak
 Rotten Ambrosial Meat
 Small Fish
@@ -35813,7 +35813,7 @@ Rotten Berry
 Rotten Apple
 Rotten Grandgrapes
 Twigbean
-Carrot
+Cenoura
 Pumpkin
 Moldy Twigbean
 Moldy Carrot
@@ -35829,9 +35829,9 @@ Moonglow
 Wilted Blossom
 Greenwarish
 Potent Greenwarish
-Mushroom
-Large Mushroom
-Avernal Mushroom
+Cogumelo
+Cogumelo Grande
+Cogumelo Avernal
 Mithridate
 Bringbout
 Small Nut
@@ -35840,7 +35840,7 @@ Copper Ore
 Silver Ore
 Gold Ore
 Fuligin Ore
-Hemp
+Cânhamo
 Wool-Cloth
 Silk
 Argence
@@ -35848,13 +35848,13 @@ Pine Branch
 Cedar Branch
 Chestnut Branch
 Beech Branch
-Lantern
+Lanterna
 Lantern (Half-Full)
 Ferrystone
-Empty Flask
-Flask of Water
-Flask of Oil
-Kindling
+Frasco Vazio
+Frasco com Água
+Frasco com Óleo
+Graveto
 Item Desconhecido
 Ceramic Jug
 Rock
@@ -35866,20 +35866,20 @@ Item Desconhecido
 Throwblast
 Dragon's Spit
 Item Desconhecido
-Smother Sap
+Seiva Abafadora
 Harspud Milk
 Harspud Juice
 Harspud Sauce
 Interventive
-Spicy Mushroom Tea
+Chá Ardente de Cogumelo
 Light-Cure
 Item Desconhecido
 Panacea
 White Wine
 Red Wine
-Poison Flask
+Frasco com veneno	
 Absorbent Rag
-Clean Cloth
+Pano Limpo
 Item Desconhecido
 Suavizador Secreto
 Liquid Vim
@@ -36014,13 +36014,13 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Wyrmking's Ring
-Kept Scrag of Beast
+Retalho de fera conservado
 Kept Beast-Steak
 Kept Ambrosial Meat
-Kept Sour Scrag of Beast
+Retalho de fera preservado azedo
 Kept Sour Beast-Steak
 Kept Sour Ambrosial Meat
-Kept Rotten Scrag of Beast
+Retalho de fera conservado podre
 Kept Rotten Beast-Steak
 Kept Rotten Ambrosial Meat
 Kept Small Fish
@@ -36343,7 +36343,7 @@ Tunic
 Bandages
 Cassardi Shift
 Fine Cassardi Shirt
-Hemp Shirt
+Camisa de Cânhamo
 Leather Chestguard
 Item Desconhecido
 Linen Shirt
@@ -36423,7 +36423,7 @@ Leather Bandings
 Cassardi Trousers
 Fine Cassardi Hosen
 Item Desconhecido
-Hemp Hosen
+Calças de Cânhamo
 Worker's Pants
 Yellow Gaiters
 Half Chain Hosen
@@ -37126,7 +37126,7 @@ Item Desconhecido
 Desiccated Herbs
 Stone-Moss Poultice
 Foreign Medicament
-Pickled Mushrooms
+Cogumelos em Conserva
 Backfat Oil
 Staminal Drench
 Crimson Concoction
@@ -37159,7 +37159,7 @@ Tagilus's Miracle
 Steel Nut Salve
 Salomet's Secret
 Decoction of Bandlily
-Mushroom Potage
+Creme de Cogumelos
 Sobering Wine
 Martyr's Talisman
 Golden Talisman
@@ -37231,7 +37231,7 @@ Nightcry
 Waterfell Gentian Root
 Waterfell Gentian Leaf
 z
-Polar Mushroom
+Cogumelo Polar
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
@@ -37945,7 +37945,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -38050,7 +38050,7 @@ Outro era uma mulher. Ahh, ela teria sido uma verdadeira joia<cf>, exceto por su
 No final, ela me tratou com o mesmo<cf>desprezo que ela trataria a uma besta.
 Se ela tivesse sido mais livre com seus encantos ao redor das feras<cf>, ela não teria acabado servindo<cf>como seu jantar. Mesmo assim, uma pena ...
 É pura sorte eu ter sobrevivido tanto tempo. Eu<cf>não tenho ilusões quanto a isso.
-Mesmo neste inferno abandonado, há riftstones<cf>prestes a pedir Pawns.
+Mesmo neste inferno abandonado, há pedra do abismos<cf>prestes a pedir Pawns.
 Muitos estão em mau estado, mas o preço certo irá<cf>comprá-los de volta à utilidade, ao que parece.
 Coisa conveniente, isso.
 Talvez este lugar seja parecido com o outro mundo<cf>de que fala a legião de Pawns.
@@ -38281,7 +38281,7 @@ A missão não pode mais ser concluída.
 [Spark Slash/Corona Slash]
 [Arc Of Might/Arc Of Deliverance]
 [Biting Wind/Cutting Wind]
-[Scarlet Kisses/Hundred Kisses]
+[Sussurros do Carrasco/Cem golpes de Aço]
 [Helm Splitter/Skull Splitter]
 [Stepping Stone/Leaping Stone]
 [Shadowpin/Shadowshackle]
@@ -38754,7 +38754,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Os Pawns perdidos esquecem qualquer informação nova que<cf>aprendeu em sua jornada.
@@ -38763,7 +38763,7 @@ Aqueles com ícones verdes têm novas missões<cf>para oferecer.
 Pessoas com ícones vermelhos aparecendo sobre suas<cf>cabeças têm informações relevantes para sua missão prioritária.<cf>
 Sente-se nesta cadeira especial para ser o mentor de seu Pawn principal.<cf>
 Para certas magias poderosas, conjurar<cf>o mesmo feitiço que um Pawn encurtará o<cf>tempo necessário para lançá-lo.
-Tocar nesta riftstone única permitirá que<cf>você lute contra o Ur-Dragon.
+Tocar nesta pedra do abismo única permitirá que<cf>você lute contra o Ur-Dragon.
 O conteúdo para download inclui armas<cf>extras, armaduras e muito mais.
 Algum conteúdo para download pode tornar sua jornada<cf>mais fácil.
 Se você encontrar um Pawn equipado com<cf>equipamento estranho ou desconhecido, ele<cf>pode ser um conteúdo para download.
@@ -38784,8 +38784,8 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 5> Os ícones ao lado de seu medidor de saúde<cf>indicam quaisquer mudanças em seu status.
 <TUTO 6> Aproxime-se dos aliados caídos e pressione <SIZE 25><ICON TOUCH></SIZE><cf>para reanimá-los.
 <TUTO> Pressione <SIZE 28><ICON PAD_ST></SIZE> para ver os controles do jogo.
-<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa<cf>queda resultará em ferimentos - ou morte.
-<TUTO> Esta é uma riftstone. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
+<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa queda resultará<cf>em ferimentos - ou morte.
+<TUTO> Esta é uma pedra do abismo. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
 <TUTO> As habilidades com armas disponíveis variam,<cf>dependendo do tipo de arma que você tem<cf>equipado.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
 <TUTO> Segure <SIZE 24><ICON SUB_WEP></SIZE> para bloquear.
@@ -38796,7 +38796,7 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 8> Sua saúde e resistência atuais são<cf>exibidas na parte inferior esquerda da tela.
 <TUTO 9> Encontre sua orientação consultando o mapa<cf>no canto inferior esquerdo da tela.
 <TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
-<TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha<cf>nunca irá falhar.
+<TUTO> Invocar esta pedra pode lhe render novos aliados conhecidos como "Pawns",<cf>cuja lealdade na batalha<cf>nunca irá falhar.
 Dispare todos os inimigos e abra a gaiola<cf>assim que a área estiver segura.
 Brutos enredaram uma vítima inocente.<cf>Derrote os inimigos próximos e resgate a<cf>alma infeliz.
 Esta é uma fenda ... um espaço entre os reinos<cf>a partir do qual todo e qualquer tipo de Pawn<cf>pode ser encontrado.
@@ -38816,7 +38816,7 @@ Para receber os efeitos das magias curativas,<cf>entre na área da luz de cura.
 Agora você pode assumir as missões de<cf>Caça à Wyrm. Vá para os portões do castelo no<cf>bairro nobre de Gran Soren e fale com Sr.Maximilian.
 É hora de você começar sua jornada como<cf>Surgido. Mas antes que você possa ganhar seu coração<cf>de volta do dragão, você precisa se preparar ...
 Comece perguntando ao redor da aldeia por pistas.<cf>Alguém deve ser capaz de apontar você na<cf>direção certa.
-Para saber realmente o que os Arisen pretendem fazer,<cf>provavelmente é melhor seguir a liderança do Pawn.
+Para saber realmente o que os Arisen pretendem fazer,provavelmente é<cf>melhor seguir a liderança do Pawn.
 Finalmente, você saiu da vila de sua<cf>juventude. Pegue as estradas e siga para o acampamento.<cf>
 Mercedes pegou a cabeça da hidra para oferecer<cf>como tributo ao duque. Vá para a Montanha<cf>Waycastle e ajude-a a escoltá-la.
 Existem muitas informações sobre o dragão<cf>que podem ser encontradas em Gran Soren. Participe de algumas missões<cf>e explore a cidade.
@@ -38825,7 +38825,7 @@ Você não pode permitir que os enredos do Elysion<cf>aconteçam. Vá para The G
 Você derrubou o dragão e completou<cf>seu objetivo! Relate sua vitória para os<cf>aldeões.
 Você derrubou o dragão, mas o que<cf>aconteceu com Gran Soren? Depois de falar com<cf>os aldeões, é melhor ver por si mesmo.
 Você progride no jogo<cf>completando missões. Sempre converse com as<cf>pessoas que você encontrar. Eles certamente terão<cf>algo para você fazer.
-Se você chegou a um impasse em uma missão, tente<cf>defini-la como sua missão prioritária para garantir que<cf>receba dicas e informações úteis.
+Se você chegou a um impasse em uma missão,<cf>tente defini-la como sua missão prioritária <cf>para garantir que receba dicas e informações<cf>úteis.
 Diferentes Pawns têm diferentes forças, então<cf>use Pawns de suporte para ajustar seu grupo para atender<cf>suas necessidades atuais.
 Ecbal, localizado no quartel-general de comando<cf>do acampamento, fornece muitas funções de suporte<cf>diferentes para aventureiros.
 Fale com ele para descansar e curar suas feridas,<cf>aprender e habilitar habilidades úteis com armas ou<cf>armazenar itens em excesso.
@@ -40134,7 +40134,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -40285,7 +40285,7 @@ Letras esfaceladas foram gravadas nele,<cf>mas são indecifráveis.
 Mensagem Inválida
 Não há mais tarefas a serem realizadas.
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 Sim
 Não
@@ -40514,7 +40514,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -40893,7 +40893,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -41292,7 +41292,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -41648,7 +41648,7 @@ Eles são uma ameaça quando bem unidos.
 Silencie o soprador da buzina!
 Cuidado, eles não te cegam!
 Ignore os goblins! Ataque o fogão!
-Hobgoblin! Isto é uminimigo formidável.
+Hobgoblin! Isto é um inimigo formidável.
 Muitos...!
 É território goblin, isso.
 Fique firme. Eles descem sobre<cf>os caídos.
@@ -42276,7 +42276,7 @@ Vamos prosseguir.
 Eu posso sentir o dragão ... Estamos perto.
 Os restos de um templo, talvez?
 Por aqui para o dragão, Mestre.<cf>Vamos terminar isso.
-Esta aura ... este é o dragão, com certeza.
+Essa aura... isso só pode ser o dragão!
 Até os dragões morrem ... A hora<cf>chegou, Arisen!
 Este é o nosso valor, luta contra o mal do<cf>wyrm ...
 Estamos chegando ao fim da nossa jornada. o destino final <cf> da nossa longa luta...
@@ -42285,7 +42285,7 @@ Não ... Temo que toda a vanguarda<cf>tenha sido massacrada.
 Mais corpos ... O wyrm deve ser<cf>feito para saldar esta dívida.
 O que é essa abominação ?! Tenha cuidado,<cf>cuidado, Mestre!
 Recuar só leva a morte, Arisen!<cf>Vamos abrir caminho à frente!
-Foram os pés de incontáveis ​​peregrinos<cf>que percorreram pela primeira vez esta estrada para o templo.
+Foram os pés de incontáveis ​​peregrinos que percorreram<cf>pela primeira vez esta estrada para o templo.
 Não há outros sobreviventes?
 Monstros destruíram<cf>este lugar ...
 Vamos nos apressar para o ninho do dragão.
@@ -43318,7 +43318,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -43640,7 +43640,7 @@ Pode haver outro caminho.
 Circular de volta para a entrada do labirinto?<cf>(Se o fizer, não será capaz de<cf>voltar imediatamente aqui.)
 Mensagem Inválida
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 Sim
 Não
@@ -43869,7 +43869,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -44281,7 +44281,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -44499,7 +44499,7 @@ Pode haver outro caminho.
 Circular de volta para a entrada do labirinto?<cf>(Se o fizer, não será capaz de<cf>voltar imediatamente aqui.)
 Mensagem Inválida
 Uma fenda quebrada. Parece que você pode<cf>restaurá-lo usando Rift Crystals.
-Restaurar a pedra fenda?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
+Restaurar a pedra do abismo ?<cf>Cristais atuais da fenda: <RIMS><cf>Custo do cristal da fenda: <RIM2>
 Você não tem Rift Crystals suficientes para restaurá-lo.
 Sim
 Não
@@ -44536,9 +44536,9 @@ Aqui. Para você...
 Foi meu mestre, uma vez ... Melhor deveria servir a algum propósito agora com você.
 Este portão leva a Cassardis.
 Voltar para Cassardis, Arisen? É uma<cf>noção justa.
-Uma pedra fenda ... Um estranho poder<cf>emana de dentro.
+Uma pedra do abismo... Um estranho poder<cf>emana de dentro.
 Somos um povo vagabundo, nascido em um<cf>mundo à deriva ... Viemos da fenda.
-Toque em uma riftstone e você pode<cf>guiar um novo Pawn para este mundo.
+Toque em uma pedra do abismo e você pode<cf>guiar um novo Pawn para este mundo.
 Parece que os soldados fazem suas camas<cf>lá.
 É uma estrutura mais humilde do que<cf>imaginava.
 Eles tomaram algumas medidas contra<cf>monstros errantes ...
@@ -44559,7 +44559,7 @@ Uma lâmina afiada pode cortar suas cabeças<cf>completamente!
 Venha, devemos parar com isso - eles dizem que<cf>é vulnerável na cabeça.
 O dano se espalha, Arisen! Devemos<cf>parar com isso!
 Para o melhor do meu conhecimento...
-Estamos perto de uma riftstone,<cf>se não me falha a memória.
+Estamos perto de uma Pedra do Abismo,<cf>se não me falha a memória.
 Pode haver monstros rondando por aí.
 Fizemos o que foi pedido.<cf>Vamos dar uma palavra sobre isso.
 Hmm ... Vamos procurar na área?
@@ -48411,7 +48411,7 @@ Que atrocidade ...
 <TUTO 4> Use <SIZE 28><ICON PAD_DP></SIZE> para emitir ordens básicas <lf> para seus aliados de Pawn.
 <TUTO> Verifique seu status atual e inventário<cf>com <SIZE 28><ICON PAD_SL></SIZE>.
 Está bem fechado. Uma passagem pode ser vista através das barras.
-Esta é uma riftstone, uma pedra gravada com marcas estranhas. Pode ser usado para invocar Pawns do além.
+Esta é uma pedra do abismo, uma pedra gravada com marcas estranhas. Pode ser usado para invocar Pawns do além.
 As marcas não brilham mais. Parece que os Pawns não podem ser convocados agora.
 Você não pode continuar a partir daqui.
 Outro caído ...
@@ -48423,8 +48423,8 @@ O portão está bem fechado. Você sente uma presença do outro lado ...
 <TUTO 5> Os ícones ao lado de seu medidor de saúde<cf>indicam quaisquer mudanças em seu status.
 <TUTO 6> Aproxime-se dos aliados caídos e pressione <SIZE 25><ICON TOUCH></SIZE><cf>para reanimá-los.
 <TUTO> Pressione <SIZE 28><ICON PAD_ST></SIZE> para ver os controles do jogo.
-<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa<cf>queda resultará em ferimentos - ou morte.
-<TUTO> Esta é uma riftstone. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
+<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa queda resultará<cf>em ferimentos - ou morte.
+<TUTO> Esta é uma pedra do abismo. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
 <TUTO> As habilidades com armas disponíveis variam,<cf>dependendo do tipo de arma que você tem<cf>equipado.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
 <TUTO> Segure <SIZE 24><ICON SUB_WEP></SIZE> para bloquear.
@@ -48473,7 +48473,7 @@ Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu Pawn de suporte foi perdido e<cf>voltou ao reino de onde veio.
 Seu Pawn principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode unir convênios com outros Pawns<cf>enquanto seu Pawn principal estiver perdido.
-Toque em qualquer riftstone para retornar seu Pawn principal<cf>perdido para o seu lado.
+Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido para o seu lado.
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
@@ -49820,7 +49820,7 @@ Leaper's Ledge
 Sala de Recepção
 Corredor Subterrâneo
 Área de testes
-Riftstone
+pedra do abismo
 Cadeira de conhecimento
 Caverna da Besta
 Caverns of Delusion
@@ -49900,7 +49900,7 @@ Midnight Helix
 Tower of Treasons Repaid
 Bitterblack Sanctum
 Solicitar placa
-Riftstone Quebrada
+pedra do abismo Quebrada
 Banco de descanso
 Monumento da Memória
 Para Bitterblack Isle
