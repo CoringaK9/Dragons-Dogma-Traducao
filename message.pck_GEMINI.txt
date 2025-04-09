@@ -7310,7 +7310,6 @@ Seismo Aprimorado
 Seismo Grandioso
 Maelstrom
 Maelstrom Aprimorado
-Maelstrom Grandioso
 
 Exéquias
 Exéquias Aprimoradas
@@ -7462,6 +7461,7 @@ Angústia Abissal
 
 Muralha Sagrada
 Fortaleza Sagrada
+
 Lamento demoníaco
 Fúria demoníaca
 
