@@ -38447,7 +38447,7 @@ Presentes Dados
 Pedidos de Escolta Aceitos
 Vezes em que o Vínculo do Arisen Foi Dado
 Inimigos Mortos
-[MONSTER NAME] Mortos
+[NOME DO MONSTRO] Mortos
 Vezes em que Ur-Dragão Foi Repelido
 
 Aprimoramentos Habilitados
@@ -42007,7 +42007,7 @@ Presentes Dados
 Pedidos de Escolta Aceitos
 Vezes que o Vínculo do Arisen Foi Dado
 Inimigos Mortos
-[MONSTER NAME] Mortos
+[NOME DO MONSTRO] Mortos
 Vezes que o Ur-Dragão Foi Repelido
 
 Aumentos Habilitados
@@ -46223,10 +46223,10 @@ Parece que o Olhar do Dragão perdeu seu poder.
 Sua lista de Favoritos agora contém 100 peões.<cf>Para registrar peões adicionais, você deve apagar<cf>peões do registro.
 Sua lista de Favoritos está cheia.<cf>Para registrar peões adicionais, você deve apagar<cf>peões do registro.
 【Dragon's Dogma: Dark Arisen　からの送信】<cf>É um pedido de amizade através do seu peão
-[A notification from Dragon's Dogma: Dark Arisen]<cf>It seems our pawns have met beyond the rifts. As they have joined the bonds of amity, mayhap we may as well. If you would, accept this friend request.
+[Uma mensagem de Dragon's Dogma: Dark Arisen]<cf>Nossos peões se encontraram além da fenda. Talvez essa união permita selar um pacto de amizade entre nossos dois reinos. Se quiser, aceite esse pedido de amizade.
 - Carta de Dragon's Dogma: Dark Arisen-<cf>Nossos peões se encontraram além da fenda. Talvez essa união permita selar um pacto de amizade entre nossos dois reinos. Se quiser, aceite esse pedido de amizade.
-[Eine Nachricht von Dragon's Dogma: Dark Arisen]<cf>Es scheint, als hätten sich unsere Vasallen jenseits des Rifts getroffen. Da sie dabei freundschaftliche Bande geschlossen haben, sollten wir das vielleicht auch tun. Falls Ihr diese Freundschaftsanfrage annehmt.
-[Nota da Dragon's Dogma: Dark Arisen]<cf>Le nostre pedine si sono incontrate oltre la faglia. Hanno sigillato un patto di amicizia e forse potremmo farlo anche noi. Se vuoi, accetta questa richiesta di aggiunta di un amico.
+[Uma mensagem de Dragon's Dogma: Dark Arisen]<cf>Nossos peões se encontraram além da fenda. Talvez essa união permita selar um pacto de amizade entre nossos dois reinos. Se quiser, aceite esse pedido de amizade.
+[Uma mensagem de Dragon's Dogma: Dark Arisen]<cf>Nossos peões se encontraram além da fenda. Talvez essa união permita selar um pacto de amizade entre nossos dois reinos. Se quiser, aceite esse pedido de amizade.
 Solicitação de amizade de outro Arisen:<cf><cf>Meu peão me contou que conheceu o seu além da fenda e que viveram aventuras juntos. Aí pensei que talvez a gente pudesse ser amigo também. Que que cê acha?
 Da próxima vez, vou me esforçar mais ainda.
 Valeu a pena o esforço!
@@ -46249,16 +46249,16 @@ o botão atribuído
 conteúdo para baixar
 Conteúdo para baixar
 Núcleo
-[A sword and mace skill]
-[A longsword and hammer skill]
-[A staff skill]
-[A staff and archistaff skill]
-[A dagger skill]
-[A shield skill]
-[A magick shield skill]
-[A bow skill]
-[A longbow skill]
-[A magick bow skill]
+[Uma habilidade com espada e maça]
+[Uma habilidade com espada longa e martelo]
+[Uma habilidade com cajado]
+[Uma habilidade com cajado e arquistaff]
+[Uma habilidade com adaga]
+[Uma habilidade com escudo]
+[Uma habilidade com escudo mágico]
+[Uma habilidade com arco]
+[Uma habilidade com arco longo]
+[Uma habilidade com arco mágico]
 
 Você comprou<cf><REF><cf>Adicionar isso ao seu jogo?<cf><cf>Aviso: nenhum dispositivo de armazenamento foi detectado.<cf>Se você começar a jogar agora, não poderá<cf>salvar seu jogo.
 <COST> adicionado.<cf>Aviso: Estes cristais de fenda desaparecerão<cf>para sempre se você desligar o jogo ou<cf>voltar para a tela título.
