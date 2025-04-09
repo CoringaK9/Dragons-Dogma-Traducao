@@ -466,7 +466,7 @@ O pessoal do comércio me contratou pra cavar mais fundo nesse lugar, mas não f
 É loucura vir pra um lugar onde monstros podem aparecer a qualquer momento.
 Você pode ir mais fundo se quiser. Pode ter tesouros que valham o perigo, mas eu me contento com meu salário e minha cabeça no lugar.
 Eu mal posso acreditar. Um arisen...
-Não deixa o rato escapar!
+Não deixe esse rato escapar!
 Hnh.
 Gaugh...
 Graaugh...
@@ -1246,7 +1246,7 @@ Conseguimos!
 Se não é o Arisen... O que te traz a um lugar como este, meu bom?
 Eu mesmo, vim descansar das minhas andanças, mas parece que escolhi o lugar errado para um passeio tranquilo.
 Essa pedra que você carrega... Parece ter algum valor, ou interesse acadêmico, no mínimo.
-Se quer que alguém leia essas escritas estranhas, é melhor procurar um homem de letras. Um padre, talvez.
+Se quer que alguém leia essas escritas estranhas, é melhor procurar um homem da igreja. Um padre, talvez.
 Ajudar as massas é o chamado deles, afinal. Provavelmente vai conseguir suas informações, e de graça ainda por cima.
 Seria um prazer te ajudar, mas receio que meus preços sejam um pouco altos. ...Não? Como quiser, então.
 Por que não leva essa pedra para um homem da igreja, meu bom? Talvez eles consigam decifrá-la.
@@ -2014,13 +2014,13 @@ Quando eu olho para cima para agradecer e vejo esse céu preto e gelado, isso me
 É como se fosse tarde demais para fazer qualquer coisa agora.
 Você deve segurá-lo! Só mais um pouco!
 Oof
-[PUNCHED IN THE GUT REAX - "Oough"]
+[SOCO NO ESTÔMAGO - "Oough"]
 Guahhh...
-[THROWING PUNCH EXERTS]
-[SWINGING HEAVY STAFF EXERTS]
+[EXERCÍCIOS DE SOCO]
+[EXERCÍCIOS DE BALANÇAR CAJADO]
 Sim?
 Nós nos encontraremos novamente.
-[AFFIRMATIVE NOISE - "mm"]
+[RUÍDO AFIRMATIVO - "mm"]
 Não.
 ...Isso é aceitável.
 Você é mais interessante do que eu pensava.
@@ -2218,15 +2218,15 @@ A terra onde os sonhos se tornam realidade...<cf>É pra lá que eu tô indo. Que
 Não sei por que, só sei que eu tenho que ir pra lá.
 "Venha até mim. Ofereça suas orações, e a sorte<cf>lhe sorrirá..."<cf>Foi o que me disseram naquele sonho que eu tive, juro<cf>pelo Criador. Acho que pode ser bobagem, mas por outro<cf>lado, pode ser algo importante. Não vou sossegar até<cf>ter certeza.
 "NÃO SE ATRASE. ESTAREI ESPERANDO."<cf><cf>Alguém me mandou uma carta dizendo só isso!<cf>Contra o meu bom senso, acho que vou...<cf>e levar um amigo fortão, pra ajudar.
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e à ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e à ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
 Pedidos por bens estão se acumulando de<cf>uma variedade de fontes. Vasculhe Gransys para achar<cf>"<ITNO 1454>" e "<ITNO 1479>",<cf>e veja sua combinação entregue em segurança.
 A Guilda dos Mercadores elaborou uma lista<cf>de materiais que eles querem comercializar. Viaje<cf>pela terra e veja se a ordem deles é cumprida.
 Um oficial da corte de uma terra vizinha<cf>tem gostos curiosos e uma bolsa cheia. Veja<cf>que seus desejos sejam saciados.
@@ -2241,12 +2241,12 @@ Sou apenas um vendedor ambulante -- um cujo<cf>negócio teve uma queda repentina
 Do Conselho Consultivo do Duque ao<cf>mais recente que reivindica descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se é realmente<cf>digno da bênção do grande Wyrmking,<cf>ou se você deveria ser abatido como a<cf>besta inculta que você parece ser.
 A cada ano, mais e mais animais são vítimas<cf>de ataques de monstros. Estas infelizes,<cf>bestas feridas ficam selvagens em sua dor, atacando<cf>indiscriminadamente. Você não fará a coisa certa<cf>e colocará essas pobres almas para descansar?
 Para a segurança contínua de toda Gransys, o<cf>abaixo listado deve ser abatido sem demora.
-Sua Graça, Duque Edmun Dragonsbane, tem<cf>declarado o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, tem<cf>declarado o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à paz e à<cf>ordem da terra, e pede por sua destruição<cf>imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à paz e à<cf>ordem da terra, e pede por sua destruição<cf>imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à paz e à<cf>ordem da terra, e pede por sua destruição<cf>imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à paz e à<cf>ordem da terra, e pede por sua destruição<cf>imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, tem<cf>declarado o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, tem<cf>declarado o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à paz e à<cf>ordem da terra, e pede por sua destruição<cf>imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à paz e à<cf>ordem da terra, e pede por sua destruição<cf>imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à paz e à<cf>ordem da terra, e pede por sua destruição<cf>imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à paz e à<cf>ordem da terra, e pede por sua destruição<cf>imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
 É o dever jurado de todos que servem<cf>ao Duque não deixar nenhuma ameaça à<cf>segurança do povo de Gransys sem ser<cf>eliminada.<cf>Patrulhe a terra e veja essas bestas<cf>desfeitas.
 É o dever jurado de todos que servem<cf>ao Duque não deixar nenhuma ameaça à<cf>segurança do povo de Gransys sem ser<cf>eliminada.<cf>Patrulhe a terra e veja essas bestas<cf>desfeitas.
 É o dever jurado de todos que servem<cf>ao Duque não deixar nenhuma ameaça à<cf>segurança do povo de Gransys sem ser<cf>eliminada.<cf>Patrulhe a terra e veja essas bestas<cf>desfeitas.
@@ -2275,8 +2275,8 @@ Do Conselho Consultivo do Duque ao<cf>mais novo que alega descaradamente o títu
 Do Conselho Consultivo do Duque ao<cf>mais novo que alega descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se é realmente<cf>digno da bênção do grande Wyrmking,<cf>ou se você deveria ser abatido como a<cf>besta inculta que parece ser.
 Para a segurança contínua de toda Gransys, os<cf>abaixo listados devem ser eliminados sem demora.
 Para a segurança contínua de toda Gransys, os<cf>abaixo listados devem ser eliminados sem demora.
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
-Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Region: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
+Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
 Em breve serei enviado para uma terra desconhecida<cf>e não gosto da ideia de defender um lugar que<cf>nada sei. Procuro um companheiro capaz para<cf>se juntar a mim para explorar a região.
 Gostaria de fazer uma oração no local de descanso do meu<cf>irmão de armas caído antes de partir na grande<cf>marcha. Uma escolta seria muito bem-vinda.
 O oráculo me avisou que eu certamente morreria na<cf>batalha que está por vir se eu não fosse primeiro ao<cf>local para dissipar a má sorte que lá me aguarda.<cf>Preciso de um parceiro para a jornada.
@@ -7125,7 +7125,7 @@ Empalar
 Derrubada
 Salto
 Queda Controlada
-Rolamento para Frente
+Rolamento
 Golpe Súbito
 Golpe Explosivo
 Golpe Relâmpago
@@ -7150,8 +7150,8 @@ Empalada do Destino
 Corte Retrospectivo
 Varredura Retrospectiva
 Golpe Retrospectivo
-Vontade de Pedra
-Vontade de Aço
+Pedra da vontade
+Aço da vontade
 
 Mordida da Legião
 Fauce do Dragão
@@ -7229,7 +7229,7 @@ Dois Passos
 Rondó
 Salto
 Salto Duplo
-Rolamento para Frente
+Rolamento
 Vento Mordaz
 Vento Cortante
 Vento Dilacerante
@@ -7342,24 +7342,24 @@ Repreensão Magica
 Agente Magico
 Salto de Pena
 Levitar
-Ingle
-Ingle Aprimorado
-Ingle Grandioso
-Frazil
-Frazil Aprimorado
+Fogo
+Fogo Aprimorado
+Fogo Grandioso
+Gelo
+Gelo Aprimorado
 
-Levin
-Levin Aprimorado
-Levin Grandioso
-Comestão
-Comestão Aprimorada
+Raio
+Raio Aprimorado
+Raio Grandioso
+Combustão
+Combustão Aprimorada
 
-Frigor
-Frigor Aprimorado
-Frigor Grandioso
-Brontídeo
-Brontídeo Aprimorado
-Brontídeo Grandioso
+Geleira
+Geleira Aprimorado
+Geleira Grandioso
+Tempestade
+Tempestade Aprimorado
+Tempestade Grandiosa
 Arpéu
 Arpéu Aprimorado
 
@@ -7462,8 +7462,8 @@ Angústia Abissal
 
 Muralha Sagrada
 Fortaleza Sagrada
-Demonspite
-Demonswrath
+Lamento demoníaco
+Fúria demoníaca
 
 Auxílio Sagrado
 Graça Sagrada
@@ -8652,7 +8652,7 @@ Uma forma avançada de Espeto de Carne. Prende<cf>o alvo com a lâmina por um te
 Recua antes de avançar para<cf>desferir um golpe cortante. Usá-lo como uma<cf>manobra evasiva aumenta seu poder.
 Uma forma avançada de Retaliação Precisa.<cf>Esquiva para trás antes de desferir um<cf>ataque cortante. Torna-se ainda mais forte<cf>à medida que os ataques são evitados.
 Endurece a carne, permitindo que o usuário<cf>permaneça firme contra todos os ataques e<cf>sofra menos dano por um tempo.
-Uma forma avançada de Vontade de Pedra que<cf>permite ao usuário receber menos dano por<cf>um período de tempo maior.
+Uma forma avançada de Pedra da vontade que<cf>permite ao usuário receber menos dano por<cf>um período de tempo maior.
 Libera um ataque rápido, poderoso e de amplo<cf>alcance, utilizável mesmo sob ataque.<cf>Requer muita Stamina.
 Uma forma avançada de Mordida da Legião que<cf>libera um ataque rápido e poderoso que<cf>se estende por uma área ainda maior.<cf>Requer muita Stamina.
 Implanta um sigilo mágico no chão.<cf>Qualquer inimigo que se aproximar é atingido<cf>com uma explosão devastadora de energia.
@@ -8724,23 +8724,23 @@ Uma forma avançada de Rachador de Elmo que<cf>emprega um giro mais rápido para
 Lança cordas para prender inimigos leves,<cf>puxando-os para o chão para incapacitá-los<cf>eles.
 Uma forma avançada de Laço que permite ao<cf>usuário lançar um laço para capturar vários<cf>alvos de uma vez.
 Rouba itens de inimigos pegos desprevenidos.<cf>Especialmente eficaz contra inimigos que estão<cf>dormindo, cegos ou sendo segurados por aliados.
-Uma forma avançada de Pilfer que permite ao<cf>usuário roubar múltiplos itens de uma vez e<cf>aumenta as chances de pegar itens raros.
+Uma forma avançada de Pilhar que permite ao<cf>usuário roubar múltiplos itens de uma vez e<cf>aumenta as chances de pegar itens raros.
 Retorna o usuário a uma postura neutra,<cf>eliminando aberturas causadas por outras<cf>ações.
-Uma forma avançada de Reset utilizável<cf>mesmo enquanto sob ataque, que retorna o<cf>usuário a uma postura neutra, eliminando<cf>aberturas causadas por outras ações.
+Uma forma avançada de Reiniciar utilizável<cf>mesmo enquanto sob ataque, que retorna o<cf>usuário a uma postura neutra, eliminando<cf>aberturas causadas por outras ações.
 Avança com um chute voador, então usa<cf>o alvo como um ponto de apoio para pular ainda<cf>mais alto.
-Uma forma avançada de Stepping Stone.<cf>Chuta para frente de um alcance estendido,<cf>então pula do alvo, bem alto no ar.
+Uma forma avançada de Pedra de Apoio.<cf>Chuta para frente de um alcance estendido,<cf>então pula do alvo, bem alto no ar.
 Cambalhota aérea em um mergulho que<cf>crava ambas as lâminas na terra e<cf>canaliza uma coluna de chamas mágicas que<cf>irrompe diretamente à frente.
-Uma forma avançada de Sunburst que cria<cf>uma coluna de chamas ainda maior enquanto ambas as<cf>lâminas são cravadas na terra.
+Uma forma avançada de Rajada Solar que cria<cf>uma coluna de chamas ainda maior enquanto ambas as<cf>lâminas são cravadas na terra.
 Crava uma lâmina no chão para<cf>formar um sigilo mágico que prende inimigos<cf>dentro de seus limites.
-Uma forma avançada de Shadowpin que<cf>invoca um sigilo maior e mais duradouro<cf>que prende inimigos dentro de seus limites.
+Uma forma avançada de Alfinete Sombrio que<cf>invoca um sigilo maior e mais duradouro<cf>que prende inimigos dentro de seus limites.
 Carrega e envia uma<cf>onda de choque mágica com um movimento de adaga.<cf>Drena a vida dos inimigos com poder sagrado.
-Uma forma avançada de Scension que envia<cf>uma poderosa onda de choque mágica com<cf>um alcance significativo. Drena a vida dos<cf>inimigos com poder sagrado.
+Uma forma avançada de Ascensão que envia<cf>uma poderosa onda de choque mágica com<cf>um alcance significativo. Drena a vida dos<cf>inimigos com poder sagrado.
 Crava uma lâmina no chão para<cf>formar um sigilo mágico que melhora as Defesas<cf>Mágicas, exceto quando enfrenta mortos-vivos.
-Uma forma avançada de Magick Rebuffer.<cf>Forma um sigilo mágico que aumenta tanto<cf>Magia quanto Defesas Mágicas, exceto quando<cf>enfrenta mortos-vivos.
+Uma forma avançada de Rebuff Magico.<cf>Forma um sigilo mágico que aumenta tanto<cf>Magia quanto Defesas Mágicas, exceto quando<cf>enfrenta mortos-vivos.
 Acelera o movimento do usuário por um tempo,<cf>mesmo enquanto sob ataque.
-Uma forma avançada de Wind Harness que<cf>acelera o movimento do usuário por um período<cf>maior de tempo.
+Uma forma avançada de Arreio de Vento que<cf>acelera o movimento do usuário por um período<cf>maior de tempo.
 Puxa para trás momentaneamente antes de liberar<cf>um chute frontal.
-Uma forma avançada de Back Kick. O<cf>chute frontal atinge com maior força e torna<cf>o usuário mais difícil de acertar.
+Uma forma avançada de Chute para Trás. O<cf>chute frontal atinge com maior força e torna<cf>o usuário mais difícil de acertar.
 Imobiliza o alvo com um golpe rápido, <cf>e então o derruba depois de dar um<cf>beijo da agulha de veneno.
 Uma forma avançada de Picada de Aranha que<cf>derruba os alvos após envenená-los<cf>com um veneno mais mortal.
 Incendeia o corpo do usuário, corroendo<cf>sua própria vida, mas também causando dano a<cf>tudo que ele toca.
@@ -8788,27 +8788,27 @@ Conjura esferas de energia mágica<cf>em torno do usuário para atacar inimigos<
 Realiza um salto ágil útil para<cf>alcançar bordas e apoios elevados.
 Mitiga a força da gravidade, permitindo<cf>um pouso suave mesmo de grandes alturas. <cf><STAF>
 Lança uma bola de fogo que explode ao<cf>contato, envolvendo tanto o alvo quanto<cf>os inimigos ao redor.
-Uma forma avançada de Ingle que lança<cf>vários projéteis de fogo que explodem<cf>ao contato.
+Uma forma avançada de Fogo que lança<cf>vários projéteis de fogo que explodem<cf>ao contato.
 Cria um campo concentrado de frio<cf>em torno do usuário que causa dano de gelo<cf>a qualquer inimigo que toque.
-Uma forma avançada de Frazil que cria<cf>um campo expandido de frio ao redor do usuário<cf>que causa dano de gelo àqueles que toca.
+Uma forma avançada de Gelo que cria<cf>um campo expandido de frio ao redor do usuário<cf>que causa dano de gelo àqueles que toca.
 Ataca o inimigo de cima com<cf>línguas de relâmpago. Especialmente eficaz<cf>para tirar os inimigos do esconderijo.
-Uma forma avançada de Levin que atinge inimigos<cf>com múltiplos raios de cima.
+Uma forma avançada de Raio que atinge inimigos<cf>com múltiplos raios de cima.
 Gera uma imponente parede de chamas;<cf>embora de poder modesto, incendeia<cf>adversários com facilidade.
-Uma forma avançada de Comestion que<cf>invoca uma parede de chamas ainda maior,<cf>capaz de incendiar inimigos facilmente.
+Uma forma avançada de Combustão que<cf>invoca uma parede de chamas ainda maior,<cf>capaz de incendiar inimigos facilmente.
 Gera uma gigante espiral de gelo que pode<cf>servir como um degrau.
-Uma forma avançada de Frigor que gera<cf>três espirais de gelo. A última pode<cf>servir como um degrau.
+Uma forma avançada de Geleira que gera<cf>três espirais de gelo. A última pode<cf>servir como um degrau.
 Conjura um raio em forma de chicote<cf>capaz de danificar inimigos.
 Uma forma avançada de Brontide que evoca<cf>um chicote de relâmpago mais duradouro<cf>que solta mais raios quando dispensado.
 Envia tentáculos de energia escura que podem<cf>prender um inimigo por um tempo.
-Uma forma avançada de Grapnel que usa<cf>magia negra para prender até mesmo grandes<cf>inimigos por um período prolongado de tempo.
+Uma forma avançada de Arpéu que usa<cf>magia negra para prender até mesmo grandes<cf>inimigos por um período prolongado de tempo.
 Invoca uma aura mágica ao redor do usuário<cf>que silencia os inimigos que entram.
-Uma forma avançada de Silentium que evoca<cf>uma aura maior ao redor do usuário,<cf>silenciando os inimigos que entram.
+Uma forma avançada de Silêncio que evoca<cf>uma aura maior ao redor do usuário,<cf>silenciando os inimigos que entram.
 Invoca uma aura mágica ao redor do usuário<cf>que cega os inimigos que entram.
-Uma forma avançada de Blearing que evoca<cf>uma aura maior ao redor do usuário, cegando<cf>os inimigos que entram.
+Uma forma avançada de Visão Turva que evoca<cf>uma aura maior ao redor do usuário, cegando<cf>os inimigos que entram.
 Invoca uma névoa mágica em um local<cf>designado que inflige torpor aos inimigos<cf>que entram.
-Uma forma avançada de Lassitude que evoca<cf>uma névoa maior e mais duradoura que<cf>inflige torpor aos inimigos que entram.
+Uma forma avançada de Lassidão que evoca<cf>uma névoa maior e mais duradoura que<cf>inflige torpor aos inimigos que entram.
 Invoca um sigilo mágico que recupera<cf>a Saúde daqueles que entram.
-Uma forma avançada de Anodyne que<cf>restaura a Saúde em um ritmo mais rápido, e<cf>continua a ser eficaz mesmo depois de<cf>sair do sigilo.
+Uma forma avançada de Lassidão que<cf>restaura a Saúde em um ritmo mais rápido, e<cf>continua a ser eficaz mesmo depois de<cf>sair do sigilo.
 Invoca um sigilo mágico que remove o<cf>seguinte daqueles que entram: Veneno,<cf>Torpor, Silêncio, Ter Pegado Fogo e<cf>Estar Congelado.
 Invoca um sigilo duradouro que remove todas<cf>as debilitações, exceto Encharcamento, Alcatrão,<cf>Petrificação e atributos diminuídos.
 Lança um raio de magia que encanta<cf>a arma de um aliado com fogo.
@@ -9768,7 +9768,7 @@ Observation Room
 Witch's House
 Guardian's Grave
 Holding Room
-Grand Hall
+Grande Hall
 Before the Greatwall Gate
 Gathering Hall
 Confessional Chamber
@@ -15632,7 +15632,7 @@ Feito com maestria!
 Nossos negócios aqui terminaram.
 Em memória de Grette,
 Coração silencioso, forjado pelo dragão.
-Com cabelos de ouro e vontade de aço temperado.
+Com cabelos de ouro e aço da vontade temperado.
 Você me resgatou de uma vila queimada até as cinzas - instilou vida,<cf>e luta. Querido mentor, agora o recomendo ao descanso eterno.
 Seu servo, privado de mestre e memória,<cf>eu a mantenho agora ao meu lado.
 Ela vive, seu espelho em alma e corpo,<cf>e eu não a perderei como perdemos você.
@@ -27387,7 +27387,7 @@ Minhas viagens agora abrangem três fronteiras, e eu<cf>vi muitos homens piedoso
 Ventos do norte sopram gelo em meus ossos,<cf>e sou deixado para aquecer meu peito com doces<cf>memórias de casa. Da esposa, e da filha,<cf>e do filho cujo rosto eu ainda não vi.
 Eu encontrei. O ninho da hidra. O poço imundo<cf>de onde veio a besta que arrasou nossa vila.<cf>Eu pretendo enviá-la para um lar diferente.<cf>Um lugar de fogo e sangue. Minha jornada termina.
 Estou sangrando, e doente, e longe de casa...<cf>e a morte está próxima. Minha Laura, a quem eu<cf>abandonei, Alicia, a quem eu agora falhei duas vezes,<cf>Reynard, meu filho, perdoe-me...
-[Affinity Up: Give to ＊＊＊＊＊＊＊＊＊]
+[Afinidade Aumentada: Dê para ＊＊＊＊＊＊＊＊＊]
 Favorecido pelos soldados do acampamento.
 Favorecido pelos soldados de Greatwall.
 Favorecido por todos.
@@ -28273,7 +28273,7 @@ Isso é o seu pior!?
 Não parece que você pode ler esta seção agora.
 Tem mais, mas não parece que você pode ler agora.
 Agora, escolha. Lute contra mim,<cf>ou diga seu desejo.<cf><cf>Ofereça seu amado em sacrifício,<cf>e eu farei sua vontade ser cumprida.<cf><cf>Escolher? Como posso escolher?<cf><cf>Não importa minha resposta, o preço é a morte.<cf>Uma escolha vazia... Quem sou eu para ser<cf>árbitro de duas vidas?<cf>...De dois amores.<cf>O que você quer que eu faça?<cf>Você me trouxe aqui. Você...<cf>Se esta é a vontade dos deuses... A ordem<cf>do mundo... Então que se dane todos eles!<cf>Eu vou destruir tudo!<cf><cf>Muito bem... Se esse é o seu desejo,<cf>eu cobrarei meu preço.<cf><cf>Pare! NÃÃÃÃÃO!
-Em memória de Grette,<cf><cf>De coração silencioso, forjada pelo dragão.<cf>Com cabelos de ouro e vontade de aço temperado.<cf><cf>Você me resgatou de uma vila queimada até<cf>as cinzas--me deu vida e luta.<cf>Querida mentora, eu agora a entrego<cf>ao descanso eterno.<cf><cf>Seu servo, privado de mestre e memória,<cf>eu a mantenho agora ao meu lado.<cf>Ela vive, seu espelho em alma e corpo,<cf>e eu não a perderei como perdemos você.<cf><cf>Isto eu juro diante de seu túmulo vazio.
+Em memória de Grette,<cf><cf>De coração silencioso, forjada pelo dragão.<cf>Com cabelos de ouro e aço da vontade temperado.<cf><cf>Você me resgatou de uma vila queimada até<cf>as cinzas--me deu vida e luta.<cf>Querida mentora, eu agora a entrego<cf>ao descanso eterno.<cf><cf>Seu servo, privado de mestre e memória,<cf>eu a mantenho agora ao meu lado.<cf>Ela vive, seu espelho em alma e corpo,<cf>e eu não a perderei como perdemos você.<cf><cf>Isto eu juro diante de seu túmulo vazio.
 "Você foi escolhido."<cf>Assim dizendo, o wyrm arrancou o coração do meu peito.<cf><cf>Eu fui feito Arisen: conhecido pelo dragão e obrigado<cf>a caçá-lo. É um destino que eu abraço. Que utilidade tenho eu<cf>para um coração deixado vazio?<cf><cf>Em um mundo sem a doce Grette--minha mentora, minha<cf>mãe, minha amada...<cf><cf>Eu vivo apenas para ver o dragão que a levou<cf>ser morto. Eu verei sua pele escamosa arrancada dos<cf>ossos pelas minhas mãos antes de descansar.
 ...Arisen. Portador da marca do dragão. Cadáver<cf>imortal, obrigado a manifestar sua vontade.<cf><cf>Se minha voz chega até você, ouça-me bem.<cf><cf>O Arisen, o Senescal, o mundo<cf>amaldiçoado... Tudo não passa de uma ilusão.<cf><cf>Um refrão sem sentido. Um eco vazio...<cf>Que sentido há em dar a vida<cf>por essas falsidades?<cf><cf>Eu os amaldiçoo a todos.<cf><cf>E eu não cessarei em minha destruição até que<cf>o último ciclo sem sentido seja quebrado, o último<cf>laço reduzido a pó.
 "Vaguei perdido neste labirinto amaldiçoado<cf>por... deve fazer um ano já, e ainda não<cf>encontrei esperança de escapar...<cf><cf>Às vezes, uma voz desconhecida parece<cf>ecoar no fundo da minha mente, mas minha<cf>luta diária pela sobrevivência me deixou com<cf>pouca energia para ponderar tais mistérios...<cf><cf>A partir de agora, me esforçarei para registrar<cf>minhas jornadas, mesmo que brevemente. Talvez<cf>um diário de meus pensamentos possa trazer algum<cf>pequeno conforto - para mim, ou para quem<cf>quer que siga...                         —Arthacos"
@@ -32831,7 +32831,7 @@ Esquiva para trás antes de investir para<cf>desferir um golpe cortante. Usá-lo
 Uma forma avançada de Talho Retardatário.<cf>Esquiva para trás antes de desferir um<cf>ataque cortante. Torna-se ainda mais forte<cf>conforme os ataques são evitados.
 Uma forma avançada de Varrida Retardatária<cf>que atinge duas vezes após se esquivar para<cf>um contra-ataque ainda mais mortal.
 Endurece a carne, permitindo que o usuário <cf>permaneça firme contra todos os ataques e<cf>sofra menos dano por um tempo.
-Uma forma avançada de Vontade de Pedra que<cf>permite ao usuário sofrer menos dano por<cf>um período de tempo maior.
+Uma forma avançada de Pedra da vontade que<cf>permite ao usuário sofrer menos dano por<cf>um período de tempo maior.
  
 Libera um ataque rápido, poderoso e de amplo <cf>alcance, utilizável mesmo enquanto está<cf>sob ataque. Requer muita Stamina.
 Uma forma avançada de Mordida da Legião que<cf>libera um ataque rápido e poderoso que<cf>se estende por uma área ainda mais ampla.<cf>Requer muita Stamina.
@@ -32935,7 +32935,7 @@ Rouba itens de inimigos pegos desprevenidos.<cf>Especialmente eficaz contra inim
 Uma forma avançada de Furto que permite ao<cf>usuário roubar vários itens de uma só vez e<cf>aumenta as chances de pegar itens raros.
 
 Retorna o usuário a uma postura neutra,<cf>eliminando aberturas causadas por outras<cf>ações.
-Uma forma avançada de Reset utilizável<cf>mesmo sob ataque que retorna o<cf>usuário a uma postura neutra, eliminando<cf>aberturas causadas por outras ações.
+Uma forma avançada de Reiniciar utilizável<cf>mesmo sob ataque que retorna o<cf>usuário a uma postura neutra, eliminando<cf>aberturas causadas por outras ações.
 
 Avança em um chute voador, então usa<cf>o alvo como um ponto de apoio para pular ainda<cf>mais alto.
 Uma forma avançada de Escada de Pedra.<cf>Chuta para frente de um alcance estendido,<cf>então pula do alvo, alto no ar.
@@ -32957,7 +32957,7 @@ Uma forma avançada de Aproveitamento do Vento que<cf>acelera o movimento do usu
 Uma forma avançada de Domínio da Ventania que <cf>acelera o movimento do usuário por um período <cf>ainda maior de tempo.
 Recua momentaneamente antes de soltar<cf>um chute frontal.
 Uma forma avançada de Chute para Trás. O chute<cf>frontal atinge com mais força e torna<cf>o usuário mais difícil de acertar.
-Uma forma avançada de Escape Onslaught<cf>que adiciona ataques adicionais,<cf>e ataca em todas as direções.
+Uma forma avançada de Evasiva Ofensiva<cf>que adiciona ataques adicionais,<cf>e ataca em todas as direções.
 Imobiliza o alvo com uma investida rápida,<cf>então os derruba após entregar um<cf>beijo de agulha venenosa.
 Uma forma avançada de Picada de Aranha que<cf>derruba alvos após envenená-los<cf>com um veneno mais mortal.
 
@@ -33022,28 +33022,28 @@ Conjura esferas de energia mágica<cf>ao redor do usuário para atacar inimigos<
 Realiza um salto ágil útil para<cf>alcançar bordas e pontos de apoio elevados.
 Mitiga a força da gravidade, permitindo um<cf>pouso suave mesmo de grandes alturas.<cf><STAF>
 Dispara uma bola de fogo que explode ao<cf>contato, envolvendo tanto o alvo quanto<cf>os inimigos ao redor.
-Uma forma avançada de Ingle que solta uma<cf>porção de projéteis flamejantes que explodem<cf>ao contato.
-Uma forma avançada de High Ingle que<cf>solta um número maior de projéteis flamejantes<cf>que explodem ao contato.
+Uma forma avançada de Fogo que solta uma<cf>porção de projéteis flamejantes que explodem<cf>ao contato.
+Uma forma avançada de Fogo Aprimorado que<cf>solta um número maior de projéteis flamejantes<cf>que explodem ao contato.
 Cria um campo concentrado de frio<cf>ao redor do usuário que causa dano de gelo<cf>em qualquer inimigo que tocar.
-Uma forma avançada de Frazil que cria<cf>um campo expandido de frio ao redor do usuário<cf>que causa dano de gelo em quem tocar.
+Uma forma avançada de Gelo que cria<cf>um campo expandido de frio ao redor do usuário<cf>que causa dano de gelo em quem tocar.
 
 Fulmina o inimigo de cima com<cf>línguas de raio. Especialmente eficaz<cf>para tirar inimigos do esconderijo.
-Uma forma avançada de Levin que fulmina inimigos<cf>com múltiplos raios de cima.
-Uma forma avançada de High Levin que<cf>fulmina inimigos com um número ainda maior<cf>de raios.
+Uma forma avançada de Raio que fulmina inimigos<cf>com múltiplos raios de cima.
+Uma forma avançada de Raio Aprimorado que<cf>fulmina inimigos com um número ainda maior<cf>de raios.
 Gera uma parede flamejante imponente;<cf>embora de poder modesto, incendeia<cf>adversários com facilidade.
-Uma forma avançada de Comestion que<cf>invoca uma parede de chamas ainda maior, facilmente<cf>capaz de incendiar inimigos.
+Uma forma avançada de Combustão que<cf>invoca uma parede de chamas ainda maior, facilmente<cf>capaz de incendiar inimigos.
 
 Gera uma gigante torre de gelo que pode<cf>servir como um degrau.
-Uma forma avançada de Frigor que gera<cf>três torres de gelo. A última pode<cf>servir como um degrau.
-Uma forma avançada de High Frigor que<cf>gera uma quantidade ainda maior de<cf>torres de gelo.
+Uma forma avançada de Geleira que gera<cf>três torres de gelo. A última pode<cf>servir como um degrau.
+Uma forma avançada de Geleira aprimorada que<cf>gera uma quantidade ainda maior de<cf>torres de gelo.
 Conjura um chicote de raio<cf>capaz de danificar inimigos.
 Uma forma avançada de Brontide que evoca<cf>um chicote de raio mais duradouro<cf>que solta mais raios quando dispensado.
-Uma forma avançada de High Brontide que<cf>consome menos Vigor e periodicamente<cf>solta raios ao redor do usuário.
+Uma forma avançada de Tempestade Aprimorada que<cf>consome menos Vigor e periodicamente<cf>solta raios ao redor do usuário.
 Envia tentáculos de energia sombria que podem<cf>prender um inimigo por um tempo.
-Uma forma avançada de Grapnel que usa<cf>magia negra para prender até mesmo inimigos grandes por um<cf>período prolongado de tempo.
+Uma forma avançada de Arpéu que usa<cf>magia negra para prender até mesmo inimigos grandes por um<cf>período prolongado de tempo.
 
 Invoca uma aura mágica ao redor do usuário<cf>que silencia inimigos que entrarem nela.
-Uma forma avançada de Silentium que evoca<cf>uma aura maior ao redor do usuário,<cf>silenciando inimigos que entrarem nela.
+Uma forma avançada de Silêncio que evoca<cf>uma aura maior ao redor do usuário,<cf>silenciando inimigos que entrarem nela.
 
 Invoca uma aura mágica ao redor do usuário<cf>que cega inimigos que entrarem nela.
 Uma forma avançada de Ofuscação que invoca<cf>uma aura maior ao redor do usuário, cegando<cf>os inimigos que entram nela.
@@ -33052,8 +33052,8 @@ Invoca uma névoa mágica em um local<cf>designado que inflige torpor aos inimig
 Uma forma avançada de Lassidão que evoca<cf>uma névoa maior e mais duradoura que<cf>inflige torpor aos inimigos que entram nela.
 
 Invoca um sigilo mágico que recupera<cf>a Saúde daqueles que entram.
-Uma forma avançada de Anodyne que<cf>restaura a Saúde mais rapidamente, e<cf>continua a ser eficaz mesmo depois de<cf>sair do sigilo.
-Uma forma avançada de Alto Anodyne que <cf>restaura mais Saúde e dura por um <cf>período ainda maior.
+Uma forma avançada de Lassidão que<cf>restaura a Saúde mais rapidamente, e<cf>continua a ser eficaz mesmo depois de<cf>sair do sigilo.
+Uma forma avançada de Alto Lassidão que <cf>restaura mais Saúde e dura por um <cf>período ainda maior.
 Invoca um sigilo mágico que remove o<cf>seguinte daqueles que entram: Veneno,<cf>Torpor, Silêncio, Estar em Chamas e<cf>Estar Congelado.
 Invoca um sigilo de longa duração que remove todas<cf>as debilitações, exceto Encharcado, Alcatroado,<cf>Petrificação e atributos reduzidos.
 
@@ -33111,24 +33111,24 @@ Uma forma avançada de Contra-ataque de Gelo que<cf>persiste por um período de 
 Uma forma avançada de Estocada Glacial que<cf>estende ainda mais a duração e<cf>conjura ainda mais estilhaços de gelo.
 Faz os inimigos cambalearem para trás quando o usuário<cf>bloqueia um ataque. Um bloqueio perfeito invoca<cf>um raio, eletrocutando os inimigos.
 Uma forma avançada de Contra-ataque Trovejante<cf>que persiste por um período de tempo maior<cf>e conjura mais raios após um<cf>bloqueio perfeito.
-Uma forma avançada de Thunder Riposte <cf>que aumenta ainda mais a duração e <cf>conjura ainda mais raios.
+Uma forma avançada de Estocada Trovejante <cf>que aumenta ainda mais a duração e <cf>conjura ainda mais raios.
 Faz os inimigos cambalearem para trás quando o usuário <cf>bloqueia um ataque. Um bloqueio perfeito dispara <cf>rajadas de luz sagrada que perseguem o inimigo.
-Uma forma avançada de Holycounter que <cf>persiste por um período de tempo maior e <cf>conjura mais feixes de luz sagrada após um <cf>bloqueio perfeito.
-Uma forma avançada de Blessed Riposte <cf>que aumenta ainda mais a duração e <cf>conjura ainda mais rajadas de luz sagrada.
+Uma forma avançada de Contra-Ataque Sagrado que <cf>persiste por um período de tempo maior e <cf>conjura mais feixes de luz sagrada após um <cf>bloqueio perfeito.
+Uma forma avançada de Estocada Abençoada <cf>que aumenta ainda mais a duração e <cf>conjura ainda mais rajadas de luz sagrada.
 Faz os inimigos cambalearem para trás quando o usuário <cf>bloqueia um ataque. Um bloqueio perfeito conjura <cf>uma mortalha escura que aflige os inimigos com Torpor.
-Uma forma avançada de Darkcounter que <cf>persiste por um período de tempo maior e <cf>conjura mais escuridão em um bloqueio perfeito.
-Uma forma avançada de Abyssal Riposte <cf>que aumenta ainda mais a duração e <cf>conjura ainda mais escuridão.
+Uma forma avançada de Contra-Ataque Sombrio que <cf>persiste por um período de tempo maior e <cf>conjura mais escuridão em um bloqueio perfeito.
+Uma forma avançada de Estocada Abissal <cf>que aumenta ainda mais a duração e <cf>conjura ainda mais escuridão.
 Encanta a arma tanto do usuário <cf>quanto de qualquer peão próximo com fogo.
-Uma forma avançada de Fire Enchanter que <cf>estende e amplifica o encantamento, <cf>bem como a Magia do destinatário.
-Uma forma avançada de Flame Trance que <cf>é mais forte, dura mais e aumenta ainda mais <cf>a Magia do destinatário.
+Uma forma avançada de Encantador de Fogo que <cf>estende e amplifica o encantamento, <cf>bem como a Magia do destinatário.
+Uma forma avançada de Transe de Chamas que <cf>é mais forte, dura mais e aumenta ainda mais <cf>a Magia do destinatário.
 Encanta a arma tanto do usuário <cf>quanto de qualquer peão próximo com gelo.
-Uma forma avançada de Ice Enchanter que <cf>estende e amplifica o encantamento, <cf>bem como a Magia do destinatário.
+Uma forma avançada de Encantador de Gelo que <cf>estende e amplifica o encantamento, <cf>bem como a Magia do destinatário.
 Uma forma avançada de Frost Trance que <cf>é mais forte, dura mais e aumenta ainda mais <cf>a Magia do destinatário.
 Encanta a arma tanto do usuário <cf>quanto de qualquer peão próximo com trovão.
-Uma forma avançada de Thunder Enchanter <cf>que estende e amplifica o efeito, <cf>bem como a Magia do destinatário.
-Uma forma avançada de Lightning Trance <cf>que é mais forte, dura mais e <cf>aumenta ainda mais a Magia do destinatário.
+Uma forma avançada de Encantador de Trovão <cf>que estende e amplifica o efeito, <cf>bem como a Magia do destinatário.
+Uma forma avançada de Transe de Relâmpago <cf>que é mais forte, dura mais e <cf>aumenta ainda mais a Magia do destinatário.
 Encanta a arma tanto do usuário <cf>quanto de qualquer peão próximo com luz sagrada.
-Uma forma avançada de Holy Enchanter que <cf>estende e amplifica o encantamento, <cf>bem como a Magia do destinatário.
+Uma forma avançada de Encantador Sagrado que <cf>estende e amplifica o encantamento, <cf>bem como a Magia do destinatário.
 Uma forma avançada de Transe Sagrado que<cf>é mais forte, dura mais e aumenta ainda<cf>mais a Magia do alvo.
 Encanta a arma do usuário e de todos<cf>os peões próximos com escuridão.
 Uma forma avançada de Encantador Sombrio que<cf>estende e amplifica o encantamento,<cf>bem como a Magia do alvo.
@@ -33458,105 +33458,105 @@ Onslaught
 Dire Onslaught
 Empale
 Takedown
-Vault
-Controlled Fall
-Forward Roll
-Blink Strike
-Burst Strike
-Broad Cut
-Broad Slash
-Downthrust
-Downcrack
-Tusk Toss
-Antler Toss
-Compass Slash
-Full Moon Slash
-Skyward Lash
-Heavenward Lash
-Flesh Skewer
-Soul Skewer
-Hindsight Slash
-Hindsight Sweep
-Stone Will
-Steel Will
-Legion's Bite
-Dragon's Maw
-Perilous Sigil
-Ruinous Sigil
-Magick Cannon
-Great Cannon
-Funnel Sigil
-Vortex Sigil
-Sky Dance
-Sky Rapture
-Stone Grove
-Stone Forest
-Intimate Strike
-Intimate Gambit
-Windmill Slash
-Great Windmill
-Powder Charge
-Powder Blast
-Gouge
-Dire Gouge
-Clarity
-Clairvoyance
-Hack
-Devastate
-Transfix
-Eviscerate
-Vault
-Controlled Fall
-Rush
-Upward Strike
-Whirlwind Slash
-Pommel Strike
-Pommel Bash
-Savage Lunge
-Indomitable Lunge
-Escape Slash
-Exodus Slash
-Savage Lash
-Indomitable Lash
-Ladder Blade
-Catapult Blade
-Spark Slash
-Corona Slash
-Act Of Atonement
-Act Of Vengeance
-Battle Cry
-War Cry
-Arc Of Might
-Arc Of Deliverance
-Carve
-Engrave
-Two-Step
-Roundelay
-Vault
-Double Vault
-Forward Roll
-Biting Wind
-Cutting Wind
-Toss And Trigger
-Advanced Trigger
-Scarlet Kisses
-Hundred Kisses
-Dazzle Hold
-Dazzle Blast
-Sprint
-Mad Dash
-Helm Splitter
-Skull Splitter
-Ensnare
-Implicate
-Pilfer
-Master Thief
-Reset
-Instant Reset
-Stepping Stone
-Leaping Stone
-Sunburst
-Sunflare
+Salto
+Queda Controlada
+Rolamento
+Golpe Súbito
+Golpe Explosivo
+Corte Amplo
+Talho Amplo
+Estocada para Baixo
+Fenda para Baixo
+Arremesso de Presa
+Arremesso de Chifre
+Corte Bússola
+Corte Lua Cheia
+Chicote Ascendente
+Chicote Celestial
+Empalada de Carne
+Empalada de Alma
+Corte Retrospectivo
+Varredura Retrospectiva
+Pedra da vontade
+Aço da vontade
+Mordida da Legião
+Fauce do Dragão
+Sigilo Perigoso
+Sigilo Ruinoso
+Canhão Mágico
+Grande Canhão
+Sigilo de Funil
+Sigilo de Vórtice
+Dança Celeste
+Arrebatamento Celeste
+Bosque de Pedra
+Floresta de Pedra
+Golpe Íntimo
+Gambito Íntimo
+Corte Moinho
+Grande Moinho
+Carga de Pólvora
+Explosão de Pólvora
+Talho
+Talho Terrível
+Clareza
+Clarividência
+Talhar
+Devastar
+Transpassar
+Eviscerar
+Salto
+Queda Controlada
+Avanço
+Golpe Ascendente
+Corte Turbilhão
+Golpe de Pomo
+Golpe de Pomo Forte
+Estocada Selvagem
+Estocada Indomável
+Corte de Fuga
+Corte de Êxodo
+Chicote Selvagem
+Chicote Indomável
+Lâmina de Escada
+Lâmina de Catapulta
+Corte Faísca
+Corte Corona
+Ato de Expiação
+Ato de Vingança
+Grito de Batalha
+Grito de Guerra
+Arco de Poder
+Arco de Libertação
+Esculpir
+Gravar
+Dois Passos
+Rondó
+Salto
+Salto duplo
+Rolamento
+Vento Mordaz
+Vento Cortante
+Arremesso e Gatilho
+Gatilho Avançado
+Beijos Escarlates
+Cem Beijos
+Aprisionamento Ofuscante
+Explosão Ofuscante
+Disparada
+Disparada Frenética
+Rachador de Elmo
+Rachador de Crânio
+Enredar
+Implicar
+Pilhar
+Mestre Ladrão
+Reiniciar
+Reiniciar Instantâneo
+Pedra de Apoio
+Pedra Saltitante
+Rajada Solar
+Labareda Solar
 Presilha Sombria
 Grilhão Sombrio
 Ascensão
@@ -33613,28 +33613,28 @@ Repreensão Mágica
 Agente Mágico
 Salto de Pena
 Levitar
-Ingle
-Alto Ingle
-Frazil
-Alto Frazil
-Levin
-Alto Levin
-Comestion
-Alta Comestion
-Frigor
-Alto Frigor
+Fogo
+Alto Fogo
+Gelo
+Alto Gelo
+Raio
+Alto Raio
+Combustão
+Alta Combustão
+Geleira
+Alto Geleira
 Brontide
 Alto Brontide
-Grapnel
-Alto Grapnel
-Silentium
-Alto Silentium
-Blearing
-Alto Blearing
-Lassitude
-Alta Lassitude
-Anodyne
-Alto Anodyne
+Arpéu
+Alto Arpéu
+Silêncio
+Alto Silêncio
+Visão Turva
+Alto Visão Turva
+Lassidão
+Alta Lassidão
+Lassidão
+Alto Lassidão
 Halidom
 Alto Halidom
 Bênção de Fogo
@@ -38268,64 +38268,64 @@ Não faz sentido continuar seguindo o suspeito<cf>agora. A missão não pode mai
 
 Não é Possível Continuar a Missão
 A missão não pode mais ser concluída.
-[Blink Strike/Burst Strike]
-[Downthrust/Downcrack]
-[Flesh Skewer/Soul Skewer]
-[Hindsight Slash/Hindsight Sweep]
-[Funnel Sigil/Vortex Sigil]
-[Stone Grove/Stone Forest]
-[Powder Charge/Powder Blast]
-[Gouge/Dire Gouge]
-[Savage Lunge/Indomitable Lunge]
-[Savage Lash/Indomitable Lash]
-[Spark Slash/Corona Slash]
-[Arc Of Might/Arc Of Deliverance]
-[Biting Wind/Cutting Wind]
-[Scarlet Kisses/Hundred Kisses]
-[Helm Splitter/Skull Splitter]
-[Stepping Stone/Leaping Stone]
-[Shadowpin/Shadowshackle]
-[Backfire/Immolation]
-[Wind Harness/Gale Harness]
-[Back Kick/Escape Onslaught]
-[Bolide/High Bolide]
-[Gicel/High Gicel]
-[Fulmination/High Fulmination]
-[Seism/High Seism]
-[Anodyne/High Anodyne]
-[Ingle/High Ingle]
-[Levin/High Levin]
-[Frigor/High Frigor]
-[Brontide/High Brontide]
-[Sopor/High Sopor]
-[Shield Strike/Shield Storm]
-[Sheltered Spike/Sheltered Assault]
-[Staredown/Showdown]
-[Firecounter/Flame Riposte]
-[Icecounter/Frost Riposte]
-[Thundercounter/Thunder Riposte]
-[Holycounter/Blessed Riposte]
-[Darkcounter/Abyssal Riposte]
-[Holy Glare/Holy Furor]
-[Full Bend/Mighty Bend]
-[Cloudburst Volley/Downpour Volley]
-[Keen Sight/Lyncean Sight]
-[Threefold Bolt/Sixfold Bolt]
-[Explosive Bolt/Explosive Rivet]
-[Magickal Flare/Magickal Gleam]
-[Dire Arrow/Deathly Arrow]
-[Foot Binder/Body Binder]
-[Whirling Arrow/Spiral Arrow]
-[Fire Boon/Fire Affinity]
-[Ice Boon/Ice Affinity]
-[Thunder Boon/Thunder Affinity]
-[Holy Boon/Holy Affinity]
-[Dark Boon/Dark Affinity]
-[Fire Enchanter/Flame Trance]
-[Ice Enchanter/Frost Trance]
-[Thunder Enchanter/Lightning Trance]
-[Holy Enchanter/Blessed Trance]
-[Dark Enchanter/Abyssal Trance]
+[Golpe Súbito/Golpe Explosivo]
+[Estocada para Baixo/Fenda para Baixo]
+[Empalada de Carne/Empalada de Alma]
+[Corte Retrospectivo/Varredura Retrospectiva]
+[Sigilo de Funil/Sigilo de Vórtice]
+[Bosque de Pedra/Floresta de Pedra]
+[Carga de Pólvora/Explosão de Pólvora]
+[Talho/Talho Terrível]
+[Estocada Selvagem/Estocada Indomável]
+[Chicote Selvagem/Chicote Indomável]
+[Corte Faísca/Corte Corona]
+[Arco de Poder/Arco de Libertação]
+[Vento Mordaz/Vento Cortante]
+[Beijos Escarlates/Cem Beijos]
+[Rachador de Elmo/Rachador de Crânio]
+[Pedra de Apoio/Pedra Saltitante]
+[Alfinete Sombrio/Grilhão Sombrio]
+[Tiro Pela Culatra/Imolação]
+[Arreio de Vento/Arreio de Vendaval]
+[Chute para Trás/Evasiva Ofensiva]
+[Bolide/Alto Bolide]
+[Gicel/Alto Gicel]
+[Fulminação/Fulminação Aprimorada]
+[Seismo/Seismo Aprimorado]
+[Lassidão/Lassidão Aprimorada]
+[Fogo/Fogo Aprimorado]
+[Raio/Raio Aprimorado]
+[Geleira/Geleira aprimorada]
+[Brontide/Tempestade Aprimorada]
+[Sopor/Alto Sopor]
+[Golpe de Escudo/Tempestade de Escudo]
+[Pico Abrigado/Assalto Abrigado]
+[Encarada/Confronto]
+[Contra-Ataque de Fogo/Estocada de Chamas]
+[Contra-Ataque de Gelo/Estocada Glacial]
+[Contra-Ataque de Trovão/Estocada Trovejante]
+[Contra-Ataque Sagrado/Estocada Abençoada]
+[Contra-Ataque Sombrio/Estocada Abissal]
+[Olhar Sagrado/Fúria Sagrada]
+[Dobrar Totalmente/Dobrar Poderoso]
+[Descarga Torrencial/Aguaceiro Torrencial]
+[Visão Aguçada/Visão Linceana]
+[Dardo Triplo/Dardo Sêxtuplo]
+[Dardo Explosivo/Rebite Explosivo]
+[Chama Mágica/Brilho Mágico]
+[Flecha Terrível/Flecha Mortal]
+[Amarrador de Pé/Amarrador de Corpo]
+[Flecha Giratória/Flecha Espiral]
+[Dádiva de Fogo/Afinidade de Fogo]
+[Dádiva de Gelo/Afinidade de Gelo]
+[Dádiva de Trovão/Afinidade de Trovão]
+[Dádiva Sagrada/Afinidade Sagrada]
+[Dádiva Sombria/Afinidade Sombria]
+[Encantador de Fogo/Transe de Chamas]
+[Encantador de Gelo/Frost Trance]
+[Encantador de Trovão/Transe de Relâmpago]
+[Encantador Sagrado/Transe Abençoado]
+[Encantador Sombrio/Transe Abissal]
 Aumenta a Vida máxima em
 Aumenta a Stamina máxima em
 Aumenta a Força em
@@ -40899,7 +40899,7 @@ Você pode enviar peões que estão partindo com um<cf>único item como um prese
 Você pode passar itens para e de seus peões<cf>no sub menu.
 Em memória de Grette,
 De coração silencioso, forjada pelo dragão.
-Com cabelos de ouro e vontade de aço temperado.
+Com cabelos de ouro e aço da vontade temperado.
 Você me resgatou de uma vila queimada até as cinzas - instilou vida e luta. Querido mentor, eu agora te recomendo ao descanso eterno.
 Seu servo, sem mestre e sem memória,<cf>agora eu o mantenho ao meu lado.
 Ela vive, seu espelho em alma e corpo,<cf>e eu não a perderei como perdemos você.
@@ -41451,7 +41451,7 @@ Minhas viagens agora abrangem três fronteiras, e<cf>eu vi muitos homens piedoso
 Ventos do norte sopram gelo em meus ossos,<cf>e resta-me aquecer meu peito com doces<cf>lembranças do lar. Da esposa, e da filha,<cf>e do filho cujo rosto ainda não vi.
 Eu encontrei. O ninho da hidra. O poço<cf>imundo de onde a besta que arrasou nossa vila<cf>veio. Pretendo enviá-la para um lar diferente.<cf>Um lugar de fogo e sangue. Minha jornada termina.
 Estou sangrando, doente e longe de casa...<cf>e a morte está próxima. Minha Laura, a quem<cf>abandonei, Alicia, a quem falhei duas vezes,<cf>Reynard, meu filho, perdoe-me...
-[Affinity Up: Give to ＊＊＊＊＊＊＊＊＊]
+[Afinidade Aumentada: Dê para ＊＊＊＊＊＊＊＊＊]
 Favorecido pelos soldados do acampamento.
 Favorecido pelos soldados da Grande Muralha.
 Favorecido por todos.
@@ -41780,9 +41780,9 @@ Um pacote de 30000 cristais de fenda. Este pacote pode ser comprado mais de uma 
 Uma seleção de novos penteados, pelos faciais e variações de cores para a ferramenta de personalização de personagens!
 Você vai virar cabeças por toda Gransys com este conjunto de seis trajes pertencentes a alguns rostos familiares. Os trajes estarão disponíveis para compra no Gato Preto em Gran Soren. Como bônus, você receberá um de cada traje de graça!
 O pacote disponibiliza 7 novas peças de equipamento para compra no Gato Preto em Gran Soren, incluindo algumas que serão úteis em sua descida ao labirinto da Ilha Bitterblack. Como bônus, você receberá um de cada enviado para o seu armazenamento de itens!
-Este conjunto inclui um anel que permite ao usuário realizar a habilidade de espada, Ataque Blitz! Além disso, você receberá um item que pode usar para escapar das profundezas da Ilha Bitterblack em um instante!
+Este conjunto inclui um anel que permite ao usuário realizar a habilidade de espada, Ataque Relâmpago! Além disso, você receberá um item que pode usar para escapar das profundezas da Ilha Bitterblack em um instante!
 Este conjunto inclui um anel que permite ao usuário realizar a habilidade de adaga, Vento Cortante! Além disso, você receberá um item que pode usar para escapar do labirinto da Ilha Bitterblack em um instante!
-Este conjunto inclui um anel que permite ao usuário realizar a habilidade de cajado, Grande Ingle! Além disso, você receberá um item que pode usar para escapar do labirinto da Ilha Bitterblack em um instante!
+Este conjunto inclui um anel que permite ao usuário realizar a habilidade de cajado, Grande Fogo! Além disso, você receberá um item que pode usar para escapar do labirinto da Ilha Bitterblack em um instante!
 Novas batalhas nas masmorras da Ilha Bitterblack aguardam! Além disso, algumas seleções adicionais estarão disponíveis para compra na loja de Barroch.
 Mensagem Inválida
 Mensagem Inválida
@@ -42481,9 +42481,9 @@ Um pacote gigante de 30000 Rift Crystals. Depois da compra, é necessário adici
 Dê um up no seu estilo e no do seu peão com esta nova seleção de dois penteados, dois estilos de barba e quatro variações de cor para a ferramenta de personalização de personagem!
 Você vai virar cabeças em toda Gransys com este conjunto de seis trajes pertencentes a alguns rostos familiares. Os trajes estarão disponíveis para compra no Gato Preto em Gran Soren. Como bônus, você encontrará um de cada um dos trajes esperando por você no seu armazenamento de itens após a compra. É só procurar pelos ícones verde-azulados! <cf><cf>*O bônus só pode ser aplicado uma vez por dados salvos.<cf>*Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
 O pacote disponibiliza 7 novos equipamentos para compra no Gato Preto em Gran Soren, incluindo alguns que serão úteis na sua descida ao labirinto da Ilha Bitterblack. Como bônus, você encontrará um de cada um esperando por você no seu armazenamento de itens após a compra. É só procurar pelos ícones verde-azulados! *O bônus só pode ser aplicado uma vez por dados salvos. *Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
-Este conjunto inclui um anel que permite ao usuário realizar a habilidade de espada, Ataque Blitz! Além disso, você receberá um item que pode usar para escapar das profundezas da Ilha Bitterblack em um instante! Não se esqueça de verificar seu armazenamento de itens após a compra! *Este conteúdo só pode ser aplicado uma vez por dados salvos. *Depois que as habilidades são adquiridas, elas devem ser equipadas para serem usadas. *Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
+Este conjunto inclui um anel que permite ao usuário realizar a habilidade de espada, Ataque Relâmpago! Além disso, você receberá um item que pode usar para escapar das profundezas da Ilha Bitterblack em um instante! Não se esqueça de verificar seu armazenamento de itens após a compra! *Este conteúdo só pode ser aplicado uma vez por dados salvos. *Depois que as habilidades são adquiridas, elas devem ser equipadas para serem usadas. *Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
 Este conjunto inclui um anel que permite ao usuário executar a habilidade de adaga, Vento Dilacerante! Além disso, você receberá um item que pode usar para escapar do labirinto da Ilha Bitterblack em um instante! Não se esqueça de verificar seu armazenamento de itens após a compra! *Este conteúdo só pode ser aplicado uma vez por dados salvos. *Depois que as habilidades são adquiridas, elas devem ser equipadas para serem usadas. *Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
-Este conjunto inclui um anel que permite ao usuário executar a habilidade de cajado, Grande Ingle! Além disso, você receberá um item que pode usar para escapar do labirinto da Ilha Bitterblack em um instante! Não se esqueça de verificar seu armazenamento de itens após a compra! *Este conteúdo só pode ser aplicado uma vez por dados salvos. *Depois que as habilidades são adquiridas, elas devem ser equipadas para serem usadas. *Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
+Este conjunto inclui um anel que permite ao usuário executar a habilidade de cajado, Grande Fogo! Além disso, você receberá um item que pode usar para escapar do labirinto da Ilha Bitterblack em um instante! Não se esqueça de verificar seu armazenamento de itens após a compra! *Este conteúdo só pode ser aplicado uma vez por dados salvos. *Depois que as habilidades são adquiridas, elas devem ser equipadas para serem usadas. *Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
 Novas batalhas desafiadoras aguardam você na Rotunda do Pavor e nas áreas da Abadia Negra da Ilha Bitterblack! Vença seus inimigos e colha os espólios! Além disso, algumas seleções adicionais estarão disponíveis para compra na loja de Barroch.
 Mensagem Inválida
 Mensagem Inválida
@@ -42664,7 +42664,7 @@ Eu vou destruir tudo!
 Pare! NÃÃÃÃÃO!
 Em memória de Grette,
 De coração silencioso, forjada pelo dragão.
-Com cabelos de ouro e vontade de aço temperado.
+Com cabelos de ouro e aço da vontade temperado.
 Você me resgatou de uma vila queimada até as cinzas – instilou vida e luta. Querida mentora, eu agora te recomendo ao descanso eterno.
 Seu servo, privado de mestre e memória,<cf>eu agora a mantenho ao meu lado.
 Ela vive, seu espelho em alma e corpo,<cf>e eu não vou perdê-la como perdemos você.
@@ -47125,7 +47125,7 @@ Você vai virar cabeças por toda Gransys com este conjunto de seis trajes perte
 O pacote disponibiliza 7 novos equipamentos para compra no Gato Preto em Gran Soren, incluindo alguns que serão úteis na sua descida ao labirinto da Ilha Bitterblack. Como bônus, você encontrará um de cada esperando por você no seu depósito de itens após a compra. É só procurar pelos ícones azul-esverdeados!<cf><cf>*O bônus só pode ser aplicado uma vez por dados salvos.<cf>*Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
 Este conjunto inclui um anel que permite ao usuário realizar a habilidade de espada, Golpe Relâmpago! Além disso, você receberá um item que pode usar para escapar das profundezas da Ilha Bitterblack em um instante! Não se esqueça de verificar seu armazenamento de itens após a compra!<cf><cf>*Este conteúdo só pode ser aplicado uma vez por dados salvos.<cf>*Depois que as habilidades são adquiridas, elas devem ser equipadas para serem usadas.<cf>*Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
 Este conjunto inclui um anel que permite ao usuário realizar a habilidade de adaga, Vento Cortante! Além disso, você receberá um item que pode usar para escapar do labirinto da Ilha Bitterblack em um instante! Não se esqueça de verificar seu armazenamento de itens após a compra!<cf><cf>*Este conteúdo só pode ser aplicado uma vez por dados salvos.<cf>*Depois que as habilidades são adquiridas, elas devem ser equipadas para serem usadas.<cf>*Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
-Este conjunto inclui um anel que permite ao usuário realizar a habilidade de cajado, Grande Ingle! Além disso, você receberá um item que pode usar para escapar do labirinto da Ilha Bitterblack em um instante! Não se esqueça de verificar seu armazenamento de itens após a compra!<cf><cf>*Este conteúdo só pode ser aplicado uma vez por dados salvos.<cf>*Depois que as habilidades são adquiridas, elas devem ser equipadas para serem usadas.<cf>*Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
+Este conjunto inclui um anel que permite ao usuário realizar a habilidade de cajado, Grande Fogo! Além disso, você receberá um item que pode usar para escapar do labirinto da Ilha Bitterblack em um instante! Não se esqueça de verificar seu armazenamento de itens após a compra!<cf><cf>*Este conteúdo só pode ser aplicado uma vez por dados salvos.<cf>*Depois que as habilidades são adquiridas, elas devem ser equipadas para serem usadas.<cf>*Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
 Novas batalhas desafiadoras aguardam nas áreas Rotunda do Pavor e Abadia Negra da Ilha Bitterblack! Vença seus inimigos e colha os espólios! Além disso, algumas seleções adicionais estarão disponíveis para compra na loja de Barroch.
 Mensagem Inválida
 Mensagem Inválida
@@ -47336,7 +47336,7 @@ Clive
 Clothilde
 Club
 Cobra
-Coco
+Coringa
 Cody
 Colin
 Conan
