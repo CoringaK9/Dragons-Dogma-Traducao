@@ -16,6 +16,6 @@
    - [@Sublime](https://steamcommunity.com/id/Sr_sublime)  
 
    ### 📌 Menções Honrosas  
-   - Comunidade do Discord: [Amianto Traduções](#) (https://discord.gg/9Mme95JA2T)
+   - Comunidade do Discord: [Amianto Traduções](#)(https://discord.gg/9Mme95JA2T)
 
    - Discord CoringaK: [_homine](#)
