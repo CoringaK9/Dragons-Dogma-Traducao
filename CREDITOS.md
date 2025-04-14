@@ -5,20 +5,17 @@
    ### 👥 Revisores  
    - [@Coringa](https://github.com/CoringaK9)  
    - [@Victor](https://github.com/jiogo1)  
-   -
-[@Sublime](https://steamcommunity.com/id/Sr_sublime)  
+   - [@Sublime](https://steamcommunity.com/id/Sr_sublime)  
 
    ### 🌟 Tradutores  
    - [@Coringa](https://github.com/CoringaK9)  
    - [@Sublime](https://steamcommunity.com/id/Sr_sublime)  
 
 ### 🖼️ Gráficos
-
-[@Coringa](https://github.com/CoringaK9)  
-   -
-[@Sublime](https://steamcommunity.com/id/Sr_sublime)  
+   - [@Coringa](https://github.com/CoringaK9)  
+   - [@Sublime](https://steamcommunity.com/id/Sr_sublime)  
 
    ### 📌 Menções Honrosas  
-   - Comunidade do Discord: [Amianto Traduções](#) (https://discord.gg/9Mme95JA2T )
+   - Comunidade do Discord: [Amianto Traduções](#) (https://discord.gg/9Mme95JA2T)
 
    - Discord CoringaK: [_homine](#)
