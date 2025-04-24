@@ -10532,7 +10532,7 @@ Se cuida, camarada.
 Sim.
 Acho que não...
 Obrigado!
-Meus agradecimentos, bom pescador! Que gentileza!
+Meus agradecimentos, pescador! Que gentileza!
 Sim? O quê?
 Me deixe em paz, pescador.
 Se preocupar é para quem não tem o que fazer, digo eu.
@@ -14886,10 +14886,10 @@ Tem um jeito de subir aqui.
 Não por aí.
 Nossa tarefa está feita.<cf>Vamos relatar nosso progresso.
 Lá embaixo, Arisen.
-Ah, é você, bom pescador. Temo que meu espírito esteja tão úmido quanto as areias da manhã.
+Ah, é você, pescador. Temo que meu espírito esteja tão úmido quanto as areias da manhã.
 Acho que deveria estar grato apenas por estar vivo, mas... ainda assim...
 Recuperei o ritmo, sim. O corpo finalmente começou a me obedecer de novo.
-É graças a você, bom pescador.
+É graças a você, pescador.
 Ainda assim, não vou me afastar muito, enquanto as estradas estiverem cheias de feras de todo tipo.
 Deus seja bom, você está bem!
 Eu também tinha a intenção de enfrentar o dragão. Na verdade, eu até tentei...
@@ -21407,7 +21407,7 @@ Lembro-me delas florescendo ao redor das raízes das árvores da vila em dias en
 É bem provável que ainda floresçam ao longo das estradas, mas não me verá enfrentando os monstros para colher flores.
 Coletando ingredientes, hein?
 Você costuma ver essas flores crescendo nas raízes de árvores maiores. Não que eu esteja a fim de encarar as estradas hoje em dia...
-Só veja se você não se machuca, bom pescador.
+Só veja se você não se machuca, pescador.
 Eu sempre tive tanto medo... Você sempre pareceu que ia partir para um lugar onde eu não pudesse te seguir.
 Voltar para casa não é fugir, primo.
 Tudo que eu pedi foi...estar ao lado de quem eu amava... Tudo que eu...sempre pedi...
@@ -28550,8 +28550,8 @@ Um trecho arrancado do <cf>diário de um viajante. Discute alguma forma de <cf>c
 Um trecho arrancado do <cf>diário de um viajante. Conta sobre o amor do<cf>autor pela esposa e filho que deixou em casa.
 Um trecho arrancado do <cf>diário de um viajante. Menciona algo de<cf>importância vital que o autor aprendeu sobre hidras.
 Um trecho arrancado do <cf>diário de um viajante. O autor adoeceu em uma<cf>terra desconhecida e aguarda amargamente o fim.
-Uma carta de origem desconhecida que contém<cf>apenas uma frase: "Que a única<cf>paz do Nascido seja a morte."
-Diz: "Todas as crianças do verdadeiro deus<cf>sabem que o Nascido é o fim da esperança, não<cf>sua fonte. Veja este mal expurgado."
+Uma carta de origem desconhecida que contém<cf>apenas uma frase: "Que a única<cf>paz do Arisen seja a morte."
+Diz: "Todas as crianças do verdadeiro deus<cf>sabem que o Arisen é o fim da esperança, não<cf>sua fonte. Veja este mal expurgado."
 Uma estatueta necessária para fazer negócios com<cf>um artesão talentoso. Esta é feita de<cf>prata lustrosa.
 Uma estatueta necessária para fazer negócios com<cf>um artesão talentoso. Esta é feita de<cf>bronze polido.
 Detalhes desconhecidos.
@@ -34880,7 +34880,7 @@ Se cuida.
 Sim.
 Não.
 Gentileza sua.
-Obrigado, bom pescador.
+Obrigado, pescador.
 Perdemos Cortese e Rickard...
 Nossos irmãos merecem vingança, mas que esperança há nisso?
 Nenhuma pra mim, pelo menos. Uma olhada na besta e minhas pernas sumiram debaixo de mim...
@@ -34907,7 +34907,7 @@ Até o fim, não havia nada que eu pudesse fazer... Mas é como deveria ser.
 Meu destino é aqui, treinando sob o comando do capataz.
 É onde eu pertenço. Para o que eu nasci.
 Estou com inveja. Como um cara se torna como você, eu me pergunto?
-Obrigado, bom pescador.
+Obrigado, pescador.
 Bem-vindo, Arisen. É uma honra tê-lo vindo de tão longe para nos encontrar.
 Você está aqui procurando a fonte dos esqueletos, ou apenas veio nos livrar de alguns traidores? Meus agradecimentos, aliás.
 Não vejo necessidade de segredos. Foi os Salvadores que soltou aqueles guerreiros de osso na terra. Eles são... um experimento... Uma vanguarda.
@@ -42086,13 +42086,13 @@ Risca esse último. Quem era você mesmo?
 Eu tô brincando, cavaleiro pescador, porque eu sou um bobo da corte.
 Eu diria que todo mundo em Gran Soren sabe quem você é agora.
 Sua fama não é à toa, pela velocidade impressionante com que resolveu os problemas do ducado.
-O Nascido acena, dizem, e eis que as esferas tremem!
+O Arisen acena, dizem, e eis que as esferas tremem!
 E agora Sua Graça te tem em seu emprego direto?
 Sua ascensão à glória é uma inspiração, humilde cavaleiro, e nenhum homem te admira tanto quanto eu.
-Ah, o poderoso Nascido retorna. Venha, incline-se e me dê seu ouvido.
+Ah, o poderoso Arisen retorna. Venha, incline-se e me dê seu ouvido.
 Diga-me, meu caro, pode guardar um segredo?
 Porque eu não consigo, pra salvar minha alma.
-E então devo confessar a você que Sua Graça o duque já foi um Nascido.
+E então devo confessar a você que Sua Graça o duque já foi um Arisen.
 Ah, então você sabia? Entendo, entendo.
 Diga-me, então...
 Se você, por algum milagre verdadeiramente inconcebível, replicasse seu feito e matasse a wyrm...
@@ -42111,9 +42111,9 @@ Desta vez, vamos acabar com os saurianos.
 As criaturas foram mortas.<cf>Devíamos contar aos outros.
 Com certeza vamos usar essa lanterna aqui.
 Ouço gritos lá de dentro...
-Vamos acender essa lanterna.<cf>Tome cuidado para mantê-la seca, Nascido.
+Vamos acender essa lanterna.<cf>Tome cuidado para mantê-la seca, Arisen.
 Não gosto nada desse som...<cf>Monstros, sem dúvida.
-Sombras estranhas, por toda parte... Fique pronto, Nascido!
+Sombras estranhas, por toda parte... Fique pronto, Arisen!
 Cuidado com a cabeça.
 Tem um caminho pra cima aqui.
 Cuidado onde pisa!
@@ -42910,7 +42910,7 @@ Acelera o processo de recarga de<cf>balistas, permitindo que você dispare virot
 Meu peito está todo agitado...
 Isso é terrível...
 Me dói ser um fardo...
-Não me sentia tão bem há anos. Graças a você, bom pescador.
+Não me sentia tão bem há anos. Graças a você, pescador.
 Benita também estava cantando seus louvores.
 Estou vivo, mas por pouco... Meus agradecimentos.
 Documentos, por favor.
@@ -49048,7 +49048,7 @@ Mesmo como seu hóspede, agradeço que mantenha distância de Sua Graça.
 Você não está com o comboio, então!?
 Nos disseram para aguardar uma carroça com carga importante. Não deixaremos estranhos passar até lá.
 Sou grato pela preocupação, mas não terei alegria se você trabalhar até adoecer.
-Estou em dívida com você, bom pescador.
+Estou em dívida com você, pescador.
 Rezo para que continue seu serviço à vila. Somos afortunados por tê-lo.
 Que alegria há em viver quando nunca mais estarei apto a navegar?
 Desprezo do Ceifador
