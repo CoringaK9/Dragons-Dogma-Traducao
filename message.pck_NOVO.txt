@@ -548,7 +548,7 @@ Uma ferraria, eu acho.
 Eu suponho que os mercadores precisam<cf>de espaço aberto para exercer seus comércios.
 Comida para o gado, sem dúvida.
 Que significado você acha que essas<cf>pedras têm?
-É um portcrystal. Com uma ferrystone,<cf>você poderia alcançá-lo de qualquer lugar.
+É um cristal de teleporte. Com uma pedra de ferry,<cf>você poderia alcançá-lo de qualquer lugar.
 Isso leva à catedral e <cf>ao resto do distrito superior.
 O castelo do duque também fica <cf>neste bairro.
 Muitas destas devem ser casas <cf>de membros da corte do duque.
@@ -569,7 +569,7 @@ Armeiros comercializam uma grande variedade <cf>de armas e equipamentos de defes
 Além disso, algumas armas podem ser ainda <cf>mais aprimoradas com a ajuda deles.
 Coisas preciosas perdidas ou desaparecidas <cf>têm uma maneira de aparecer lá.
 Além do mais, o proprietário pode <cf>fornecer falsificações de certos itens.
-É um Portcrystal, Mestre.
+É um Cristal de Teleporte, Mestre.
 O barbeiro se mantém a par das últimas <cf>tendências de corte de cabelo, se você quiser um corte.
 Até mesmo nós, peões, gostamos de um novo <cf>penteado de vez em quando.
 Os clientes costumam postar avisos de trabalho <cf>no bar.
@@ -3577,7 +3577,7 @@ Terceira Gema dos salvadores
 Quarta Gema dos salvadores
 Chave do Altar do Deus da Água
 Chave da Pedreira
-Portcrystal
+Cristal de Teleporte
 Pedra do Despertar
 Licença de Caça ao Wyrm
 Permissão do Jardineiro
@@ -3699,9 +3699,9 @@ Ovo Podre Guardado
 Raio de Sol Guardado
 Brilho Lunar Guardado
 Flor Murcha Guardada
-Ferrystone
+Pedra de Ferry
 Dedo do Criador
-Portcrystal
+Cristal de Teleporte
 Pedra do Despertar
 Fragmento de Pedra do Despertar
 Perfume Repugnante
@@ -9687,143 +9687,143 @@ Alavanca
 Interruptor
 Talismã
 Gransys
-Verda Woodlands
-Manamia Trail
-Moonsbit Pass
-Deos Hills
-Estan Plains
-Wilted Forest
-Northface Forest
-Cutlass Cape
-Barta Crags
-Greatwall Encampment
-Ophis' Domain
-Miasmic Haunt
-Prayer Falls
-Miner's Hut
-Healing Spring
-Storage Shed
-Hillfigure Knoll
-Windworn Valley
-Pastona Cavern
-Smugglers' Pass
-Collapsed Meeting Room
-Mountain Cottage
-Abandoned Storehouse
-Lake Hardship
-Cape Pactforge
-Stones of Courage
-Warrior's Departure
-Miner's Toolshed
-Bloodwater Beach
-Tomb of the Unknown Traveler
-Chief Adaro's House
-Your House
-Pablos' Inn
-Benita's House
-Heraldo's Grocery
-Iola's House
-Inez's Alehouse
-Fisherman's House
-Village Chapel
-Starfall Bay
-Village Pier
-Training Grounds
-Enlistment Corps Base
-Command Headquarters
-Urban Quarter
-Craftsman's Quarter
-Venery
-Slums
-Noble Quarter
-Gran Soren Union Inn
-Arsmith's Alehouse
-Craftsman's House
-Smithy
-Field
-Abandoned House
-Gran Soren Cathedral
-Fournival Manor
-Knight's Manor
-Fountain Square
-Castle Gate
-Residence
-Merchant's House
-Aqueduct
-Passage Gate
-Portcrystal
-Audience Chamber
-Visitor's Chamber
-Chamberlain's Office
-Guest Room
-Gathering Hall
-Duke's Solar
-Duchess's Bedchamber
-Treasury
-Storehouse
-Guard Station
-Dungeon
-Duchess's Gardens
-Observation Room
-Witch's House
-Guardian's Grave
-Holding Room
-Grande Hall
-Before the Greatwall Gate
-Gathering Hall
-Confessional Chamber
-Commander's Antechamber
-Station Room
-Tower Summit
-Path to Dragon's Domain
-Temple Antechamber
-Above Tainted Mountain
-Flameservant's Throne
-Ceremonial Cage
-Chamber of Confusion
-Chamber of Anxiety
-Chamber of Absence
-Chamber of Hesitation
-Chamber of Apprehension
-Chamber of Remorse
-Chamber of Tragedy
-Chamber of Fate
-Chamber of Distress
-Chamber of Estrangement
-Chamber of Lament
-Chamber of Woe
-Chamber of Sorrow
-Chamber of Resolution
-Chamber of Inspiration
-Chamber of Hope
-Chamber of Choice
-Station Room
-Emperor's Pillar
-Brightwater Cove
-Water's Bottom
-Offering Chamber
-Abandoned Mine
-Leaper's Ledge
-Receiving Room
-Underground Corridor
-Proving Grounds
-Riftstone
-Knowledge Chair
-Beast Cave
-Caverns of Delusion
-Nightcall Crevasse
-Bandits' Den
-Forgotten Grave
-Common Grave
-Nameless Falls
-Pilgrim's Falls
-Man Swallowing Falls
+Bosques Verda
+Trilha Manamia
+Passagem da Mordida da Lua
+Colinas Deos
+Planícies Estan
+Floresta Mirrada
+Floresta Face Norte
+Cabo Cutlass
+Penhascos Barta
+Acampamento da Grande Muralha
+Domínio de Ophis
+Assombro Miasmático
+Quedas da Oração
+Cabana do Mineiro
+Fonte Curativa
+Barracão de Armazenamento
+Colina da Figura
+Vale Castigado pelo Vento
+Caverna Pastona
+Passagem dos Contrabandistas
+Sala de Reunião Desabada
+Cabana da Montanha
+Armazém Abandonado
+Lago da Dificuldade
+Cabo Pactforge
+Pedras da Coragem
+Partida do Guerreiro
+Barracão de Ferramentas do Mineiro
+Praia Água de Sangue
+Túmulo do Viajante Desconhecido
+Casa do Chefe Adaro
+Sua Casa
+Pousada do Pablos
+Casa da Benita
+Mercado do Heraldo
+Casa da Iola
+Taverna da Inez
+Casa do Pescador
+Capela da Vila
+Baía Queda de Estrelas
+Cais da Vila
+Campos de Treinamento
+Base do Corpo de Alistamento
+Quartel General de Comando
+Distrito Urbano
+Distrito do Artesão
+Venaria
+Favelas
+Distrito Nobre
+Estalagem da União de Gran Soren
+Taverna do Arsmith
+Casa do Artesão
+Ferraria
+Campo
+Casa Abandonada
+Catedral de Gran Soren
+Mansão Fournival
+Mansão do Cavaleiro
+Praça da Fonte
+Portão do Castelo
+Residência
+Casa do Mercador
+Aqueduto
+Portão de Passagem
+Cristal de Teletransporte
+Salão de Audiências
+Câmara do Visitante
+Escritório do Mordomo
+Quarto de Hóspedes
+Salão de Reuniões
+Solar do Duque
+Quarto da Duquesa
+Tesouraria
+Armazém
+Posto da Guarda
+Masmorra
+Jardins da Duquesa
+Sala de Observação
+Casa da Bruxa
+Túmulo do Guardião
+Sala de Espera
+Salão Principal
+Antes do Portão da Grande Muralha
+Salão de Reuniões
+Câmara Confessional
+Antessala do Comandante
+Sala de Estação
+Topo da Torre
+Caminho para o Domínio do Dragão
+Antessala do Templo
+Acima da Montanha Corrompida
+Trono do Servo das Chamas
+Gaiola Cerimonial
+Câmara da Confusão
+Câmara da Ansiedade
+Câmara da Ausência
+Câmara da Hesitação
+Câmara da Apreensão
+Câmara do Remorso
+Câmara da Tragédia
+Câmara do Destino
+Câmara da Angústia
+Câmara do Afastamento
+Câmara do Lamento
+Câmara da Aflição
+Câmara da Tristeza
+Câmara da Resolução
+Câmara da Inspiração
+Câmara da Esperança
+Câmara da Escolha
+Sala de Estação
+Pilar do Imperador
+Enseada Água Brilhante
+Fundo da Água
+Câmara de Oferendas
+Mina Abandonada
+Beira do Saltador
+Sala de Recepção
+Corredor Subterrâneo
+Campos de Provação
+Pedra da Fenda
+Cadeira do Conhecimento
+Caverna da Besta
+Cavernas da Ilusão
+Fenda Chamado Noturno
+Covil dos Bandidos
+Túmulo Esquecido
+Túmulo Comum
+Cachoeiras Sem Nome
+Cachoeiras do Peregrino
+Cachoeiras Engole-Homem
 Acampamento dos Viajantes
 Acampamento Abandonado
 Antiga Guarnição
 Celeiro
 Casebre
-Barracão Castigado pelo Vento
+Barracão Varrido pelo Vento
 Barracão de Carvão
 Descanso dos Viajantes
 Cabana Velha
@@ -9832,12 +9832,12 @@ Quadro de Avisos
 Trilha da Brisa Marinha
 Praia Incomum
 Costa Cobalto
-Penhascos do Banho de Lua
-Bosque Amaldiçoado
+Penhascos Banho de Lua
+Bosque da Maldição
 Estrada da Conquista
 Colinas Vestad
-Sítio de Erradicação
-Bosque do Fogo Demoníaco
+Local de Erradicação
+Bosque Fogo do Diabo
 Santuário do Conquistador
 Aestella's
  
@@ -12624,7 +12624,7 @@ Uma madeira rígida usada na fabricação de<cf>arcos e flechas.
 Uma madeira extremamente rígida usada na<cf>fabricação de arcos e flechas.
 Uma pequena fonte de luz que queima combustível<cf>líquido, que deve ser reabastecido. Pode<cf>ser usada na cintura. Tem óleo suficiente para<cf>queimar por um tempo.
 Uma pequena fonte de luz que queima<cf>combustível líquido, que deve ser reabastecido. Pode<cf>ser usada na cintura. No momento, está<cf>com cerca de metade do óleo.
-Uma pedra que pode levar o usuário de volta<cf>a Gran Soren, ou para a localização de um<cf>portcrystal, em um instante.
+Uma pedra que pode levar o usuário de volta<cf>a Gran Soren, ou para a localização de um<cf>cristal de teleporte, em um instante.
 Um recipiente vazio que pode ser usado para<cf>armazenar líquido.
 Um frasco cheio de água. Jogue-o em<cf>um adversário para encharcá-lo.
 Um frasco cheio de combustível. Jogue-o em<cf>um adversário para encharcá-lo de óleo.
@@ -12830,9 +12830,9 @@ Um ovo podre que foi inexplicavelmente<cf>processado para armazenamento de longo
 Uma flor ensolarada preservada para<cf>armazenamento prolongado.
 Uma flor luar preservada para<cf>armazenamento prolongado.
 Uma flor murcha, preservada para<cf>armazenamento prolongado apesar de seu<cf>estado pútrido.
-Uma pedra que pode levar o usuário de volta<cf>a Gran Soren, ou para a localização de um<cf>portcrystal, em um instante.
+Uma pedra que pode levar o usuário de volta<cf>a Gran Soren, ou para a localização de um<cf>cristal de teleporte, em um instante.
 O que parece ser o máximo em flechas.<cf>Deve derrubar qualquer inimigo com um golpe,<cf>se mirar no ponto fraco certo.
-Um marcador para ser colocado em qualquer<cf>lugar que você queira retornar; o uso de<cf>uma ferrystone te transportará para lá em<cf>um instante.
+Um marcador para ser colocado em qualquer<cf>lugar que você queira retornar; o uso de<cf>uma pedra de ferry te transportará para lá em<cf>um instante.
 Uma rocha enfeitiçada com magia arcana<cf>para restaurar os mortos à vida, também<cf>conhecida como Desprezo do Ceifador.
 Um fragmento enfeitiçado com magia<cf>arcana. Junte três se você quiser<cf>restaurar os mortos à vida.
 Fragrância que dizem manter os dragões<cf>afastados. Almas mais confiantes podem<cf>pagar bem por mercadorias tão questionáveis.
@@ -14282,7 +14282,7 @@ Gema brilhante que emite uma luz<cf>maravilhosa. Serve como chave para portas<cf
 Uma imagem gravada assustadora, infundida com<cf>o espírito sinistro de seu criador.
 Uma chave que abre uma porta única no<cf>labirinto sob a Ilha Bitterblack.
 Um incenso distinto que atrai<cf>os inimigos mais raros e cruéis em<cf>Bitterblack Isle. Leve para a Rotunda<cf>do Pavor ou a Abadia Negra se ousar.
-Uma pedra que pode levar o usuário de volta para<cf>Gran Soren, ou para a localização de um<cf>portcrystal, em um instante. Pode ser<cf>usada infinitamente.
+Uma pedra que pode levar o usuário de volta para<cf>Gran Soren, ou para a localização de um<cf>cristal de teleporte, em um instante. Pode ser<cf>usada infinitamente.
 Mensagem Inválida
 Detalhes desconhecidos.
 Detalhes desconhecidos.
@@ -17109,7 +17109,7 @@ Outra era uma mulher. Ahh, ela teria sido uma<cf>joia rara, não fosse essa seri
 No fim, ela me tratava com o mesmo<cf>desprezo que trataria uma fera.
 Se ela tivesse sido mais liberal com seus encantos perto<cf>das feras, talvez não tivesse virado o jantar delas.<cf>Que pena...
 É pura sorte que eu tenha sobrevivido até agora. Não<cf>me iludo quanto a isso.
-Mesmo neste inferno esquecido, há riftstones por<cf>perto para chamar peões.
+Mesmo neste inferno esquecido, há pedras da fenda por<cf>perto para chamar peões.
 Muitos estão em mau estado, mas o preço certo vai<cf>trazê-los de volta à utilidade, parece.
 Conveniente, isso.
 Talvez este lugar seja parecido com o outro mundo<cf>que a legião de peões menciona.
@@ -18437,7 +18437,7 @@ Você pode pensar que limpou uma área de<cf>monstros, mas isso não significa q
 O labirinto contém criaturas que nenhum homem na<cf>península jamais viu antes.
 "Eu sinto... alguma espécie de presença aqui..."
 Outro quadro de solicitações espera por você aqui.
-Riftstones quebradas podem funcionar<cf>novamente se puderem ser reparadas.
+Pedras da Fenda quebradas podem funcionar<cf>novamente se puderem ser reparadas.
 Uma alma arruinada assombra cada centímetro<cf>deste lugar terrível...
 Este estrato parece de alguma forma diferente do<cf>anterior. Esteja sempre vigilante.
 Quanto mais fundo você viaja, mais agressivas<cf>as criaturas comedoras de cadáveres parecem se tornar...
@@ -18787,9 +18787,9 @@ Parece que você veio na hora errada.
 Pode haver outro caminho.
 É uma arma poderosa... Que pena que não funciona.
 Algo forte pode ser sentido na pedra. <cf>Parece que as memórias de alguém foram gravadas<cf>na superfície do Monumento da Lembrança.
-Uma riftstone quebrada. Parece que você pode<cf>restaurá-la usando rift crystals.
-Restaurar a riftstone?<cf>Rift crystals atuais: <RIMS><cf>Custo de rift crystals: <RIM2>
-Você não tem rift crystals suficientes para restaurá-la.
+Uma pedra da fenda quebrada. Parece que você pode<cf>restaurá-la usando cristais da fenda.
+Restaurar a pedra da fenda?<cf>Cristais da Fenda atuais: <RIMS><cf>Custo de cristais da fenda: <RIM2>
+Você não tem cristais da fenda suficientes para restaurá-la.
 As encostas da Montanha Corrompida são terrivelmente íngremes e cheias de perigos, milorde.
 Se tiver que ir, reze, vá preparado para o pior.
 Emboscada!
@@ -25294,8 +25294,8 @@ Pule no Everfall para explorar a próxima<cf>área das ruínas.
 Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
 Aprecie cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
 Junte fragmentos de Pedra do Despertar suficientes e<cf>eles se montarão automaticamente para<cf>formar uma pedra completa.
-Seu peão principal ganhará rift crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a alistar seu lacaio!
-Uma Ferrystone te leva de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
+Seu peão principal ganhará cristais da fenda<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a alistar seu lacaio!
+Uma Pedra de Ferry te leva de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra some após<cf>um único uso.
 Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
@@ -26329,8 +26329,8 @@ Parece que você veio na hora errada.
 Pode haver outro caminho.
 É uma arma poderosa... Que pena que não funciona.
 Mensagem Inválida
-Uma riftstone quebrada. Parece que você pode<cf>restaurá-la usando cristais de fenda.
-Restaurar a riftstone?<cf>Cristais de fenda atuais: <RIMS><cf>Custo de cristal de fenda: <RIM2>
+Uma pedra da fenda quebrada. Parece que você pode<cf>restaurá-la usando cristais de fenda.
+Restaurar a pedra da fenda?<cf>Cristais de fenda atuais: <RIMS><cf>Custo de cristal de fenda: <RIM2>
 Você não tem cristais de fenda suficientes para restaurá-la.
 Algo forte pode ser sentido na pedra. Parece que as<cf>memórias de alguém foram gravadas na superfície<cf>do Monumento da Lembrança.
 Mensagem Inválida
@@ -27243,7 +27243,7 @@ Se você continuar, não poderá<cf>voltar por um tempo. Certifique-se de que es
 Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, aliados peões ou<cf>outros de volta à vida.
 Atesoure cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
 Junte fragmentos de Pedra do Despertar suficientes e<cf>eles se montarão automaticamente para<cf>formar uma pedra completa.
-Uma Ferrystone vai te levar de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
+Uma Pedra de Ferry vai te levar de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra desaparece após<cf>um único uso.
 Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
@@ -28281,7 +28281,7 @@ Em memória de Grette,<cf><cf>De coração silencioso, forjada pelo dragão.<cf>
 "Ele me atacou como um animal ferido,<cf>a maldade clara em seus olhos vermelhos. Eu<cf>finalmente consegui acalmá-lo, de alguma forma, e ele<cf>me contou sua história.<cf><cf>Ele falou sobre perder seu coração para um dragão, para<cf>que ele pudesse se vingar do<cf>nobre responsável pela morte de sua filha...<cf><cf>Mas quando eu sugeri uma união, ele não quis<cf>nem ouvir falar. Em vez disso, ele desapareceu de volta para<cf>as profundezas do labirinto de onde veio.<cf>Eu não o vi desde então..."
 "...uma mulher com poucos anos de vida. Ela disse que<cf>era uma Arisen também, e estava em busca de armamentos<cf>de alguma profecia ou lenda.<cf><cf>Ela tinha uma compostura muito além da idade,<cf>e seu jeito me deu esperança de companheirismo.<cf>Mas ela recusou meu convite na lata,<cf>dizendo que era dever dela realizar sozinha.<cf><cf>Talvez ela tivesse algum medo de mim? Ela também,<cf>não a vejo ou ouço falar desde então. Talvez<cf>ela tenha encontrado os itens que procurava? Ou talvez<cf>algo mais a tenha encontrado primeiro."
 "Todas as pessoas que encontrei neste labirinto,<cf>sem exceção, conhecem um<cf>dragão. Todos são Arisen.<cf><cf>É curioso de fato encontrar tantos com um<cf>destino tão parecido com o meu... Será que todos fomos<cf>trazidos para cá? Quem projetaria -- ou ganharia<cf>com -- tal artimanha? O que nos espera no<cf>final disso?<cf><cf>Perguntas que devo ponderar, mas outro dia;<cf>não posso deixar que isso me distraia da tarefa<cf>que jurei completar..."
-"Estou cansado de tanto trabalho e impaciência,<cf>e os sussurros continuam...<cf><cf>Eu me preparei para uma jornada difícil, mas<cf>nunca imaginei uma provação como<cf>esta... Alguém poderia pensar que eu me acostumaria<cf>com o isolamento, já que perdi meu<cf>peão há muito tempo, mas só fica mais difícil de<cf>suportar. Existem riftstones aqui, mas eles<cf>estão todos quebrados, e não espero vê-los<cf>consertados. Agora minha única companhia é aquela<cf>voz estranha..."
+"Estou cansado de tanto trabalho e impaciência,<cf>e os sussurros continuam...<cf><cf>Eu me preparei para uma jornada difícil, mas<cf>nunca imaginei uma provação como<cf>esta... Alguém poderia pensar que eu me acostumaria<cf>com o isolamento, já que perdi meu<cf>peão há muito tempo, mas só fica mais difícil de<cf>suportar. Existem pedras da fenda aqui, mas eles<cf>estão todos quebrados, e não espero vê-los<cf>consertados. Agora minha única companhia é aquela<cf>voz estranha..."
 Essa voz... Ela fala sem parar dentro de mim,<cf>ficando mais alta a cada dia, frustrando qualquer<cf>tentativa de ignorá-la. Até mesmo manter o controle dos<cf>meus próprios pensamentos se tornou uma luta...<cf> <cf>Será este algum presságio de morte iminente?<cf>Claramente não é a voz do meu dragão<cf>mordomo...<cf><cf>Seu monólogo é incessante, suas palavras claras<cf>e nítidas, mas não consigo entender seu significado.<cf>Talvez o mais estranho de tudo seja o quão pouco me<cf>incomodo em ouvi-la ultimamente..."
 "Será que essa voz está tentando me dizer<cf>o que fazer? Será que ela pode me explicar<cf>essa escuridão em que eu fui<cf>aprisionado?<cf><cf>Mas eu não posso esquecer! Eu tenho um dever<cf>a cumprir. Um dever... Mas o quê!?<cf><cf>Ah, é impossível organizar meus pensamentos!<cf>Qual era o dever que eu jurei cumprir? <cf>No que eu acreditava antes!?"
 "...vou registrar aqui caso eu me esqueça<cf>de novo: Eu sou o Arisen. É meu dever,<cf>jurado, trazer paz eterna à minha<cf>terra natal, oferecendo almas puras --<cf>mil sacrifícios humanos --<cf>mas até agora eu não consegui cumprir minha<cf>obrigação.<cf><cf>Eu juro de novo que honrarei minha promessa ao<cf>dragão e receberei sua graça. Eu vou encontrar<cf>e entregar as almas necessárias, mesmo nas<cf>profundezas deste lugar escuro."
@@ -28420,7 +28420,7 @@ Uma madeira rígida usada na fabricação de<cf>arcos e flechas.
 Uma madeira extremamente rígida usada na<cf>fabricação de arcos e flechas.
 Uma pequena fonte de luz que queima<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser usada na cintura. Tem óleo suficiente para<cf>queimar por um tempo.
 Uma pequena fonte de luz que queima<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser usada na cintura. Atualmente, está<cf>quase meio cheia de óleo.
-Uma pedra que pode levar o usuário de volta para<cf>Gran Soren, ou para a localização de um<cf>portcrystal, em um instante.
+Uma pedra que pode levar o usuário de volta para<cf>Gran Soren, ou para a localização de um<cf>cristal de teleporte, em um instante.
 Um recipiente vazio que pode ser usado para<cf>armazenar líquidos.
 Um frasco cheio de água. Jogue em<cf>um adversário para encharcá-lo.
 Um frasco cheio de combustível. Jogue em um<cf>adversário para encharcá-lo em óleo.
@@ -28504,7 +28504,7 @@ Uma de cinco gemas únicas necessárias para<cf>destrancar uma porta peculiar na
 Uma de cinco gemas únicas necessárias para<cf>destrancar uma porta peculiar nas Catacumbas.
 Chave para as ruínas submersas, arrancada da<cf>mão de um monge morto.
 Chave para o portão da pedreira, sem dúvida<cf>feita pelos pedreiros de antigamente.
-Um marcador para ser colocado em qualquer lugar<cf>que você queira retornar; usar uma ferrystone<cf>te transportará para lá num instante.
+Um marcador para ser colocado em qualquer lugar<cf>que você queira retornar; usar uma pedra de ferry<cf>te transportará para lá num instante.
 Uma pedra enfeitiçada com magia arcana<cf>para restaurar os mortos à vida, também conhecida<cf>como Escárnio do Ceifador.
 Uma permissão carregada por aqueles envolvidos<cf>na Caçada da Wyrm. Sem ela, ninguém pode<cf>participar.
 Uma licença para os terrenos do castelo de<cf>Gran Soren carregada por um jardineiro. O pobre<cf>coitado deve estar sentindo muita falta dela...
@@ -28626,7 +28626,7 @@ Um ovo podre que foi inexplicavelmente<cf>processado para armazenamento de longo
 Uma flor solar preservada para<cf>armazenamento longo.
 Uma flor luar preservada para<cf>armazenamento longo.
 Uma flor murcha, preservada para<cf>armazenamento longo, apesar de seu estado<cf>pútrido.
-Uma pedra que pode levar o usuário de volta para<cf>Gran Soren, ou para a localização de um<cf>portcrystal, em um instante.
+Uma pedra que pode levar o usuário de volta para<cf>Gran Soren, ou para a localização de um<cf>cristal de teleporte, em um instante.
 O que parece ser o máximo em flechas.<cf>Deve derrubar qualquer inimigo em um golpe, se<cf>mirado no ponto fraco certo.
 Um marcador para ser colocado em qualquer lugar que<cf>se deseje retornar; o uso de uma pedra de<cf>transporte irá te transportar para lá em um instante.
 Uma pedra enfeitiçada com magia arcana<cf>para restaurar os mortos à vida, também<cf>conhecida como Desprezo do Ceifador.
@@ -30078,7 +30078,7 @@ Gema brilhante que emite uma<cf>luz maravilhosa. Serve como chave para<cf>portas
 Uma imagem gravada assustadora, infundida<cf>com o espírito sinistro de seu criador.
 Uma chave que abre uma porta única no<cf>labirinto sob a Ilha Bitterblack.
 Um incenso distinto que atrai<cf>os inimigos mais raros e cruéis em<cf>Bitterblack Isle. Leve para a Rotunda<cf>do Pavor ou para a Abadia Negra, se ousar.
-Uma pedra que pode levar o usuário de volta para<cf>Gran Soren, ou então para a localização de um<cf>portcrystal, em um instante. Pode ser<cf>usada infinitamente.
+Uma pedra que pode levar o usuário de volta para<cf>Gran Soren, ou então para a localização de um<cf>cristal de teleporte, em um instante. Pode ser<cf>usada infinitamente.
 Mensagem Inválida
 Detalhes desconhecidos.
 Detalhes desconhecidos.
@@ -31062,8 +31062,8 @@ O vendedor está em desvantagem. Vamos<cf>dar uma mão?
 Essa estrada nos levará ao<cf>acampamento em breve.
 Chegamos, Mestre.
 Que significado você acha que essas<cf>pedras têm?
-É um portcrystal. Com uma ferrystone,<cf>você pode alcançá-lo de qualquer lugar.
-É um Portcrystal, Mestre.
+É um cristal de teleporte. Com uma pedra de ferry,<cf>você pode alcançá-lo de qualquer lugar.
+É um Cristal de Teleporte, Mestre.
 Estamos quase chegando!
 Para um homem encontrar o líder deles...<cf>Talvez se ele usasse roupas de mulher.
 O líder desses bandidos nem sequer<cf>falará com um homem.
@@ -32610,7 +32610,7 @@ Pode haver outro caminho.
 Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
 Atesoure cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
 Junte fragmentos de Pedra do Despertar suficientes e<cf>eles se juntarão automaticamente para<cf>formar uma pedra completa.
-Seu peão principal vai ganhar rift crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a recrutar seu peão!
+Seu peão principal vai ganhar cristais da fenda<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a recrutar seu peão!
 Uma Pedra de Teleporte vai te levar de volta pra Gran<cf>Soren num instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra desaparece após<cf>um único uso.
 Você pode equipar a si mesmo com uma arma<cf>primária e uma secundária.
@@ -35934,7 +35934,7 @@ Terceira Gema dos salvadores
 Quarta Gema dos salvadores
 Chave do Altar do Deus da Água
 Chave da Pedreira
-Portcrystal
+Cristal de Teleporte
 Pedra do Despertar
 Licença de Caça ao Wyrm
 Permissão do Jardineiro
@@ -36056,9 +36056,9 @@ Ovo Podre Conservado
 Sunbright Conservado
 Moonglow Conservada
 Flor Murcha Conservada
-Ferrystone
+Pedra de Ferry
 Dedo do Criador
-Portcrystal
+Cristal de Teleporte
 Pedra do Despertar
 Fragmento de Pedra do Despertar
 Perfume de Wyrmward
@@ -38050,7 +38050,7 @@ Outra era uma mulher. Ahh, ela teria sido uma<cf>joia rara, não fosse essa natu
 No fim, ela me tratava com o mesmo<cf>desprezo que trataria uma fera.
 Se ela fosse mais soltinha com seus encantos perto<cf>das feras, talvez não tivesse virado<cf>o jantar delas. Que pena...
 É pura sorte que eu tenha sobrevivido até agora. Não<cf>me iludo quanto a isso.
-Mesmo nesse inferno esquecido, tem riftstones<cf>por aí pra chamar peões.
+Mesmo nesse inferno esquecido, tem pedras da fenda<cf>por aí pra chamar peões.
 Muitos estão em ruínas, mas o preço certo vai<cf>trazê-los de volta à ativa, parece.
 Que conveniente, isso.
 Talvez esse lugar seja parecido com o outro mundo<cf>que a legião de peões fala.
@@ -38644,8 +38644,8 @@ Materiais coletados durante suas viagens<cf>podem ser usados em lojas ou outros 
 Uma Pedra de Traslado irá te levar de volta para<cf>Gran Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método de viagem mais rápido e seguro,<cf>mas cada pedra desaparece após um<cf>único uso.
 Cristais de Transição funcionam em conjunto com<cf>Pedras de Traslado.
-Um círculo de Portcrystals está fincado<cf>no chão em Gran Soren, mas outro cristal<cf>móvel pode ser encontrado em algum lugar de Gransys.
-Enterre este Portcrystal no chão em<cf>qualquer lugar, exceto em uma dungeon, e você<cf>pode usar uma Ferrystone para retornar lá num instante.
+Um círculo de Cristais de Teleporte está fincado<cf>no chão em Gran Soren, mas outro cristal<cf>móvel pode ser encontrado em algum lugar de Gransys.
+Enterre este Cristal de Teleporte no chão em<cf>qualquer lugar, exceto em uma dungeon, e você<cf>pode usar uma Pedra de Ferry para retornar lá num instante.
 Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
 Aprecie cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
 Junte Pedra do Despertar Shards suficientes e<cf>eles vão se juntar automaticamente para<cf>formar uma pedra completa.
@@ -38653,7 +38653,7 @@ Este é seu peão principal, o companheiro que<cf>você criou como Arisen. Ele s
 Sob sua orientação, seu peão principal vai<cf>aprender e evoluir suas habilidades e outros<cf>comportamentos no decorrer de suas aventuras.
 Peões também podem dar conselhos, como<cf>acharem melhor, em áreas específicas.
 Se você estiver conectado online, pode invocar<cf>peões que servem a outros mestres -- peões<cf>criados por outros jogadores.
-Esses peões invocados não ganham níveis.<cf>A experiência que ganham se transforma em rift<cf>crystals quando retornam ao seu mestre.
+Esses peões invocados não ganham níveis.<cf>A experiência que ganham se transforma em cristais<cf>da fenda quando retornam ao seu mestre.
 Qualquer item que um peão invocado equipar<cf>se tornará um presente para seu mestre quando você<cf>dispensar o peão, e não poderá ser recuperado.
 O peão principal que você criou pode viajar<cf>para outros mundos online para ajudar outros<cf>jogadores em suas jornadas.
 Essas aventuras podem resultar em novos<cf>conhecimentos, itens e equipamentos que eles<cf>trazem de volta quando retornam.
@@ -38749,12 +38749,12 @@ Use <ICON PAD_RS> para mirar a balista,<cf>e aperte <ICON SHOT> para atirar.
 <TUTO>Aperte <SIZE 25><ICON ATTACK0></SIZE> ou <SIZE 25><ICON ATTACK1></SIZE> para trocar as flechas.
 Quando estiver perto de paredes ou bordas, aperte <TUTO><SIZE 25><ICON LIFT></SIZE> na<cf>hora certa para se agarrar.
 Pule no Everfall para explorar a próxima<cf>área das ruínas.
-Seu peão principal ganhará rift crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a alistar seu peão!
+Seu peão principal ganhará cristais da fenda<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a alistar seu peão!
 Se um peão permanecer inconsciente por muito tempo,<cf>ele será perdido.
 Seu peão de suporte foi perdido, e<cf>retornou ao reino de onde veio.
 Seu peão principal foi perdido,<cf>desaparecendo e retornando à fenda.
 Você não pode se juntar a pactos com outros peões<cf>enquanto seu peão principal estiver perdido.
-Toque em qualquer riftstone para trazer seu<cf>peão principal perdido de volta ao seu lado.
+Toque em qualquer pedra da fenda para trazer seu<cf>peão principal perdido de volta ao seu lado.
 Se um peão de suporte for perdido, quaisquer itens<cf>que ele estivesse carregando são enviados para o armazenamento de itens.
 Você pode se despedir de peões que estão partindo com um<cf>único item como um presente para seu criador.
 Peões perdidos esquecem qualquer nova informação<cf>aprendida em sua jornada.
@@ -38763,7 +38763,7 @@ Aqueles que carregam ícones verdes têm novas missões<cf>para oferecer.
 Pessoas com ícones vermelhos aparecendo sobre suas<cf>cabeças têm informações relevantes para sua<cf>missão prioritária.
 Sente-se nesta cadeira especial para dar mentoria ao seu<cf>peão principal.
 Para certas magias poderosas, entoar<cf>a mesma magia que um peão irá encurtar o<cf>tempo necessário para lançá-la.
-Tocar nesta riftstone única permitirá<cf>que você batalhe contra o Ur-Dragão.
+Tocar nesta pedra da fenda única permitirá<cf>que você batalhe contra o Ur-Dragão.
 Conteúdo para download inclui extras<cf>de armas, armaduras e mais.
 Alguns conteúdos para download podem tornar sua<cf>jornada mais fácil.
 Se você encontrar um peão equipado com<cf>equipamentos estranhos ou incomuns, pode<cf>ser conteúdo para download.
@@ -40451,8 +40451,8 @@ Eles não têm nada que valha a pena comprar.
 É uma arma poderosa... Pena que não funciona.
 Como dizem, é melhor não cutucar onça com vara curta. Pessoas dormindo também.
 Você poderia tentar puxar conversa... você simplesmente não vai conseguir.
-Portcrystals funcionam em conjunto com <cf>Ferrystones.
-Grave este Portcrystal no chão em qualquer <cf>lugar, exceto em uma dungeon, e você pode usar <cf>uma Ferrystone para retornar lá em um instante.
+Cristais de Teleporte funcionam em conjunto com <cf>Pedras de Ferry.
+Grave este Cristal de Teleporte no chão em qualquer <cf>lugar, exceto em uma dungeon, e você pode usar <cf>uma Pedra de Ferry para retornar lá em um instante.
 Pedras do Despertar são itens milagrosos que podem <cf>trazer seu personagem, peões aliados ou <cf>outros de volta à vida.
 Preze cada Pedra do Despertar, pois os fragmentos <cf>necessários para formá-los são bem raros, e <cf>cada pedra só pode ser usada uma vez.
 Junte fragmentos de Pedra do Despertar suficientes e <cf>eles se montarão automaticamente para <cf>formar uma pedra completa.
@@ -40462,7 +40462,7 @@ Seu peão principal também ganhará dádivas <cf>conquistadas em outros mundos 
 Mudar de vocação tem um custo para sua <cf>disciplina, então pense bem antes de <cf>tomar uma decisão.
 Pontos de disciplina podem ser gastos para <cf>aprender habilidades e aumentos úteis.
 Habilidades e aumentos devem ser ativados <cf>para que possam ser usados.
-Alguns vendedores só aceitam rift crystals. <cf>Eles geralmente carregam itens incomuns que você <cf>não verá à venda em nenhum outro lugar.
+Alguns vendedores só aceitam cristais da fenda. <cf>Eles geralmente carregam itens incomuns que você <cf>não verá à venda em nenhum outro lugar.
 Consulte o "Histórico" no Menu de Pausa <cf>para ver um registro de todos os peões que <cf>você empregou.
 Quebre qualquer lei, e você pode ser <cf>preso e aprisionado.
 Você não pode usar itens ou trocar de <cf>equipamento nas masmorras do castelo, com <cf>poucas exceções.
@@ -40477,7 +40477,7 @@ Você também pode enviar itens para o armazenamento de qualquer<cf>local de des
 É só aqui que você pode habilitar as habilidades<cf>e aprimoramentos que você aprende. Você não pode trocá-los<cf>no campo.
 Habilidades básicas são habilitadas assim que são<cf>aprendidas.
 Verifique o menu de Opções para alternar se o<cf>seu mini-mapa gira ou não quando você vira.
-Seu peão principal ganhará rift crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a alistar seu lacaio!
+Seu peão principal ganhará cristais da fenda<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a alistar seu lacaio!
 Sente-se nesta cadeira especial para orientar seu<cf>peão principal.
 Para certas magias poderosas, entoar<cf>a mesma magia que um peão diminuirá o<cf>tempo necessário para lançá-la.
 O conteúdo para download inclui extras<cf>armas, armaduras e muito mais.
@@ -40487,7 +40487,7 @@ Você pode comprar conteúdo para download<cf>na <NS>.
 Você pode comprar conteúdo para download<cf>no Xbox Live Marketplace.
 Não se esqueça de habilitar habilidades e aprimoramentos<cf>para seu peão principal também.
 Realizar ações que as pessoas não gostam irá<cf>diminuir a afinidade delas por você.
-Uma Ferrystone irá te levar de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja localizado.
+Uma Pedra de Ferry irá te levar de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja localizado.
 É de longe o método mais rápido e seguro<cf>de viagem, mas cada pedra desaparece após<cf>um único uso.
 Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias, como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
@@ -40865,8 +40865,8 @@ Pode haver outro caminho.
 Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
 Aprecie cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
 Junte fragmentos de Pedra do Despertar suficientes e<cf>eles vão se juntar automaticamente para<cf>formar uma pedra completa.
-Seu peão principal vai ganhar rift crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a contratar seu lacaio!
-Uma Ferrystone vai te levar de volta para Gran<cf>Soren num instante, não importa onde você<cf>esteja.
+Seu peão principal vai ganhar cristais da fenda<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a contratar seu lacaio!
+Uma Pedra de Ferry vai te levar de volta para Gran<cf>Soren num instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra desaparece após<cf>um único uso.
 Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
@@ -41458,7 +41458,7 @@ Favorecido por todos.
 
 
 Geral
-Ofensivas
+Ataques
 Defesas
 Condição
 Perfil
@@ -42477,7 +42477,7 @@ Deletar Dados Inválidos
 Tirar Foto
 Um pacote com 2000 cristais da fenda. Após a compra, é necessário adicionar os Cristais da Fenda aos seus dados salvos. Uma vez que eles tenham sido adicionados, o item desaparecerá. Você pode comprar este pacote mais de uma vez.*Você deve completar a missão do prólogo antes que os Cristais da Fenda estejam disponíveis em seu jogo.*Erros de transferência de dados ou outros problemas podem fazer com que os dados não sejam adicionados aos dados salvos. Não há devoluções ou reembolsos nesses casos. Por favor, tenha cuidado.
 Um pacote considerável com 5000 cristais da fenda. Após a compra, é necessário adicionar os Cristais da Fenda aos seus dados salvos. Uma vez que eles tenham sido adicionados, o item desaparecerá. Você pode comprar este pacote mais de uma vez. *Você deve completar a missão do prólogo antes que os Cristais da Fenda estejam disponíveis em seu jogo. *Erros de transferência de dados ou outros problemas podem fazer com que os dados não sejam adicionados aos dados salvos. Não há devoluções ou reembolsos nesses casos. Por favor, tenha cuidado.
-Um pacote gigante de 30000 Rift Crystals. Depois da compra, é necessário adicionar os Rift Crystals aos seus dados salvos. Uma vez adicionados, o item desaparecerá. Você pode comprar este pacote mais de uma vez. *Você deve completar a missão do prólogo antes que os Rift Crystals estejam disponíveis no seu jogo. *Erros de transferência de dados ou outros problemas podem impedir que os dados sejam adicionados aos dados salvos. Não há devoluções ou reembolsos nesses casos. Por favor, tenha cuidado.
+Um pacote gigante de 30000 Cristais da Fenda. Depois da compra, é necessário adicionar os Cristais da Fenda aos seus dados salvos. Uma vez adicionados, o item desaparecerá. Você pode comprar este pacote mais de uma vez. *Você deve completar a missão do prólogo antes que os Cristais da Fenda estejam disponíveis no seu jogo. *Erros de transferência de dados ou outros problemas podem impedir que os dados sejam adicionados aos dados salvos. Não há devoluções ou reembolsos nesses casos. Por favor, tenha cuidado.
 Dê um up no seu estilo e no do seu peão com esta nova seleção de dois penteados, dois estilos de barba e quatro variações de cor para a ferramenta de personalização de personagem!
 Você vai virar cabeças em toda Gransys com este conjunto de seis trajes pertencentes a alguns rostos familiares. Os trajes estarão disponíveis para compra no Gato Preto em Gran Soren. Como bônus, você encontrará um de cada um dos trajes esperando por você no seu armazenamento de itens após a compra. É só procurar pelos ícones verde-azulados! <cf><cf>*O bônus só pode ser aplicado uma vez por dados salvos.<cf>*Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
 O pacote disponibiliza 7 novos equipamentos para compra no Gato Preto em Gran Soren, incluindo alguns que serão úteis na sua descida ao labirinto da Ilha Bitterblack. Como bônus, você encontrará um de cada um esperando por você no seu armazenamento de itens após a compra. É só procurar pelos ícones verde-azulados! *O bônus só pode ser aplicado uma vez por dados salvos. *Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
@@ -43291,7 +43291,7 @@ Um inimigo poderoso e maligno espreita por perto.<cf>Tenha cuidado ao engajar pe
 Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
 Aprecie cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
 Junte fragmentos de Pedra do Despertar suficientes e<cf>eles se juntarão automaticamente para<cf>formar uma pedra completa.
-Um Ferrystone te leva de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
+Um Pedra de Ferry te leva de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra desaparece após<cf>um único uso.
 Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
@@ -43639,7 +43639,7 @@ Parece que você veio na hora errada.
 Pode haver outro caminho.
 Voltar para a entrada do labirinto?<cf>(Se fizer isso, você não poderá retornar imediatamente <cf>aqui.)
 Mensagem Inválida
-Uma riftstone quebrada. Parece que você pode<cf>restaurá-la usando cristais de fenda.
+Uma pedra da fenda quebrada. Parece que você pode<cf>restaurá-la usando cristais de fenda.
 Restaurar a fenda da pedra?<cf>Cristais da fenda atuais: <RIMS><cf>Custo de cristal da fenda: <RIM2>
 Você não tem cristais da fenda suficientes para restaurá-la.
 Sim
@@ -46873,8 +46873,8 @@ Cada Arisen que veio a este lugar teve um<cf>fim diferente...
 Este peão está sempre preocupado com o seu futuro,<cf>Arisen.
 Rezo para que você complete sua jornada.
 Que significado você acha que essas<cf>pedras têm?
-É um portcrystal. Com uma ferrystone,<cf>você poderia alcançá-lo de qualquer lugar.
-É um Portcrystal, Mestre.
+É um cristal de teleporte. Com uma pedra de ferry,<cf>você poderia alcançá-lo de qualquer lugar.
+É um Cristal de Teleporte, Mestre.
 Pobre Baudric... Ele nem sempre foi louco, sabia?
 Ele já foi um estudioso renomado... Passava os dias debruçado sobre tomos sobre o que está além da fenda.
 Um dia, ele sumiu. Todos nós o demos como morto, mas depois de um tempo lá estava ele, vagando pela cidade, soltando sua cantilena...
@@ -49820,7 +49820,7 @@ Beira do Saltador
 Sala de Recepção
 Corredor Subterrâneo
 Campos de Provação
-Riftstone
+Pedra da Fenda
 Cadeira do Conhecimento
 Caverna da Besta
 Cavernas da Ilusão
@@ -49900,7 +49900,7 @@ Hélice da Meia-Noite
 Torre das Traições Retribuídas
 Sanctum de Bitterblack
 Quadro de Requisições
-Riftstone Quebrada
+Pedra da Fenda Quebrada
 Banco de Descanso
 Monumento da Lembrança
 Para a Ilha Bitterblack
