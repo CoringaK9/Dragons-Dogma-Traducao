@@ -2797,7 +2797,7 @@ Tudo, menos uma coisa: o anel que você me deu. Certamente um moribundo pode ser
 Pegue, Arisen, e vá.
 Reze para que minha sentença demore o suficiente para que eu possa ver a esperança do meu tolo confirmada.
 Um anel? Quer que eu o use?
-Você realmente entende o significado de tal ato, ser?
+Você realmente entende o significado de tal ato, milorde?
 ...Não vou recusar, fique sabendo. Um favor do Arisen é uma grande honra, de fato.
 Meus agradecimentos.
 Bah, mal me arranharam. Tenho trabalho a fa--
@@ -5629,7 +5629,7 @@ Eles vão ser comidos, pode apostar!
 Perdoe-me, ser, mas não vou abrir essa porta. Não vou ser comida pra essas bestas!
 Então foi morto... Incrível. Milorde, você é incrível.
 Eu achava que o Arisen era só história pra boi dormir... Como eu estava enganado!
-Nh? A porta...? A porta! Claro, ser! Já vou abrir!
+Ahn? A porta...? A porta! Claro, milorde! Já vou abrir!
 Valmiro... Me perdoe, ser -- ainda não conheci todo mundo dessa vila.
 Mas...um momento. Eu vi um jovem pescador parecido com o que você descreveu, perto da praia.
 Parecia um cara legal, meio...avoado? Como se a cabeça dele estivesse em outro lugar.
@@ -6031,14 +6031,14 @@ Nossa descida foi um trabalho lento e árduo... No fim, custou a vida do meu mes
 Este lugar é lar de criaturas terríveis, milorde. Tome cuidado...
 Que visão arrepiante...
 Ver os cadáveres caindo sem parar pelo poço... Faz o corpo deste peão tremer.
-Tens aspirações, ser?
+Tens aspirações, milorde?
 Eu nunca aprendi o significado dessa palavra e, agora...
 Eu tinha uma tarefa que desejava confiar a você, milorde...
 Mas a Sir Mercedes insistiu que fosse dela. Ela foi bem insistente.
 Apesar de ser uma cavaleira vinda de boa fé para nos ajudar, ela continua sendo filha do lorde de Hearthstone...
 Não me sinto nada bem em vê-la empreender uma missão tão perigosa.
 Infelizmente, diante de seu pedido fervoroso, nada pude fazer além de concordar.
-Posso pedir que ao menos a acompanhe, ser? Ela precisa ser mantida em segurança.
+Posso pedir que ao menos a acompanhe, milorde? Ela precisa ser mantida em segurança.
 Aceitar
 Agora não
 Meus agradecimentos, Arisen. Por favor, vá falar com a Sir Mercedes.
@@ -6452,7 +6452,7 @@ O Campeão Noturno!? Bah! Um traidor como você não é campeão de ninguém, Ju
 E o que será daqueles desta terra que morrerão por sua paz!?
 Vai ficar parado enquanto um povo perde sua terra, suas próprias vidas para uma praga de feras!?
 Você não é um cavaleiro, vilão!
-Como ousa, ser!? Não vou tolerar tal calúnia!
+Como ousa, milorde!? Não vou tolerar tal calúnia!
 Rrgh...! Desgraçado!
 Ngh...
 Devo estar numa situação deplorável...
@@ -6474,7 +6474,7 @@ Me agradaria saber que isso te proporcionou algum conforto em sua jornada.
 Não chega aos pés do anel que você me deu, eu sei. Que pena...
 Não posso esperar ficar forte da noite para o dia, mas voltarei como uma mulher capaz de te servir.
 Até lá, por favor, fique bem...
-...Para mim, ser?
+...Para mim, milorde?
 Mais adequada para anéis do que para espadas, não é? Deixar uma mulher inútil como cavaleira servir como esposa?
 É isso que você quer dizer?
 ...'Tis uma piada, milorde. Eu ficaria feliz em usá-lo, como uma lembrança de um amigo querido.
@@ -6782,7 +6782,7 @@ Aqueles que buscam a verdade...fora da Fé...são marcados como hereges.
 Poderia... Poderia eu te conhecer? Você parece...familiar...
 Aldous está reunido com o duque numa conferência urgente. Temo que não volte tão cedo.
 Por favor, deixe-os com seus afazeres, Arisen.
-Você não tem tempo a perder no castelo, além disso. Vá para o sul, ser!
+Você não tem tempo a perder no castelo, além disso. Vá para o sul, milorde!
 Funcionou! Funcionou!
 Ira! Destruam a cidade pedra por pedra!
 Os Salvadores chegou! Gran Soren será tingida de sangue e se afogará no medo!
@@ -8012,8 +8012,8 @@ Por favor, me desculpe.
 Sim.
 Não.
 Agradeço sua gentileza.
-Oh, alegria! Meus agradecimentos, ser!
-Oh, alegria! Meus agradecimentos, ser!
+Oh, alegria! Meus agradecimentos, milorde!
+Oh, alegria! Meus agradecimentos, milorde!
 
 -
 
@@ -10214,7 +10214,7 @@ Gwaugh!
 Ngh...gaah...
 Hmph!
 Shaah!
-Confio que esteja bem, ser?
+Confio que esteja bem, milorde?
 Com sua licença, milorde.
 Sim.
 Não...
@@ -15737,7 +15737,7 @@ Talvez com eles, meu filho... Mas temo não ter forças para evocar seus efeitos
 Um milagre... É um milagre!
 Wilhem! Meu doce Wilhem!
 Palavras não podem expressar minha gratidão, milorde. Eu te devo mais do que jamais poderei pagar.
-Você me devolveu meu filho... É a obra do Criador que você faz, ser!
+Você me devolveu meu filho... É a obra do Criador que você faz, milorde!
 O mundo é verdadeiramente abençoado por ter você, Arisen.
 Aanh?
 Sumam daqui!
@@ -19693,7 +19693,7 @@ Guh!
 Waaaugh...
 Hah!
 Yaah!
-Bem, eu espero, ser?
+Bem, eu espero, milorde?
 Preciso ir.
 Sim.
 Receio que não, milorde...
@@ -21052,7 +21052,7 @@ Se a gente pudesse engolir outros inimigos<cf>na explosão...
 Uma mulher... ou o que restou de uma.
 Tem alguém aí...?
 Banshee!
-Adiante, ser! Banshee!
+Adiante, milorde! Banshee!
 Uma cacofonia de banshees!
 Banshees são mais propensas a congelar do que outros<cf>mortos!
 Magia não serve muito contra elas.
@@ -21117,7 +21117,7 @@ Com sua licença.
 Sim, sim.
 Não, não, longe disso.
 Nossa, que gentileza sua.
-Nossa, nossa, nossa! Que mimo, ser!
+Nossa, nossa, nossa! Que mimo, milorde!
 Eu me chamo Mirabelle, milorde.
 Dama de companhia da minha senhora, Aelinore, recém-chegada a este lugar como noiva de Sua Graça. Uma duquesa agora, ela é.
 É um prazer conhecê-lo, Arisen.
@@ -21158,7 +21158,7 @@ Os tempos são sombrios. Mais do que nunca, uma pessoa precisa se importar com o
 Um boato leviano pode ver um camarada enforcado, tempos como estes.
 Minha nossa... É de deixar qualquer um sem palavras.
 Senhora! Senhora Aelinore, sua fiel Mirabelle está aqui!
-Nossa, nossa, nossa! Que prazer, ser!
+Nossa, nossa, nossa! Que prazer, milorde!
 Negócio Arriscado
 Madeleine abandonou sua loja de repente e<cf>sumiu, deixando apenas uma adaga para trás. Talvez<cf>ela esteja envolvida em algum tipo de problema...
 
@@ -21259,7 +21259,7 @@ Aonde pensa que vai?
 Parado!
 Você não vai passar daqui!
 M-mil perdões...
-O que te traz aqui, ser?
+O que te traz aqui, milorde?
 Não posso permitir que nem mesmo o Arisen passe sem ser anunciado.
 Eu agradeceria se evitasse tais ações no futuro, milorde...
 Flores para remédio, é? A mesma mistura que a Benita faz há tempos, sem dúvida.
@@ -21611,7 +21611,7 @@ Hnngh...
 Aaaugh...
 Hah!
 Eagh!
-Negócios com a guilda, ser?
+Negócios com a guilda, milorde?
 Até a próxima.
 Sim.
 Não.
@@ -23019,12 +23019,12 @@ Ouvi dizer que você está recebendo ordens diretamente do próprio Duque Edmun.
 Você está livre para vir aqui sempre que os negócios do duque exigirem.
 Vá em frente então, você está livre para passar.
 Meu posto me impede de conversar à toa.
-...Mas eu ouvi falar de seus feitos, ser! E que histórias eram essas!
+...Mas eu ouvi falar de seus feitos, milorde! E que histórias eram essas!
 Se você tem negócios aqui dentro, você está livre para passar.
 Pode ser que não seja apropriado para um homem na minha posição dizer isso...
 Mas nenhum de nós conseguiria segurar este lugar por um dia, caso o dragão atacasse.
 É uma benção saber que você está lá fora lutando por nós, milorde.
-Você matou a besta, ser!? Que tipo de presságio é esse céu escurecido, então?
+Você matou a besta, milorde!? Que tipo de presságio é esse céu escurecido, então?
 Bem, suponho que isso pode esperar. Por agora, por favor, entre. O duque espera.
 Os portões fecham ao pôr do sol. Se você tem negócios depois daqui, terá que esperar até de manhã.
 Não há entrada à noite. Volte quando o sol estiver no alto.
@@ -23189,7 +23189,7 @@ Não posso permitir que nem mesmo o Arisen passe sem ser anunciado.
 Eu agradeceria se você se abstivesse de tais ações no futuro, milorde...
 Eu sabia que você era um vilão!
 Eu sofri sua ganância e decepções por deferência ao cargo de Arisen...
-Mas você mostrou sua verdadeira face, ser! Você é um traidor do duque e de todos nós!
+Mas você mostrou sua verdadeira face, milorde! Você é um traidor do duque e de todos nós!
 Acorrentem esse bandido, homens! Sua Graça ordena a captura do Arisen, vivo ou morto!
 Arisen... Milorde, como pôde!?
 Não consigo pensar que você é totalmente inocente do que aconteceu, nem duvido das palavras de Sua Graça...
@@ -23201,13 +23201,13 @@ Aiee!
 Aaaaugh...
 Yoh...
 Hrrnagh!
-Confio que o dia o encontre bem, ser?
+Confio que o dia o encontre bem, milorde?
 Estou me despedindo, milorde.
 Você está correto, milorde.
 Receio que não seja assim, milorde.
 Nossa, que honra.
 Receio não estar apto a aceitar tamanha generosidade, milorde.
-Você é um guerreiro que veio ajudar Sua Graça então, ser?
+Você é um guerreiro que veio ajudar Sua Graça, então?
 O duque é um bom homem, mas tão severo. Espero que seu jeito durão não o tenha ofendido.
 Ele é um herói, com certeza, mas há dias em que temo seu semblante mais do que qualquer fogo de dragão, viu.
 É um mistério o que se passa na cabeça daquele homem, pelo menos para mim. Dias bons e ruins, ele usa essa carranca...
@@ -23244,13 +23244,13 @@ Não tem nada que possamos fazer daqui.
 Mantenha a lanterna seca!
 Uma mensagem para Lord Julien? Sim, eu repassarei de bom grado, milorde.
 Uma escassez de suprimentos na Pedra do Norte? Comida e armas, principalmente... Entendo.
-Foi dito o quanto eles precisam, ser?
+Foi dito o quanto eles precisam, milorde?
 Suprimento para uma semana.
 O suficiente para exercícios de treinamento.
 Foi deixado ao critério dele.
 Entendido, milorde.
 Eu farei com que Lord Julien receba sua mensagem sem falta. Agradeço por transmiti-la.
-Preocupado, ser? Tem a minha palavra, sua mensagem chegará a Lord Julien.
+Preocupado, milorde? Tem a minha palavra, sua mensagem chegará a Lord Julien.
 Por favor, mande lembranças aos homens da Pedra.
 Eu sou aquele que cavalga os céus. Sua covardia será exposta.
 A gente não trabalha com essas coisas de grimórios por aqui.
@@ -24177,7 +24177,7 @@ Por favor, pense no amanhã.
 O dragão virá novamente. Para sua terra natal e para a minha.
 Quem se levantará contra ele então, se estivermos gastos, todos nós, por termos nos apegado a algum pacto antigo?
 O que se ganha com todas as nossas mortes? Nada, eu digo. ...E nada diria seu senhor pai.
-Como ousa, ser!? Não vou tolerar tal calúnia!
+Como ousa, milorde!? Não vou tolerar tal calúnia!
 Você sabe que é verdade!
 Será que ele mandou suas melhores espadas? Um general à altura para liderá-las?
 Não, ele mandou um enfeite, embora ela seja burra demais pra perceber. É só pra mostrar, mulher!
@@ -25516,7 +25516,7 @@ Pode haver outro caminho.
 Algo forte pode ser sentido na pedra. Aparentemente <cf>as memórias de alguém foram gravadas<cf>na superfície do Monumento da Lembrança.
 Então foi derrotado... Incrível. Milorde, você é incrível.
 Eu pensava que o Arisen era pouco mais do que histórias antigas... Como eu estava enganado!
-Nh? A porta...? A porta! Claro, ser! Eu vou abri-la imediatamente!
+Nh? A porta...? A porta! Claro, milorde! Eu vou abri-la imediatamente!
 Waugh.
 Guhah!
 Waaaugh...
@@ -26463,7 +26463,7 @@ Gaah!
 Waaaugh...
 Hmph!
 Shaaah!
-Bem encontrado, ser!
+Bem encontrado, milorde!
 Siga com boa saúde!
 Sim, isso mesmo!
 Você está errado!
@@ -31085,7 +31085,7 @@ A besta estava realmente morta, eu garanto. Trazida de volta por alguma arte som
 O povo local fugiu para a segurança, mas o ataque da besta provavelmente destruirá a outra carga.
 Esse tributo é propriedade do próprio duque, milorde. A criatura deve ser morta, e rapidamente!
 Mantivemos nossa posição, de alguma forma. Nem um único troféu foi perdido, milorde.
-É um testemunho dos esforços do Arisen. Nós agradecemos, ser!
+É um testemunho dos esforços do Arisen. Nós agradecemos, milorde!
 A ordem foi restaurada, embora não sem baixas.
 Alguns dos troféus foram perdidos. Um destino inevitável, dadas as circunstâncias.
 Estou aliviado em vê-lo bem, Aldous. Arisen.
@@ -31518,7 +31518,7 @@ De alguma forma, temo que esta história ainda esteja longe de terminar.
 O que diz, Arisen? Que prêmio, hein?
 Fui eu quem encontrou, embora eu não reivindique nenhuma glória na morte da besta.
 Parece que o Criador finalmente notou todas as minhas boas ações!
-Indo para o castelo, está, ser? Boa viagem, então.
+Está indo para o castelo, milorde? Boa viagem, então.
 Estamos indo para o portão oeste. Tem uma caravana vindo com tributo para Sua Graça.
 Que bela carga, desta vez. Passaremos metade do dia descarregando tudo.
 Mantenham-se firmes!
@@ -31789,7 +31789,7 @@ Maldito, verme! Fuja de novo, e eu vou te derrubar onde você estiver.
 Suas brincadeiras foram longe demais, milorde. Criminosos são punidos. É a lei.
 Bah! Chega de misericórdia! Eu dei um aviso justo, e você o ignorou da mesma forma.
 Prepare-se para morrer!
-Você vai parar com seus joguinhos, ser! Eu não tenho tempo nem estômago para mais!
+Você vai parar com seus joguinhos, milorde! Eu não tenho tempo nem estômago para mais!
 Ouvi dizer que um funcionário do castelo estava em conluio com bandidos.
 Mas a Guarda descobriu o esquema, e ele confessou tudo logo depois.
 Parece que traidores espreitam atrás de cada arbusto e cerca ultimamente.
@@ -32017,7 +32017,7 @@ No entanto, há raras vezes, eu acredito, quando a<cf>destruição do corpo É o
 Eu não menosprezo sua decisão, nem quero<cf>implicar que foi uma decisão fácil ou indolor.
 Mas através dela, você veio a viver de novo. Para me<cf>encontrar aqui, um habitante de outro mundo.
 Foi porque sua vontade brilhou mais forte, provou-se<cf>mais forte que qualquer outra que você alcançou seu<cf>fim, e pela mesma causa você está aqui agora.
-Por que você luta, ser?
+Por que você luta, milorde?
 Para proteger aqueles que você ama do mal? Para<cf>reivindicar autoridade sobre a terra como conquistador?
 É uma pergunta que todos os guerreiros, Arisen ou não,<cf>devem sempre se fazer.
 ...Para que em algum lugar no mar de sangue e nas<cf>seduções da força, descubramos que lutar se tornou<cf>o fim e não o meio.
@@ -32258,11 +32258,11 @@ Sim.
 Não.
 Não precisava.
 Agradeço... É muita gentileza.
-...Pra mim, ser?
+...Pra mim, milorde?
 Mais adequado para anéis do que para rapieiras, não é? Deixar uma mulher inútil como um cavaleiro servir como esposa?
 É isso que quer dizer?
 ...'Tis uma piada, milorde. Eu ficaria feliz em usá-lo, como uma lembrança de um querido amigo.
-Algo a dizer, ser?
+Algo a dizer, milorde?
 Você está aqui para se alistar no Corpo?
 Hmm... Você tem a estatura para isso, olhando pra você.
 Se você tiver o interesse para combinar, diga. Não posso garantir que você será aceito, mas todos são livres para tentar.
@@ -34502,7 +34502,7 @@ Sua Graça deve saber disso, pensei, e então redigi uma carta para enviar no mo
 Mas o destino é cruel, ser, e o pacote onde coloquei a carta foi roubado por monstros nas estradas.
 Se alguém encontrar essa carta, e seu conteúdo se tornar conhecido do público, o moral vai desmoronar.
 Além do mais, um segredo só serve enquanto permanece escondido. A traição deles será mais facilmente frustrada se eles não esperarem que o duque saiba disso.
-A carta deve ser encontrada. Certamente você entende, ser?
+A carta deve ser encontrada. Certamente você entende, milorde?
 Eu gostaria de pedir que você a encontrasse e a trouxesse de volta para mim.
 Naturalmente, Sua Graça não pode compensá-lo abertamente por esta tarefa, mas eu de bom grado pagarei do meu próprio bolso se você tiver sucesso. Que o Criador acelere seus passos, milorde.
 Eu tava na estrada quando fui atacado. Veio do céu, rasante pra roubar minha mochila.
@@ -39094,7 +39094,7 @@ Use-o para entrar na mansão sem atrair a atenção da Guarda.
 Por favor, Arisen, eu imploro: vá para a mansão do norte com toda a velocidade!
 Você não deve ser descoberto, ser, e acima de tudo, mantenha sua identidade bem escondida!
 Se eles souberem a verdade, minha senhora enfrentará terríveis repercussões!
-Você deve correr para a Pedra do Norte, ser!
+Você deve correr para a Pedra do Norte, milorde!
 Então a tarefa era grande demais, mesmo para o Arisen...
 Acabou, então. Eu mesmo serei caçado, pelo resto da minha vida... Que o Criador me preserve...
 O que é essa coisa!?
@@ -43172,11 +43172,11 @@ Arisen! Arisen!
 M-más notícias! A cap...capital...
 Nngh...
 Arisen! Por favor, volte para a capital com toda a pressa!
-Temo que haja algo de ruim acontecendo, ser!
+Temo que haja algo de ruim acontecendo, milorde!
 Soren está... Gran Soren...
-Arisen! Notícias urgentes da capital, ser!
+Arisen! Notícias urgentes da capital, milorde!
 Você deve retornar ao lado de Aldous com toda a velocidade possível!
-Arisen! Notícias urgentes da capital, ser!
+Arisen! Notícias urgentes da capital, milorde!
 Você deve retornar imediatamente! Por favor, apresse-se!
 Mantenham suas posições!
 Estamos perdidos... Corram!
@@ -43463,7 +43463,7 @@ Você vai pagar por nos fazer de bobos!
 Morte ao traidor!
 Isso é obra do Arisen?
 Eu terei vingança pela minha família!
-Bem-vindo, Arisen. Como posso ajudá-lo, ser?
+Bem-vindo, Arisen. Como posso ajudá-lo, milorde?
 Você procura um jardineiro vadio? Receio que eu seja de pouca ajuda para a sua causa.
 Mas, espere um momento... Tivemos motivos para interrogar um trabalhador do castelo há alguns dias...
 Nossos espiões souberam de um complô em que segredos de estado estavam vazando para um bando de bandidos.
@@ -43935,7 +43935,7 @@ O caminho termina.
 Você voltou. Pensar que sem o Arisen, Gran Soren cairia no caos tão rápido...
 Qualquer coisa que você possa fazer para ajudar a manter a paz será muito apreciado.
 Eu vou selar o portão atrás de você até que a ordem seja restaurada, milorde. Vá, e que o Criador seja seu escudo!
-Você conhece o Elysion, ser?
+Você conhece o Elysion, milorde?
 Ouvi dois guardas do castelo conversando ontem à noite, bebendo um trago. Dizem que ele é perigoso.
 Que ele vive dizendo que o mundo é louco, então a gente devia abraçar a loucura também.
 Pra mim, parece que ele levou as próprias palavras a sério.
@@ -44859,7 +44859,7 @@ Sim, milorde.
 Oh, não.
 Gentileza sua, milorde.
 Meus agradecimentos!
-Não, ser! Você não pode passar!
+Não, milorde! Você não pode passar!
 Nada disso, agora!
 Não pode fugir para sempre!
 Sumam daqui!
@@ -49598,7 +49598,7 @@ Entendido. Então, por favor, entre no castelo, milorde.
 Um guia o aguarda lá dentro para levá-lo até Sua Graça.
 Entendo. Então vá, e cuide dos assuntos que te prendem, milorde. Eu o esperarei aqui.
 Rrgh!
-Você se jogou no vazio, ser?
+Você se jogou no vazio, milorde?
 Parece que o poço se esvazia sobre si mesmo em um ciclo interminável, de cima para baixo.
 Eu gostaria de pedir algo a você, Arisen...
 Por favor... Pegue isto.
