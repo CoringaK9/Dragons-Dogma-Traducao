@@ -3333,7 +3333,7 @@ Agora! Subam no pescoço dela!
 Hrngh!
 Aposto que poucos realmente acreditam nessa conversa da seita sobre a destruição ser renovação.
 Mas todos nós precisamos desabafar nossos problemas, não é? E o povo mais pobre, duplamente.
-Eles comparecem às reuniões dos salvadores para esquecer seus problemas por um tempo, me parece.
+Eles comparecem às reuniões dos Salvadores para esquecer seus problemas por um tempo, me parece.
 Você tem um brilho nos olhos... Aqui, deixe-me dar uma olhada adequada em você.
 Nada mal...
 Você deve nos conhecer, então? Sim, somos ladrões...
@@ -3571,10 +3571,10 @@ Dedo do Criador
 Item Desconhecido
 Primeira Chave Para os Salvadores
 Segunda Chave Para os Salvadores
-Primeira Gema dos salvadores
-Segunda Gema dos salvadores
-Terceira Gema dos salvadores
-Quarta Gema dos salvadores
+Primeira Gema dos Salvadores
+Segunda Gema dos Salvadores
+Terceira Gema dos Salvadores
+Quarta Gema dos Salvadores
 Chave do Altar do Deus da Água
 Chave da Pedreira
 Cristal de Teleporte
@@ -3601,7 +3601,7 @@ Item Desconhecido
 Flor Abençoada
 Flor Morta
 Tábua Antiga
-Quinta Gema dos salvadores
+Quinta Gema dos Salvadores
 Godsbane
 Chave da Torre Windbluff
 Laço do Arisen
@@ -3648,7 +3648,7 @@ Strongwarish
 Distintivo de Mérito
 Cristal da Fenda
 Item Desconhecido
-Distintivo dos salvadores
+Distintivo dos Salvadores
 Chave da Mansão
 Chave Mestra
 Amor-em-Bruto
@@ -4610,7 +4610,7 @@ Item Desconhecido
 Item Desconhecido
 Conjunto de Trajes de Serva
 Conjunto de Roupas do Duque
-Conjunto de Vestes dos salvadores
+Conjunto de Vestes dos Salvadores
 Conjunto de Trajes de Pescador
 Conjunto de Farrapos de Pescador
 Conjunto de Armadura da Guarda Real
@@ -5885,7 +5885,7 @@ Chega. Eu sei o que você vai dizer.
 Com guardas ou sem guardas... se o dragão vier, a gente tá ferrado.
 Imagino que você sinta prazer em saber que o mundo clama por você pra salvá-lo?
 Eu entenderia se orgulho fosse sua palavra de ordem. A guarda é só rato de campo diante daquele dragão.
-Talvez seja melhor eu chutar o balde da razão e celebrar nossa desgraça iminente, que nem os lunáticos dos salvadores?
+Talvez seja melhor eu chutar o balde da razão e celebrar nossa desgraça iminente, que nem os lunáticos dos Salvadores?
 Ah, pelo Criador... Não vou encontrar respostas fáceis aqui.
 Só me resta esperar acordar amanhã e ver que ainda estou respirando.
 Dias passados entre medo e tédio. Noites passadas esquecido nos meus copos. Pelo menos mantenho meu dever de vigia, e com orgulho.
@@ -6054,7 +6054,7 @@ O capitão da guarda de lá é um sujeito chamado Daerio. Um homem bom e leal.
 Não acredito que ele seja do tipo que abandona seu posto, nem que fomente discórdia...
 Não tenho ideia do que aconteceu com o forte. A única maneira de saber é enviar alguém para ver diretamente.
 Parece que a Pedra do Norte está quieta novamente. Agradeço.
-Foi uma surpresa desagradável descobrir que o alcance dos salvadores se estende tão profundamente em nossas fileiras.
+Foi uma surpresa desagradável descobrir que o alcance dos Salvadores se estende tão profundamente em nossas fileiras.
 É um testemunho do medo crescente no coração das pessoas.
 Devemos estar vigilantes contra essa corrupção, para que o ducado não apodreça antes mesmo da chegada do dragão.
 Eu não acredito no envolvimento de Lord Julien nos problemas do norte!
@@ -6448,7 +6448,7 @@ Como um companheiro hóspede vindo ajudar Gransys, não posso simplesmente deix�
 Eu insistiria em ir sozinho, mas sem dúvida você tem suas próprias razões para ir.
 Não vou impedi-lo de se juntar a mim, mas também não posso esperar. Siga se quiser, milorde. Estou indo.
 Eu pensei... não, confiei que você estivesse acima das traições vis de gente como os Salvadores!
-O Campeão Noturno!? Bah! Um traidor como você não é campeão de ninguém, Julien!
+O Campeão Noturno!? Ha! Um traidor como você não é campeão de ninguém, Julien!
 E o que será daqueles desta terra que morrerão por sua paz!?
 Vai ficar parado enquanto um povo perde sua terra, suas próprias vidas para uma praga de feras!?
 Você não é um cavaleiro, vilão!
@@ -11255,7 +11255,7 @@ Está além do alcance dos homens...
 Passa tudo de valor que você tem!
 Por favor, milorde. Eu tenho um trabalho a fazer.
 Adeus.
-Em Busca dos salvadores
+Em Busca dos Salvadores
 Missão de Caça ao Wyrm<cf>Descubra o que puder sobre os Salvadores, uma sociedade secreta<cf>que adora o dragão e semeia o caos.
 
 
@@ -11276,7 +11276,7 @@ Rastreie Mason, que busca suas próprias respostas<cf>sobre os Salvadores.
 
 
 Renove Sua Investigação Sobre os Salvadores
-Use o distintivo dos salvadores que Mason<cf>confiou a você para descobrir novas pistas sobre os<cf>motivos do culto.
+Use o distintivo dos Salvadores que Mason<cf>confiou a você para descobrir novas pistas sobre os<cf>motivos do culto.
 
 
 
@@ -11286,7 +11286,7 @@ Os Salvadores está realizando uma reunião clandestina<cf>nas criptas. Aventure
 
 
 Observe a Reunião
-Espie a reunião sinistra dos salvadores, tomando<cf>cuidado para não ser visto.
+Espie a reunião sinistra dos Salvadores, tomando<cf>cuidado para não ser visto.
 
 
 
@@ -11306,7 +11306,7 @@ Volte para o cavaleiro Maximilian em Gran Soren<cf>e conte a ele o que você des
 
 
 Missão Cumprida
-Você deu um relato completo da reunião dos salvadores<cf>para o cavaleiro Maximilian. Recompensa da missão<cf>recebida.
+Você deu um relato completo da reunião dos Salvadores<cf>para o cavaleiro Maximilian. Recompensa da missão<cf>recebida.
 
 
 
@@ -11723,7 +11723,7 @@ Vamos ver o que o povo da cidade sabe.
 A tal de Meridith tem um bom<cf>ouvido pra informações.
 Mason... O nome me é familiar.<cf>Vamos encontrá-lo.
 Acho que o Mason mora nessas favelas.
-Esse distintivo pode soltar a língua dos<cf>membros dos salvadores.
+Esse distintivo pode soltar a língua dos<cf>membros dos Salvadores.
 Acho que o Sairus sabe de algo.<cf>Esse distintivo pode conquistar a confiança dele.
 Mason ou Maximilian gostariam de saber<cf>das catacumbas.
 Seria bom ter um peão que<cf>manja das catacumbas.
@@ -11851,7 +11851,7 @@ A fortaleza é nossa, Arisen! Vamos<cf>voltar com a notícia.
 Retomamos a fortaleza! Este lugar<cf>terá um novo mestre, agora.
 É o momento decisivo.<cf>Vamos esperar e observar.
 Mestre, você ouviu falar do Campeão Noturno?
-Correm boatos de que o Campeão Noturno é um<cf>espião dos salvadores que se infiltrou na corte.
+Correm boatos de que o Campeão Noturno é um<cf>espião dos Salvadores que se infiltrou na corte.
 Que ligação esse Campeão Noturno<cf>tem com os Salvadores? É um mistério.
 Atrás do Elysion!
 O Elysion está fugindo!
@@ -11861,7 +11861,7 @@ Receio não ter conselhos a oferecer...
 Se você acha que um inimigo está além das nossas forças, não<cf>há vergonha em fugir.
 Só de estar ao seu lado, este peão se enche de<cf>vigor, Arisen.
 Isso deve resolver nossos problemas com esqueletos. Vamos<cf>voltar pra capital.
-Parece que a sombra dos salvadores se estende por toda parte.<cf>Sor Maximilian precisa saber disso.
+Parece que a sombra dos Salvadores se estende por toda parte.<cf>Sor Maximilian precisa saber disso.
 Ele fugiu, mas é melhor darmos a notícia<cf>do que descobrimos de qualquer jeito.
 Não é a última vez que ouviremos falar de Salomet, eu<cf>garanto. Vamos falar com Sor Aldous.
 O portão está aberto! Bora avisar o Alon.
@@ -12336,7 +12336,7 @@ O Elysion falou de você... Disse que o Arisen ia contra a maré. Um herege, ele
 Mas eu... Eu vejo você como um cara razoável. Do tipo que gosta de ouvir a razão... não é?
 Vamos lá, camarada. O que você ganha sujando suas mãos de sangue?
 Não há nada que possa deter o fogo do dragão. Que tal esperarmos a perdição juntos?
-Há muitos prazeres para se desfrutar antes que os salvadores chegue. Eu fornecerei a grana com prazer!
+Há muitos prazeres para se desfrutar antes que os Salvadores chegue. Eu fornecerei a grana com prazer!
 Por favor, me poupe, Arisen, para que eu possa viver para ver a chama. Você será bem recompensado!
 Não seja tolo, cara. Certamente meu ouro vale mais para você do que minha cabeça?
 Nnh?
@@ -12459,7 +12459,7 @@ Já foi um choque saber que os Salvadores estava envolvida na revolta do norte..
 É doloroso saber que foi Lorde Julien quem os liderou, no entanto.
 É uma promessa antiga que as terras vizinhas se unam em tempos de perigo...
 Mas suponho que esses tempos são tão propensos à política e intriga quanto qualquer outro.
-A revolta na fortaleza foi obra dos salvadores. Vilões, todos esses fanáticos...
+A revolta na fortaleza foi obra dos Salvadores. Vilões, todos esses fanáticos...
 É doloroso saber que foi Lorde Julien quem os liderou, no entanto.
 Sempre ouvi dizer que ele era um cavaleiro bom e nobre. Suponho que o maior dos homens ainda é humano.
 Ele deve estar apodrecendo em uma cela abaixo do castelo agora. É um desperdício terrível...
@@ -12700,8 +12700,8 @@ Detalhes desconhecidos.
 Uma flecha projetada para explodir no impacto<cf>e ferir todos os pegos na explosão.
 A flecha suprema, dizem que mata<cf>instantaneamente. (Obs.: Depois de equipada,<cf>ela será perdida na próxima vez que você<cf>restaurar de um checkpoint salvo.)
 Detalhes desconhecidos.
-Chave para uma porta do primeiro<cf>nível das Catacumbas, no caminho para o santuário dos salvadores.
-Chave para uma porta do<cf>segundo nível das Catacumbas, no caminho para o<cf>santuário dos salvadores.
+Chave para uma porta do primeiro<cf>nível das Catacumbas, no caminho para o santuário dos Salvadores.
+Chave para uma porta do<cf>segundo nível das Catacumbas, no caminho para o<cf>santuário dos Salvadores.
 Uma de cinco gemas únicas necessárias para<cf>destrancar uma porta peculiar nas Catacumbas.
 Uma de cinco gemas únicas necessárias para<cf>destrancar uma porta peculiar nas Catacumbas.
 Uma de cinco gemas únicas necessárias para<cf>destrancar uma porta peculiar nas Catacumbas.
@@ -12779,7 +12779,7 @@ Uma erva rara e bem forte usada no<cf>preparo de tisanas. Consuma para recuperar
 Um token concedido a quem serviu<cf>Gran Soren fielmente. Algumas lojas dão<cf>desconto pra quem carrega ele.
 Luz da fenda que se tornou sólida. Ela<cf>tem um valor especial.
 Detalhes desconhecidos.
-Um token carregado por todos os membros dos salvadores,<cf>parece afirmar que alguém compartilha dos ideais deles.
+Um token carregado por todos os membros dos Salvadores,<cf>parece afirmar que alguém compartilha dos ideais deles.
 Uma chave de latão antiga pra uma porta na<cf>mansão do duque.
 Uma chave especial que abre qualquer cela,<cf>inclusive as das masmorras<cf>embaixo de Gran Soren.
 Uma joia extremamente rara recebida de<cf>Aelinore. Um tesouro desses só pode ser<cf>encontrado em alguns poucos lugares conhecidos.
@@ -14981,7 +14981,7 @@ Ninguém entra na guarda pelo salário. Nem pela glória. Nem pela camaradagem..
 Espera aí... Onde é que eu queria chegar com isso...?
 Deve ser bom ser um Arisen e tal. Aposto que você ganha dinheiro suficiente pra umas armas melhores, pra começo de conversa.
 Enquanto isso, um guarda sortudo é aquele cuja lâmina consegue manter o fio.
-E armadura? Bah! Eles realmente acreditam que a gente pode enfrentar um dragão com equipamentos como esses?
+E armadura? Ha! Eles realmente acreditam que a gente pode enfrentar um dragão com equipamentos como esses?
 Pode me chamar de covarde se quiser, mas, no primeiro sinal daquele dragão, eu largo a armadura e saio voando.
 Vossa Graça já derrotou o dragão, sabia?
 Mas o tempo e a prosperidade o amoleceram, e a estima dele entre a guarda cai a cada dia que passa.
@@ -15382,7 +15382,7 @@ Se ao menos todos fossem como o cavaleiro Julien e a cavaleira Mercedes.
 Boas pessoas, ambos, e não encontrará dois trabalhadores mais diligentes, garanto.
 Alguns dos outros são uns verdadeiros canalhas, no entanto.
 Eles vão comer o pão do duque e beber seu vinho, e então sumir de novo pela manhã.
-É aquela gente dos salvadores, não é? Os que estão organizando essa rebelião.
+É aquela gente dos Salvadores, não é? Os que estão organizando essa rebelião.
 Só entre nós, cheguei a pensar em me juntar a eles, uma vez.
 Isso foi bem antes dessa revolta, veja bem. Fui a uma das reuniões deles por brincadeira.
 Fiquei surpreso com o tamanho da multidão, fiquei. Não esperava tanta gente.
@@ -15754,7 +15754,7 @@ Eles estão loucos de desejo por isso. É o único propósito que conhecem.
 Sim, Arisen -- bem encontrado.
 Estamos atrás de uma mercadora chamada Madeleine.
 Ela é acusada por Sua Graça de traficar esses medalhões estranhos.
-Como um símbolo dos salvadores, a venda de tal coisa é blasfêmia e traição.
+Como um símbolo dos Salvadores, a venda de tal coisa é blasfêmia e traição.
 Pretendemos prendê-la e descobrir as conexões da garota com a liderança dos fanáticos.
 Acreditamos que ela está escondida por aqui. Você viu algo que possa nos ajudar?
 Sim
@@ -17160,7 +17160,7 @@ Deixa pra lá
 Nós, peões, não temos um lar de verdade, Arisen. Mas eu não quero ver este lugar destruído, de jeito nenhum.
 Rezo para que nos guie com justiça.
 Notícias urgentes, Vossa Graça! Um mensageiro chegou com notícias da Grande Muralha!
-A fortaleza caiu para um homem que se autodenomina líder dos salvadores...
+A fortaleza caiu para um homem que se autodenomina líder dos Salvadores...
 Ele fez prisioneiros e ameaça oferecer um grande sacrifício para ver a terra purificada!
 Eu vou mirar no mais forte!
 Eu vou atacar primeiro!
@@ -17950,7 +17950,7 @@ Glória ao duque!
 Parece que podemos avançar por aqui.
 Cada salão é igual ao outro... Temo que logo nos<cf>perderemos.
 Negar os Salvadores
-Fanáticos dos salvadores tomaram a Grande Muralha, um<cf>baluarte crucial na defesa contra o dragão.<cf>Retome a fortaleza imediatamente.
+Fanáticos dos Salvadores tomaram a Grande Muralha, um<cf>baluarte crucial na defesa contra o dragão.<cf>Retome a fortaleza imediatamente.
 
 
 
@@ -17960,7 +17960,7 @@ Fanáticos dos salvadores tomaram a Grande Muralha, um<cf>baluarte crucial na de
 
 
 Recapturar a Grande Muralha
-Siga para a Grande Muralha e expulse os<cf>cultistas dos salvadores de dentro.
+Siga para a Grande Muralha e expulse os<cf>cultistas dos Salvadores de dentro.
 
 
 
@@ -17970,7 +17970,7 @@ Vença os wights invocados pelo Elysion.
 
 
 Missão Cumprida
-A Grande Muralha está livre das forças dos salvadores.<cf>Recompensa da missão recebida.
+A Grande Muralha está livre das forças dos Salvadores.<cf>Recompensa da missão recebida.
 
 
 
@@ -18608,7 +18608,7 @@ Você pode passar itens para seus peões e pegá-los<cf>de volta no sub menu.
 O espírito do homem, a alma que o anima,<cf>é aquilo que reside dentro do vaso<cf>de carne durante o tempo de sua vida mortal.
 É nossa maldição que a alma deva existir em<cf>tal incompletude enquanto permanecemos nesta<cf>espiral material.
 E é nessa incompletude da alma<cf>que todo sofrimento humano, dor e<cf>lamentação encontram sua fonte inexorável.
-De onde, então, vem os salvadores?
+De onde, então, vem os Salvadores?
 Não se encontra no prazer.
 Pois o prazer nada mais é que outra manifestação<cf>da incoerência da alma. Uma distração nascida<cf>da carne.
 É apenas a sombra da dor, e não menos uma<cf>ilusão transitória.
@@ -18644,7 +18644,7 @@ Se eu fosse um pouco mais jovem, estaria lá para fazer um troféu de uma presa 
 Mas com você agora chegado, não seria bom roubar sua glória, seria?
 Sinto que há algo que esqueci... Envelhecer é uma coisa terrível.
 Mason? Sim, eu conheço o cara...
-Ele está em conflito com aquele pessoal dos salvadores de quem você ouve falar hoje em dia, embora ele não seja rápido em compartilhar os detalhes.
+Ele está em conflito com aquele pessoal dos Salvadores de quem você ouve falar hoje em dia, embora ele não seja rápido em compartilhar os detalhes.
 Há muito pouco que posso dizer sobre isso com certeza.
 Ele traz boatos das terras vizinhas, e eu o retribuo com velhas histórias de guerra. Isso é tudo.
 Ei, amigo. À toa, você está? Aqui para um conto dos meus dias de juventude, talvez?
@@ -19615,7 +19615,7 @@ Parece estranho fazer uma reunião secreta<cf>à luz do dia.
 Se essas reuniões são secretas, elas<cf>provavelmente acontecem à noite.
 Não devemos estar longe do local da reunião.<cf>Silêncio, agora...
 Alguém está vindo...
-Nosso mapa indica a localização do<cf>local de encontro dos salvadores.
+Nosso mapa indica a localização do<cf>local de encontro dos Salvadores.
 Nós devemos confrontar ou seguir um<cf>deles...
 Vamos abordar um deles, ou segui-<cf>los por um tempo.
 Vamos segui-los.
@@ -20224,10 +20224,10 @@ Se importa alguma coisa, o homem que governa esta terra agora
 conquistou essa honra por meio de um acordo desse tipo.
 A decisão é sua, Arisen.
 Agora, escolha!
-É como você vê, Arisen. A Pedra do Norte está cheia de agentes dos salvadores.
+É como você vê, Arisen. A Pedra do Norte está cheia de agentes dos Salvadores.
 O Campeão Noturno é um intelectual temível. Ele escreveu e executou o cenário por completo.
 Ele vasculhou os homens do duque em busca de laços com os Salvadores, reuniu-os aqui e provocou uma revolta antes que alguém percebesse.
-Eu, particularmente, não dou bola para o credo dos salvadores.
+Eu, particularmente, não dou bola para o credo dos Salvadores.
 Mas o Campeão alega que o duque está perdido nesta guerra com o dragão, e nisso eu acho que ele fala a verdade.
 Eu não vou questionar sua coragem, milorde, mas até o Arisen é humano. O wyrm não pode ser morto.
 Por favor, me perdoe. Como comandante, tenho o dever de observar as condições e usar meu melhor julgamento.
@@ -21252,7 +21252,7 @@ Parece que o objetivo dele era só trazer caos pra terra.
 Você está cego para a verdade, Arisen!
 A perdição está próxima! A hora da redenção chegou!
 Tudo vai queimar, e pelo fogo retornar ao nada!
-Em nome dos salvadores, o mundo precisa conhecer o caos. O mundo precisa conhecer a destruição!
+Em nome dos Salvadores, o mundo precisa conhecer o caos. O mundo precisa conhecer a destruição!
 Diga o que quer!
 Quem vai aí!?
 Aonde pensa que vai?
@@ -21923,7 +21923,7 @@ Sumam daqui! Caiam fora!
 Ela tá envolvida com o dragão!
 Peguem ela!
 É coisa do demônio dela!
-Esses bastardos dos salvadores mostram uma unidade sobrenatural em suas ações.
+Esses bastardos dos Salvadores mostram uma unidade sobrenatural em suas ações.
 Ainda tem gente boa lá dentro. Queria poder fazer algo para ajudar...
 Graças ao Criador... Muito obrigado, milorde.
 Eu já tinha perdido a esperança.
@@ -22575,7 +22575,7 @@ A missão não pode mais ser concluída.
 Um grimório? Salomet, era? Não, nunca ouvi falar.
 Mas outros ratos andaram correndo atrás dessas bugigangas, pelo que ouvi.
 O Martelo de Ferro, digo. Bando de ladrões imundos fedendo o sul de Gransys.
-O líder deles é o pior de todos. Se acha um erudito, todo sabichão. Bah!
+O líder deles é o pior de todos. Se acha um erudito, todo sabichão. Ha!
 Provavelmente foi ele que queria grimórios coletados. Embora, dizem, metade dessas coisas sejam falsificações de qualquer jeito...
 A Pedra do Norte? Sim, dizem que Lord Julien cavalgou para lá não faz muito tempo.
 Não sei o motivo do alvoroço, mas garanto que o assunto está bem encaminhado.
@@ -22659,7 +22659,7 @@ Me dói te incomodar, ocupado como você está com as Ordens Reais, mas tem algo
 Ouvir
 Agora não
 Esqueletos foram avistados perto da capital nesses últimos dias.
-Além disso, recebi vários relatos de encontros secretos entre os fanáticos dos salvadores.
+Além disso, recebi vários relatos de encontros secretos entre os fanáticos dos Salvadores.
 Eu não consigo evitar de ver os dois como relacionados, embora eu não tenha provas disso.
 Mesmo assim, que me condenem se eu deixar essa gente corromper a mente das pessoas de bem por falta de provas.
 Arisen, te peço isso como um favor... Você pode investigar esses eventos e procurar alguma ligação entre eles?
@@ -22678,7 +22678,7 @@ Eu sabia que os Salvadores tinha algo a ver com aqueles esqueletos. Eu sabia!
 Não podemos permitir que isso continue. Por agora, precisamos coletar mais informações... Agradeço, Arisen.
 As catacumbas estão limpas de ratos graças aos seus esforços, Arisen.
 As estradas também estão quase livres dos guerreiros esqueletos. Gransys está segura por enquanto.
-Documentos que eles deixaram para trás lançam alguma luz sobre as ações dos salvadores ultimamente.
+Documentos que eles deixaram para trás lançam alguma luz sobre as ações dos Salvadores ultimamente.
 Parece que os esqueletos eram uma tentativa de reforçar seus números. Um pensamento que não aprecio...
 Além disso, eram os ossos de seus próprios membros que eles usavam -- crentes recém-ingressados feitos sacrifícios vivos.
 Eles foram transformados de carne em osso vivo por alguma arte sombria, tudo como parte de um experimento.
@@ -24151,7 +24151,7 @@ Aqui! Aqui, agora!
 Abram!
 Venham! Ajudem!
 Socorro! Socorro!
-Bah! Humanos tolos!
+Ha! Humanos tolos!
 Acham que venceram?
 Mortos! Vocês estão acabados!
 Todo o mundo, acabado! Todos vão morrer!
@@ -24164,7 +24164,7 @@ Dragão... A besta chegou...
 Rrgh!
 Waaaugh!
 Eu pensei... não, confiei que você estava acima das traições básicas como as dos Salvadores!
-O Campeão Noturno!? Bah! Um quebra-juramento da sua laia não é campeão de ninguém, Julien!
+O Campeão Noturno!? Ha! Um quebra-juramento da sua laia não é campeão de ninguém, Julien!
 Os Salvadores? Que se dane todos eles.
 E suas conversas vazias sobre destruição e redenção. Eles eram convenientes para o meu propósito, nada mais.
 O dia de Edmun Dragonsbane já passou. Ele não matará outra serpente.
@@ -24827,7 +24827,7 @@ A petição para a absolvição de Fournival ainda não tem assinaturas suficien
 A petição para a absolvição de Fournival já acumulou assinaturas suficientes.
 A petição para a condenação de Fournival ainda não tem assinaturas suficientes.
 A petição para a condenação de Fournival já acumulou assinaturas suficientes.
-Ouvi dizer que foi um soldado que abriu o poço, por falta de um lugar para se esconder do wyrm. Bah!
+Ouvi dizer que foi um soldado que abriu o poço, por falta de um lugar para se esconder do wyrm. Ha!
 E agora algo que ele viu lá embaixo o deixou em pânico.
 Eu agradeceria se ele calasse a boca. Eu uso esse poço, e não preciso que ele chame atenção para ele...
 E o poço? O problema foi resolvido?
@@ -25135,7 +25135,7 @@ Por favor, voe para o forte de passagem e ouça a mensagem do homem, milorde.
 Enquanto isso, devo ver o duque sobre outro assunto não menos urgente... É um dia agitado.
 Um assunto de natureza urgente chegou até nós. Siga para o forte de passagem do sul imediatamente.
 Enquanto isso, devo ver o duque sobre outro assunto não menos urgente... É um dia agitado.
-Que dano causei por descuido! Permitir a entrada de um agente dos salvadores...
+Que dano causei por descuido! Permitir a entrada de um agente dos Salvadores...
 E ao mandá-lo embora antes que a criatura revivesse, o dano foi ainda maior...
 Enquanto eu, em minha tola credulidade, corri para o castelo, apenas para ser nocauteado por algum vilão.
 Foi uma sorte que a besta tenha sido mantida longe do bairro residencial. Augh, ou do castelo!
@@ -25609,7 +25609,7 @@ Eles vão rir de piadas, até se juntar a um homem em suas festas bêbadas, mas 
 Não há um homem que possa dizer o que um peão está pensando, e isso não lhes traz amor.
 Eu mesmo, não tenho antipatia por eles. Hospedei muitos mirmidões aqui e comi bem com o dinheiro deles.
 ...Mm? Ah, não diga mais nada, amigo.
-Devo confessar, eu não esperava que o Arisen compartilhasse do credo dos salvadores.
+Devo confessar, eu não esperava que o Arisen compartilhasse do credo dos Salvadores.
 Embora, verdade seja dita, eu esteja longe de ser um devoto, eu mesmo.
 É uma luta melhor travada com feitiços<cf>e flechas.
 É sabido que grifos odeiam fogo.
@@ -26392,7 +26392,7 @@ Assim como é dever e honra da Fé guiar o Arisen em seu caminho.
 Na verdade, a necessidade de orientação é clara, embora você pareça um tipo justo.
 Alguns Arisen não compartilham sua maneira gentil, nem sua piedade.
 Ouvi dizer que uma fortaleza vital para a defesa da capital caiu em insurreição.
-Uma pena, um irmão se voltar contra o outro em tempos como este... Obra dos salvadores, sem dúvida.
+Uma pena, um irmão se voltar contra o outro em tempos como este... Obra dos Salvadores, sem dúvida.
 Esses hereges descarados têm dado à Fé inúmeros problemas em sua adoração à besta.
 Que a misericórdia esteja sobre nós, o dragão desperta!
 Vá com todas as minhas bênçãos, Arisen.
@@ -28496,8 +28496,8 @@ Detalhes desconhecidos.
 Uma flecha projetada para explodir no impacto<cf>e ferir todos pegos na explosão.
 A flecha suprema, dizem que mata<cf>instantaneamente. (Nota: Depois de equipada,<cf>ela será perdida na próxima vez que você<cf>restaurar de um checkpoint salvo.)
 Detalhes desconhecidos.
-Chave para uma porta do primeiro nível<cf>das Catacumbas, no caminho para o santuário dos salvadores.
-Chave para uma porta do segundo nível<cf>das Catacumbas, no caminho para o<cf>santuário dos salvadores.
+Chave para uma porta do primeiro nível<cf>das Catacumbas, no caminho para o santuário dos Salvadores.
+Chave para uma porta do segundo nível<cf>das Catacumbas, no caminho para o<cf>santuário dos Salvadores.
 Uma de cinco gemas únicas necessárias para<cf>destrancar uma porta peculiar nas Catacumbas.
 Uma de cinco gemas únicas necessárias para<cf>destrancar uma porta peculiar nas Catacumbas.
 Uma de cinco gemas únicas necessárias para<cf>destrancar uma porta peculiar nas Catacumbas.
@@ -28575,7 +28575,7 @@ Uma erva rara e bem potente usada no<cf>preparo de tisanas. Consuma para recuper
 Um token concedido a quem serviu<cf>Gran Soren com dedicação. Certas lojas<cf>darão um desconto a quem o portar.
 Luz da fenda tornada sólida. Ela<cf>possui um valor especial.
 Detalhes desconhecidos.
-Um token carregado por todos os membros dos salvadores,<cf>parece afirmar que alguém compartilha seus ideais.
+Um token carregado por todos os membros dos Salvadores,<cf>parece afirmar que alguém compartilha seus ideais.
 Uma chave de latão velha para uma porta na<cf>mansão do duque.
 Uma chave especial que pode destrancar qualquer cela,<cf>incluindo as das masmorras<cf>sob Gran Soren.
 Uma joia extremamente rara recebida de<cf>Aelinore. Um tesouro desses pode ser<cf>extraído de apenas um punhado de locais conhecidos.
@@ -30850,7 +30850,7 @@ Este forte agora é o lar de ladrões.
 Nossa busca seria muito mais fácil,<cf>se pudéssemos usar este portão...
 É uma alavanca lá em cima que controla o<cf>portão.
 Soldados enviados da capital<cf>vigiam este forte.
-É uma ironia que os planos dos salvadores tenham<cf>apenas aproximado o wyrm e o Arisen.
+É uma ironia que os planos dos Salvadores tenham<cf>apenas aproximado o wyrm e o Arisen.
 As paredes têm cicatrizes pesadas... Temo<cf>que seja tarde demais para consertá-las agora.
 Um antigo Arisen faz sua casa não<cf>muito longe daqui.
 O coração daquela grande figura pode<cf>guardar algum segredo...
@@ -31153,7 +31153,7 @@ Agora não
 Bom. Vou ficar mais tranquilo por isso, milorde.
 Hmm, entendo sua hesitação. É um pedido incomum para se fazer ao Arisen.
 Mas receio que não podemos dispensar homens para investigar isso nós mesmos. Eu agradeceria sua ajuda, milorde.
-Temo que, mesmo agora, as garras dos salvadores apertem os corações das pessoas...
+Temo que, mesmo agora, as garras dos Salvadores apertem os corações das pessoas...
 Eu pediria que você relatasse qualquer coisa que descobrir sobre as atividades deles, Arisen.
 Aceitar
 Agora não
@@ -31165,7 +31165,7 @@ Os Salvadores se reúne dentro de catacumbas, você diz?
 Eu conheço apenas um lugar assim aqui, uma cripta que se abre para o noroeste.
 Nenhum homem são pensaria em se aproximar dela, nem nenhum homem honesto teria motivos para...
 O que eles estão tramando?
-Então as reuniões dos salvadores tinham um propósito sinistro...
+Então as reuniões dos Salvadores tinham um propósito sinistro...
 Hmm, é uma grande pena que Elysion tenha escapado da nossa armadilha.
 Nós redobraremos nossa vigilância aqui para manter a cidade segura...
 Temo que você seja um alvo tanto quanto Gran Soren. Reze para ter cuidado, Arisen.
@@ -31787,7 +31787,7 @@ Você não ganhará nada desperdiçando sua piedade com os condenados, Arisen.
 E eu não ganharei nada além de trabalho desnecessário. Por favor, deixe isso pra lá.
 Maldito, verme! Fuja de novo, e eu vou te derrubar onde você estiver.
 Suas brincadeiras foram longe demais, milorde. Criminosos são punidos. É a lei.
-Bah! Chega de misericórdia! Eu dei um aviso justo, e você o ignorou da mesma forma.
+Ha! Chega de misericórdia! Eu dei um aviso justo, e você o ignorou da mesma forma.
 Prepare-se para morrer!
 Você vai parar com seus joguinhos, milorde! Eu não tenho tempo nem estômago para mais!
 Ouvi dizer que um funcionário do castelo estava em conluio com bandidos.
@@ -32401,8 +32401,8 @@ As Ordens Reais te colocam contra inimigos cada vez mais poderosos, mesmo enquan
 Enquanto você cumpre seus deveres como Arisen, você não pode deixar de testemunhar o caos que o dragão causou ao povo de Gransys. Alguns estão perdidos para o medo do wyrm. Outros o adoram - o Elysion e os Salvadores entre eles. O poder esmagador do dragão gerou uma loucura que não deve prevalecer.
 O que é um Arisen? Um herói? Um salvador? Você se considera digno de tal consideração? Na verdade, você não passa de um mero servo, cumprindo seu dever -- desempenhando um papel em alguma lenda profetizada. Você guia os peões e, no entanto, se sente um peão você mesmo. Suas missões o aproximam cada vez mais do dragão, mas a dúvida cresce com a dor em sua ferida.
 Uma mensagem urgente te manda para o forte. O que acontece lá? Uma sensação de pavor pesa em cada passo seu como uma grande âncora.
-Você não pode acreditar que caiu em tal truque... Agora um monstro gigante está à solta na capital! Este ataque é certamente obra dos salvadores, um culto que coloca o caos em um altar. Você deve se apressar e aniquilar esta ameaça para que a paz possa retornar a Gran Soren.
-Você despacha a besta imunda, uma ação que condiz com o cargo de Arisen. Os danos à cidade não foram graves, mas o que poderia ser o próximo? Os planos hediondos dos salvadores podem levar esta terra à beira do abismo. Agora o duque pede que você se junte a uma expedição... Talvez deixar sua terra natal o leve para mais perto de seus objetivos? Você se sente à deriva ao se apresentar ao Duque Edmun.
+Você não pode acreditar que caiu em tal truque... Agora um monstro gigante está à solta na capital! Este ataque é certamente obra dos Salvadores, um culto que coloca o caos em um altar. Você deve se apressar e aniquilar esta ameaça para que a paz possa retornar a Gran Soren.
+Você despacha a besta imunda, uma ação que condiz com o cargo de Arisen. Os danos à cidade não foram graves, mas o que poderia ser o próximo? Os planos hediondos dos Salvadores podem levar esta terra à beira do abismo. Agora o duque pede que você se junte a uma expedição... Talvez deixar sua terra natal o leve para mais perto de seus objetivos? Você se sente à deriva ao se apresentar ao Duque Edmun.
 Assim que você aceita uma recompensa do duque, chegam notícias de atos vis na distante Muralha. Os Salvadores ocupou o forte! O duque Edmun ordena que você aniquile os cultistas imediatamente. Você segue para a Muralha mais inquieto do que nunca...
 O dragão aparece novamente, esmagando o Elysion como se fosse um inseto. Enquanto o wyrm te chama mais uma vez, você tem uma epifania: encontre o homem mais intimamente ligado ao dragão se esta luta tiver que acabar. A estrada à frente está clara agora, como se a tapeçaria do seu destino já tivesse sido tecida.
 Ninguém se atreve a entrar na Montanha Maculada. É um lugar amaldiçoado, o domínio do dragão. Preparado para o pior, você segue em frente para travar a batalha final. Cada passo de sua jornada o levou a isso.
@@ -32669,7 +32669,7 @@ Mason te sobrecarregou com uma escolha difícil: matar<cf>o líder ou libertá-l
 
 
 Decida o Destino do Líder
-Você deve decidir: matar o líder dos salvadores,<cf>ou partir sem dizer mais nada.
+Você deve decidir: matar o líder dos Salvadores,<cf>ou partir sem dizer mais nada.
 
 
 
@@ -34325,7 +34325,7 @@ Até então, que o Criador guie seus passos!
 Você está cego para a verdade, Arisen!
 A perdição está próxima! A hora da redenção chegou!
 Tudo vai queimar e, através do fogo, retornar ao nada!
-Em nome dos salvadores, o mundo deve conhecer o caos. O mundo deve conhecer a destruição!
+Em nome dos Salvadores, o mundo deve conhecer o caos. O mundo deve conhecer a destruição!
 Eu não acreditaria que tal vilania poderia ser encontrada em Cassardis se eu não fosse uma vítima.
 O canalha até descobriu meus estoques escondidos. Eu não tinha contado a ninguém sobre eles...
 É claro que o criminoso não é um ladrão comum, mas um ladrão de<cf>habilidade considerável. Devemos impedi-lo.
@@ -34552,8 +34552,8 @@ Ogros
 Bandidos
 Aventureiros
 Soldados
-Membros dos salvadores
-Membros dos salvadores
+Membros dos Salvadores
+Membros dos Salvadores
 Assassinos
 Membros do Martelo de Ferro
 Membros do Labrys de Westron
@@ -35726,7 +35726,7 @@ Aqui! Aqui, agora!
 Abram!
 Venham! Ajuda!
 Socorro! Socorro!
-Bah! Humanos tolos!
+Ha! Humanos tolos!
 Acham que venceram?
 Mortos! Vocês estão acabados!
 O mundo todo, acabado! Todos vão morrer!
@@ -35928,10 +35928,10 @@ Dedo do Criador
 Item Desconhecido
 Primeira Chave Para os Salvadores
 Segunda Chave Para os Salvadores
-Primeira Gema dos salvadores
-Segunda Gema dos salvadores
-Terceira Gema dos salvadores
-Quarta Gema dos salvadores
+Primeira Gema dos Salvadores
+Segunda Gema dos Salvadores
+Terceira Gema dos Salvadores
+Quarta Gema dos Salvadores
 Chave do Altar do Deus da Água
 Chave da Pedreira
 Cristal de Teleporte
@@ -35958,7 +35958,7 @@ Item Desconhecido
 Flor Abençoada
 Flor Morta
 Tábua Antiga
-Quinta Gema dos salvadores
+Quinta Gema dos Salvadores
 Godsbane
 Chave da Torre Windbluff
 Laço do Arisen
@@ -36005,7 +36005,7 @@ Strongwarish
 Distintivo de Mérito
 Cristal da Fenda
 Item Desconhecido
-Distintivo dos salvadores
+Distintivo dos Salvadores
 Chave da Mansão
 Chave Mestra
 Amor-À-Primeira-Vista
@@ -36967,7 +36967,7 @@ Item Desconhecido
 Item Desconhecido
 Conjunto de Trajes de Serva
 Conjunto de Roupas do Duque
-Conjunto de Vestes dos salvadores
+Conjunto de Vestes dos Salvadores
 Conjunto de Trajes de Pescador
 Conjunto de Farrapos de Pescador
 Conjunto de Armadura da Guarda Real
@@ -37714,7 +37714,7 @@ E agora?
 Você está cego para a verdade, Arisen!
 A perdição está próxima! A hora da redenção chegou!
 Tudo vai queimar, e através do fogo retornar ao nada!
-Em nome dos salvadores, o mundo deve conhecer o caos. O mundo deve conhecer a destruição!
+Em nome dos Salvadores, o mundo deve conhecer o caos. O mundo deve conhecer a destruição!
 Diga o que quer!
 Quem está aí!?
 Aonde você pensa que vai?
@@ -39290,7 +39290,7 @@ Peão Procurado<cf>Descrição: ???<cf>Região: ???
 Peão Procurado<cf>Descrição: Um mago de cabelo comprido que ainda não chegou ao nível **<cf>Região: Vizinhança da Guilda dos Peões
 Peão Procurado<cf>Descrição: Um guerreiro alto, tatuado<cf>Região: Gransys Oeste
 Peão Procurado<cf>Descrição: Um peão alto com as Roupas de Goodfisher<cf>Região: Cassardis, Gransys Sul
-Peão Procurado<cf>Descrição: Um membro dos salvadores<cf>Região: Vizinhança das Catacumbas
+Peão Procurado<cf>Descrição: Um membro dos Salvadores<cf>Região: Vizinhança das Catacumbas
 Peão Procurado<cf>Descrição: Um gêmeo do estalajadeiro<cf>Região: Toda Gransys
  
  
@@ -39986,7 +39986,7 @@ Eu a achava apenas um enfeite, mas a mulher é forte como um javali e duas vezes
 Você está cego para a verdade, Arisen!
 A perdição está próxima! A hora da redenção chegou!
 Tudo vai queimar, e através do fogo retornar ao nada!
-Em nome dos salvadores, o mundo deve conhecer o caos. O mundo deve conhecer a destruição!
+Em nome dos Salvadores, o mundo deve conhecer o caos. O mundo deve conhecer a destruição!
 Waaugh...
 Nossos números não são nada diante disso... Nada...!
 Até dragões morrem. Derrubar um grifo deve ser simples o suficiente.
@@ -40945,7 +40945,7 @@ Está escuro demais para navegar sem uma<cf>tocha.
 É perigoso andar sem uma<cf>lanterna.
 Acho que a luz que precisamos está lá<cf>no fundo dessa sala...
 Uma alavanca, Arisen...
-Essa alavanca pode abrir o caminho para<cf>o ponto de encontro dos salvadores.
+Essa alavanca pode abrir o caminho para<cf>o ponto de encontro dos Salvadores.
 Hmm... Talvez a gente consiga descer.
 Deve ter uma escada por perto...
 Que voz sinistra...
@@ -41567,7 +41567,7 @@ Eu não vou trocar minha vida por tamanha tolice.
 Você está cego para a verdade, Arisen!
 A perdição está próxima! A hora da redenção chegou!
 Tudo vai queimar, e através do fogo retornar ao nada!
-Em nome dos salvadores, o mundo precisa conhecer o caos. O mundo precisa conhecer a destruição!
+Em nome dos Salvadores, o mundo precisa conhecer o caos. O mundo precisa conhecer a destruição!
 Goblin!
 Um bando de goblins!
 Cuidado! Um goblin!
@@ -43488,7 +43488,7 @@ O que você diz, hein? Você vai ouvir o que as pessoas têm a dizer?
 Aceitar
 Recusar
 Essa ficha que eu dei é uma senha.
-Isso vai te marcar como amigo dos agentes dos salvadores. Talvez solte a língua deles também.
+Isso vai te marcar como amigo dos agentes dos Salvadores. Talvez solte a língua deles também.
 Espero que volte para compartilhar suas descobertas, bom Arisen.
 Um encontro nas criptas, é?
 Há mais de uma maneira de entrar nas catacumbas. A mais perto daqui é a noroeste, do outro lado do rio.
@@ -44584,7 +44584,7 @@ Então... termina assim...
 Você está cego para a verdade, Arisen!
 A perdição está próxima! A hora da redenção chegou!
 Tudo vai queimar e, através do fogo, retornar ao nada!
-Em nome dos salvadores, o mundo deve conhecer o caos. O mundo deve conhecer a destruição!
+Em nome dos Salvadores, o mundo deve conhecer o caos. O mundo deve conhecer a destruição!
 A revolta na Pedra do Norte? Que engraçado...
 Parece que terminou quase antes de começar.
 Pelo que dizem os homens que ainda estão lá, era os Salvadores que estava puxando as cordas.
@@ -46959,7 +46959,7 @@ O cavaleiro Maximilian teme que a seita os Salvadores esteja<cf>de alguma forma 
 
 
 Investigue a Reunião Secreta
-Vasculhe a capital pra saber tudo que puder não<cf>só sobre a reunião clandestina dos salvadores, mas também<cf>o envolvimento da seita na praga de esqueletos.
+Vasculhe a capital pra saber tudo que puder não<cf>só sobre a reunião clandestina dos Salvadores, mas também<cf>o envolvimento da seita na praga de esqueletos.
 
 
 
@@ -46969,7 +46969,7 @@ Use a chave que você obteve pra entrar nas<cf>catacumbas.
 
 
 Derrote o Mestre dos Esqueletos
-Afaste os mortos-vivos que avançam enquanto persegue<cf>e mata o fanático dos salvadores responsável pela<cf>praga.
+Afaste os mortos-vivos que avançam enquanto persegue<cf>e mata o fanático dos Salvadores responsável pela<cf>praga.
 
 
 
@@ -48605,7 +48605,7 @@ Por que...?
 Isto é loucura!
 Perdão, ser, mas estou envolvido nos preparativos para uma tarefa de grande importância.
 Receio não estar à vontade para falar no momento.
-É claro que o único objetivo dos salvadores é semear o caos entre o povo.
+É claro que o único objetivo dos Salvadores é semear o caos entre o povo.
 Não é nenhuma causa nobre que os move. Nenhum código guia suas ações. Eles não são nem mesmo reféns da ganância ou de desejos vis. Verdadeiramente, não consigo pensar em tipo mais perigoso.
 Ouvi falar de seus feitos no acampamento, milorde. Você lutou com a bravura de cem homens. Lendas do poder do Arisen soam verdadeiras, parece.
 Diga-me, milorde. O que você acha dessa onda de ataques de monstros?
@@ -48772,7 +48772,7 @@ Que, ainda tá nessa? Isso é história antiga já.
 Junta a coragem e qualquer lugar vira uma loja.
 Pouca concorrência por essas bandas, além disso.
 Tempos sombrios, amigo. Os mais sombrios de todos pra comerciantes como eu, temo.
-Você esperaria que a maioria das pessoas quisesse estar bem abastecida pra chegada do dragão, mas não! Bah!
+Você esperaria que a maioria das pessoas quisesse estar bem abastecida pra chegada do dragão, mas não! Ha!
 Isso pode ser a morte dos negócios, até pra mim.
 Ainda assim, é melhor continuar até o fim chegar, né?
 Olha só, que beleza, meu bom.
@@ -48908,8 +48908,8 @@ Ogros
 Bandidos
 Aventureiros
 Soldados
-Membros dos salvadores
-Membros dos salvadores
+Membros dos Salvadores
+Membros dos Salvadores
 Assassinos
 Membros do Martelo de Ferro
 Membros do Labrys de Westron
@@ -49630,7 +49630,7 @@ O anel deve ter poder sobre a fechadura que prende este baú...
 Não importa. Eu farei com que seu conteúdo seja entregue a você mais tarde.
 ...Talvez o tempo tenha enfraquecido a magia do anel?
 A expedição pode esperar, Arisen.
-Vá para a Grande Muralha imediatamente e esmague os planos dos salvadores antes que eles se concretizem.
+Vá para a Grande Muralha imediatamente e esmague os planos dos Salvadores antes que eles se concretizem.
 Este assunto tem prioridade sobre todos os outros. Agora, vá.
 Primeiro Andar
 Segundo Andar
