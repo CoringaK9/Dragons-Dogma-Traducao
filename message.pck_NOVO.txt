@@ -755,7 +755,7 @@ Deve haver alguma maneira de eu te ajudar, nem que seja um pouco.
 Como vai seu ferimento? Você parece melhor do que antes.
 Você tem trabalhado duro em Gran Soren o tempo todo?
 Eu poderia ouvir suas histórias do amanhecer ao anoitecer! Queria poder ajudar mais...
-Pelo que Sir Auster diz...
+Pelo que o cavaleiro Auster diz...
 A Fé tem dedicado seus esforços para aprender tudo o que pode ser conhecido sobre o dragão.
 A maioria das descobertas da Fé ainda não chegou aos nossos ouvidos. Eles estão muito ocupados com seus estudos para enviar notícias para lugares como Cassardis, tenho certeza...
 Talvez uma visita à Grande Catedral no continente possa render as pistas que procuramos?
@@ -1219,7 +1219,7 @@ Talvez uma visita ao esconderijo dos bandidos<cf>locais dê algum resultado.
 Aquele vendedor ambulante em Cassardis, Reynard --<cf>ele sabia algo sobre Fournival.
 Aquele vendedor ambulante em Gran Soren, Reynard --<cf>ele sabia algo sobre Fournival.
 Eu acredito que alguém aqui sabe dos<cf>negócios de Fournival.
-Sir Daerio sabia algo sobre<cf>Fournival, eu acredito.
+O cavaleiro Daerio sabia algo sobre<cf>Fournival, eu acredito.
 Aquele homem, Ansell, sabia algo sobre<cf>Fournival...
 Nós devemos levar a testemunha de volta em segurança para<cf>a capital.
 Quando você acha que será o julgamento? É melhor<cf>nos apressarmos.
@@ -1826,7 +1826,7 @@ E aí, o que você acha? Uma arma comum consegue perfurar a pele de uma besta de
 Que buraco enorme é esse, hein? Dizem que você tá envolvido nisso de alguma forma...
 Ah, que lindo! Obrigado(a)!
 Bem vindo, milorde. Acredito que seja o Arisen.
-Sir Maximilian nos informou da sua chegada. Com sua licença, gostaria de pedir que você liderasse nossa força aqui.
+O cavaleiro Maximilian nos informou da sua chegada. Com sua licença, gostaria de pedir que você liderasse nossa força aqui.
 Nossas táticas são as seguintes:
 Nosso objetivo é atacar pelo portão da frente, mas não temos tempo nem meios para derrubar as portas.
 Peço que você passe pelo buraco que vê ali e abra o portão por dentro.
@@ -2043,7 +2043,7 @@ Essa gente nova não tem fibra nenhuma! <cf>Só a marcha até a Torre Luazul já
 Emissário para Meloire busca um restaurador potente<cf>para presentear Hubrant, o décimo primeiro filho da<cf>Casa Becker governante, por ocasião da<cf>conclusão de seu palácio.
 No tempo do meu avô, havia uma<cf>fazedora de poções na floresta -- uma bruxa, pra ser<cf>direto. Leve ervas pra ela, e ela fazia uma cerveja<cf>como nenhuma outra. Dizem que uma descendente dela ainda<cf>está lá, no fundo da floresta. Eu adoraria provar<cf>aquela cerveja de novo.
 Algumas luas atrás, eu tava bebendo com os<cf>bandidos do sul e bebemos uma cerveja de ervas fina<cf>e doce como o beijo de uma donzela. Forte, viu.<cf>Derrubou todos nós. Eles disseram que era uma<cf>breja mágica, trazida do coração da<cf>Floresta das Bruxas. Eu mataria por mais um gole.
-Sir Mercedes tem uma aparência refinada, mas ela<cf>bebe mais que qualquer homem do Corpo --<cf>ela engole bebida alcoólica como leite materno. Eu mesmo,<cf>só consigo beber licor misturado com extrato de<cf>ervas. Bem gostoso, então. É por isso<cf>que eu gostaria de um pouco, se você puder.
+A cavaleira Mercedes tem uma aparência refinada, mas ela<cf>bebe mais que qualquer homem do Corpo --<cf>ela engole bebida alcoólica como leite materno. Eu mesmo,<cf>só consigo beber licor misturado com extrato de<cf>ervas. Bem gostoso, então. É por isso<cf>que eu gostaria de um pouco, se você puder.
 Parece que tem um tipo especial de cerveja feita só<cf>para o duque por uma bruxa, das ervas mais<cf>raras. Nós, pessoas comuns, trabalhamos muito<cf>mais do que sentar num trono o dia todo. Nós<cf>merecemos provar das coisas boas também!
 O fornecedor do duque busca bebidas adicionais para um<cf>banquete para receber convidados de estado do<cf>continente.
 A equipe da cozinha da Casa Frescobaldi precisa de uma<cf>bebida excepcional para a festa de aniversário da<cf>Senhora Symone.
@@ -2836,7 +2836,7 @@ Fácil demais!
 Só isso?
 Fracote!
 Força em Números
-Siga as instruções de Sir Berne e<cf>enfrente seus desafios, aprofundando sua<cf>influência sobre os peões.
+Siga as instruções de o cavaleiro Berne e<cf>enfrente seus desafios, aprofundando sua<cf>influência sobre os peões.
 
 
 
@@ -5728,24 +5728,24 @@ Venha, Arisen.
 Eu vou te encontrar nos seus próprios termos,<cf>junto do meu velho companheiro.
 Você escolheu seu caminho e o trilhou com verdade.
 Você está no fim dele agora, Arisen. Complete sua jornada!
-Vamos entregar a mensagem do Sir Daerio.
-A gente vai passar a mensagem do Sir Daerio?
+Vamos entregar a mensagem do o cavaleiro Daerio.
+A gente vai passar a mensagem do o cavaleiro Daerio?
 A gente tem que falar com o Lorde Julien, ou com<cf>um guarda do castelo, pelo menos.
-O Lorde Julien vai querer saber o<cf>pedido do Sir Daerio.
+O Lorde Julien vai querer saber o<cf>pedido do o cavaleiro Daerio.
 Vamos achar o Lorde Julien e entregar essa<cf>mensagem.
 Vamos levar a notícia para o Lorde Julien em Gran<cf>Soren.
 A gente não precisa dar a notícia para o Lorde Julien?
 Você tem certeza que esse era o<cf>pedido certo...?
-A gente passou o pedido do Sir Daerio<cf>à risca.
+A gente passou o pedido do o cavaleiro Daerio<cf>à risca.
 Eu temo que a mensagem tenha se perdido no caminho...
 Que estranho... Eu sinto um outro significado nas<cf>palavras do Lorde Julien.
 Vamos voltar para a Pedra do Norte.
 Que sorte a gente preveniu uma crise antes<cf>que ela acontecesse.
 Então a gente se enganou...
 Eu não consigo deixar de sentir que tinha mais<cf>no que o Lorde Julien disse...
-As palavras do Sir Daerio eram "estoque para<cf>uma semana."
-A mensagem foi entregue, do jeito que a gente<cf>recebeu. Agora é contar pro Sir Daerio.
-O Sir Daerio vai estar esperando notícias, e<cf>a gente tem o presente do Lorde Julien, além disso.
+As palavras do o cavaleiro Daerio eram "estoque para<cf>uma semana."
+A mensagem foi entregue, do jeito que a gente<cf>recebeu. Agora é contar pro o cavaleiro Daerio.
+O cavaleiro Daerio vai estar esperando notícias, e<cf>a gente tem o presente do Lorde Julien, além disso.
 Será que a gente entendeu errado a mensagem dele, Arisen?
 Ah.
 Aanh...
@@ -5891,7 +5891,7 @@ Só me resta esperar acordar amanhã e ver que ainda estou respirando.
 Dias passados entre medo e tédio. Noites passadas esquecido nos meus copos. Pelo menos mantenho meu dever de vigia, e com orgulho.
 Eu estava preparado para que minha vida terminasse nas chamas do wyrm. Mas agora...
 Que novo pesadelo assolou esta cidade? Que o Criador nos defenda.
-'Tis uma brisa quente e doentia...
+é uma brisa quente e doentia...
 Parece que podemos pular e continuar.
 A escuridão se torna mais opressiva adiante.
 Bem, vamos acabar com isso.
@@ -6034,20 +6034,20 @@ Ver os cadáveres caindo sem parar pelo poço... Faz o corpo deste peão tremer.
 Tens aspirações, milorde?
 Eu nunca aprendi o significado dessa palavra e, agora...
 Eu tinha uma tarefa que desejava confiar a você, milorde...
-Mas a Sir Mercedes insistiu que fosse dela. Ela foi bem insistente.
+Mas a cavaleira Mercedes insistiu que fosse dela. Ela foi bem insistente.
 Apesar de ser uma cavaleira vinda de boa fé para nos ajudar, ela continua sendo filha do lorde de Hearthstone...
 Não me sinto nada bem em vê-la empreender uma missão tão perigosa.
 Infelizmente, diante de seu pedido fervoroso, nada pude fazer além de concordar.
 Posso pedir que ao menos a acompanhe, milorde? Ela precisa ser mantida em segurança.
 Aceitar
 Agora não
-Meus agradecimentos, Arisen. Por favor, vá falar com a Sir Mercedes.
+Meus agradecimentos, Arisen. Por favor, vá falar com a cavaleira Mercedes.
 Entendo... Errei em permitir isso? Temo que seja tarde demais para arrependimentos...
-Suspeito que a Sir Mercedes tenha motivos para insistir tanto nessa questão. Ainda assim...
+Suspeito que a cavaleira Mercedes tenha motivos para insistir tanto nessa questão. Ainda assim...
 Peço a você, Arisen. Por favor, vá falar com ela. Ofereça sua ajuda.
 Aceitar
 Agora não
-Então a Sir Mercedes partiu para a Pedra do Norte...
+Então a cavaleira Mercedes partiu para a Pedra do Norte...
 Ela marcha com uma escolta, mas estes são tempos perigosos, milorde. Por favor, dê uma mãozinha a ela.
 Começou com notícias de agitação entre os homens do forte do norte. Lorde Julien partiu para investigar a questão.
 O capitão da guarda de lá é um sujeito chamado Daerio. Um homem bom e leal.
@@ -6477,7 +6477,7 @@ Até lá, por favor, fique bem...
 ...Para mim, milorde?
 Mais adequada para anéis do que para espadas, não é? Deixar uma mulher inútil como cavaleira servir como esposa?
 É isso que você quer dizer?
-...'Tis uma piada, milorde. Eu ficaria feliz em usá-lo, como uma lembrança de um amigo querido.
+...É uma piada, milorde. Eu ficaria feliz em usá-lo, como uma lembrança de um amigo querido.
 Ah, olá... Como você pode perceber pela minha cara, estou no meu limite.
 Preciso viajar para o sul por esta mina, mas o portão maldito não se move.
 Apesar dos perigos, vim por aqui esperando encurtar minha jornada... Um atalho, né?
@@ -6680,7 +6680,7 @@ A missão não pode mais ser concluída.
 (Você não é o receptáculo.)
 (Você chegou ao fim, pequeno?)
 Sem controle, a besta vai arruinar a capital! Centenas podem morrer!
-Sir Aldous espera por você, Arisen.
+O cavaleiro Aldous espera por você, Arisen.
 É melhor não o fazer esperar.
 Arisen! Você veio... Temo que nossa derrota seja óbvia<cf>para todos.
 Pensamos em inundar o wyrm com meros<cf>números. Um mar de lâminas... Era uma esperança tola.
@@ -6938,7 +6938,7 @@ Estão falando em pedir ajuda para as terras vizinhas, mas quem sabe quando eles
 Eu não faço ideia de quantos homens seriam necessários para derrubar um dragão...
 Mas duvido que os homens que Sua Graça emprega agora sejam suficientes para segurar sequer o castelo.
 Quais as notícias do castelo? Alguma palavra da chegada das forças aliadas?
-Pelo que ouvi dizer, a única espada capaz que veio de longe é Sir Julien.
+Pelo que ouvi dizer, a única espada capaz que veio de longe é o cavaleiro Julien.
 Um homem com o talento dele bem que podia receber o comando da fortaleza ao norte.
 E tem aquela mulher cavaleira. Mercedes, era?
 Ouvi homens falarem da beleza dela. Menos da habilidade dela com a espada...
@@ -8212,9 +8212,9 @@ Está enferrujada!
 O grifo está perto... Vamos encarar<cf>a fera!
 É perigoso aqui! Recuar!
 O grifo vem aí! Avante, Mestre!
-Precisamos ajudar Sir Georg a derrubar<cf>aquele portão!
-Ah! Sir Westley!
-Sir Westley precisa da nossa ajuda! Temos que<cf>atacar de longe, agora!
+Precisamos ajudar o cavaleiro Georg a derrubar<cf>aquele portão!
+Ah! o cavaleiro Westley!
+O cavaleiro Westley precisa da nossa ajuda! Temos que<cf>atacar de longe, agora!
 É perigoso demais, Mestre! Precisamos<cf>escapar!
 Depressa, Mestre!
 Mestre... Deixe sua escolha clara.
@@ -10717,7 +10717,7 @@ Discuta o veredicto com Aldous.
 
 
 Escolta da Testemunha
-Leve Sir Castor, uma testemunha que concordou em<cf>falar no julgamento, para Aldous dentro do<cf>castelo.
+Leve o cavaleiro Castor, uma testemunha que concordou em<cf>falar no julgamento, para Aldous dentro do<cf>castelo.
 
 
 
@@ -10762,7 +10762,7 @@ Estamos enfrentando chances ruins...
 Rgh!
 Eu esperava uma... morte mais heroica...
 Waaaugh!
-Não! Sir Cyrus...! Rrrraaaaaagh!
+Não! o cavaleiro Cyrus...! Rrrraaaaaagh!
 Você não deveria ter me irritado, besta!
 Eu vou te ver vingado, Cyrus. Eu juro!
 Vingança... Eu esperava terminar este dia sem motivo para vingança...
@@ -10971,11 +10971,11 @@ Se tem treinamento pra fazer, é melhor<cf>fazer logo.
 Não foi muito bom...
 Foi uma tarefa além das nossas capacidades...
 É um desafio cruel, esse.
-Vamos reportar esse resultado para Sir Berne.
-É um resultado lamentável... Ainda assim, melhor<cf>contar para Sir Berne.
+Vamos reportar esse resultado para o cavaleiro Berne.
+É um resultado lamentável... Ainda assim, melhor<cf>contar para o cavaleiro Berne.
 Foi uma vitória certa.
 Dominamos o combate a curta distância.
-Sir Berne é um guerreiro formidável.
+O cavaleiro Berne é um guerreiro formidável.
 Um homem com a experiência dele não vai perder<cf>tão fácil.
 Vamos treinar e tentar de novo.
 Ainda nos falta experiência.
@@ -10983,7 +10983,7 @@ Ele não vai nos deixar vencer todo desafio.
 É verdade que o Arisen precisa de força suficiente<cf>para matar qualquer besta.
 O caminho do Arisen é duplo: aprimorar o corpo,<cf>mas também temperar a alma.
 Não se preocupem com a segurança dele. Devemos dar<cf>tudo que temos a ele!
-Sir Berne não vai nos dar um momento de hesitação!
+O cavaleiro Berne não vai nos dar um momento de hesitação!
 Foi uma experiência reveladora... Gostaria de ter<cf>outra chance.
 Aprimorar nossos instintos aqui só pode nos ajudar<cf>no campo, Arisen.
 Fomos derrotados... Que venha o próximo desafio,<cf>Mestre.
@@ -11301,12 +11301,12 @@ Atravesse a porta que Mason destrancou para você<cf>e persiga o Elysion em fuga
 
 
 Relate Suas Descobertas
-Volte para Sir Maximilian em Gran Soren<cf>e conte a ele o que você descobriu.
+Volte para o cavaleiro Maximilian em Gran Soren<cf>e conte a ele o que você descobriu.
 
 
 
 Missão Cumprida
-Você deu um relato completo da reunião dos salvadores<cf>para Sir Maximilian. Recompensa da missão<cf>recebida.
+Você deu um relato completo da reunião dos salvadores<cf>para o cavaleiro Maximilian. Recompensa da missão<cf>recebida.
 
 
 
@@ -11595,7 +11595,7 @@ Esses espantalhos exigem mais do que<cf>força bruta.
 Você pode contratar peões a qualquer momento.
 É melhor mantermos nosso grupo completo.<cf>Não custa nada estar preparado.
 Foi uma batalha feroz... Qual foi o<cf>estrago?
-Está tudo quieto de novo, pelo menos. É melhor<cf>falarmos com Sir Mercedes.
+Está tudo quieto de novo, pelo menos. É melhor<cf>falarmos com a cavaleira Mercedes.
 Devíamos contratar um peão mais experiente?
 Monstros voadores infestam o caminho para<cf>Gran Soren.
 Temos que proteger o boi a todo custo!
@@ -11612,14 +11612,14 @@ Vamos reportar nosso progresso à capital.
 Isso encerra nossa tarefa.<cf>Vamos para Gran Soren?
 Agora, para Gran Soren para entregar nosso<cf>relatório.
 A caçada começou. Que estratégia você<cf>acha que os homens do duque vão usar?
-Temos que atrair o grifo para o chão e<cf>atacar. Vamos seguir a liderança de Sir Georg.
-Não temos tempo para ficarmos tristes. Vamos,<cf>Sir Georg está formulando nosso próximo passo.
+Temos que atrair o grifo para o chão e<cf>atacar. Vamos seguir a liderança de o cavaleiro Georg.
+Não temos tempo para ficarmos tristes. Vamos,<cf>o cavaleiro Georg está formulando nosso próximo passo.
 Está ferido! Vamos persegui-lo até a Torre<cf>Luazul e acabar com isso de uma vez por todas!
 Parece que este lugar é o lar de goblins.
 Sons de um conflito dentro da fortaleza,<cf>Arisen.
 Os homens da fortaleza se revoltaram! A gente<cf>tem que entrar!
 A fortaleza está quieta de novo. É melhor a gente<cf>voltar pra capital, Arisen.
-A revolta foi esmagada. A gente tem que contar<cf>pro Sir Aldous o que aconteceu.
+A revolta foi esmagada. A gente tem que contar<cf>pro o cavaleiro Aldous o que aconteceu.
 A gente foi corrido da capital, e agora mandam<cf>a gente voltar? Que que tá rolando?
 Tô com medo que role treta na capital,<cf>Arisen. É bom a gente ir preparado pra tudo.
 Acho que a gente vai ter que vazar da vila se quiser mais.
@@ -11646,7 +11646,7 @@ Nunca imaginei que a gente ia criar um laço<cf>com bandidos por causa de uma ta
 Que trampo barra pesada. Ainda bem que deu<cf>certo, mesmo que bizarro.
 A gente provou ser aliado das irmãs do<cf>Labrys de Westron. Colheremos os dividendos<cf>nos próximos dias.
 É um trabalho de mensageiro simples, Arisen.<cf>Bora pra Gran Soren.
-Temos que entregar o pedido de suprimentos de Sir Daerio<cf>para um dos guardas do castelo, ou para o próprio Lord Julien.
+Temos que entregar o pedido de suprimentos de o cavaleiro Daerio<cf>para um dos guardas do castelo, ou para o próprio Lord Julien.
 Eu não consigo evitar a sensação de que fomos usados de alguma forma...
 Parece que esse Campeão Noturno tem alguma<cf>conexão com os Salvadores. Isso é preocupante.
 Com a confusão causada pelo dragão,<cf>seria fácil entrar na cidade como<cf>parte de alguma comitiva estrangeira.
@@ -11736,9 +11736,9 @@ Esse peão pode te levar pras ruínas<cf>atrás das cachoeiras.
 O duque finalmente notou<cf>seus feitos, Mestre.
 O castelo te espera, é só passar por<cf>essa porta levadiça, Mestre.
 O Duque Edmun é um herói famoso que espantou<cf>um dragão sozinho. Essa audiência é a prova da<cf>cooperação dele.
-Parabéns, Mestre. Vamos<cf>fazer uma visita a Sir Aldous, então?
+Parabéns, Mestre. Vamos<cf>fazer uma visita ao cavaleiro Aldous, então?
 Representantes de terras que juraram ajudar<cf>contra o dragão estarão reunidos na<cf>sala de audiências.
-Sir Mercedes, capitã interina do Corpo de Enlistment,<cf>também veio de fora.
+A cavaleira Mercedes, capitã interina do Corpo de Enlistment,<cf>também veio de fora.
 Alguém no castelo deve saber disso.
 Roubar um tesouro do ducado? Seria quase <cf>impossível para alguém sem ligação com os<cf>bastidores.
 Devemos falar com o povo da cidade agora?
@@ -11751,8 +11751,8 @@ Se vamos participar da caçada, devemos<cf>nos apressar para encontrar os outros
 Grifos não gostam de fogo. É melhor<cf>prepararmos um pouco antes de nos juntarmos aos outros.
 De alguma forma, completamos nossa missão.
 Era um inimigo temível... Mas nossa tarefa está cumprida.
-Não podemos ajudar Sir Mercedes até que a<cf>encontremos, Arisen.
-Sir Mercedes ainda pode estar dentro da<cf>capital em algum lugar.
+Não podemos ajudar a cavaleira Mercedes até que a<cf>encontremos, Arisen.
+A cavaleira Mercedes ainda pode estar dentro da<cf>capital em algum lugar.
 Como chegamos lá?
 Seria bom trazer um peão que<cf>conheça o caminho para servir de guia.
 A Pedra do Norte não é tão longe<cf>da capital. Eu o guiarei.
@@ -11869,7 +11869,7 @@ A tranca foi liberada, Mestre. Bora voltar pra contar<cf>que o portão se abriu.
 A gente conseguiu, sei lá como... A missão tá feita.
 A caverna ficou silenciosa, Mestre. Bora voltar pra contar<cf>que a gente venceu.
 Gransys tá melhor sem um cara desses.<cf>Bora voltar pra capital.
-O anel foi recuperado. Sir Aldous<cf>vai ficar doido pra ter ele de volta.
+O anel foi recuperado. o cavaleiro Aldous<cf>vai ficar doido pra ter ele de volta.
 Foi uma batalha cara, mas o grifo não é mais uma ameaça. Bora voltar.
 É uma criatura nojenta, mas acho<cf>que não temos escolha!
 Será que a gente devia explicar tudo<cf>pro Forjado pelo Dragão? Ele deve saber<cf>qual caminho seguir.
@@ -14915,7 +14915,7 @@ E, no entanto, parece que você não tem uma licença...
 Minhas desculpas... Arisen.
 A regra da Guarda me proíbe de falar com qualquer um que não tenha uma licença de Caça ao Dragão.
 Ah, Arisen. Meus homens me contaram muito sobre você. Eu esperava sua visita.
-Eu sou Sir Maximilian Eizenstern, Capitão da Caça, nomeado por Sua Graça Duque Edmun Dragonsbane.
+Eu sou o cavaleiro Maximilian Eizenstern, Capitão da Caça, nomeado por Sua Graça Duque Edmun Dragonsbane.
 Peço sua paciência enquanto detalho o que se espera de você na Caçada.
 A licença de Caça ao Dragão que você carrega permite ao portador realizar as tarefas mais vitais:
 Aquelas missões dadas pelo próprio Duque Edmun.
@@ -15162,10 +15162,10 @@ Não é muito, mas ouso dizer que agrada mais ao paladar do que rações secas. 
 Sou grato pela sua ajuda, Arisen.
 Entendido. Ele terá sua carga.
 Sou grato pela sua ajuda, Arisen.
-Eu mesmo cuidarei da carga, Arisen. Por favor, diga a Sir Daerio que seu desejo será concedido.
-Não precisa mais se preocupar com a carga do Sir Daerio. Estamos providenciando tudo.
+Eu mesmo cuidarei da carga, Arisen. Por favor, diga ao cavaleiro Daerio que seu desejo será concedido.
+Não precisa mais se preocupar com a carga do o cavaleiro Daerio. Estamos providenciando tudo.
 Diga ao capitão que os preparativos foram feitos. Não se esqueça, Arisen: suprimentos extras para dois dias.
-Garanta ao Sir Daerio que os preparativos foram feitos.
+Garanta ao o cavaleiro Daerio que os preparativos foram feitos.
 Você tem um interesse nisso e o direito de saber, milorde. Você conhece Fournival, certo?
 Ele é um dos mercadores mais ricos de Gran Soren, embora agora corra o risco de perder tudo.
 Ele é acusado de uma série de crimes. Eu gostaria de pedir um favor, se tiver tempo?
@@ -15378,7 +15378,7 @@ Você sempre terá um lar aqui conosco, aconteça o que acontecer.
 Tenho certeza que o meu não será o último agradecimento que você ouvirá hoje.<cf>Você é o orgulho de Cassardis!
 Com licença, posso perguntar, você veio para ajudar o duque, milorde?
 Vemos tantos guerreiros aqui para ajudar Sua Graça ultimamente que temo que minha memória não dê conta.
-Se ao menos todos fossem como Sir Julien e Sir Mercedes.
+Se ao menos todos fossem como o cavaleiro Julien e a cavaleira Mercedes.
 Boas pessoas, ambos, e não encontrará dois trabalhadores mais diligentes, garanto.
 Alguns dos outros são uns verdadeiros canalhas, no entanto.
 Eles vão comer o pão do duque e beber seu vinho, e então sumir de novo pela manhã.
@@ -15816,7 +15816,7 @@ Eu nasci no norte, sabe.
 Vim para Gran Soren seguindo o rastro do meu marido vagabundo. O canalha me abandonou.
 Não que nada disso importe agora, hein?
 Mas falando nas terras do norte...
-Ouvi dizer que Sir Mercedes chegou a Gran Soren.
+Ouvi dizer que a cavaleira Mercedes chegou a Gran Soren.
 A última filha do lorde de Hearthstone, aquela. Da minha idade, se bem me lembro.
 Já tínhamos nos dado por mortos, mas aqui estamos, vivos e bem!
 Que bom ver que você também escapou da tempestade, milorde.
@@ -16737,7 +16737,7 @@ A missão não pode mais ser concluída.
 
 
 Sim, ouvi falar da galera que se juntou pra matar o grifo.
-Sir Georg e o pessoal do acampamento estão entre eles. Os caras que lutaram contra a hidra.
+O cavaleiro Georg e o pessoal do acampamento estão entre eles. Os caras que lutaram contra a hidra.
 Eles são considerados a elite, mas a real é que são só mercenários.
 As tarefas mais pesadas geralmente são deixadas para esse tipo de gente, ou para os caras do Corpo de Recrutamento.
 Foi pouco tempo que passamos juntos, mas eles eram homens sob meu comando, do mesmo jeito.
@@ -18042,7 +18042,7 @@ Muito bem.
 Isso não serve.
 Isto é para mim? Oh...
 Então eu... eu sou...especial para você?
-Eu... Eu não sei o que dizer...é um presente maravilhoso. Maravilhoso! De verdade!
+Eu... Eu não sei o que dizer...É um presente maravilhoso. Maravilhoso! De verdade!
 Eu te valorizo acima de tudo nesta vida. ...Verdadeiramente!
 Suspeito que este seja o começo de uma grande amizade...
 E tolo é quem duvida da intuição de uma mulher.
@@ -18977,7 +18977,7 @@ Procure o morro ao norte da capital que tem<cf>a figura de um homem. Lá você p
 
 
 Relate Suas Descobertas
-Volte para Sir Maximilian e conte a ele<cf>o que você aprendeu.
+Volte para o cavaleiro Maximilian e conte a ele<cf>o que você aprendeu.
 
 
 
@@ -18992,7 +18992,7 @@ A missão não pode mais ser completada.
 
 
 Missão Concluída com Sucesso
-Você relatou suas descobertas sobre a lousa para<cf>Sir Maximilian. Recompensa da missão recebida.
+Você relatou suas descobertas sobre a lousa para<cf>o cavaleiro Maximilian. Recompensa da missão recebida.
 
 
 
@@ -19634,8 +19634,8 @@ A chave está escondida em um caixão!
 Precisamos encontrar quem está controlando<cf>os esqueletos!
 Encontre quem controla os ossos<cf>ambulantes!
 Não importa quantos derrubemos, mais<cf>virão.
-Sir Maximilian aguarda nosso relatório.
-Vamos contar a Sir Maximilian o que<cf>aconteceu.
+O cavaleiro Maximilian aguarda nosso relatório.
+Vamos contar ao cavaleiro Maximilian o que<cf>aconteceu.
 Esta estrada nos levará às catacumbas.
 Por aqui, Arisen.
 As catacumbas estão logo à frente. Esteja vigilante.
@@ -19854,8 +19854,8 @@ Siga as instruções do treinamento.
   
   
   
-Informar Sir Berne
-Informe Sir Berne que você concluiu o<cf>treinamento.
+Informar o cavaleiro Berne
+Informe o cavaleiro Berne que você concluiu o<cf>treinamento.
   
   
   
@@ -19914,16 +19914,16 @@ Equipar habilidades
 Deixa pra lá
 Onde... Onde é isso? Que lugar é esse!?
 O terror... O terror...
-É melhor falarmos com Sir Mercedes.
+É melhor falarmos com a cavaleira Mercedes.
 Temo que tenhamos que aceitar que Lorde<cf>Julien teve um papel nisso...
-Não seria melhor falarmos com<cf>Sir Mercedes, Arisen?
-O que aconteceu com a Pedra, eu me pergunto?<cf>E Sir Mercedes...
+Não seria melhor falarmos com<cf>a cavaleira Mercedes, Arisen?
+O que aconteceu com a Pedra, eu me pergunto?<cf>E a cavaleira Mercedes...
 Vamos para a Pedra<cf>do Norte.
 Agitação no norte... O que será que<cf>aconteceu na Pedra?
-Para o norte, Arisen. Precisamos nos<cf>apressar atrás de Sir Mercedes.
+Para o norte, Arisen. Precisamos nos<cf>apressar atrás de a cavaleira Mercedes.
 Nós sabemos o caminho para a Pedra. Vamos<cf>nos apressar.
-Sir Mercedes pode saber o que<cf>aconteceu aqui. Vamos encontrá-la.
-Sir Mercedes já deve estar no topo da<cf>fortaleza.
+A cavaleira Mercedes pode saber o que<cf>aconteceu aqui. Vamos encontrá-la.
+A cavaleira Mercedes já deve estar no topo da<cf>fortaleza.
 Tivemos que intervir. Ela teria morrido<cf>com certeza.
 Ela deixou seus desejos claros... Estávamos<cf>obrigados a concordar.
 Fizemos tudo o que podíamos.
@@ -19939,7 +19939,7 @@ Já faz um tempo desde que vimos<cf>Lord Julien, não é?
 Por aqui para a Pedra, Mestre.
 Estamos quase lá.
 Vamos trabalhar para suprimi-los aqui!
-Deixe este lugar para nós, Arisen! Encontre<cf>Sir Mercedes!
+Deixe este lugar para nós, Arisen! Encontre<cf>a cavaleira Mercedes!
 A Pedra também é conhecida como Torre<cf>Windbluff. Não fica longe daqui.
 A Pedra é por aqui, Mestre.
 Não por ali.
@@ -20028,19 +20028,19 @@ Sacar
 Combinar
 Trocar Equipamento
 Deixa pra lá
-Eu falei com Sir Mercedes. Às vezes sinto que sou o único focado na verdadeira tarefa...
+Eu falei com a cavaleira Mercedes. Às vezes sinto que sou o único focado na verdadeira tarefa...
 Viemos a Gransys não para nos preocupar, mas para matar um dragão, honrando o antigo pacto entre nossas nações.
 Todos deveriam limpar suas mentes de qualquer fardo que possa interferir.
-Pelo que entendi, Sir Mercedes não trouxe homens de Hearthstone com ela.
+Pelo que entendi, a cavaleira Mercedes não trouxe homens de Hearthstone com ela.
 A força que ela comandava aqui era composta por mercenários e coisas do tipo.
-Eu não tenho nada contra a Sir Mercedes, nem interesse em descobrir seus segredos...
+Eu não tenho nada contra a cavaleira Mercedes, nem interesse em descobrir seus segredos...
 Mas a corte é um turbilhão constante de boatos...
 Alguns dizem que ela foi enviada sozinha como um desprezo consciente... Outros, que seu nobre pai simplesmente queria se livrar dela.
 Como consequência, muitos aqui evitam sua companhia.
 Tenho certeza que você é um aliado bem-vindo, tanto como o Arisen quanto um estranho à sociedade da corte.
 Como um estrangeiro, igual a ela, não estou em posição de fazer exigências a você, milorde...
 Mas, por favor, faça o que puder por ela.
-Garanto que sua ajuda será uma bênção bem-vinda para a Sir Mercedes, Arisen. Por favor, faça o que puder por ela.
+Garanto que sua ajuda será uma bênção bem-vinda para a cavaleira Mercedes, Arisen. Por favor, faça o que puder por ela.
 Este lugar é... familiar.
 Isto tem a aparência de...<cf>Do mundo além da fenda.
 Parece diferente, mas...
@@ -21314,8 +21314,8 @@ Uma palavra, milorde!
 Você é o Arisen? Trago uma mensagem do próprio duque.
 Sua Graça julgou seu feito ao matar a hidra muitíssimo louvável.
 Para honrar suas nobres obras, você está aqui sendo bem-vindo à Caçada ao Wyrm.
-Agora você pode aceitar ordens de Sir Maximilian, Capitão da Caçada.
-Leve este documento para Sir Maximilian, do lado de fora dos portões do castelo. Ele o instruirá mais a fundo.
+Agora você pode aceitar ordens de o cavaleiro Maximilian, Capitão da Caçada.
+Leve este documento para o cavaleiro Maximilian, do lado de fora dos portões do castelo. Ele o instruirá mais a fundo.
 Este documento confere o status de caçador a você. Carregue-o sempre consigo.
 Uma nuvem de apreensão paira sobre a terra nestes dias.
 A quem um sujeito pode recorrer?
@@ -21575,7 +21575,7 @@ Eu vou destruir tudo!
 Muito bem... Se esse é o seu desejo, eu vou cobrar meu <cf>preço.
 Pare! NÃÃÃÃÃO!
 Aaaaaaugh!
-Sir Mercedes já deve estar pronta agora.
+A cavaleira Mercedes já deve estar pronta agora.
 Os preparativos da Capitã Mercedes <cf>provavelmente estão completos.
 É melhor verificarmos nosso estoque de <cf>remédios... podemos precisar.
 Devemos garantir que a carga chegue <cf>à capital em segurança.
@@ -23600,8 +23600,8 @@ Uma palavra, meu caro!
 Você é o Arisen? Trago uma mensagem do próprio duque.
 Sua Graça julgou seu feito ao matar a hidra como louvável.
 Para honrar seus nobres trabalhos, você está sendo bem-vindo à Caçada Wyrm.
-Você agora pode aceitar ordens de Sir Maximilian, Capitão da Caçada.
-Leve este documento para Sir Maximilian, fora dos portões do castelo. Ele o instruirá mais.
+Você agora pode aceitar ordens de o cavaleiro Maximilian, Capitão da Caçada.
+Leve este documento para o cavaleiro Maximilian, fora dos portões do castelo. Ele o instruirá mais.
 Este documento confere o status de caçador a você. Carregue-o sempre consigo.
 Aqui!?
 Ainda dá tempo. Você ainda pode voltar atrás.
@@ -24754,7 +24754,7 @@ Se você chegou a um impasse em uma missão,<cf>por que não tentar progredir em
 Quando os inimigos parecerem demais, tente <cf>ganhar níveis ou obter equipamentos melhores.
 Se suas estratégias parecerem fracas contra <cf>seus inimigos, tente mudar a composição do seu grupo, <cf>as habilidades ativadas e o equipamento.
 Para receber os efeitos de magias curativas, <cf>entre na área da luz de cura.
-Agora você pode aceitar missões de Caça à Wyrm. <cf>Vá para os portões do castelo no <cf>bairro nobre de Gran Soren e fale com Sir Maximilian.
+Agora você pode aceitar missões de Caça à Wyrm. <cf>Vá para os portões do castelo no <cf>bairro nobre de Gran Soren e fale com o cavaleiro Maximilian.
 Chegou a hora de você começar sua jornada como <cf>Arisen. Mas antes que você possa reconquistar seu coração <cf>do dragão, você precisará se preparar...
 Comece perguntando pela vila em busca de pistas. <cf>Alguém deve ser capaz de te indicar <cf>a direção certa.
 Para realmente saber o que os Arisen devem fazer, <cf>é provável que seja melhor seguir a liderança do peão.
@@ -25153,7 +25153,7 @@ Confio que você se redimirá em futuros empreendimentos.
 É pelo bem do povo. Farei isso de bom grado.
 Eu tô bem. Ainda posso lutar!
 Eu vou te derrubar!
-Lorde Julien está bem o suficiente, mas Sir Mercedes é mais fardo do que bênção, dizem.
+Lorde Julien está bem o suficiente, mas a cavaleira Mercedes é mais fardo do que bênção, dizem.
 Ela é filha do Lorde de Hearthstone, tá vendo...
 E para um cavaleiro enviado para ajudar o duque, ouve-se muito pouco elogio de sua habilidade...
 Se a mulher cair antes que o dragão chegue, teremos outra guerra em nossas mãos.
@@ -25643,7 +25643,7 @@ A gente tem que ajudar os homens do duque.
 Ajudem quem precisar!
 A besta foi morta. Vamo voltar pra<cf>capital.
 Por que não pegar o tesouro da torre<cf>antes de partirmos?
-A gente tem que avisar o Sir Aldous.
+A gente tem que avisar o cavaleiro Aldous.
 É melhor perguntar o que os homens da<cf>Tropa tão planejando.
 Sem o grifo pra guardar, o tesouro da<cf>Torre é nosso.
 Ouvi dizer que tem muita riqueza dormindo na<cf>Torre Luazul.
@@ -26158,7 +26158,7 @@ Sair sem mudar nada
 É... É muito forte!
 Pedimos ao povo que volte para suas casas. Por favor, Arisen, você deve pará-lo!
 Foi por pouco...
-Sir Aldous acena, Arisen. Por favor, vá para o castelo.
+O cavaleiro Aldous acena, Arisen. Por favor, vá para o castelo.
 Bandidos, Arisen!
 Ladrões!
 Um bando de ladrões!
@@ -26854,7 +26854,7 @@ Ajude os soldados na batalha para retomar><cf>a Pedra.
 
 
 Relate Sua Derrota
-Viaje de volta até Sir Maximilian em Gran Soren><cf>e informe que o esforço terminou em><cf>fracasso.
+Viaje de volta até o cavaleiro Maximilian em Gran Soren><cf>e informe que o esforço terminou em><cf>fracasso.
 
 
 
@@ -26864,12 +26864,12 @@ Entre na fortaleza pelo portão principal e<cf>derrote o líder goblin.
 
 
 Relate Sua Vitória
-Viaje de volta até Sir Maximilian em Gran Soren><cf>e informe que a campanha foi um><cf>sucesso.
+Viaje de volta até o cavaleiro Maximilian em Gran Soren><cf>e informe que a campanha foi um><cf>sucesso.
 
 
 
 Missão Concluída com Sucesso
-Você fez um relato completo da operação a><cf>Sir Maximilian. Recompensa recebida.
+Você fez um relato completo da operação a><cf>o cavaleiro Maximilian. Recompensa recebida.
 
 
 
@@ -27075,7 +27075,7 @@ Que o Criador te abençoe!
 Muito, muito obrigado.
 "O prazer delicioso e sempre novo de uma ocupação inútil"<cf>                                                            -Henri de Régnier
  
-Sir Aldous precisa saber disso.
+O cavaleiro Aldous precisa saber disso.
 Alguém pode saber do<cf>paradeiro de Salomet. Melhor perguntar por aí.
 Vamos ouvir outras pessoas.
 Devíamos falar com mais algumas pessoas?
@@ -27103,8 +27103,8 @@ O anel concedeu a ele um poder imenso!
 Vamos subir.<cf>É o lugar mais provável.
 Ele deve estar lá em cima. Avante, Mestre!
 Vamos encontrá-lo na sala<cf>mais alta, sem dúvida.
-Sir Aldous nos espera.
-Tudo que resta é levar o anel em<cf>segurança para Sir Aldous.
+O cavaleiro Aldous nos espera.
+Tudo que resta é levar o anel em<cf>segurança para o cavaleiro Aldous.
 Vamos devolver o anel para a capital.
 Nosso caminho não importa... O próximo<cf>ataque virá até nós.
 Você vê a torre, Arisen? É por<cf>aqui.
@@ -27442,12 +27442,12 @@ Examine as ruínas no lugar de Jean e traga<cf>qualquer pedaço de ardósia que 
 
 
 Reporte Suas Descobertas
-Volte para Sir Maximilian em Gran Soren<cf>e diga a ele que a tarefa está feita.
+Volte para o cavaleiro Maximilian em Gran Soren<cf>e diga a ele que a tarefa está feita.
 
 
 
 Missão Cumprida
-Você cumpriu seu dever com o grupo de pesquisa<cf>e reportou para Sir Maximilian. Recompensa<cf>da missão recebida.
+Você cumpriu seu dever com o grupo de pesquisa<cf>e reportou para o cavaleiro Maximilian. Recompensa<cf>da missão recebida.
 
 
 
@@ -30329,7 +30329,7 @@ Talvez tenha algo nisso, afinal.
 Perdoe minha franqueza. Acho que nasci grosso como um porrete, e sempre fui assim.
 Me parece que tem algo mais no Arisen além de força bruta.
 ...Mas isso não é da conta de um mercenário como eu.
-Sir Mercedes pensa demais.
+A cavaleira Mercedes pensa demais.
 Viva, e você venceu. Morra, e você perdeu. É tudo que precisa saber sobre a guerra.
 Tenha orgulho da sua vitória.
 Os fracos sempre caem para os fortes. É a lei da guerra.
@@ -30705,7 +30705,7 @@ Há poucos sinais de saques. Talvez<cf>os ventos tenham mantido os ladrões afas
 Tenha muito cuidado nestes caminhos<cf>estreitos... Eles podem estar cheios de armadilhas.
 Quão profundo você supõe que seja?
 É a parte de trás da mansão do duque.
-É Sir Daerio quem tem a chave desta<cf>porta.
+É o cavaleiro Daerio quem tem a chave desta<cf>porta.
 Uma armadilha, lá embaixo!
 É sua cidade natal, não é, Arisen?
 A Tropa usa este lugar para reunir<cf>novos soldados e treiná-los em combate.
@@ -31359,14 +31359,14 @@ Nunca foi tão verdade que a ignorância é o pior inimigo, e a apatia a maior t
 Se me permite falar francamente, é minha própria opinião que a corte do duque entrou em declínio.
 Eles não se unem mais para fazer um propósito comum para o bem da terra. Mesmo Sua Graça não é a mesma presença imponente de antigamente...
 Mas eu me esqueço. Por favor, não se preocupe comigo.
-Diga-me, Arisen, o que você acha de Sir Mercedes, nomeada capitã do Corpo de Alistamento?
+Diga-me, Arisen, o que você acha de a cavaleira Mercedes, nomeada capitã do Corpo de Alistamento?
 Fala-se dela como nada além de um ornamento nos lábios menos prudentes da corte.
 Ainda assim, ouso dizer que sua preocupação com o bem-estar desta terra é sincera.
 Mais pena, talvez, que a sinceridade por si só não faça um líder apto. Se ela não consegue comandar respeito, está perdida.
 Quem dera ela ao menos tivesse alguém para ajudá-la em seus esforços...
 Ouvi dizer que Sua Graça já foi um ávido patrono do estudo da magia.
 A restauração da carne, em particular, despertava seu interesse. Ele encarregou muitos estudiosos de criar uma arte para reviver os feridos mortalmente.
-É um choque cruel. A Pedra foi confiada a Sir Daerio, famoso por sua lealdade de ferro.
+É um choque cruel. A Pedra foi confiada ao cavaleiro Daerio, famoso por sua lealdade de ferro.
 Ouvir o que aconteceu... É simplesmente um choque.
 Nesse ritmo, nenhum homem está acima da traição. Devemos viver com medo constante de...
 Não. Eu não vou falar sobre isso.
@@ -32092,7 +32092,7 @@ Nosso destino repousa no seu aço agora, Escolhido.
 Bem, cumpri meu dever. Quem não sabe o que está por vir agora pode culpar a si mesmo.
 Então este é o fim, hein? Ou é o começo de outra coisa...
 Ouçam, ouçam! A valente Tropa de Alistamento do duque despachou a hidra imunda que aterrorizava as terras do sul!
-Ouçam a história emocionante da valente Sir Mercedes, ela que desferiu o golpe mortal contra a criatura cruel!
+Ouçam a história emocionante da valente a cavaleira Mercedes, ela que desferiu o golpe mortal contra a criatura cruel!
 Maravilhem-se com a sabedoria de Sua Graça, o Duque Edmun Dragonsbane, sem os conselhos d'Ele a hidra nunca teria sido morta!
 Ouçam, ouçam! Atenção a todos! O Arisen surgiu para pegar em armas contra o temível dragão!
 Com permissão para viajar pela terra concedida pelo próprio Duque Edmun, o Arisen empunha espada e escudo para defender a honra de todos!
@@ -32261,7 +32261,7 @@ Agradeço... É muita gentileza.
 ...Pra mim, milorde?
 Mais adequado para anéis do que para rapieiras, não é? Deixar uma mulher inútil como um cavaleiro servir como esposa?
 É isso que quer dizer?
-...'Tis uma piada, milorde. Eu ficaria feliz em usá-lo, como uma lembrança de um querido amigo.
+...É uma piada, milorde. Eu ficaria feliz em usá-lo, como uma lembrança de um querido amigo.
 Algo a dizer, milorde?
 Você está aqui para se alistar no Corpo?
 Hmm... Você tem a estatura para isso, olhando pra você.
@@ -32276,7 +32276,7 @@ Parece que eu te julguei mal. Por favor, permita-me corrigir isso agora.
 Estes últimos anos não viram o fim de vilões fingindo o título de Arisen para ganho pessoal.
 Temo que falar de tais fraudes me tenha levado a suspeitar de você como um deles... Peço que me perdoe.
 O Duque Edmun derrotou o wyrm em combate antes de vir governar esta terra.
-'Tis uma honra incomparável servir sob tal lenda.
+é uma honra incomparável servir sob tal lenda.
 Não tenho dúvidas de que você está entre os escolhidos, como ele, Arisen.
 Todos esperamos de você obras compatíveis com seu cargo, milorde. Rezo para que você exceda nossas esperanças.
 Atualmente, mais da metade do Corpo é composta de mercenários de outras terras.
@@ -32299,7 +32299,7 @@ Como um hóspede vindo de uma terra vizinha, seria ruim para o duque que eu morr
 Nem ele desejaria que eu ofuscasse seus homens aqui...
 Temo estar preso entre os dois e privado de qualquer tarefa de substância para isso.
 Sim, ouvi falar do grupo sendo reunido para matar o grifo.
-Sir Georg e os outros do acampamento estão entre eles. Os homens que lutaram contra a hidra.
+O cavaleiro Georg e os outros do acampamento estão entre eles. Os homens que lutaram contra a hidra.
 Eles são anunciados como elites, mas o fato é que são meros mercenários.
 As tarefas mais difíceis são frequentemente deixadas para esses tipos, como era com todo o Corpo de Alistamento.
 Foi pouco tempo que compartilhamos, mas eles eram homens sob meu comando da mesma forma.
@@ -32391,7 +32391,7 @@ Após uma batalha exaustiva, você afugenta a hidra, deixando a besta com uma ca
 Acompanhado por um grupo de recrutas da Tropa, você escolta a cabeça da hidra pelas montanhas e faz sua entrada triunfal na cidade de Gran Soren, domínio do Duque Edmun e seu vasto exército. Deixado por conta própria enquanto Mercedes faz seu relatório ao duque, você se pergunta se poderia aprender mais sobre peões explorando a cidade...
 Você conhece o peão Barnaby, guardião de uma grande ruína sob a cidade conhecida como Everfall. Parece que ele estava esperando sua chegada... Embora seus olhos não traiam nenhuma emoção, a fé absoluta que ele tem no Arisen é quase palpável. Ele pede que você investigue uma aura estranha no Everfall, e você não vê razão para recusar seu pedido.
 Ao emergir do Everfall, um membro da guarda do castelo chega, anunciando que seus feitos valorosos lhe renderam um lugar na Caçada ao Wyrm. O capitão que lidera a campanha pode ser encontrado perto do portão do castelo -- ele terá mais detalhes.
-De acordo com Sir Maximilian, o próprio Duque Edmun pediu que você se juntasse à Caçada ao Wyrm. Seus novos deveres incluem coletar informações sobre o dragão, investigar o culto subterrâneo conhecido como os Salvadores e outros atos pela península que possam manter o caos sob controle. Esperançosamente, seus esforços ao longo desses testes o ajudarão a descobrir seu verdadeiro propósito como Arisen.
+De acordo com o cavaleiro Maximilian, o próprio Duque Edmun pediu que você se juntasse à Caçada ao Wyrm. Seus novos deveres incluem coletar informações sobre o dragão, investigar o culto subterrâneo conhecido como os Salvadores e outros atos pela península que possam manter o caos sob controle. Esperançosamente, seus esforços ao longo desses testes o ajudarão a descobrir seu verdadeiro propósito como Arisen.
 Seus deveres na Caçada de Wyrm te deixam cansado até os ossos, mas neles você encontra um propósito renovado. Cada dia te aproxima da verdade por trás do dragão. Cada passo tempera o ferro da sua determinação. A dor surda em sua ferida te impulsiona para frente. Se o Arisenato não é um cadinho para a coragem, o que é?
 Seu trabalho para a Caçada chamou a atenção do próprio Duque Edmun, que te concedeu uma audiência formal na corte. Se você se sair bem, poderá herdar missões ainda mais cruciais de Sua Graça. Com sorte, conhecer este campeão da lenda irá iluminar o caminho à frente.
 Seus deveres na Caçada de Wyrm estão cumpridos. O duque espera. Você deve seguir em frente.
@@ -33392,8 +33392,8 @@ Atente-se ao treinamento conforme as instruções.
   
   
   
-Reportar-se a Sir Berne
-Informe Sir Berne que você concluiu o<cf>treinamento.
+Reportar-se ao cavaleiro Berne
+Informe o cavaleiro Berne que você concluiu o<cf>treinamento.
   
   
   
@@ -33759,7 +33759,7 @@ Flecha Rodopiante
 Flecha Espiral
 Saque de Aposta
 Aposta Maior
-Aquela era uma cabeça de hidra que passou? De quem era esse prêmio, então? Sir Mercedes?
+Aquela era uma cabeça de hidra que passou? De quem era esse prêmio, então? a cavaleira Mercedes?
 Já foi o tempo em que uma besta dessas nunca surgiria tão perto de Cassardis.
 Pode ser que a vinda do dragão tenha enlouquecido a espécie deles também...
 Aqui é o portão principal de Gran Soren.
@@ -34095,8 +34095,8 @@ Você chegou à capital com a cabeça da hidra<cf>intacta. Recompensa da missão
 
 
 
-Reúna-se com Sir Mercedes
-Siga para o castelo e encontre-se com<cf>Sir Mercedes.
+Reúna-se com a cavaleira Mercedes
+Siga para o castelo e encontre-se com<cf>a cavaleira Mercedes.
 
 
 
@@ -34838,7 +34838,7 @@ Você recuperou a carta secreta para Fedel.<cf>Recompensa da missão recebida.
 
 
 Missão Cumprida
-Você entregou a carta para Sir Gabrian.<cf>Recompensa da missão recebida.
+Você entregou a carta para o cavaleiro Gabrian.<cf>Recompensa da missão recebida.
 
 
 
@@ -35759,7 +35759,7 @@ Vá para os aposentos da duquesa sob a<cf>escuridão, conforme indicado por Mira
 
 
 Escape da Masmorra
-Você foi pego. Embora Aelinore tenha te salvado<cf>da execução sumária, Sir Jakob não foi nada<cf>gentil. Encontre uma maneira de escapar de sua prisão.
+Você foi pego. Embora Aelinore tenha te salvado<cf>da execução sumária, o cavaleiro Jakob não foi nada<cf>gentil. Encontre uma maneira de escapar de sua prisão.
 
 
 
@@ -38813,7 +38813,7 @@ Se você empacou numa missão, que tal<cf>tentar progredir em outra?<cf>Você po
 Quando os inimigos parecerem fortes demais, tente<cf>subir de nível ou conseguir equipamentos melhores.
 Se suas estratégias parecem ineficientes contra<cf>seus inimigos, tente mudar a formação do seu grupo,<cf>as habilidades ativadas e os equipamentos.
 Pra receber os efeitos de magias de cura,<cf>entre na área da luz de cura.
-Agora você pode pegar missões de Caça ao Wyrm.<cf>Vá pros portões do castelo no<cf>bairro nobre de Gran Soren e fale com Sir Maximilian.
+Agora você pode pegar missões de Caça ao Wyrm.<cf>Vá pros portões do castelo no<cf>bairro nobre de Gran Soren e fale com o cavaleiro Maximilian.
 Chegou a hora de você começar sua jornada como<cf>Arisen. Mas antes de poder pegar seu coração<cf>de volta do dragão, você vai precisar se preparar...
 Comece perguntando pelas redondezas da vila por pistas.<cf>Alguém deve conseguir te dar uma<cf>luz.
 Pra saber de verdade o que os Arisen devem fazer,<cf>o melhor a se fazer é seguir a liderança do peão.
@@ -39245,7 +39245,7 @@ Derrote 10 ogros.<cf>Região: Cavernas da Fronteira
 Derrote 10 harpias da neve.<cf>Região: Gransys do Norte, Hillfigure Knoll
 Mate 8 aranhas.<cf>Região: Bosque das Bruxas
 Derrote 10 fantasmas.<cf>Região: Proximidades das Catacumbas
-Derrote Sir Berne.<cf>Região: Acampamento
+Derrote o cavaleiro Berne.<cf>Região: Acampamento
  
  
 Pedido de Escolta: <I_GT 106><cf>Região: <I_DS 106>
@@ -39953,7 +39953,7 @@ Não descansarei até que seu significado seja decifrado, milorde. ...Pelo bem d
 A Fé cuidará disso. Nisso você pode acreditar.
 Agradeço, Arisen. Eu mesmo darei a triste notícia do sacrifício do Irmão Jean ao Padre Geffrey.
 Não foi sua culpa, milorde. Você cumpriu bem seu dever para conosco, como o Padre ouvirá.
-Por favor, não deixe que isso pese em seu coração. Vá e conte a Sir Maximilian sobre nosso sucesso.
+Por favor, não deixe que isso pese em seu coração. Vá e conte ao cavaleiro Maximilian sobre nosso sucesso.
 Não há como seguir em frente a não ser cruzando<cf>por aqui.
 Precisamos atravessar este rio para alcançar a<cf>cabana da bruxa.
 É raso o suficiente para atravessar.
@@ -39980,7 +39980,7 @@ Magia... ou algo similar,<cf>paira densamente no ar.
 Você precisa ir? Você estará sozinho... Nada além de solidão reside além.
 Você não está sem um lar para retornar.
 Por quê? O que te impulsiona tanto?
-Sir Mercedes passou por aqui antes de você chegar.
+A cavaleira Mercedes passou por aqui antes de você chegar.
 Fomos instruídos a detê-la, mas a rapariga nos venceu...
 Eu a achava apenas um enfeite, mas a mulher é forte como um javali e duas vezes mais teimosa.
 Você está cego para a verdade, Arisen!
@@ -43043,11 +43043,11 @@ Se tem treino pra fazer, é melhor a gente<cf>fazer logo.
 Isso foi feio...
 Era uma tarefa além das nossas capacidades...
 É um desafio complicado, esse.
-Vamos reportar este resultado ao Sir Berne.
-É um resultado lamentável... Mesmo assim, é melhor<cf>avisarmos o Sir Berne.
+Vamos reportar este resultado ao o cavaleiro Berne.
+É um resultado lamentável... Mesmo assim, é melhor<cf>avisarmos o cavaleiro Berne.
 Foi uma vitória certa.
 Dominamos o combate a curta distância.
-Sir Berne é um guerreiro formidável.
+O cavaleiro Berne é um guerreiro formidável.
 Um homem com a experiência dele não perderá tão<cf>facilmente.
 Vamos treinar e tentar de novo.
 Ainda não temos experiência.
@@ -43055,7 +43055,7 @@ Ele não vai deixar a gente ganhar todos os desafios.
 É verdade que o Arisen precisa de força suficiente pra matar<cf>qualquer fera.
 O caminho do Arisen é duplo: aprimorar o corpo,<cf>mas também temperar a alma.
 Não se preocupe com a segurança dele. Devemos dar a ele tudo<cf>que temos!
-Sir Berne não vai nos dar um momento de hesitação!
+O cavaleiro Berne não vai nos dar um momento de hesitação!
 Foi uma experiência reveladora... Eu gostaria de ter<cf>outra chance.
 Aprimorar nossos instintos aqui só pode nos ajudar<cf>no campo, Arisen.
 Fomos derrotados... Vamos pensar no próximo desafio,<cf>Mestre.
@@ -43873,14 +43873,14 @@ Toque em qualquer fenda para trazer seu peão<cf>principal perdido de volta ao s
 Se um peão de suporte for perdido, quaisquer itens<cf>que ele estava carregando são enviados para o armazenamento de itens.
 Você pode mandar peões que estão partindo com um<cf>único item como presente para o criador deles.
 Você pode passar itens para seus peões e<cf>deles para você no submenu.
-Um momento, milorde. Me chamo Gabrian. Sirvo sob o comando de Sir Daerio, capitão na Pedra do Norte.
+Um momento, milorde. Me chamo Gabrian. Sirvo sob o comando de o cavaleiro Daerio, capitão na Pedra do Norte.
 Vejo que o capitão estava certo ao supor que você estaria com aquela carta...
 É uma mensagem que o camareiro Fedel pediu para você pegar... Estou certo?
 Por favor, não dê ouvidos às mentiras dessa raposa. Ele é um homem embriagado pela ambição.
 Ele planeja ganhar a confiança do duque espalhando mentiras de sedição, derramando alegremente o sangue de homens fiéis no processo.
 Mas até isso é apenas um preâmbulo. Dar a ele um motivo para se encontrar com o duque em particular é o mesmo que emprestar sua adaga para ele cravar no peito de Sua Graça.
-Sir Daerio está determinado a ver os planos traiçoeiros de Fedel frustrados.
-Permita-me levar a carta para Sir Daerio. Como ninguém sabe dela, você não precisa temer nenhuma consequência ruim.
+O cavaleiro Daerio está determinado a ver os planos traiçoeiros de Fedel frustrados.
+Permita-me levar a carta para o cavaleiro Daerio. Como ninguém sabe dela, você não precisa temer nenhuma consequência ruim.
 Tudo que ouvi sobre você sugere uma pessoa de julgamento perspicaz. Por favor, me dê a carta, milorde.
 Entregar a carta para ele
 Recusar
@@ -43889,8 +43889,8 @@ Vejo que o capitão estava certo ao supor que você estaria com aquela carta...
 Por favor, não dê ouvidos às mentiras dessa raposa. Ele é um homem embriagado pela ambição.
 Ele planeja ganhar a confiança do duque espalhando mentiras de sedição, derramando alegremente o sangue de homens fiéis no processo.
 Mas até isso é apenas um preâmbulo. Dar a ele um motivo para se encontrar com o duque em particular é o mesmo que emprestar sua adaga para ele cravar no peito de Sua Graça.
-Sir Daerio está determinado a ver os planos traiçoeiros de Fedel frustrados.
-Permita-me levar a carta para Sir Daerio. Como ninguém sabe dela, você não precisa temer nenhuma consequência ruim.
+O cavaleiro Daerio está determinado a ver os planos traiçoeiros de Fedel frustrados.
+Permita-me levar a carta para o cavaleiro Daerio. Como ninguém sabe dela, você não precisa temer nenhuma consequência ruim.
 Tudo que ouvi sobre você sugere uma pessoa de julgamento perspicaz. Por favor, me dê a carta, milorde.
 Entregar a carta verdadeira
 Entregar a carta falsa
@@ -43898,11 +43898,11 @@ Recusar
 Meus agradecimentos, milorde.
 Você escolheu sabiamente e, ao fazer isso, poupou o castelo do caos que esse plano teria causado.
 Ainda bem que Fedel se move devagar, pra uma raposa. Vai demorar um pouco até ele tramar o próximo plano dele.
-Tenho certeza que Sir Daerio vai te recompensar pela sua ajuda nessa questão, Arisen.
+Tenho certeza que o cavaleiro Daerio vai te recompensar pela sua ajuda nessa questão, Arisen.
 Não posso prometer o quê, ou quando, mas saiba que os homens da Pedra sempre pagam suas dívidas.
 Até então, me despeço...
 Que assim seja, então. É uma grande pena.
-Sir Daerio tinha certeza que você ia entrar em acordo. Parece que nem o julgamento dele é livre de erros.
+O cavaleiro Daerio tinha certeza que você ia entrar em acordo. Parece que nem o julgamento dele é livre de erros.
 Não vou insistir mais no assunto. Pelo menos não aqui.
 Espero sinceramente que esse erro não te traga frutos amargos com o tempo, milorde.
 Por favor, tome cuidado...
@@ -44107,7 +44107,7 @@ O Morro da Figura fica ao norte de Gran<cf>Soren.
 A gente vai pro norte.<cf>A colina deve estar lá.
 A gente vai saber pelas ruínas quando<cf>chegarmos perto.
 Bora voltar pra Gran Soren com essa<cf>notícia.
-Sir Maximilian tá esperando notícias do que<cf>a gente descobriu.
+O cavaleiro Maximilian tá esperando notícias do que<cf>a gente descobriu.
 Uma figura... Deve ser o lugar.
 Um cara nos campos a oeste de Gran<cf>Soren sabe do Forjado pelo Dragão...
 Tinha um que sabia da lousa<cf>nos mercados...
@@ -44588,7 +44588,7 @@ Em nome dos salvadores, o mundo deve conhecer o caos. O mundo deve conhecer a de
 A revolta na Pedra do Norte? Que engraçado...
 Parece que terminou quase antes de começar.
 Pelo que dizem os homens que ainda estão lá, era os Salvadores que estava puxando as cordas.
-Ainda não há notícias de Lord Julien, nem de Sir Mercedes que foi atrás dele...
+Ainda não há notícias de Lord Julien, nem de a cavaleira Mercedes que foi atrás dele...
 É uma coisa estranha, de fato.
 Então ele está morto...
 É melhor encontrarmos Merin.
@@ -44672,22 +44672,22 @@ A falta de mantimentos assola a Pedra do Norte.<cf>Leve um recado ao Lorde Julie
 
 
 Entregue a Mensagem no Castelo
-Leve a mensagem de Sir Daerio para Julien ou<cf>para o guarda designado no castelo em Gran<cf>Soren.
+Leve a mensagem de o cavaleiro Daerio para Julien ou<cf>para o guarda designado no castelo em Gran<cf>Soren.
 
 
 
-Volte para Falar com Sir Daerio
-Você transmitiu a mensagem para o<cf>castelo direitinho. Informe Sir Daerio do seu feito.
+Volte para Falar com o cavaleiro Daerio
+Você transmitiu a mensagem para o<cf>castelo direitinho. Informe o cavaleiro Daerio do seu feito.
 
 
 
-Volte para Falar com Sir Daerio
-Você transmitiu a mensagem para o castelo e<cf>conseguiu mantimentos adicionais do Lorde<cf>Julien. Informe Sir Daerio do seu sucesso.
+Volte para Falar com o cavaleiro Daerio
+Você transmitiu a mensagem para o castelo e<cf>conseguiu mantimentos adicionais do Lorde<cf>Julien. Informe o cavaleiro Daerio do seu sucesso.
 
 
 
-Volte para Falar com Sir Daerio
-Você entregou a mensagem no castelo.<cf>Informe Sir Daerio que a tarefa está cumprida.
+Volte para Falar com o cavaleiro Daerio
+Você entregou a mensagem no castelo.<cf>Informe o cavaleiro Daerio que a tarefa está cumprida.
 
 
 
@@ -44806,7 +44806,7 @@ Espero que este dia te encontre bem, Arisen.
 Tenho pouco a oferecer, mas te imploro que aceite isto.
 Me ajude!
 Por certo que não pretende fugir, milorde?
-Por favor, vá e conte a Sir Aldous o que aconteceu.
+Por favor, vá e conte ao cavaleiro Aldous o que aconteceu.
 Por favor, poderia te pedir um favor, Arisen?
 Sua ajuda seria muito bem-vinda nessa questão.
 Ouça ele
@@ -46896,7 +46896,7 @@ Nenhum por agora
 Muitos dentro do castelo elogiam seus atos ousados ultimamente. Eu rezo para que tais boas obras continuem rapidamente.
 Tenho mais tarefas que exigem sua atenção. Por favor, faça sua escolha, milorde.
 Recuperar item roubado
-Ajudar Sir Mercedes
+Ajudar a cavaleira Mercedes
 Nenhum por agora
 Nesse caso, me informe assim que puder aceitar uma tarefa.
 O peso do dever está pesado sobre seus ombros. Nunca se esqueça disso.
@@ -46949,7 +46949,7 @@ Pacote Especial de Cristais da Fenda
 Parta para a Aventura - As Ferramentas Certas
 O progresso do jogo não pode ser salvo durante um speedrun.<cf>Continuar?
 Ascensão dos Caídos
-Sir Maximilian teme que a seita os Salvadores esteja<cf>de alguma forma envolvida nos recentes avistamentos de esqueletos.<cf>Investigue o caso.
+O cavaleiro Maximilian teme que a seita os Salvadores esteja<cf>de alguma forma envolvida nos recentes avistamentos de esqueletos.<cf>Investigue o caso.
 
 
 
@@ -46973,13 +46973,13 @@ Afaste os mortos-vivos que avançam enquanto persegue<cf>e mata o fanático dos 
 
 
 
-Reporte-se a Sir Maximilian
-Você implicou os Salvadores na praga dos mortos-vivos<cf>e matou o cultista responsável.<cf>Reporte seus feitos a Sir Maximilian.
+Reporte-se ao cavaleiro Maximilian
+Você implicou os Salvadores na praga dos mortos-vivos<cf>e matou o cultista responsável.<cf>Reporte seus feitos ao cavaleiro Maximilian.
 
 
 
 Missão Cumprida
-Você resolveu o mistério e informou Sir<cf>Maximilian. Recompensa da missão recebida.
+Você resolveu o mistério e informou o cavaleiro<cf>Maximilian. Recompensa da missão recebida.
 
 
 
@@ -48238,7 +48238,7 @@ Fiquem de guarda até chegarmos aos portões de Gran Soren, homens!
 Pedras caídas bloqueiam o caminho.
 Isso leva à capital. Vamos encontrar um portão logo.
 Continuem andando, homens. Avante!
-Sir Mercedes, Capitã do Corpo de Alistamento, retornou. Abram o portão!
+A cavaleira Mercedes, Capitã do Corpo de Alistamento, retornou. Abram o portão!
 O portão está aberto! Avante, homens!
 Mantenham a calma! Deve ter alguma coisa aqui que vai abrir o portão!
 Você conseguiu... Bom.
