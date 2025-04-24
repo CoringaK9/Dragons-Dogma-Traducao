@@ -1553,13 +1553,13 @@ A missão não pode mais ser concluída.
 Demorou mais do que eu pensava.
 Somos poucos demais! Recuem, todos vocês!
 Grifos nas estradas principais... Um homem não pode sair de casa sem perigo de vida!
-Salve, Arisen. Dando uma volta para clarear a cabeça também? Ou em algum tipo de vigília?
+Saudações, Arisen. Dando uma volta para clarear a cabeça também? Ou em algum tipo de vigília?
 Ouço dizer que as ruas esvaziaram desde a vinda do dragão. Muitas vezes me pergunto como era este lugar antes.
 Meu próprio país ficaria tão desolado se o dragão atacasse? Casas deixadas vazias enquanto as pessoas fogem para a segurança...
 Mas me perdoe. Estou te impedindo de fazer sua vigília. Outra hora, Arisen.
 Sem um parceiro de treino, por acaso? Ou com vontade de brincadeiras?
 De qualquer forma, devo recusar com pesar. Não estou com disposição para brincadeiras, milorde.
-Salve, amigo. Faz um tempo. Confio que você esteja bem?
+Saudações, amigo. Faz um tempo. Confio que você esteja bem?
 Mas vamos, se fosse bate-papo o que você queria, teria procurado um pássaro mais bonito do que este corvo velho.
 Corvos trazem notícias, quase sempre sombrias. Eu, trago trabalho. Ainda sombrio, receio. ...E aí?
 Deixa ele falar
@@ -2238,7 +2238,7 @@ Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<
 Relatos de ataques de pequenos animais estão<cf>mais uma vez em ascensão. Para a segurança<cf>do ducado, pedimos assistência para conter seus<cf>números.
 Procuram-se Guerreiros Leais!<cf>Você ama esta boa terra? Empunharia<cf>espada e escudo para proteger seus<cf>cidadãos? A valente irmandade da<cf>Guarda da Capital precisa de você! Faça sua parte<cf>para expulsar todo o mal de Gransys!
 Sou apenas um vendedor ambulante -- um cujo<cf>negócio teve uma queda repentina e assustadora.<cf>Depois de consultar um profissional, parece<cf>que fui vítima de uma maldição vil e persistente.<cf>Minha única esperança é que ela seja transferida para<cf>outro ser. Eu pediria que você encontrasse uma besta<cf>para que eu possa ser libertado desse tormento!
-Do Conselho Consultivo do Duque ao<cf>mais recente que reivindica descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se é realmente<cf>digno da bênção do grande Wyrmking,<cf>ou se você deveria ser abatido como a<cf>besta inculta que você parece ser.
+Do Conselho Consultivo do Duque ao<cf>mais recente que reivindica descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se é realmente<cf>digno da bênção do grande Rei Wyrm,<cf>ou se você deveria ser abatido como a<cf>besta inculta que você parece ser.
 A cada ano, mais e mais animais são vítimas<cf>de ataques de monstros. Estas infelizes,<cf>bestas feridas ficam selvagens em sua dor, atacando<cf>indiscriminadamente. Você não fará a coisa certa<cf>e colocará essas pobres almas para descansar?
 Para a segurança contínua de toda Gransys, o<cf>abaixo listado deve ser abatido sem demora.
 Sua Graça, Duque Edmun Dragonsbane, tem<cf>declarado o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
@@ -2269,10 +2269,10 @@ O Arisen deve sempre almejar maiores<cf>alturas de habilidade e valor, para que<
 É o dever jurado de todos que servem<cf>ao Duque não deixar nenhuma ameaça à<cf>segurança do povo de Gransys sem ser esmagada.<cf>Patrulhe a terra e veja essas feras<cf>desfeitas.
 É o dever jurado de todos que servem<cf>ao Duque não deixar nenhuma ameaça à<cf>segurança do povo de Gransys sem ser esmagada.<cf>Patrulhe a terra e veja essas feras<cf>desfeitas.
 Eu sou apenas um vendedor ambulante -- um cujo<cf>negócio teve uma queda repentina e impressionante.<cf>Depois de consultar um profissional, parece<cf>que fui vítima de uma maldição vil e persistente.<cf>Minha única esperança é que ela seja transferida para<cf>outro ser. Eu pediria que você encontrasse para mim tal<cf>fera para que eu possa ser libertado deste tormento!
-Do Conselho Consultivo do Duque ao<cf>mais recente que alega descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se você é realmente<cf>digno da bênção do grande Wyrmking,<cf>ou se você deveria ser abatido como a<cf>besta inculta que você parece ser.
+Do Conselho Consultivo do Duque ao<cf>mais recente que alega descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se você é realmente<cf>digno da bênção do grande Rei Wyrm,<cf>ou se você deveria ser abatido como a<cf>besta inculta que você parece ser.
 Todo ano, mais e mais animais são vítimas<cf>de ataques de monstros. Essas bestas<cf>infelizes e feridas enlouquecem de dor,<cf>atacando indiscriminadamente. Você não faria<cf>a coisa certa e libertaria essas pobres almas<cf>de seu sofrimento?
-Do Conselho Consultivo do Duque ao<cf>mais novo que alega descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se é realmente<cf>digno da bênção do grande Wyrmking,<cf>ou se você deveria ser abatido como a<cf>besta inculta que parece ser.
-Do Conselho Consultivo do Duque ao<cf>mais novo que alega descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se é realmente<cf>digno da bênção do grande Wyrmking,<cf>ou se você deveria ser abatido como a<cf>besta inculta que parece ser.
+Do Conselho Consultivo do Duque ao<cf>mais novo que alega descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se é realmente<cf>digno da bênção do grande Rei Wyrm,<cf>ou se você deveria ser abatido como a<cf>besta inculta que parece ser.
+Do Conselho Consultivo do Duque ao<cf>mais novo que alega descaradamente o título de "Arisen" --<cf>Tendo ouvido muito sobre sua insolência, nós<cf>gostaríamos que você provasse se é realmente<cf>digno da bênção do grande Rei Wyrm,<cf>ou se você deveria ser abatido como a<cf>besta inculta que parece ser.
 Para a segurança contínua de toda Gransys, os<cf>abaixo listados devem ser eliminados sem demora.
 Para a segurança contínua de toda Gransys, os<cf>abaixo listados devem ser eliminados sem demora.
 Sua Graça, Duque Edmun Dragonsbane, declarou<cf>o seguinte como uma ameaça à<cf>paz e ordem da terra, e pede por<cf>sua destruição imediata:<cf>"＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"<cf>[Região: ＊＊＊＊＊＊＊＊＊＊＊＊]
@@ -6236,7 +6236,7 @@ Se formos invadidos, eles irão para assentamentos humanos.
 Eu daria tudo por mais homens para enfrentar as feras em uma caçada adequada...
 É o suficiente para irritar um homem até que ele esteja enrugado e grisalho, eu lhe garanto.
 Ach, parece que foi metade de uma vida atrás, agora.
-Salve, Arisen! Espero que este dia o encontre bem.
+Saudações, Arisen! Espero que este dia o encontre bem.
 A defesa do posto avançado não traz glória a um homem, mas ainda é um dever fundamental da Guarda.
 Embora nossa estação isolada aqui signifique que raramente ouvimos o comando.
 Gostaríamos de confiar em você, Arisen, para servir como nossos olhos e ouvidos em qualquer assunto importante.
@@ -6356,7 +6356,7 @@ Eek!
 Aaaaah...
 Ha.
 Yaah!
-Salve.
+Saudações.
 Adeus.
 Sim.
 Não...
@@ -10353,7 +10353,7 @@ Buscando os Salvadores
   
 O Altar do Deus da Água
 Venha à Corte
-O Anel do Wyrmking
+O Anel do Rei Wyrm
 Ruína do Grifo
 Orgulho Antes da Queda
 Honra e Traição
@@ -11913,7 +11913,7 @@ Que alívio saber que a Selene tá bem.
 Não precisamos mais nos distrair da nossa missão <cf>com medo pela Selene.
 Finalmente o cara tá pensando direito. Espero que essa vontade de vadiar <cf>dele tenha acabado de uma vez.
 Nem ele pode ser tão cabeça dura de se colocar <cf>em perigo de novo. Bora contar pra Merin.
-Eu lembro de ter visto umas estatuetas perto da casa <cf>do Dragonforged, e na Witchwood...
+Eu lembro de ter visto umas estatuetas perto da casa <cf>do Dragonforged, e no Bosque das Bruxas...
 Eu vi um ídolo em Gran Soren que bate <cf>com essa descrição. Uma garota tava com ele, se não me engano...
 É melhor a gente se preparar pro <cf>que vier pela frente, Arisen.
 Foi uma experiência valiosa, e você vai <cf>ter mais da confiança do duque por causa disso.
@@ -12289,7 +12289,7 @@ Não tivemos notícias de Gran Soren.
 Arisen ou não, não posso permitir sua entrada na fortaleza.
 É costume ajudar o Arisen em suas viagens, mas temo que não haja nada que eu possa te oferecer.
 Sem a palavra de Sua Graça, não posso permitir sua entrada na fortaleza.
-Salve, Arisen. Você está aqui a mando do duque?
+Saudações, Arisen. Você está aqui a mando do duque?
 A muralha resistiu a todo tipo de fera, mas pareceu uma cortina de seda diante do dragão.
 Talvez seja vaidade para o homem lutar contra o wyrm.
 O dragão... derrotado!?
@@ -12770,7 +12770,7 @@ Um seixo que brilha como uma pedra<cf>preciosa. Parece conter minerais<cf>valios
 Um depoimento nomeando alguém como muito<cf>respeitado pelos Fighters. Quem o carrega<cf>pode aprender novas habilidades.
 Um depoimento nomeando alguém como muito<cf>respeitado pelos Striders. Quem o carrega<cf>pode aprender novas habilidades.
 Um depoimento nomeando alguém como muito<cf>respeitado pelos Magi. Quem o carrega<cf>pode aprender novas habilidades.
-Uma mensagem que Quina deixou no quarto dela.<cf>As palavras "igreja", "dragão" e<cf>"Witchwood" se destacam.
+Uma mensagem que Quina deixou no quarto dela.<cf>As palavras "igreja", "dragão" e<cf>"Bosque das Bruxas" se destacam.
 Um talismã abençoado que dizem proteger<cf>viajantes contra o azar.
 O cajado precioso de Selene. Seu nome<cf>reflete o coração puro dela.
 A adaga preciosa de Madeleine. Parece<cf>quente, como se o fervor dela ainda corresse<cf>por ela.
@@ -16077,7 +16077,7 @@ Vender
 Trocar equipamento
 Deixa pra lá
 Eu terei minha vingança, besta!
-Salve, irmão.
+Saudações, irmão.
 Nada para relatar?
 Quem é aquele!?
 Um impostor!
@@ -18369,7 +18369,7 @@ Não confie nos seus olhos à noite. <cf>Afine seus ouvidos para a escuridão.
 Se você precisar viajar à noite, busque <cf>segurança em números.
 A noite traz perigo, mas também <cf>itens que não podem ser encontrados de dia.
 Fique perto de seus companheiros <cf>ao viajar à noite.
-A Witchwood é repleta de <cf>monstros poderosos.
+O Bosque das Bruxas é repleto de <cf>monstros poderosos.
 Uma floresta densa se estende à frente.<cf>Tenha cuidado...
 Perca seu caminho nesta floresta e você <cf>pode muito bem perder sua vida.
 Quem pode dizer quais monstros esperam <cf>nestas copas escuras...
@@ -18934,7 +18934,7 @@ Recuperação
 Adesão
 Oportunismo
 Fluxo
-Grace
+Graça
 Instalação
 A Cifra
 Missão de Caça ao Wyrm<cf>Investigue uma lousa com uma escrita esquecida.<cf>Pode revelar algo sobre o dragão.
@@ -20471,7 +20471,7 @@ Não foi possível recuperar sua gamertag.
 Atualização necessária para usar recursos de rede.
 Erro: Não foi possível conectar à rede.
 Recursos de rede indisponíveis, tentar novamente?
-Salve, irmão.
+Saudações, irmão.
 Nada a relatar?
 Quem é aquele!?
 Um impostor!
@@ -21485,7 +21485,7 @@ A Fé, como toda a humanidade, é vítima da loucura causada pela vinda do drag�
 Que o medo do dragão deva levar um homem a morrer em busca de pedras antigas... Me esqueci.
 Ao fim do dia, o duque ganhou mais do conhecimento que ele tão ardentemente busca. É uma vitória.
 Por ali! Rápido!
-Salve, irmão.
+Saudações, irmão.
 Nada a relatar?
 Quem é aquele!?
 Um impostor!
@@ -22388,7 +22388,7 @@ Você precisa de uma atualização do título para carregar esses dados salvos.
 Verificando espaço livre no dispositivo de armazenamento...
 Salvando conteúdo.<cf>Por favor, não desligue o computador.
 Salvando conteúdo.<cf>Por favor, não desligue o computador.
-Salvamento bem-sucedida.
+Salvamento bem-sucedido.
 Salvamento do ponto de verificação completa.
 Falha ao salvar o jogo.
 Carregando conteúdo. <cf>Por favor, não desligue seu console.
@@ -22412,7 +22412,7 @@ Uma atualização do título é necessária para carregar estes dados salvos.
 Você não pode usar dados salvos de outro usuário.<cf>Apagar estes dados e começar um novo jogo?
 Criando novos dados salvos...<cf>Por favor, não desligue<lf>seu computador.
 Salvando conteúdo...
-Salvamento bem-sucedida.
+Salvamento bem-sucedido.
 Salvamento do ponto de verificação completa.
 Falha ao salvar o jogo.
 Carregando conteúdo. <cf>Por favor, não desligue seu<cf>sistema PlayStation®3.
@@ -22742,7 +22742,7 @@ A fera vem! Rápido!
 Você adquiriu uma tabuleta de pedra.
 Grande parte da escrita antiga nela é indecifrável.
 Apenas algumas palavras são claras: "dragão", "Arisen" e "igreja"...
-Salve, irmão.
+Saudações, irmão.
 Nada a relatar?
 Quem é aquele!?
 Um impostor!
@@ -25157,7 +25157,7 @@ Lorde Julien está bem o suficiente, mas Sir Mercedes é mais fardo do que bên�
 Ela é filha do Lorde de Hearthstone, tá vendo...
 E para um cavaleiro enviado para ajudar o duque, ouve-se muito pouco elogio de sua habilidade...
 Se a mulher cair antes que o dragão chegue, teremos outra guerra em nossas mãos.
-Salve, bom Arisen. O que te traz aqui? ...Um soldado ferido? Não vi ninguém assim.
+Saudações, bom Arisen. O que te traz aqui? ...Um soldado ferido? Não vi ninguém assim.
 Receio que esteja enganado, milorde. Não enviamos nenhuma mensagem urgente para <cf>ninguém.
 Que, homem!? Recupere o fôlego e fale!
 E a capital? O que aconteceu!?
@@ -31396,7 +31396,7 @@ Então tudo isso devemos a você, Arisen.
 Que pena. Uma grande pena, na verdade...
 Você tem minha sincera gratidão.
 Um lugar abundante em vida vegetal provavelmente cultivaria as ervas que procuramos.
-Selene de Witchwood lida com muitos tônicos de ervas. Talvez ela saiba de algo?
+Selene do Bosque das Bruxas lida com muitos tônicos de ervas. Talvez ela saiba de algo?
 Vamos levar isso de volta para Arsmith.
 Avisos solicitando trabalho? Talvez devêssemos dar uma olhada.
 O que devemos procurar desta vez, Mestre? Seja o que for, estamos às suas ordens.
@@ -31610,7 +31610,7 @@ Ele está indefeso enquanto nada!
 Vou cegar a fera!
 Vou queimar ele até virar cinzas!
 A cabeça dele é minha!
-O sauriano caiu!
+O sauriano morreu!
 O réptil está no chão!
 Ataque enquanto ele está caído!
 O rabo, mestre!
@@ -32426,7 +32426,7 @@ Malditos Salvadores... Eles estão ficando mais ousados a cada dia.
 Temos sorte da cidade ter sofrido tão pouco. É mérito seu, Arisen.
 Se você não estivesse aqui, os eventos teriam tomado um rumo mais sombrio, com certeza.
 Sua Graça enviará notícias em breve, milorde. Prometo mantê-lo informado.
-Salve, Arisen. Boas notícias!
+Saudações, Arisen. Boas notícias!
 Sua Graça notou seus feitos e o selecionou para liderar uma expedição.
 É uma tarefa difícil, mas de importância crítica para a defesa da frente.
 O duque foi inflexível de que ninguém faria tão bem quanto você, milorde.
@@ -33412,7 +33412,7 @@ Você completou o regime de treinamento. Recompensa<cf>da missão recebida.
 
 
 
-Arisen... Salve, milorde. Parece que você realmente se destaca do resto de nós.
+Arisen... Saudações, milorde. Parece que você realmente se destaca do resto de nós.
 Alguns zombaram quando apresentei a cabeça da hidra. Disseram que foi só você que conseguiu.
 Na verdade, não posso negar. Eu não tive nada a ver com isso... É fato.
 Mas e o Corpo de Recrutamento, então? Que significado tem nossa lealdade?
@@ -33894,7 +33894,7 @@ Essa passagem é um ninho para todo tipo de besta imunda, Milorde Arisen.
 Ninguém pode dizer de onde elas vão atacar. Reze, tenha cuidado.
 Bem, vamos acabar logo com isso, eu digo.
 Não... Nós não vamos aguentar!
-Salve, irmão.
+Saudações, irmão.
 Nada para reportar?
 Quem é aquele!?
 Um impostor!
@@ -33918,7 +33918,7 @@ Você chegou em segurança ao acampamento.<cf>Recompensa da missão recebida.
 
 
 
-Salve o Mascate
+Saudações o Mascate
 Ajude o mercador sob ataque goblin.
 
 
@@ -34285,7 +34285,7 @@ A Muralha é perto do Fetor, também. Bem mais chance de dar de cara com o drag�
 Se a Muralha caiu, é só questão de tempo até Gran Soren ser atacada.
 Talvez fosse idiotice esperar que pedra e argamassa pudessem segurar a besta.
 No fim, não podemos fazer nada além de rezar por outro Edmun Dragonsbane.
-Salve, Arisen! Te vejo carrancudo como sempre.
+Saudações, Arisen! Te vejo carrancudo como sempre.
 Tenho uma proposta que pode te animar um pouco. Quer me ouvir?
 Ouvir ela
 Agora não
@@ -35366,7 +35366,7 @@ Mm? O que é isso... Um novo recruta, é?
 Meu turno mal começou... mas já que você está aqui, não vou falar mal da boa sorte.
 Ei! Não há nada aqui que te diga respeito.
 Anda! Se manda!
-Salve, irmão.
+Saudações, irmão.
 Nada a relatar?
 Quem é aquele!?
 Um impostor!
@@ -37519,7 +37519,7 @@ Pedaço de Platina
 Pedra da Lua
 Diamante
 Rubicita
-Kingwarish
+Cura-reis
 Lunanise
 Urtiga Cadáver
 Cressete da Noite
@@ -38867,7 +38867,7 @@ Alguns dos itens encontrados na Ilha Bitterblack <cf>foram amaldiçoados com pod
 Tem alguém aqui na baía, chamada <cf>Olra... Ela sabe bastante sobre <cf>remover maldições.
 Se você tiver itens amaldiçoados em mãos e <cf>cristais de fenda para gastar, ela pode purificar os <cf>itens para você.
 Os itens purificados foram todos enviados para o armazenamento. <cf>Certifique-se de verificar e ver quais itens você adquiriu.
-Se você tiver armas ou armaduras que foram <cf>fortalecidas em wyrmfire, você pode gastar <cf>cristais de fenda para tê-las ainda mais <cf>melhoradas.
+Se você tiver armas ou armaduras que foram <cf>fortalecidas com fogo do wyrm, você pode gastar <cf>cristais de fenda para tê-las ainda mais <cf>melhoradas.
 Mensagem Inválida
 Se você voltar aqui à noite, é <cf>provável que encontre Olra, que pode guiar <cf>você para a Ilha Bitterblack.
 Várias instâncias de armaduras de alta qualidade <cf>podem compartilhar um nome comum, mas ter outras <cf>propriedades únicas. Veja "Detalhes" para <cf>ver os atributos particulares de uma peça.
@@ -38907,12 +38907,12 @@ Sim...
 Não...
 Sou grato, milorde.
 Agradeço do fundo do meu coração.
-Salve, guerreiro cansado da estrada. Bem-vindo.
+Saudações, guerreiro cansado da estrada. Bem-vindo.
 Procura o duque? Acredito que ele esteja trabalhando em seu escritório a esta hora.
 Temo saber muito pouco sobre a guerra e sua prática.
 Estou tomado pelo medo, querido guerreiro.
 Medo do dragão, medo do meu marido... Na verdade, não sei o que me assusta mais.
-Salve, guerreiro cansado da estrada. Bem-vindo.
+Saudações, guerreiro cansado da estrada. Bem-vindo.
 Procura o duque? Acredito que ele esteja trabalhando em seu escritório a esta hora.
 Temo saber muito pouco sobre a guerra e sua prática.
 ...
@@ -39854,14 +39854,14 @@ Mensagem Inválida
 Mensagem Inválida
 Encontre o Arisen vagando pelo labirinto.<cf>Região: Ilha Bitterblack
 Purifique um item amaldiçoado.
-Aprimore ainda mais uma arma que foi<cf>fortalecida em wyrmfire.
+Aprimore ainda mais uma arma que foi<cf>fortalecida com fogo do wyrm.
 Colete 10 Esculturas Macabras.<cf>Região: Ilha Bitterblack, Estrato Superior
 Colete 20 Esculturas Macabras.<cf>Região: Ilha Bitterblack, Estrato Central
 Colete 30 Esculturas Macabras.<cf>Região: Ilha Bitterblack, Estrato Inferior
 Adquira 1 Olho Abissal.<cf>Região: Ilha Bitterblack, Estrato Superior
 Derrote 5 garm.<cf>Região: Ilha Bitterblack, Estrato Superior
 Derrote 5 ogros anciões.<cf>Região: Ilha Bitterblack, Estrato Superior
-Mate todos os xamãs goblin em Witchwood.<cf>Região: Witchwood
+Mate todos os xamãs goblin no Bosque das Bruxas.<cf>Região: Bosque das Bruxas
 Mate todos os eliminadores na Montanha<cf>Corrompida.<cf>Região: Montanha Corrompida
 Derrote a forma despertada do daimon.<cf>Região: Ilha Bitterblack, Estrato Inferior
 Examine todas as "Recordações de outro<cf>Arisen" dentro da Ilha Bitterblack para que possam ser<cf>inscritas no Monumento da Lembrança.
@@ -40322,7 +40322,7 @@ Estou com medo...
 Meu maior arrependimento é que não verei minha<cf>terra natal reconstruída.
 Perdoem-me, meus irmãos... Levo nossos sonhos<cf>agora para o meu túmulo.
 Não tenho medo de morrer neste lugar... Mas eu<cf>não desejaria este destino a mais ninguém.
-Salve, caro guerreiro do belo elmo.
+Saudações, caro guerreiro do belo elmo.
 Receio ter sido negligente em perguntar seu nome, milorde.
 Arisen...? Preciso que me perdoe. Receio ser extremamente ignorante em assuntos de guerra.
 Eu pensava que todos que lutavam compartilhavam o título de "guerreiro".
@@ -41737,7 +41737,7 @@ Está cambaleando! Ataquem agora!
 A besta está em pânico!
 Eu vou fechar a ferida!
 A cobra já era!
-O leão caiu!
+O leão morreu!
 Eu vou desviar o ataque!
 O bode está morto!
 Quimera!
@@ -44286,7 +44286,7 @@ Se um peão de suporte for perdido, quaisquer itens<cf>que ele estava carregando
 Você pode mandar peões que estão partindo com um<cf>único item como um presente para seu criador.
 Você pode passar itens para e de seus peões<cf>no sub menu.
 Eu terei vingança pela minha família!
-"A história conta que o mago de Witchwood leu as cartas da Língua de Wyrm para a vila, há muito tempo.
+"A história conta que o mago do Bosque das Bruxas leu as cartas da Língua de Wyrm para a vila, há muito tempo.
 "Alguém familiarizado com a língua do dragão pode saber como limpar uma ferida da besta.
 "Eu vou para a floresta para encontrar a bruxa e implorar por sua ajuda. Voltarei o mais rápido possível. --Quina"
 Sinto olhos me observando, Arisen...
@@ -46375,7 +46375,7 @@ Baixando Item
 Comprar
 Cancelar
 O conteúdo que você comprou será adicionado ao<cf>seu jogo depois de voltar para a tela título.
-Salve, Arisen! Meus agradecimentos novamente por sua ajuda no passado!
+Saudações, Arisen! Meus agradecimentos novamente por sua ajuda no passado!
 Eu vim agora para dar meu apoio, com o mesmo prêmio que você reivindicou para mim!
 Vamos ver como a criatura reage à minha magia arcana!
 O que você diz disso, besta!?
@@ -47171,7 +47171,7 @@ Fale com os moradores locais para saber sobre Salomet, um<cf>principal suspeito 
 
 
 Confronte Salomet
-Dizem que Salomet espreita na antiga<cf>pedreira. Vá para a área e recupere o<cf>Anel do Wyrmking.
+Dizem que Salomet espreita na antiga<cf>pedreira. Vá para a área e recupere o<cf>Anel do Rei Wyrm.
 
 
 
@@ -47186,7 +47186,7 @@ Fale com os moradores locais para saber para onde<cf>Salomet pode ter fugido.
 
 
 Confronte Salomet
-Te disseram que Salomet fugiu para a Torre<cf>Lua Azul. Vá até lá e recupere o<cf>Anel do Wyrmking.
+Te disseram que Salomet fugiu para a Torre<cf>Lua Azul. Vá até lá e recupere o<cf>Anel do Rei Wyrm.
 
 
 
@@ -49923,7 +49923,7 @@ Guh!
 Waaaugh...
 Ha!
 Shu-ha!
-Salve.
+Saudações.
 Adeus.
 Sim.
 Ehh...
