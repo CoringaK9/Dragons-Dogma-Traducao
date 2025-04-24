@@ -2056,7 +2056,7 @@ Minha noiva não se mexeu em semanas. Ela<cf>sempre teve um sono pesado, mas iss
 Um feiticeiro das trevas controlando um exército de peões<cf>surgiu no sul de Auldring. O duque foi<cf>solicitado a fornecer suprimentos para a força<cf>que está sendo enviada.
 Por favor, me ouça: Ninguém reconhece meus<cf>talentos! Eles estão cegos de medo do wyrm?<cf>Sim, talvez! Mas o mais importante, sinto o<cf>peso do desprezo deles estrangulando meu talento<cf>enquanto ele ainda dorme. Traga-me uma droga para despertá-<cf>lo!
 Minha vila foi atacada por monstros e, então, nós<cf>fugimos. Agora dizem que o dragão está vindo para cá. Deve<cf>ser minha culpa. Devo ser amaldiçoado! Eu não quero<cf>que mais ninguém se machuque. Por favor, encontre uma cura que<cf>quebre este feitiço!
-Uma ninhada saqueadora de cocatrizes deixou uma<cf>vila inteira em Pedra do Lar petrificada. Sua<cf>Graça Duque Edmun foi solicitado a ajudar<cf>a fornecer remédios.
+Uma ninhada saqueadora de cocatrizes deixou uma<cf>vila inteira em Hearthstone petrificada. Sua<cf>Graça Duque Edmun foi solicitado a ajudar<cf>a fornecer remédios.
 Eu servi na guarda do castelo por mais tempo<cf>do que a maioria dos homens viveu, mas temo que a<cf>idade finalmente tenha embotado minha lâmina. Pretendo<cf>redobrar meu treinamento, mas meu corpo não está<cf>querendo cooperar. Procuro um medicamento para trazer<cf>de volta a força da juventude a estes ossos.
 Tenho motivos para levar minha família para além do<cf>posto de guarda e para Cassardis, mas nosso boi de carroça não<cf>se move. A besta ficou apavorada com um<cf>grifo atacando há poucos dias. Se existe um<cf>tônico para fortalecer a coragem de um sujeito, talvez<cf>isso encorajasse a besta da mesma forma.
 Sou eu quem procurava recuperar o vigor da sua<cf>juventude, e meu treinamento está bem encaminhado por<cf>tê-lo encontrado. Agora pretendo tentar um curso ainda mais<cf>rigoroso, e peço um tônico para fortalecer ainda mais<cf>meus tendões. Não quero que digam que eu<cf>dependo de tais drogas, mas elas reforçam a<cf>coragem de um homem.
@@ -2769,7 +2769,7 @@ Você sabe que é verdade!
 Ele enviou suas melhores espadas? Um general apto a liderá-las?
 Não, ele enviou um enfeite, embora ela seja burra demais para perceber. É um show vazio, mulher!
 Não tenho mais paciência para tolerar sua brincadeira de cavaleiro, garotinha.
-Seu fracasso em conter a revolta é motivo suficiente para correr para casa para Pedra do Lar, com o rabo entre as pernas.
+Seu fracasso em conter a revolta é motivo suficiente para correr para casa para Hearthstone, com o rabo entre as pernas.
 Digo-lhe isso em espírito de misericórdia: Se você não pode me vencer, você não pode vencer o dragão. Corra para casa enquanto ainda vive.
 Você me acha cruel, Arisen? É uma triste verdade que a justiça é um luxo raro na guerra.
 Você jurou matar o wyrm, e só isso.
@@ -5283,7 +5283,7 @@ Extrato Demoníaco
 Harspud Seco por um Mês
 Harspud Seco por uma Década
 Efluente Líquido
-Liftstone (DL)
+Pedra de Ascensão (DL)
 Nostrum Asa dos Sonhos
 Joia da Antiluz
 Joia da Invocação
@@ -5293,7 +5293,7 @@ Tônico Lorde
 Analeptico Divino
 Incenso Auspicioso
 Incenso Vivificante
-Liftstone
+Pedra de Ascensão
 Anel do Espadachim
 Faixa do Espadachim
 Anel do Escudeiro
@@ -6035,7 +6035,7 @@ Tens aspirações, ser?
 Eu nunca aprendi o significado dessa palavra e, agora...
 Eu tinha uma tarefa que desejava confiar a você, milorde...
 Mas a Sir Mercedes insistiu que fosse dela. Ela foi bem insistente.
-Apesar de ser uma cavaleira vinda de boa fé para nos ajudar, ela continua sendo filha do lorde de Pedra do Lar...
+Apesar de ser uma cavaleira vinda de boa fé para nos ajudar, ela continua sendo filha do lorde de Hearthstone...
 Não me sinto nada bem em vê-la empreender uma missão tão perigosa.
 Infelizmente, diante de seu pedido fervoroso, nada pude fazer além de concordar.
 Posso pedir que ao menos a acompanhe, ser? Ela precisa ser mantida em segurança.
@@ -15547,9 +15547,9 @@ A palavra "vizinho" azeda em sua língua bifurcada.
 Nossas terras há muito juraram ajuda irrestrita<cf>a qualquer vizinho assolado pelo dragão!
 Irrestrita, você diz? Diga-me, então...
 Por que seu nobre pai não enviou seu irmão...
-junto com o melhor aço de Pedra da Lareira?
+junto com o melhor aço de Hearthstone?
 Por que estou falando, em vez disso,
-com uma ovelha balindo<cf>zombada até por seus próprios homens?
+Com uma ovelha balindo<cf>zombada até por seus próprios homens?
 Você vai retirar essas palavras, milorde!
 Ou sofrerá qual consequência?
 Ou lavarei minha honra em seu sangue!
@@ -25154,7 +25154,7 @@ Confio que você se redimirá em futuros empreendimentos.
 Eu tô bem. Ainda posso lutar!
 Eu vou te derrubar!
 Lorde Julien está bem o suficiente, mas Sir Mercedes é mais fardo do que bênção, dizem.
-Ela é filha do Lorde de Pedra da Lareira, tá vendo...
+Ela é filha do Lorde de Hearthstone, tá vendo...
 E para um cavaleiro enviado para ajudar o duque, ouve-se muito pouco elogio de sua habilidade...
 Se a mulher cair antes que o dragão chegue, teremos outra guerra em nossas mãos.
 Salve, bom Arisen. O que te traz aqui? ...Um soldado ferido? Não vi ninguém assim.
@@ -39182,7 +39182,7 @@ Consiga 3 pacotes de Pó da Nostalgia.<cf>Região: Forte da Montanha, Cabo Cutla
 Consiga 3 Gotas de Libertação.<cf>Região: Gransys Oeste, Abadia
 Consiga 3 doses de Água Benta Congelada.<cf>Região: Cabo Cutlass
 Consiga 3 frascos de Licor de Cocatrice.<cf>Região: Gransys Oeste
-Consiga 3 doses de Fonte de Vigor.<cf>Região: Caverna Dripstone, Altar do Deus da Água
+Consiga 3 doses de Fonte de Vigor.<cf>Região: Caverna de Estalactites, Altar do Deus da Água
 Consiga 3 doses de Fonte de Constituição.<cf>Região: Bosque das Bruxas, Pedreira Ancestral
 Consiga 3 doses do Milagre de Tagilus.<cf>Região: Qualquer Calabouço
 Consiga 3 porções de Pomada de Nozes de Aço.<cf>Região: Pedreira Ancestral
@@ -39233,7 +39233,7 @@ Derrote 5 espectros. <cf>Região: Vizinhança das Catacumbas
 Derrote 45 guerreiros mortos-vivos. <cf>Região: Vizinhança da Abadia
 Derrote 5 cavaleiros esqueletos. <cf>Região: Torre Luazul
 Mate 15 lobos atrozes. <cf>Região: Vizinhança da Mansão do Duque
-Derrote 10 sábios saurianos.<cf>Região: Caverna Dripstone
+Derrote 10 sábios saurianos.<cf>Região: Caverna de Estalactites
 Derrote 2 ogros.<cf>Região: Proximidades da Abadia
 Derrote 10 súcubos.<cf>Região: Cânion Desalmado
 Derrote 10 magos esqueletos.<cf>Região: Altar do Deus da Água
