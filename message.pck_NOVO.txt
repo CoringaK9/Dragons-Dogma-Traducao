@@ -416,7 +416,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias, como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você pode<cf>também equipar acessórios com certas<cf>habilidades especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joalheria e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela escurecer,<cf>use um Frasco de Óleo para recarregá-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de caminho no seu mapa pra<cf>ficar de olho no seu progresso.
@@ -424,7 +424,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>customizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>vai tomar.
 Note que você se move um pouco mais lento<cf>quando sua arma está em punho.
-Esgotar toda a Stamina vai te impedir<cf>de agir por um tempo. Se liga pra conservar<cf>energia!
+Esgotar toda a Estamina vai te impedir<cf>de agir por um tempo. Se liga pra conservar<cf>energia!
 Você pode atacar enquanto está agarrado nos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizador Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
@@ -1735,7 +1735,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
+Uma carga pesada fará com que sua Estamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa<cf>para acompanhar seu progresso.
@@ -1743,7 +1743,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está em punho.
-Esgotar toda a Stamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -1975,7 +1975,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joalheria e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -1983,7 +1983,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>vai sofrer.
 Note que você se move um pouco mais lento<cf>quando sua arma está empunhada.
-Esgotar toda a Stamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -3001,7 +3001,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas<cf>habilidades especiais para te dar uma vantagem na batalha.
 Apenas uma joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para recarregá-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -3009,7 +3009,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento enquanto<cf>sua arma está desembainhada.
-Esgotar toda a Stamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -3810,7 +3810,7 @@ Matéria Negra
 Escavador de Peito
 Item Desconhecido
 Ruína do Ciclope
-Martelo de Stamina
+Martelo de Estamina
 Martelo de Guerra Enferrujado
 Cortadores de Garganta
 Sinais de Valor
@@ -6182,7 +6182,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
 Sua lanterna consome óleo. Se ela escurecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -6190,7 +6190,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento enquanto<cf>sua arma está empunhada.
-Esgotar toda a Stamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizador Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -7057,7 +7057,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas<cf>habilidades especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para recarregá-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -7065,7 +7065,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento enquanto<cf>sua arma está sacada.
-Esgotar toda a Stamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizador Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -7807,7 +7807,7 @@ Você pode se equipar com uma arma principal e<cf>uma arma secundária.
 Armas principais como espadas e adagas<cf>são essenciais pro combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas habilidades<cf>especiais pra te dar uma vantagem na batalha.
 Só uma joia e uma única capa podem ser<cf>equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos os itens que você não precisa mais.
+Uma carga pesada fará com que sua Estamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos os itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para recarregá-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa<cf>para acompanhar seu progresso.
@@ -7815,7 +7815,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está empunhada.
-Esgotar toda a Stamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -8157,7 +8157,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades especiais<cf>para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
+Uma carga pesada fará com que sua Estamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa<cf>para acompanhar seu progresso.
@@ -8165,7 +8165,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está em punho.
-Esgotar toda a Stamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -8400,7 +8400,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais pro combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais pra te dar uma vantagem na batalha.
 Só é possível equipar uma peça de joia e uma<cf>capa como acessórios<cf>de cada vez.
-Uma carga pesada vai fazer sua Stamina<cf>acabar mais rápido. Venda ou descarte<cf>todos os itens que você não precisa mais.
+Uma carga pesada vai fazer sua Estamina<cf>acabar mais rápido. Venda ou descarte<cf>todos os itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela estiver fraca,<cf>use um Frasco de Óleo pra reabastecê-la.
 Alguns itens podem ser combinados com outros pra<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de ponto de referência no seu mapa pra<cf>manter o controle do seu progresso.
@@ -8408,7 +8408,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa pra<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>vai sofrer.
 Note que você se move um pouco mais devagar<cf>enquanto sua arma está empunhada.
-Esgotar toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado pra conservar<cf>energia!
+Esgotar toda a Estamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado pra conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido pra<cf>curar quaisquer aliados petrificados.
@@ -8543,7 +8543,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais pro combate. Armas secundárias<cf>como arcos e escudos dão suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com umas habilidades<cf>especiais pra te dar uma vantagem na batalha.
 Só dá pra equipar uma joia e uma única<cf>capa como acessórios<cf>de cada vez.
-Uma carga pesada vai fazer sua Stamina<cf>acabar mais rápido. Vende ou joga fora<cf>qualquer item que você não precisa mais.
+Uma carga pesada vai fazer sua Estamina<cf>acabar mais rápido. Vende ou joga fora<cf>qualquer item que você não precisa mais.
 Sua lanterna gasta óleo. Se ela começar a<cf>apagar, usa um Frasco de Óleo pra encher de novo.
 Alguns itens podem ser combinados com outros pra<cf>produzir resultados surpreendentes. Experimenta e<cf>vê o que você consegue.
 Coloca marcadores de caminho no seu mapa pra<cf>ficar de olho no seu progresso.
@@ -8551,7 +8551,7 @@ Se você esqueceu onde você tá na história,<cf>seleciona "Crônica" no Menu d
 Seleciona "Opções" no Menu de Pausa pra<cf>personalizar seu mini-mapa e a exibição de status.
 Quanto maior a queda, mais dano você<cf>vai tomar.
 Note que você se move um pouco mais lento<cf>enquanto sua arma tá sacada.
-Acabar com toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Se liga pra economizar<cf>energia!
+Acabar com toda a Estamina vai te deixar incapaz<cf>de agir por um tempo. Se liga pra economizar<cf>energia!
 Você pode atacar enquanto tá agarrado nos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Usa Suavizador Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
@@ -8653,8 +8653,8 @@ Recua antes de avançar para<cf>desferir um golpe cortante. Usá-lo como uma<cf>
 Uma forma avançada de Retaliação Precisa.<cf>Esquiva para trás antes de desferir um<cf>ataque cortante. Torna-se ainda mais forte<cf>à medida que os ataques são evitados.
 Endurece a carne, permitindo que o usuário<cf>permaneça firme contra todos os ataques e<cf>sofra menos dano por um tempo.
 Uma forma avançada de Pedra da vontade que<cf>permite ao usuário receber menos dano por<cf>um período de tempo maior.
-Libera um ataque rápido, poderoso e de amplo<cf>alcance, utilizável mesmo sob ataque.<cf>Requer muita Stamina.
-Uma forma avançada de Mordida da Legião que<cf>libera um ataque rápido e poderoso que<cf>se estende por uma área ainda maior.<cf>Requer muita Stamina.
+Libera um ataque rápido, poderoso e de amplo<cf>alcance, utilizável mesmo sob ataque.<cf>Requer muita Estamina.
+Uma forma avançada de Mordida da Legião que<cf>libera um ataque rápido e poderoso que<cf>se estende por uma área ainda maior.<cf>Requer muita Estamina.
 Implanta um sigilo mágico no chão.<cf>Qualquer inimigo que se aproximar é atingido<cf>com uma explosão devastadora de energia.
 Uma forma avançada de Sigilo Perigoso que<cf>implanta um sigilo no chão que atinge<cf>inimigos de longo alcance com uma explosão<cf>devastadora de energia e leva mais tempo para<cf>ser dissipado.
 Conjura uma esfera de poder mágico.<cf>Acerte-a para disparar projéteis mágicos nos inimigos.
@@ -8887,7 +8887,7 @@ Envia uma flecha explosiva que se divide<cf>no ar, espalhando a área com<cf>mí
 Uma forma avançada de Dardo Estilhaçante. Envia<cf>uma flecha explosiva que se divide<cf>no ar, espalhando uma área ainda maior<cf>com mísseis menores.
 Solta uma flecha que produz um grito<cf>perfurante, paralisando os inimigos por um<cf>momento.
 Uma forma avançada de Dardo Sibilante que<cf>emite um grito mais alto para atordoar ainda mais<cf>inimigos.
-Uma mira especial aumenta a visão do usuário,<cf>permitindo que ele mire em inimigos distantes.<cf>Cada tiro requer muita Stamina.
+Uma mira especial aumenta a visão do usuário,<cf>permitindo que ele mire em inimigos distantes.<cf>Cada tiro requer muita Estamina.
 Uma forma avançada de Visão Aguçada que permite<cf>ao usuário ver mais longe e ajustar o alcance<cf>de sua visão conforme necessário.
 Dispara um tiro capaz de perfurar<cf>múltiplos alvos, especialmente eficaz<cf>quando combinado com Flechas de Veneno.
 Uma forma avançada de Dardo Perfurante que<cf>é capaz de perfurar ainda mais alvos<cf>e também pode cancelar o bloqueio de um inimigo.
@@ -9429,7 +9429,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias, como espadas e adagas,<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades especiais<cf>para te dar uma vantagem na batalha.
 Apenas uma peça de joalheria e uma única<cf>capa podem ser equipadas como adornos<cf>de cada vez.
-Uma carga pesada fará com que sua Stamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisar mais.
+Uma carga pesada fará com que sua Estamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisar mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -9437,7 +9437,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento enquanto<cf>sua arma está desembainhada.
-Esgotar toda a Stamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -12307,7 +12307,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias, como espadas e adagas,<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única capa<cf>podem ser equipadas como acessórios ao<cf>mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa<cf>para acompanhar seu progresso.
@@ -12315,7 +12315,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está desembainhada.
-Esgotar toda a Stamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -12573,7 +12573,7 @@ Um peixe grande que é o alimento básico de toda<cf>dieta. Consuma para recuper
 Um peixe realmente enorme. Consuma para<cf>recuperar uma grande quantidade de Vigor.
 Um peixinho prestes a estragar. Consuma<cf>para recuperar uma boa quantidade de Vigor.
 Um peixe grande prestes a estragar. Consuma<cf>para recuperar uma grande quantidade de Vigor.
-Um peixe gigante quase estragando. Manda<cf>pra dentro pra recuperar toda a Stamina.
+Um peixe gigante quase estragando. Manda<cf>pra dentro pra recuperar toda a Estamina.
 Um peixinho, nos seus melhores dias. Uma<cf>gororoba dessas vai te dar uma baita dor de barriga.
 Um peixão, nos seus melhores dias. Uma<cf>gororoba dessas vai te dar uma baita dor de barriga.
 Um peixe gigante, nos seus melhores dias. Uma<cf>gororoba dessas vai te dar uma baita dor de barriga.
@@ -12595,8 +12595,8 @@ Uma abóbora quase estragando. Come<cf>pra recuperar uma grande quantidade de Vi
 Um feijãozinho, nos seus melhores dias. Uma<cf>gororoba dessas vai te dar uma baita dor de barriga.
 Uma cenoura, nos seus melhores dias. Uma<cf>gororoba dessas vai te dar uma baita dor de barriga.
 Uma abóbora, nos seus melhores dias. Uma<cf>gororoba dessas vai te dar uma baita dor de barriga.
-Um ovo perfeito pra quebrar o jejum de<cf>qualquer aventureiro. Come pra recuperar Vida e<cf>Stamina.
-Um ovo dourado reluzente, cheio de<cf>nutrientes. Come pra recuperar totalmente<cf>Vida e Stamina.
+Um ovo perfeito pra quebrar o jejum de<cf>qualquer aventureiro. Come pra recuperar Vida e<cf>Estamina.
+Um ovo dourado reluzente, cheio de<cf>nutrientes. Come pra recuperar totalmente<cf>Vida e Estamina.
 Um ovo, nos seus melhores dias. Bem<cf>perigoso se for comer.
 Uma flor que prospera por toda <cf>Gransys. Ela só floresce durante o dia.
 Uma flor que se pode encontrar em todos os cantos<cf>de Gransys. Ela só floresce à noite.
@@ -12878,7 +12878,7 @@ Uma lâmina fascinante com um elegante cabo com<cf>motivo de rosa, mas forte o s
 Uma espada capaz e fácil de manusear, feita para <cf>golpes ágeis em vez de carnificina aleatória.
 Uma espada forjada com um metal desconhecido<cf>imbuído de luz sagrada, dando à sua lâmina<cf>um brilho de outro mundo.
 Uma espada modelada a partir da ferida do Arisen.<cf>Especialmente eficaz contra espíritos <cf>além da compreensão do homem.
-Esta lâmina em forma de foice aumenta em poder a cada<cf>golpe sucessivo que o portador desfere<cf>sem sofrer dano. No entanto, no máximo<cf>poder, um golpe derruba a Stamina para 0.
+Esta lâmina em forma de foice aumenta em poder a cada<cf>golpe sucessivo que o portador desfere<cf>sem sofrer dano. No entanto, no máximo<cf>poder, um golpe derruba a Estamina para 0.
 Uma espada que enferrujou com anos<cf>de desuso.
 Um porrete com ponta de ferro, usado desde a<cf>antiguidade. Requer uma certa força bruta.
 Uma arma contundente repleta de espinhos,<cf>projetada para infligir ferimentos mortais em vez<cf>de pulverizar inimigos.
@@ -13004,7 +13004,7 @@ Um cajado arcano que irradia energia<cf>silenciosamente, tão poderoso quanto a 
 Um belo cajado arcano na forma de dois<cf>dragões, suas formas se entrelaçando<cf>para amplificar um poder mágico supremo.
 Detalhes desconhecidos.
 Um cajado arcano encimado pela cabeça de um<cf>olho maligno. Especialmente eficaz contra<cf>qualquer espécie de criatura ocular.
-A jaula no topo deste cajado arcano contém uma fonte de<cf>energia mágica. Golpes mágicos sucessivos<cf>sem sofrer dano aumentam seu poder, mas no<cf>poder máximo, um golpe zera a Stamina.
+A jaula no topo deste cajado arcano contém uma fonte de<cf>energia mágica. Golpes mágicos sucessivos<cf>sem sofrer dano aumentam seu poder, mas no<cf>poder máximo, um golpe zera a Estamina.
 Um cajado arcano que enferrujou após<cf>anos de desuso.
 Uma lâmina flamejante que não pode ser<cf>extinta. Possui um encantamento<cf>de fogo para sempre.
 Uma espada atingida por um raio dos<cf>céus. Ela sempre crepita com um<cf>encantamento de trovão.
@@ -13933,7 +13933,7 @@ Um remédio preferido pelo renomado<cf>gladiador Tagilus Magnusson. Use-o para<c
 Uma mistura derivada de uma grande semente com<cf>a casca mais dura de toda a natureza. Use-a<cf>para melhorar as Defesas por um tempo.
 Um elixir misterioso criado pelo<cf>lendário arquimago Salomet. Beba-o para<cf>aumentar a Magia por um tempo.
 Um líquido destilado de bandlilly, a<cf>lendária planta mágica. Beba-o para melhorar<cf>as Defesas Mágicas por um tempo limitado.
-Um caldo grosso e cremoso feito de uma mistura<cf>especial de cogumelos. Beba-o para aumentar<cf>a Stamina por um tempo.
+Um caldo grosso e cremoso feito de uma mistura<cf>especial de cogumelos. Beba-o para aumentar<cf>a Estamina por um tempo.
 Um vinho único de um vinhedo local.<cf>Beba-o para se tornar imune a<cf>debilitações por um tempo limitado.
 Um amuleto usado por um indivíduo<cf>fervorosamente piedoso. Seu uso aumenta a experiência<cf>ganha ao matar inimigos por um período de tempo.
 Um amuleto usado por um mercador rico.<cf>Seu uso faz com que inimigos derrotados dropem mais<cf>ouro por um período de tempo.
@@ -14411,8 +14411,8 @@ Uma pedra que pode levar o usuário de volta<cf>à entrada da Ilha Bitterblack,<
 Um pedaço de carne com um aroma<cf>doentio e adocicado. Coloque-o em uma área<cf>da Ilha Bitterblack para aumentar a<cf>chance de monstros necrófagos aparecerem.
 Um remédio derivado do fluido espinhal<cf>diluído de uma criatura. Consuma-o<cf>para aumentar ligeiramente sua Saúde<cf>máxima por um tempo limitado.
 Um remédio derivado do fluido espinhal<cf>concentrado de uma criatura. Consuma-o<cf>para aumentar sua Saúde máxima<cf>por um tempo limitado.
-Um Harspud seco por um ciclo lunar para<cf>condensar seus nutrientes. Consuma-o<cf>para aumentar ligeiramente sua Stamina<cf>máxima por um tempo limitado.
-Um Harspud seco por dez anos para<cf>condensar seus nutrientes. Consuma-o<cf>para aumentar sua Stamina máxima por<cf>um tempo limitado.
+Um Harspud seco por um ciclo lunar para<cf>condensar seus nutrientes. Consuma-o<cf>para aumentar ligeiramente sua Estamina<cf>máxima por um tempo limitado.
+Um Harspud seco por dez anos para<cf>condensar seus nutrientes. Consuma-o<cf>para aumentar sua Estamina máxima por<cf>um tempo limitado.
 Um pequeno frasco contendo um líquido<cf>malcheiroso. O simples ato de segurá-lo<cf>faz com que a pessoa se sinta mal.
 Uma pedra que pode levar o usuário de volta<cf>à entrada da Ilha Bitterblack,<cf>mas utilizável apenas dentro do<cf>labirinto imundo daquela ilha amaldiçoada.
 Um elixir que faz a pessoa acreditar que<cf>criou asas. Consumi-lo torna você<cf>um nível mais leve em termos de mobilidade.
@@ -15972,7 +15972,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -15980,7 +15980,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>vai sofrer.
 Note que você se move um pouco mais lento<cf>quando sua arma está embainhada.
-Esgotar toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado para<cf>conservar energia!
+Esgotar toda a Estamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado para<cf>conservar energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizante Secreto ou algo parecido para<cf>curar qualquer aliado petrificado.
@@ -18580,7 +18580,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais pra combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas habilidades<cf>especiais pra te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada vai fazer sua Stamina<cf>acabar mais rápido. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
+Uma carga pesada vai fazer sua Estamina<cf>acabar mais rápido. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo pra reabastecê-la.
 Alguns itens podem ser combinados com outros pra<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de ponto de referência no seu mapa pra<cf>manter o controle do seu progresso.
@@ -18588,7 +18588,7 @@ Se você esqueceu onde você está na história,<cf>selecione "Crônica" no Menu
 Selecione "Opções" no Menu de Pausa pra<cf>customizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>vai sofrer.
 Note que você se move um pouco mais lento enquanto<cf>sua arma está desembainhada.
-Esgotar toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado pra conservar<cf>energia!
+Esgotar toda a Estamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado pra conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 A petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizante Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
@@ -24298,7 +24298,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina<cf>se esgote mais rápido. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
+Uma carga pesada fará com que sua Estamina<cf>se esgote mais rápido. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -24306,7 +24306,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está desembainhada.
-Esgotar toda a Stamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -24624,7 +24624,7 @@ Colocar uma dessas roupas removerá todos<cf>os outros equipamentos, exceto as j
 Você não pode usar alguns itens enquanto<cf>estiver envolvido em atividades físicas extenuantes.
 Você não pode trocar de equipamento no meio<cf>do combate, então se liga pra estar bem<cf>preparado antes da luta começar.
 Você não pode carregar um peso que exceda<cf>o seu próprio peso.
-Uma carga pesada vai fazer sua Stamina<cf>acabar mais rápido. Venda ou jogue fora<cf>qualquer item que você não precise mais.
+Uma carga pesada vai fazer sua Estamina<cf>acabar mais rápido. Venda ou jogue fora<cf>qualquer item que você não precise mais.
 Você pode mandar itens extras pro depósito<cf>de Gran Soren de qualquer ponto de descanso.
 Mudar de vocação tem um custo pra sua<cf>disciplina, então pense bem antes de<cf>se comprometer.
 Cada vocação acumula seu próprio total<cf>de disciplina separado.
@@ -24663,16 +24663,16 @@ Se seu grupo estiver sobrecarregado, fale com um<cf>encarregado do depósito par
 Qualquer coisa no depósito pode ser recuperada de<cf>qualquer depósito no mundo.
 Você também pode enviar itens para o depósito de qualquer<cf>local de descanso. Mantenha seu inventário limpo e<cf>organizado, e evite ficar sobrecarregado.
 Se um peão possuir o conhecimento certo<cf>e habilidades, eles podem ser capazes de ajudar<cf>você em ataques em conjunto.
-Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar -- e escalar <cf>em cima -- de monstros maiores, com algum custo<cf>para sua Stamina.
-Equipar armaduras feitas para guerreiros de um<cf>nível significativamente maior que o seu<cf>vai drenar sua Stamina mais rápido.
+Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar -- e escalar <cf>em cima -- de monstros maiores, com algum custo<cf>para sua Estamina.
+Equipar armaduras feitas para guerreiros de um<cf>nível significativamente maior que o seu<cf>vai drenar sua Estamina mais rápido.
 Aperte <TUTO><SIZE 28><ICON PAD_ST></SIZE> pra abrir o Menu de Pausa,<cf>onde você pode checar seus atributos, um mapa<cf>completo, informações de missões e mais.
-Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> pra dar um pique.<cf>Em qualquer lugar fora das cidades,<cf>dar um pique vai consumir Stamina.
+Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> pra dar um pique.<cf>Em qualquer lugar fora das cidades,<cf>dar um pique vai consumir Estamina.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
 Clique em <SIZE 24><ICON PAD_R3></SIZE> pra resetar<cf>a posição da câmera.
 Quanto maior a queda, mais dano você<cf>vai sofrer.
 Apertar <TUTO><SIZE 28><ICON STAT_CHANGE></SIZE> vai sacar sua<cf>arma principal.
 Note que você se move um pouco mais lento enquanto<cf>sua arma está sacada.
-Esgotar toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado pra conservar<cf>energia!
+Esgotar toda a Estamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado pra conservar<cf>energia!
 Você pode atacar enquanto está agarrado em inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Secret Softener ou algo do tipo pra<cf>curar qualquer aliado petrificado.
@@ -24728,7 +24728,7 @@ As águas desta misteriosa fonte são<cf>abençoadas com propriedades curativas.
 <TUTO>Preste atenção ao mundo ao seu redor.<cf>Algumas bordas podem ser escaladas, mas uma longa<cf>queda terminará em ferimentos -- ou morte.
 <TUTO>Isto é uma fenda. Acesse a fenda para<cf>trocar peões dentro e fora do seu grupo.
 <TUTO>As habilidades de arma disponíveis para você variam,<cf>dependendo do tipo de arma que você tem<cf>equipada.
-<TUTO>A velocidade de movimento e a Stamina são<cf>afetadas pelo seu tipo de corpo.
+<TUTO>A velocidade de movimento e a Estamina são<cf>afetadas pelo seu tipo de corpo.
 <TUTO>Segure <SIZE 24><ICON SUB_WEP></SIZE> para bloquear.
 <TUTO>Para empunhar um arco, segure <SIZE 24><ICON SUB_WEP></SIZE> para mirar,<cf>então pressione <SIZE 24><ICON SHOT></SIZE> para soltar uma flecha.
 <TUTO 5>Certos inimigos e áreas podem causar<cf>debilitações como sono, veneno,<cf>petrificação e cegueira.
@@ -24789,7 +24789,7 @@ Este mundo é cheio de diferentes locais<cf>como cidades, campos e cavernas, tod
 Quando você não tiver certeza de como prosseguir ou<cf>não conseguir derrotar um inimigo especialmente<cf>forte, tente um local ou missão diferente.
 Procure por novos lugares, equipamentos ou<cf>itens inéditos e pessoas que você nunca conheceu.<cf>À medida que você aprende, mais experiências se tornarão disponíveis.
 Não existe uma maneira "certa" de completar esta<cf>aventura. Concentre-se em tentar<cf>derrotar o dragão e trilhe seu próprio caminho.
-Equipar armaduras feitas para guerreiros de um<cf>nível significativamente superior ao seu<cf>drenará sua Stamina mais rapidamente.
+Equipar armaduras feitas para guerreiros de um<cf>nível significativamente superior ao seu<cf>drenará sua Estamina mais rapidamente.
 Dar curativos para os peões carregarem permitirá<cf>que eles os usem a seu próprio critério.
 Além de se atentar ao nível e às habilidades<cf>disponíveis, o conhecimento de um peão é outra<cf>parte importante da criação de um grupo eficaz.
 Peões com conhecimento apropriado de missões<cf>ou inimigos podem fornecer conselhos úteis e<cf>estratégias de batalha.
@@ -25301,7 +25301,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas<cf>habilidades especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de caminho no seu mapa para<cf>manter o controle do seu progresso.
@@ -25309,7 +25309,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>customizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento enquanto<cf>sua arma está desembainhada.
-Esgotar toda a Stamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -27249,7 +27249,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
 Sua lanterna consome óleo. Se ela escurecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -28674,7 +28674,7 @@ Uma lâmina enfeitiçante com um elegante cabo<cf>com motivo de rosa, mas forte 
 Uma espada capaz e fácil de manusear, feita para<cf>golpes ágeis em vez de carnificina descuidada.
 Uma espada forjada de um metal desconhecido<cf>imbuído de luz sagrada, dando à sua lâmina<cf>um brilho de outro mundo.
 Uma espada modelada a partir da ferida do<cf>Arisen. Especialmente eficaz contra espíritos<cf>além da compreensão do homem.
-Esta lâmina em forma de foice aumenta em poder a<cf>cada golpe sucessivo que o portador desfere<cf>sem sofrer dano. No entanto, com o poder<cf>máximo, um golpe derruba a Stamina para 0.
+Esta lâmina em forma de foice aumenta em poder a<cf>cada golpe sucessivo que o portador desfere<cf>sem sofrer dano. No entanto, com o poder<cf>máximo, um golpe derruba a Estamina para 0.
 Uma espada que enferrujou com anos<cf>de desuso.
 Um porrete com ponta de ferro, usado desde a<cf>antiguidade. Requer uma medida de força bruta.
 Uma arma contundente repleta de espinhos,<cf>projetada para infligir ferimentos mortais em<cf>vez de pulverizar inimigos.
@@ -28800,7 +28800,7 @@ Um cajado arcano que irradia silenciosamente<cf>energia, tão poderoso quanto a 
 Um belo cajado arcano na forma de dragões<cf>duplos, suas formas se torcendo juntas<cf>para amplificar um poder mágico todo-poderoso.
 Detalhes desconhecidos.
 Um cajado arcano com a cabeça de um<cf>olho maligno. Especialmente eficaz contra<cf>qualquer espécie de criatura ocular.
-A gaiola no topo deste cajado arcano contém uma fonte de<cf>energia mágica. Ataques mágicos sucessivos<cf>sem sofrer dano aumentam seu poder, mas no<cf>poder máximo, um golpe derruba a Stamina para 0.
+A gaiola no topo deste cajado arcano contém uma fonte de<cf>energia mágica. Ataques mágicos sucessivos<cf>sem sofrer dano aumentam seu poder, mas no<cf>poder máximo, um golpe derruba a Estamina para 0.
 Um archistaff que enferrujou por <cf>anos de desuso.
 Uma lâmina flamejante que não pode ser <cf>extinta. Possuída por um <cf>encantamento de fogo para sempre.
 Uma espada atingida por um raio dos <cf>céus. Ela sempre crepita com um <cf>encantamento de trovão.
@@ -29259,7 +29259,7 @@ Um item verdadeiramente raro, mesmo entre os<cf>lendários armamentos de Bitterb
 Luvas de couro que são populares entre<cf>lançadores de feitiços veteranos.
 Pulseiras gravadas em um padrão de<cf>dentes interligados.
 Manoplas que evocam a inexaurível<cf>vitalidade da hidra. Elas continuamente<cf>restauram a Saúde de quem as veste.
-Manoplas de qualidade superior, feitas<cf>com couro de sábio sauriano. Elas recuperam<cf>ligeiramente a Stamina de seu usuário sempre<cf>que ele ou ela desfere um golpe fatal.
+Manoplas de qualidade superior, feitas<cf>com couro de sábio sauriano. Elas recuperam<cf>ligeiramente a Estamina de seu usuário sempre<cf>que ele ou ela desfere um golpe fatal.
 Luvas feitas com as membranas de<cf>asas de wyvern. Sua superfície especialmente<cf>flexível adere confortavelmente aos<cf>dedos do usuário e ao punho de qualquer arma.
 Protetores de braço que dizem carregar uma<cf>bênção divina para evitar <cf>ferimentos no campo de batalha.
 Pulseiras de carvalho que desviam golpes leves<cf>nos pulsos. Um acessório tradicional de<cf>Cassardis.
@@ -30182,7 +30182,7 @@ Acelera a velocidade com que você coleta<cf>e extrai itens.
 Faz com que o óleo da sua lanterna dure mais,<cf>estendendo muito sua duração de uso.
 Detalhes desconhecidos.
 Aumenta a proporção de Vida branca,<cf>recuperável quando você sofre dano.
-Reduz a Stamina consumida enquanto<cf>corre.
+Reduz a Estamina consumida enquanto<cf>corre.
 Acelera a velocidade com que você recupera<cf>Vida perdida da magia curativa e <cf>fontes de cura.
 Torna mais difícil para um inimigo te jogar <cf>para fora enquanto você está agarrado a ele.
 Aumenta sua Força enquanto você se agarra<cf>a um inimigo.
@@ -30207,8 +30207,8 @@ Detalhes desconhecidos.
 Um pedaço de carne com um aroma<cf>adocicado e enjoativo. Coloque-o em uma área<cf>da Ilha Bitterblack para aumentar a chance<cf>de monstros necrófagos aparecerem.
 Um remédio derivado do fluido espinhal<cf>diluído de uma criatura. Consuma-o para<cf>aumentar ligeiramente sua Saúde máxima<cf>por um tempo limitado.
 Um remédio derivado do fluido espinhal<cf>concentrado de uma criatura. Consuma-o<cf>para aumentar sua Saúde máxima por<cf>um tempo limitado.
-Um Harspud seco por um ciclo lunar para<cf>condensar seus nutrientes. Consuma-o<cf>para aumentar ligeiramente sua Stamina<cf>máxima por um tempo limitado.
-Um Harspud seco por dez anos para<cf>condensar seus nutrientes. Consuma-o<cf>para aumentar sua Stamina máxima por<cf>um tempo limitado.
+Um Harspud seco por um ciclo lunar para<cf>condensar seus nutrientes. Consuma-o<cf>para aumentar ligeiramente sua Estamina<cf>máxima por um tempo limitado.
+Um Harspud seco por dez anos para<cf>condensar seus nutrientes. Consuma-o<cf>para aumentar sua Estamina máxima por<cf>um tempo limitado.
 Um pequeno frasco contendo um líquido<cf>malcheiroso. O simples ato de segurá-lo<cf>faz com que a pessoa se sinta mal.
 Uma pedra que pode levar o usuário de volta<cf>à entrada da Ilha Bitterblack,<cf>mas só pode ser usada no labirinto<cf>imundo dessa ilha amaldiçoada.
 Um elixir que faz a pessoa acreditar que<cf>criou asas. Consumir isso te deixa<cf>um nível mais leve em termos de mobilidade.
@@ -32833,8 +32833,8 @@ Uma forma avançada de Varrida Retardatária<cf>que atinge duas vezes após se e
 Endurece a carne, permitindo que o usuário <cf>permaneça firme contra todos os ataques e<cf>sofra menos dano por um tempo.
 Uma forma avançada de Pedra da vontade que<cf>permite ao usuário sofrer menos dano por<cf>um período de tempo maior.
  
-Libera um ataque rápido, poderoso e de amplo <cf>alcance, utilizável mesmo enquanto está<cf>sob ataque. Requer muita Stamina.
-Uma forma avançada de Mordida da Legião que<cf>libera um ataque rápido e poderoso que<cf>se estende por uma área ainda mais ampla.<cf>Requer muita Stamina.
+Libera um ataque rápido, poderoso e de amplo <cf>alcance, utilizável mesmo enquanto está<cf>sob ataque. Requer muita Estamina.
+Uma forma avançada de Mordida da Legião que<cf>libera um ataque rápido e poderoso que<cf>se estende por uma área ainda mais ampla.<cf>Requer muita Estamina.
  
 Implanta um sigilo mágico no chão.<cf>Qualquer inimigo que se aproxime é atingido<cf>com uma explosão devastadora de energia.
 Uma forma avançada de Sigilo Perigoso que<cf>implanta um sigilo no chão que atinge<cf>inimigos de longo alcance com uma explosão<cf>devastadora de energia e leva mais tempo para dissipar.
@@ -33168,9 +33168,9 @@ Uma forma avançada de Dardo Estilhaçante. Envia<cf>uma flecha explosiva que se
 Solta uma flecha que produz um grito<cf>penetrante, paralisando os inimigos por um<cf>momento.
 Uma forma avançada de Dardo Sibilante que<cf>emite um grito mais alto para atordoar ainda<cf>mais inimigos.
 
-Uma mira especial aumenta a visão do usuário,<cf>permitindo que ele mire em inimigos distantes.<cf>Cada tiro requer muita Stamina.
+Uma mira especial aumenta a visão do usuário,<cf>permitindo que ele mire em inimigos distantes.<cf>Cada tiro requer muita Estamina.
 Uma forma avançada de Visão Aguçada que permite<cf>ao usuário ver mais longe e ajustar o alcance<cf>de sua visão conforme necessário.
-Uma forma avançada de Visão de Lince que<cf>aumenta o nível de alcance da visão e<cf>consome menos Stamina do usuário.
+Uma forma avançada de Visão de Lince que<cf>aumenta o nível de alcance da visão e<cf>consome menos Estamina do usuário.
 Dispara uma flecha capaz de perfurar<cf>vários alvos, especialmente eficaz<cf>quando combinada com Flechas de Veneno.
 Uma forma avançada de Dardo Perfurante que<cf>é capaz de perfurar ainda mais alvos<cf>e também pode cancelar o bloqueio de um inimigo.
 
@@ -33226,14 +33226,14 @@ Uma forma avançada de Flecha Invasiva que<cf>libera uma toxina que enfraquece a
 Dispara uma flecha que produz um estrondo<cf>ensurdecedor no impacto, atordoando inimigos<cf>próximos, embora cause quase nenhum dano.
 Uma forma avançada de Estrondo Voador que<cf>produz um estrondo ainda mais alto no<cf>impacto que atordoa inimigos próximos.
 
-Solta uma flecha excepcionalmente rápida,<cf>permitindo disparar com precisão de<cf>longe. Requer Stamina considerável.
+Solta uma flecha excepcionalmente rápida,<cf>permitindo disparar com precisão de<cf>longe. Requer Estamina considerável.
 Uma forma avançada de Tiro Meteoro que permite<cf>ao usuário dar zoom in e out, aumentando a<cf>precisão e controle deste tiro.
  
 Solta uma flecha giratória que causa uma<cf>barragem de golpes em uma área. Especialmente<cf>eficaz com Flechas de Veneno ou Óleo.
 Uma forma avançada de Flecha Giratória que<cf>adiciona ainda mais golpes à barragem.
 Uma forma avançada de Flecha Espiral que<cf>diminui o tempo de carregamento e adiciona<cf>ainda mais golpes à barragem.
-Esgota toda a Stamina do usuário para<cf>disparar um tiro teleguiado que<cf>o usuário pode controlar por um tempo.
-Uma forma avançada de Jogada Arriscada que<cf>esgota toda a Stamina do usuário para<cf>disparar um tiro teleguiado mais forte<cf>que pode ser controlado por mais tempo.
+Esgota toda a Estamina do usuário para<cf>disparar um tiro teleguiado que<cf>o usuário pode controlar por um tempo.
+Uma forma avançada de Jogada Arriscada que<cf>esgota toda a Estamina do usuário para<cf>disparar um tiro teleguiado mais forte<cf>que pode ser controlado por mais tempo.
  
 Ugh.
 Guh!
@@ -34426,10 +34426,10 @@ Eu serei seu escudo em todos os momentos, Arisen.<cf>Isso te agrada?
 Eu trabalho para manter meus companheiros peões seguros na batalha.<cf>Isso te agrada, Arisen?
 Eu sou tomado por uma curiosidade que me leva a<cf>sempre procurar novas áreas para explorar. Isso te<cf>agrada, Arisen?
 Eu ando pelo campo sempre atento a itens que<cf>possam ser úteis. Isso te agrada, Arisen?
-Eu não sou de me preocupar em conservar<cf>stamina, e uso habilidades frequentemente.<cf>Isso te agrada, Arisen?
-Eu não me importo em conservar a stamina<cf>e coisas do tipo. Eu uso habilidades sempre que posso.<cf>Isso te agrada, Arisen?
-Eu tomo cuidado para conservar a stamina usando<cf>habilidades apenas quando necessário. Isso te<cf>agrada, Arisen?
-Eu sempre me certifico de deixar uma reserva de stamina<cf>ao usar habilidades. Isso te agrada, Arisen?
+Eu não sou de me preocupar em conservar<cf>estamina, e uso habilidades frequentemente.<cf>Isso te agrada, Arisen?
+Eu não me importo em conservar a estamina<cf>e coisas do tipo. Eu uso habilidades sempre que posso.<cf>Isso te agrada, Arisen?
+Eu tomo cuidado para conservar a estamina usando<cf>habilidades apenas quando necessário. Isso te<cf>agrada, Arisen?
+Eu sempre me certifico de deixar uma reserva de estamina<cf>ao usar habilidades. Isso te agrada, Arisen?
 Como você quer que eu responda às suas<cf>ordens?<cf>(Maneira atual: <TONE>)
 Eu acredito que veremos muitas vitórias juntos.<cf>Como devo celebrar nossos triunfos?<cf>(Maneira atual: <TONE>)
 Se eu cair, e você achar adequado me ajudar,<cf>de que maneira posso te agradecer?<cf>(Maneira atual: <TONE>)
@@ -34466,7 +34466,7 @@ Como desejar.
 Será feito.
 Se te agradar.
 Entendido. Deixe os inimigos fortes comigo. Eu os<cf>derrubarei sem demora.
-Como desejar. Vou cuidar do meu HP e Stamina,<cf>e evitar ataques desesperados mesmo no<cf>calor da batalha.
+Como desejar. Vou cuidar do meu HP e Estamina,<cf>e evitar ataques desesperados mesmo no<cf>calor da batalha.
 Entendido. Sempre vou mirar no mais fraco<cf>do grupo, com o objetivo de diminuir<cf>rapidamente o número de inimigos.
 Como desejar. Meu primeiro alvo serão aqueles<cf>que atiram projéteis ou usam magias.
 Entendido. Minha primeira preocupação será ajudar<cf>meus aliados da maneira que puder.
@@ -34478,7 +34478,7 @@ Como desejar.<cf>Eu evitarei tais ações no futuro.
 Entendido.<cf>Serei mais reticente no futuro.
 Como desejar.<cf>Tentarei ser mais falante de agora em diante.
 Entendido.<cf>Vou tentar ser mais ousado com o uso das minhas habilidades.
-Entendido.<cf>Vou tentar gastar minha<cf>Stamina com menos frequência.
+Entendido.<cf>Vou tentar gastar minha<cf>Estamina com menos frequência.
 Você prefere um peão que desafia avidamente<cf>os fortes, ou um que coloca a segurança acima de<cf>tudo?
 Você prefere um peão que desafia avidamente<cf>os fortes, ou um que primeiro ataca a presa<cf>mais fraca?
 Você prefere um peão que desafia avidamente<cf>os fortes, ou um que primeiro mata os<cf>atacantes à distância?
@@ -35261,8 +35261,8 @@ Se o seu grupo estiver sobrecarregado, fale com um<cf>encarregado do armazém pa
 Qualquer coisa no armazém pode ser retirada de<cf>qualquer armazém no mundo.
 Você também pode enviar itens para o armazém de qualquer<cf>lugar de descanso. Mantenha seu inventário limpo e<cf>organizado, e evite ficar sobrecarregado.
 Se um peão possuir o conhecimento certo<cf>e habilidades, ele pode ser capaz de te ajudar<cf>em ataques em conjunto.
-Aperte <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar em -- e escalar <cf>em cima de -- monstros maiores, com algum custo<cf>para sua Stamina.
-Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Em qualquer lugar fora das cidades,<cf>correr vai consumir Stamina.
+Aperte <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar em -- e escalar <cf>em cima de -- monstros maiores, com algum custo<cf>para sua Estamina.
+Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Em qualquer lugar fora das cidades,<cf>correr vai consumir Estamina.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
 Clique em <SIZE 24><ICON PAD_R3></SIZE> para resetar<cf>a posição da câmera.
 Apertar <TUTO><SIZE 28><ICON STAT_CHANGE></SIZE> vai sacar sua<cf>arma primária.
@@ -35283,7 +35283,7 @@ Você pode se equipar com uma arma primária<cf>e uma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais pro combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas habilidades<cf>especiais pra te dar uma vantagem na batalha.
 Só uma joia e uma única capa podem ser<cf>equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada vai fazer sua Stamina<cf>acabar mais rápido. Venda ou descarte<cf>todos os itens que você não precisa mais.
+Uma carga pesada vai fazer sua Estamina<cf>acabar mais rápido. Venda ou descarte<cf>todos os itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo pra reabastecê-la.
 Alguns itens podem ser combinados com outros<cf>pra produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de ponto de passagem no<cf>seu mapa pra acompanhar seu progresso.
@@ -35291,7 +35291,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa pra<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>vai sofrer.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está desembainhada.
-Esgotar toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Tome cuidado pra conservar<cf>energia!
+Esgotar toda a Estamina vai te deixar incapaz<cf>de agir por um tempo. Tome cuidado pra conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
@@ -35634,7 +35634,7 @@ Exibição de Legendas do Peão
 Legendas da Cutscene
 Idioma da Voz
 Defina o nível de<cf>brilho da tela.
-Modo Difícil<cf>(O dano sofrido e a stamina consumida aumentarão)
+Modo Difícil<cf>(O dano sofrido e a estamina consumida aumentarão)
 Eixo Y Invertido
 Eixo X Invertido
 Selecione suas<lf>configurações de legenda desejadas.
@@ -37924,7 +37924,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>de cada vez.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
 Sua lanterna consome óleo. Se ela escurecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -37932,7 +37932,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais devagar enquanto<cf>sua arma está empunhada.
-Esgotar toda a Stamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -38327,7 +38327,7 @@ A missão não pode mais ser concluída.
 [Encantador Sagrado/Transe Abençoado]
 [Encantador Sombrio/Transe Abissal]
 Aumenta a Vida máxima em
-Aumenta a Stamina máxima em
+Aumenta a Estamina máxima em
 Aumenta a Força em
 Aumenta a Magia em
 Aumenta as Defesas em
@@ -38362,8 +38362,8 @@ Restaura gradualmente pequenas quantidades <cf>de Vida.
 Restaura Vida gradualmente.
 Aumenta o poder de escudos<cf>normais e mágicos.
 Estende a duração de aumentos de <cf>atributos aplicados a você.
-Restaura ligeiramente a Stamina quando você <cf>dá o golpe final em um inimigo.
-Restaura Stamina quando você dá o <cf>golpe final em um inimigo.
+Restaura ligeiramente a Estamina quando você <cf>dá o golpe final em um inimigo.
+Restaura Estamina quando você dá o <cf>golpe final em um inimigo.
 Estende a duração das suas imobilizações de inimigos.
 Aumenta ligeiramente a capacidade máxima de <cf>transporte de itens.
 Aumenta a capacidade máxima de <cf>transporte de itens.
@@ -38683,7 +38683,7 @@ Vestir uma dessas roupas removerá<cf>todos os outros equipamentos, exceto joias
 Você não pode usar alguns itens enquanto<cf>estiver envolvido em atividades físicas extenuantes.
 Você não pode trocar de equipamento no meio<cf>do combate, então certifique-se de estar totalmente<cf>preparado antes que a batalha comece.
 Você não pode carregar um fardo que exceda<cf>seu próprio peso.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
 Você pode enviar itens excedentes para o armazém de Gran<cf>Soren de qualquer ponto de descanso.
 Mudar de vocação tem um custo para a<cf>sua disciplina, então avalie a decisão<cf>cuidadosamente antes de se comprometer.
 Cada vocação acumula seu próprio<cf>total de disciplina separado.
@@ -38722,16 +38722,16 @@ Se seu grupo estiver sobrecarregado, fale com um<cf>guardião de depósito para 
 Qualquer coisa no armazenamento pode ser recuperada<cf>de qualquer depósito no mundo.
 Você também pode mandar itens pro depósito de<cf>qualquer lugar de descanso. Mantenha seu<cf>inventário organizado e evite ficar sobrecarregado.
 Se um peão tiver o conhecimento e as<cf>habilidades certas, ele pode te ajudar<cf>em ataques combinados.
-Aperte <TUTO><SIZE 28><ICON LIFT></SIZE> pra agarrar em -- e escalar<cf>-- monstros maiores, com algum custo<cf>na sua Stamina.
-Equipar armaduras feitas pra guerreiros de um<cf>nível significativamente maior que o seu<cf>vai drenar sua Stamina mais rápido.
+Aperte <TUTO><SIZE 28><ICON LIFT></SIZE> pra agarrar em -- e escalar<cf>-- monstros maiores, com algum custo<cf>na sua Estamina.
+Equipar armaduras feitas pra guerreiros de um<cf>nível significativamente maior que o seu<cf>vai drenar sua Estamina mais rápido.
 Aperte <TUTO><SIZE 28><ICON PAD_ST></SIZE> pra abrir o Menu de Pausa,<cf>onde você pode checar seus atributos, um mapa<cf>completo, informações de missões e mais.
-Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> pra correr.<cf>Em qualquer lugar fora das cidades,<cf>correr vai consumir Stamina.
+Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> pra correr.<cf>Em qualquer lugar fora das cidades,<cf>correr vai consumir Estamina.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
 Clique em <SIZE 24><ICON PAD_R3></SIZE> pra resetar<cf>a posição da câmera.
 Quanto maior a queda, mais dano você<cf>vai sofrer.
 Apertar <TUTO><SIZE 28><ICON STAT_CHANGE></SIZE> vai sacar sua<cf>arma principal.
 Note que você se move um pouco mais lento<cf>com sua arma sacada.
-Esgotar toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado pra conservar<cf>energia!
+Esgotar toda a Estamina vai te deixar incapaz<cf>de agir por um tempo. Tenha cuidado pra conservar<cf>energia!
 Você pode atacar enquanto estiver agarrado em inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizador Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
@@ -38848,7 +38848,7 @@ Este mundo é cheio de lugares diferentes<cf>como cidades, campos e cavernas, to
 Quando você não tiver certeza de como prosseguir ou<cf>não conseguir derrotar um inimigo especialmente forte,<cf>tente um lugar ou missão diferente.
 Procure por novos lugares, equipamentos não testados<cf>ou itens, e pessoas que você nunca conheceu. Conforme<cf>você aprende, mais experiências ficarão disponíveis.
 Não existe uma maneira "certa" de completar essa<cf>aventura. Decida tentar<cf>derrotar o dragão e trilhe seu próprio caminho.
-Equipar armas feitas para aventureiros de um<cf>nível significativamente maior que o seu<cf>drenará sua Stamina mais rapidamente.
+Equipar armas feitas para aventureiros de um<cf>nível significativamente maior que o seu<cf>drenará sua Estamina mais rapidamente.
 Dar curativos para os peões carregarem permitirá<cf>que eles os usem a seu próprio critério.
 Além de prestar atenção ao nível e às<cf>habilidades disponíveis, o conhecimento de um peão é outra<cf>parte importante da criação de um grupo eficaz.
 Peões com conhecimento apropriado de missões<cf>ou inimigos podem fornecer conselhos úteis e<cf>estratégias de batalha.
@@ -40113,7 +40113,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias, como espadas e adagas,<cf>são essenciais para o combate. Armas secundárias,<cf>como arcos e escudos, oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de ponto de referência no seu mapa para<cf>manter o controle do seu progresso.
@@ -40121,7 +40121,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento enquanto<cf>sua arma está desembainhada.
-Esgotar toda a Stamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -40493,7 +40493,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias, como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
+Uma carga pesada fará com que sua Estamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para recarregá-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -40501,7 +40501,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está desembainhada.
-Esgotar toda a Stamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizador Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -40872,7 +40872,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas<cf>habilidades especiais para te dar uma vantagem na batalha.
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada vai fazer sua Stamina<cf>acabar mais rápido. Venda ou descarte<cf>todos os itens que você não precisa mais.
+Uma carga pesada vai fazer sua Estamina<cf>acabar mais rápido. Venda ou descarte<cf>todos os itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela escurecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa<cf>para acompanhar seu progresso.
@@ -40880,7 +40880,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está em punho.
-Esgotar toda a Stamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para<cf>conservar energia!
+Esgotar toda a Estamina fará com que você não<cf>consiga agir por um tempo. Tenha cuidado para<cf>conservar energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -41249,7 +41249,7 @@ Se seu grupo estiver sobrecarregado, fale com um<cf>guardião de armazém para d
 Qualquer coisa no armazenamento pode ser recuperada<cf>de qualquer armazém no mundo.
 Você também pode enviar itens para o armazenamento de<cf>qualquer ponto de descanso. Mantenha seu inventário<cf>organizado e evite ficar sobrecarregado.
 Se um peão possuir o conhecimento certo<cf>e as habilidades certas, ele poderá te ajudar<cf>em ataques em conjunto.
-Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar e escalar<cf>monstros maiores, com algum custo<cf>para sua Stamina.
+Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar e escalar<cf>monstros maiores, com algum custo<cf>para sua Estamina.
 É só aqui que você pode ativar as habilidades<cf>e aprimoramentos que você aprende. Você não pode<cf>trocá-los no campo de batalha.
 Habilidades básicas são ativadas assim que<cf>são aprendidas.
 Verifique o menu de Opções para ativar ou<cf>desativar a rotação do seu mini-mapa ao virar.
@@ -41271,7 +41271,7 @@ Você pode se equipar com uma arma primária<cf>e uma arma secundária.
 Armas primárias, como espadas e adagas,<cf>são essenciais para o combate. Armas<cf>secundárias, como arcos e escudos, oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas<cf>habilidades especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
+Uma carga pesada fará com que sua Estamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precise mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de ponto de referência<cf>no seu mapa para acompanhar seu progresso.
@@ -41279,7 +41279,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está em punho.
-Esgotar toda a Stamina fará com que você<cf>fique incapaz de agir por um tempo. Tenha cuidado<cf>para conservar energia!
+Esgotar toda a Estamina fará com que você<cf>fique incapaz de agir por um tempo. Tenha cuidado<cf>para conservar energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal e é fatal se não for tratada.
 Use um Suavizante Secreto ou algo parecido<cf>para curar quaisquer aliados petrificados.
@@ -42824,7 +42824,7 @@ Remova o Peão X deste posto
 Não fazer nada
 O caixote é grande, mas não pesado demais para levantar.
 Seria um bom obstáculo se colocado no caminho dos ladrões.
-Reduz pela metade a Stamina consumida quando você<cf>levanta objetos ou agarra oponentes.
+Reduz pela metade a Estamina consumida quando você<cf>levanta objetos ou agarra oponentes.
 Permite que você arremesse objetos mais rápido e<cf>mais longe.
 Facilita fugas da batalha.
 Permite que você execute mais facilmente<cf>bloqueios perfeitos, no momento em que os inimigos atacam.
@@ -42832,12 +42832,12 @@ Fornece um aumento na Força quando você<cf>está à beira da morte.
 Aumenta sua Força.
 Estende o limite da sua Saúde.
 Torna você um nível mais leve em termos<cf>de mobilidade.
-Reduz pela metade a Stamina consumida quando você<cf>se agarra a objetos ou escala o terreno.
-Ajuda você a manter sua mobilidade quando<cf>você fica sem Stamina.
+Reduz pela metade a Estamina consumida quando você<cf>se agarra a objetos ou escala o terreno.
+Ajuda você a manter sua mobilidade quando<cf>você fica sem Estamina.
 Diminui o recuo após disparar seu arco.
 Impede que suas flechas voem para fora do alvo<cf>quando você as solta enquanto está em movimento.
 Torna seus ataques de pulo mais<cf>poderosos.
-Estende o limite da sua Stamina.
+Estende o limite da sua Estamina.
 Reduz pela metade a gravidade das feridas que você sofre<cf>enquanto entoa feitiços.
 Amplifica sua Magia quando você está à<cf>beira da morte.
 Aumenta a duração dos efeitos da magia<cf>curativa.
@@ -42845,7 +42845,7 @@ Faz com que os encantamentos persistam por um<cf>período de tempo maior.
 Reduz o dano cumulativo quando você está<cf>debilitado pelas Cinco Arquimagias.
 Aumenta sua Magia.
 Reduz o dano sofrido por ataques<cf>mágicos.
-Reduz pela metade a Stamina consumida quando você<cf>bloqueia ataques com seu escudo.
+Reduz pela metade a Estamina consumida quando você<cf>bloqueia ataques com seu escudo.
 Ajuda a manter o equilíbrio quando você<cf>bloqueia ataques com seu escudo.
 Melhora suas Defesas e Defesas<cf>Mágicas quando você está à beira da morte.
 Aumenta a quantidade de vida restaurada<cf>ao resgatar peões.
@@ -42856,7 +42856,7 @@ Reduz pela metade a gravidade dos ferimentos que você<cf>sofre enquanto sua lâ
 Multiplica o dano causado por seus ataques<cf>quando os alvos não estão em posição de batalha.
 Concede a você Força e<cf>Defesas adicionais quando você se aventura sozinho.
 Aumenta sua Força e mitiga<cf>o dano sofrido, mas apenas à noite.
-Aumenta sua Stamina, mas apenas<cf>à noite.
+Aumenta sua Estamina, mas apenas<cf>à noite.
 Aumenta sua vida, mas apenas<cf>à noite.
 Aumenta drasticamente o dano cumulativo<cf>causado por seus ataques de veneno.
 Aumenta o dano cumulativo aos inimigos que você<cf>debilita com ataques não-ArquiMagicos.
@@ -42865,10 +42865,10 @@ Expande o campo de visão de alguém, revelando mais facilmente<cf>áreas descon
 Faz com que sua vida retorne lentamente com<cf>o passar do tempo.
 Dobra o aumento em sua afinidade<cf>quando você dá itens para não-peões.
 Faz com que os inimigos entreguem itens extras<cf>com mais frequência quando você desfere o golpe final.
-Estende o limite da sua Stamina.
+Estende o limite da sua Estamina.
 Reduz pela metade a gravidade dos ferimentos sofridos<cf>enquanto você monta um ataque focado.
 Torna mais difícil te derrubarem<cf>enquanto monta um ataque focado.
-Reduz a Stamina consumida quando você<cf>executa uma habilidade de arma física.
+Reduz a Estamina consumida quando você<cf>executa uma habilidade de arma física.
 Aumenta a letalidade de suas Habilidades<cf>Essenciais.
 Melhora sua habilidade de derrubar<cf>oponentes.
 Reduz muito o dano sofrido em<cf>ataques físicos.
@@ -42882,7 +42882,7 @@ Aumenta a letalidade dos explosivos<cf>que você usa.
 Aumenta o limite da sua Saúde.
 Dificulta que os inimigos te derrubem<cf>enquanto você entoa feitiços.
 Diminui o tempo necessário para entoar<cf>qualquer feitiço.
-Reduz a Stamina consumida quando você<cf>executa uma habilidade de arma mágica.
+Reduz a Estamina consumida quando você<cf>executa uma habilidade de arma mágica.
 Aumenta o poder de ataques mágicos<cf>projetados para derrubar inimigos.
 Aumenta o efeito quando você debilita<cf>adversários com as Cinco Arquimagias.
 Aumenta muito sua Magia.
@@ -42900,7 +42900,7 @@ Acelera sua velocidade de movimento enquanto<cf>carrega uma pessoa ou objeto.
 Acelera a velocidade com que você coleta<cf>e extrai itens.
 Faz com que o óleo da sua lanterna dure mais,<cf>aumentando muito sua duração de uso.
 Aumenta a proporção de Saúde branca,<cf>recuperável quando você sofre dano.
-Reduz a Stamina consumida enquanto<cf>corre.
+Reduz a Estamina consumida enquanto<cf>corre.
 Acelera a velocidade com que você recupera<cf>a Saúde perdida com magia curativa e<cf>fontes de cura.
 Torna mais difícil para um inimigo te jogar<cf>fora enquanto você está agarrado a ele.
 Aumenta sua Força enquanto você se agarra<cf>a um inimigo.
@@ -43297,7 +43297,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas<cf>habilidades especiais para te dar vantagem na batalha.
 Apenas uma peça de joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de ponto de passagem no seu mapa para<cf>manter o controle do seu progresso.
@@ -43305,7 +43305,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento enquanto<cf>sua arma está desembainhada.
-Esgotar toda a Stamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina fará com que você não consiga<cf>agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -43848,7 +43848,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas<cf>habilidades especiais para te dar vantagem na batalha.
 Apenas uma joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
+Uma carga pesada fará com que sua Estamina<cf>se esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que não precisar mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para recarregá-la.
 Alguns itens podem ser combinados com outros<cf>para produzir resultados surpreendentes. Experimente<cf>e veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa<cf>para acompanhar seu progresso.
@@ -43856,7 +43856,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está em punho.
-Esgotar toda a Stamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto está agarrado aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizante Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -44260,7 +44260,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias como espadas e adagas<cf>são essenciais para o combate. Armas secundárias<cf>como arcos e escudos oferecem suporte.
 Além de armas e armaduras, você também pode<cf>equipar acessórios com certas habilidades<cf>especiais para te dar uma vantagem na batalha.
 Apenas uma joia e uma única<cf>capa podem ser equipadas como acessórios<cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
+Uma carga pesada fará com que sua Estamina se<cf>esgote mais rapidamente. Venda ou descarte<cf>todos e quaisquer itens que você não precisa mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você consegue.
 Coloque marcadores de waypoint no seu mapa para<cf>manter o controle do seu progresso.
@@ -44268,7 +44268,7 @@ Se você esqueceu onde você está na história,<cf>selecione "Crônica" no Menu
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você<cf>sofrerá.
 Note que você se move um pouco mais lento<cf>enquanto sua arma está em punho.
-Esgotar toda a Stamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
+Esgotar toda a Estamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado para conservar<cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizador Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
@@ -46066,8 +46066,8 @@ Não
  
 Disciplina
  
-PV
-PM
+HP
+ST
 Força
 Magia
 Elemento
@@ -46925,10 +46925,10 @@ Selecione o nível de dificuldade.
 Selecione o nível de dificuldade.<cf>Você pode mudar o nível de dificuldade<cf>pelo Menu de Pausa em "Opções".
 Complete uma partida completa<cf>o mais rápido possível.
 A configuração do jogo e o progresso não podem ser salvos durante um speedrun.<lf>Continuar?
-Este modo aumenta o dano recebido e o consumo<cf>de stamina pelo jogador. Também aumenta muito<cf>o ouro recebido ao derrotar inimigos.
+Este modo aumenta o dano recebido e o consumo<cf>de estamina pelo jogador. Também aumenta muito<cf>o ouro recebido ao derrotar inimigos.
 Você pode mudar o nível de dificuldade<cf>pelo Menu de Pausa em "Opções".<cf>Continuar?
 Modo Difícil
-Mudar para o Modo Difícil (Dano recebido<cf>e consumo de stamina aumentarão).
+Mudar para o Modo Difícil (Dano recebido<cf>e consumo de estamina aumentarão).
 
 Recomeçar do ponto onde você salvou o jogo<cf>pela última vez no Modo Normal.
 Se você voltar para o Modo Difícil mais tarde, você<cf>recomeçará o jogo desde o início, mas com todos<cf>os dados do seu último jogo salvo. Continuar?
@@ -48426,11 +48426,11 @@ O portão tá trancado. Você sente uma presença do outro lado...
 <TUTO>Preste atenção ao mundo ao seu redor.<cf>Algumas bordas podem ser escaladas, mas uma<cf>queda longa vai resultar em ferimentos -- ou morte.
 <TUTO>Isso é uma fenda. Acesse a fenda pra<cf>trocar peões dentro e fora do seu grupo.
 <TUTO>As habilidades de arma disponíveis pra você variam,<cf>dependendo do tipo de arma que você tem<cf>equipada.
-<TUTO>A velocidade de movimento e a Stamina são<cf>afetadas pelo seu tipo físico.
+<TUTO>A velocidade de movimento e a Estamina são<cf>afetadas pelo seu tipo físico.
 <TUTO>Segure <SIZE 24><ICON SUB_WEP></SIZE> pra bloquear.
 <TUTO>Pra usar um arco, segure <SIZE 24><ICON SUB_WEP></SIZE> pra mirar,<cf>e então aperte <SIZE 24><ICON SHOT></SIZE> pra soltar uma flecha.
 <TUTO 5>Certos inimigos e áreas podem causar <cf>debilitações como sono, veneno,<cf>petrificação e cegueira.
-<TUTO 7>Certas ações, como usar habilidades e<cf>correr, consomem sua stamina. Tenha<cf>cuidado pra não se esgotar.
+<TUTO 7>Certas ações, como usar habilidades e<cf>correr, consomem sua estamina. Tenha<cf>cuidado pra não se esgotar.
 <TUTO>Conforme você avança em suas aventuras, <cf>os peões fornecerão informações e dicas<cf>úteis.
 <TUTO 8>Sua saúde e vigor atuais são<cf>exibidos no canto inferior esquerdo da tela.
 <TUTO 9>Se oriente consultando o mapa<cf>no canto inferior esquerdo da tela.
@@ -48452,7 +48452,7 @@ Você pode se equipar com uma arma primária e<cf>uma arma secundária.
 Armas primárias, como espadas e adagas,<cf>são essenciais para o combate. Armas secundárias,<cf>como arcos e escudos, oferecem suporte.
 Além de armas e armaduras, você também<cf>pode equipar acessórios com certas<cf>habilidades especiais para te dar uma vantagem na batalha.
 Apenas uma peça de joia e uma única <cf>capa podem ser equipadas como acessórios <cf>ao mesmo tempo.
-Uma carga pesada fará com que sua Stamina se <cf>esgote mais rapidamente. Venda ou descarte <cf>todos e quaisquer itens que você não precise mais.
+Uma carga pesada fará com que sua Estamina se <cf>esgote mais rapidamente. Venda ou descarte <cf>todos e quaisquer itens que você não precise mais.
 Sua lanterna consome óleo. Se ela enfraquecer,<cf>use um Frasco de Óleo para reabastecê-la.
 Alguns itens podem ser combinados com outros para <cf>produzir resultados surpreendentes. Experimente e <cf>veja o que você consegue.
 Coloque marcadores de ponto de referência no seu mapa <cf>para acompanhar seu progresso.
@@ -48460,7 +48460,7 @@ Se você esqueceu onde está na história,<cf>selecione "Crônica" no Menu de Pa
 Selecione "Opções" no Menu de Pausa para <cf>personalizar seu mini-mapa e exibição de status.
 Quanto maior a queda, mais dano você <cf>sofrerá.
 Note que você se move um pouco mais lento enquanto <cf>sua arma está desembainhada.
-Esgotar toda a Stamina o deixará incapaz <cf>de agir por um tempo. Tenha cuidado para conservar <cf>energia!
+Esgotar toda a Estamina o deixará incapaz <cf>de agir por um tempo. Tenha cuidado para conservar <cf>energia!
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por <cf>magia normal, e é fatal se não for tratada.
 Use Amolecedor Secreto ou algo parecido para <cf>curar quaisquer aliados petrificados.
