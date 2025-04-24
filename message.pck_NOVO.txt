@@ -1864,7 +1864,7 @@ Mensagem Inválida
 Mensagem Inválida
 Mensagem Inválida
 Mensagem Inválida
-Tá trancado. Cê não tem a chave certa...
+Tá trancado. Você não tem a chave certa...
 Tá preso em alguma coisa. Talvez dê pra abrir do outro lado.
 Tá trancado com ferrolho. Dá pra tentar quebrar.
 Tá fechado com força.
@@ -2886,11 +2886,11 @@ Retornando ao último auto-save em uma estalagem ou fenda.<cf>Qualquer progresso
 Isto sairá do jogo e retornará à tela de título.<cf>Todos os dados não salvos serão perdidos.
 Prosseguir?
 Salvando conteúdo.<cf>Por favor, não desligue seu console.
-Tá trancado. Cê não tem a chave certa...
+Tá trancado. Você não tem a chave certa...
 Tá preso em alguma coisa. Talvez dê pra abrir do outro lado.
 Tá trancado com ferrolho. Talvez dê pra quebrar.
 Tá bem fechado.
-Não adianta nada a essa hora. Cê vai ter que voltar mais tarde.
+Não adianta nada a essa hora. Você vai ter que voltar mais tarde.
 É melhor parar por agora.
 Parece que tá fechado.
 Alguém esteve aqui...
@@ -4212,10 +4212,10 @@ Viseira de Fogo de Wyrm
 Banda Olho de Dragão
 Tiara Pulso de Dragão
 Sallet Falcão Branco
-Arquibastão da Perdição
+Arquicajado da Perdição
 Dragão Sagrado
 Cabo Sanguíneo
-Poleiro do Dragão
+Covil do Dragão
 Aspis Medonho
 Broquel Purificado
 Escudo Diabólico
@@ -4860,7 +4860,7 @@ Pedra Imã
 Reminiscogumelo
 Grama do Destino
 Erva do Diabo
-Poleiro do Demônio
+Covil do Demônio
 Flor Grandiosa
 Item Desconhecido
 Item Desconhecido
@@ -5570,7 +5570,7 @@ Hrn?
 Me incomode de novo, e eu corto sua língua.
 E aí, quando você vai se juntar a nós?
 Se dando bem, então?
-Que que cê tá fazendo!?
+Que que você tá fazendo!?
 Some daqui!
 Acha que é o bam-bam-bam, é?
 Dá o fora, camarada.
@@ -5720,7 +5720,7 @@ Eu já tinha dado todo mundo como morto no momento em que o dragão pousou na pr
 Agora a gente tá esperando o pessoal que fugiu pro mato voltar...
 Eu tenho procurado no mato, mas ainda não achei nenhum dos que correram...
 Parece que o medo levou eles mais longe do que eu imaginava. Mas não que eu culpe eles, viu.
-Quanto tempo até isso tudo se acalmar, cê acha?
+Quanto tempo até isso tudo se acalmar, você acha?
 Parece uma eternidade desde que eu peguei numa vara de pesca.
 Que foi, Arisen? Como eu pareço pra você?
 Você está perto, agora... Tão perto de mim!
@@ -7608,7 +7608,7 @@ A missão não pode mais ser completada.
 
 
 
-Tá trancada. Cê não tem a chave certa...
+Tá trancada. Você não tem a chave certa...
 Tá presa em alguma coisa. Talvez abra do outro lado.
 Tá trancada com ferrolho. Dá pra quebrar, talvez.
 Tá fechada com força.
@@ -9288,24 +9288,24 @@ Deixa pra lá
 Milorde... Eu o levaria até lá agora,<cf>se for o que deseja.
 Sim
 Não
-Tá trancado. Cê não tem a chave certa pra isso...
+Tá trancado. Você não tem a chave certa pra isso...
 Tá preso em alguma coisa. Talvez dê pra abrir do outro lado.
 Tá trancado com uma barra. Talvez dê pra quebrar o ferrolho.
 Tá bem fechado.
-Não adianta vir nessa hora. Cê vai ter que voltar mais tarde.
+Não adianta vir nessa hora. Você vai ter que voltar mais tarde.
 Melhor parar por agora.
 Parece que tá fechado.
 Alguém esteve aqui...
 Perdi eles de vista...
 Sumiram...
-Talvez cê tenha irritado eles.
+Talvez você tenha irritado eles.
 Não tem nada pra fazer aqui.
-É melhor cê ir embora.
+É melhor você ir embora.
 Não tá aqui...
 A porta tá fechada.
 Não dá sinal de que vai abrir.
 Tem alguma coisa ali...
-Cê não vê nada.
+Você não vê nada.
 Que cheiro é esse...?
 Tem alguém por perto...
 O que é isso...?
@@ -9314,14 +9314,14 @@ Tem algo escrito aqui...
 Deve ter um jeito de achar alguma coisa...
 Cheira uma delícia.
 Lugar perfeito pra colocar alguma coisa.
-Cê quase alcança...
+Você quase alcança...
 Parece que tem algo adiante.
 Essa queda pode matar.
 É perigoso tocar nisso.
 Um golpe forte pode quebrar isso.
-Talvez se cê viesse de noite.
-Talvez se cê viesse de dia.
-Talvez se cê viesse ao amanhecer.
+Talvez se você viesse de noite.
+Talvez se você viesse de dia.
+Talvez se você viesse ao amanhecer.
 Talvez se você viesse ao anoitecer.
 Tem algo enterrado aqui...
 Você não vê como subir.
@@ -9935,14 +9935,14 @@ Cala essa matraca.
 Baboseira...
 Que tal um copo mais tarde? Por sua conta, claro.
 Bom te ver, camarada!
-...Que diabos 'cê tá fazendo aqui?
+...Que diabos 'você tá fazendo aqui?
 Some daqui!
 Que que foi isso? Quer apanhar?
 Se afasta antes que eu te dê um tapa na cara.
 Quem te deu permissão pra falar comigo, hein?
-Então 'cê QUER morrer!
+Então 'você QUER morrer!
 Vai. Embora!
-'Cê é mais louco que um morcego numa torre!
+'Você é mais louco que um morcego numa torre!
 Preciso te pagar pra ir embora?
 Você de novo?
 Como vai?
@@ -10147,7 +10147,7 @@ Suas flores chegaram tarde demais para ajudar os<cf>feridos. A missão não pode
 
 Com licença, primo. Você viu o Valmiro?
 Aposto que ele tá em outra busca maluca por flores, ou insetos, ou o que quer que chame a atenção dele ultimamente...
-É um saco, mas a gente não pode simplesmente deixar ele vagar por aí até a morte... Cê me ajudaria a encontrá-lo?
+É um saco, mas a gente não pode simplesmente deixar ele vagar por aí até a morte... Você me ajudaria a encontrá-lo?
 Aceitar
 Agora não
 Muito obrigado, primo. A gente devia perguntar pros outros moradores antes de tudo.
@@ -11084,14 +11084,14 @@ Você foi feito para liderar este reino. Eu<cf>sei disso.
 Fique quieto e terá aceitado o<cf>acordo do wyrm.
 Siga o wyrm ou retorne ao<cf>Dragonforged, a escolha é sua.
 O Dragonforged deve ter algo a<cf>dizer sobre isso, Arisen.
-Se este caminho leva ao<cf>poleiro do dragão, é melhor termos cuidado mesmo.
+Se este caminho leva ao<cf>covil do dragão, é melhor termos cuidado mesmo.
 É bem traiçoeiro, mas temo que não<cf>tenhamos outros caminhos à nossa frente.
 Está escuro pela frente. É melhor levarmos<cf>uma lanterna.
 O dragão espera logo ali.<cf>É melhor nos prepararmos agora.
 Não sei o que é certo...
 Temo não ter palavras, Mestre...
 Acaba aqui, Arisen! Estou ao seu lado!
-Estamos perto do poleiro do dragão.<cf>É hora de deixar de lado todas as dúvidas.
+Estamos perto do covil do dragão.<cf>É hora de deixar de lado todas as dúvidas.
 Encare o dragão ou retorne ao<cf>Dragonforged... A escolha é sua, Arisen.
 Tem um jeito de subir por aqui.
 Heh heh... Keh heh ha ha ha ha! Que jardim<cf>de estranhas delícias é este?
@@ -11496,8 +11496,8 @@ Tem algo por aqui.
 É por aqui, Arisen.
 Por aqui, Mestre.
 O que... Que lugar é esse?
-Essa sensação... Uma archydra, Mestre.<cf>Está perto.
-Uma archydra espreita ali...<cf>Fique atento.
+Essa sensação... Uma arquidra, Mestre.<cf>Está perto.
+Uma arquidra espreita ali...<cf>Fique atento.
 Eles estão confusos...<cf>Perdidos sem seus mestres.
 É o destino de todos os peões que perdem <cf>seus mestres.
 Eles ainda vagam, desolados.
@@ -13104,8 +13104,8 @@ Adagas possuídas por um espírito<cf>sobrenatural, seu encantamento sombrio nun
 Adagas especialmente forjadas para aproveitar<cf>uma carga do ar, de forma que seu<cf>encantamento de trovão nunca morre.
 Adagas de um frio tão mortal que até<cf>o sangue que elas tiram é congelado em um<cf>instante. Seu encantamento de gelo é<cf>eterno.
 Adagas infundidas com poder divino<cf>através de um método perdido no tempo. Seu<cf>encantamento sagrado nunca desaparecerá.
-Um arquibastão imbuído de frio entorpecente<cf>por um mestre feiticeiro. Seu<cf>encantamento de gelo é eterno.
-Um arquibastão contaminado com névoa tóxica por<cf>um mestre feiticeiro. Seu encantamento<cf>sombrio é incessante.
+Um arquicajado imbuído de frio entorpecente<cf>por um mestre feiticeiro. Seu<cf>encantamento de gelo é eterno.
+Um arquicajado contaminado com névoa tóxica por<cf>um mestre feiticeiro. Seu encantamento<cf>sombrio é incessante.
 Uma espada longa bruta e feia feita com<cf>função, não forma em mente. Tão<cf>imensamente massiva, nenhum humano normal poderia manejá-la.
 Uma lâmina esguia, bonita e facilmente<cf>manuseada. Seu design singularmente elegante<cf>aumenta a posição de seu portador aos<cf>olhos dos outros.
 Detalhes desconhecidos.
@@ -13343,9 +13343,9 @@ Uma máscara impressionante em forma de um<cf>dragão feroz. Sua aura dominadora
 Um tapa-olho modelado após um<cf>dragão lendário de um olho só. Dizem que usar<cf>esses tapa-olhos era comum em cerimônias<cf>destinadas a apaziguar a ira da besta.
 A coroa da rainha de uma terra há muito<cf>caída, esculpida no coração de um dragão.<cf>Ainda hoje, um pulso ecoa de dentro.
 Um elmo evocando a imagem de um falcão<cf>em voo. Sua forma elegante permite a<cf>evasão da maioria dos danos.
-Um arquibastão infundido com a<cf>magia natural e a névoa tóxica de um dragão amaldiçoado.
-Um archistaff outrora maculado pela <cf>maldição de um dragão, mas desde então<cf>redimido por magias exóticas. Seu<cf>encantamento sagrado brilhará para sempre.
-Um archistaff feito carbonizando <cf>Galhos Favoritos e cultivando<cf>gradualmente seu poder. Sangue rico em<cf>magia percorre seu eixo venoso.
+Um arquicajado infundido com a<cf>magia natural e a névoa tóxica de um dragão amaldiçoado.
+Um arquicajado outrora maculado pela <cf>maldição de um dragão, mas desde então<cf>redimido por magias exóticas. Seu<cf>encantamento sagrado brilhará para sempre.
+Um arquicajado feito carbonizando <cf>Galhos Favoritos e cultivando<cf>gradualmente seu poder. Sangue rico em<cf>magia percorre seu eixo venoso.
 Um escudo feito com as escamas de<cf>um dragão. O choque de seu trovão<cf>encantado pode roubar a Força dos<cf>inimigos atacantes.
 Um escudo cuja parte externa escamosa foi<cf>moldada por pura malícia. Dizem que ele<cf>canaliza os medos de quem o empunha<cf>em uma selvagem sensação de poder.
 Um pavês escuro recuperado por magias<cf>sagradas, a radiância de seu<cf>encantamento sagrado pode deslumbrar e<cf>distrair os inimigos.
@@ -13908,9 +13908,9 @@ Um tônico da cor de lápis-lazúli, criado<cf>combinando outras substâncias. C
 Um tônico da cor de cobre velho, criado<cf>combinando outras substâncias. Consumir<cf>direto assim pode não ser uma boa ideia.
 Um tônico da cor de íris, criado<cf>combinando outras substâncias. Consumir<cf>direto assim pode não ser uma boa ideia.
 Um líquido com um aroma suave. Aplique<cf>para recuperar um pouco de Vida para todo o<cf>grupo.
-Um bastão aromático com um perfume suave.<cf>Use para recuperar uma boa quantidade de Vida<cf>para todo o grupo.
+Um cajado aromático com um perfume suave.<cf>Use para recuperar uma boa quantidade de Vida<cf>para todo o grupo.
 Um líquido com um aroma revitalizante. Aplique<cf>para recuperar um pouco de Vigor para todo o<cf>grupo.
-Um bastão aromático com um<cf>perfume revitalizante. Use para recuperar uma boa<cf>quantidade de Vigor para todo o grupo.
+Um cajado aromático com um<cf>perfume revitalizante. Use para recuperar uma boa<cf>quantidade de Vigor para todo o grupo.
 Uma bebida feita das ervas cuidadas<cf>pela Selene.
 Uma bebida encorpada feita das melhores<cf>ervas cuidadas pela Selene.
 Uma versão fortificada da bebida feita<cf>das ervas cuidadas pela Selene.
@@ -14326,10 +14326,10 @@ Um fragmento da arma da morte.<cf>Usado na criação de armas<cf>e armaduras.
 A antiga propriedade da morte.<cf>Usado na criação de armas<cf>e armaduras.
 Um implemento usado antigamente por um<cf>eliminator. Usado na criação de<cf>armas e armaduras.
 Equipamento que já pertenceu a um eliminator.<cf>Usado na criação de armas<cf>e armaduras.
-Peça de equipamento que já pertenceu a um<cf>gorecyclops. Usado na criação de<cf>armas e armaduras.
-O olho horripilante de um gorecyclops,<cf>pode ser usado na criação de<cf>armas e armaduras.
-O poderoso dente de um gorecyclops. Usado<cf>na criação de armas e armaduras.
-Um osso arrancado da carcaça de um<cf>gorecyclops. Usado na criação de<cf>armas e armaduras.
+Peça de equipamento que já pertenceu a um<cf>ciclope sangrento. Usado na criação de<cf>armas e armaduras.
+O olho horripilante de um ciclope sangrento,<cf>pode ser usado na criação de<cf>armas e armaduras.
+O poderoso dente de um ciclope sangrento. Usado<cf>na criação de armas e armaduras.
+Um osso arrancado da carcaça de um<cf>ciclope sangrento. Usado na criação de<cf>armas e armaduras.
 Uma chapa de metal que pertenceu a uma<cf>armadura viva. Usado na criação de<cf>armas e armaduras.
 Uma joia mágica, que já pertenceu a uma<cf>armadura viva. Usado na criação de<cf>armas e armaduras.
 Uma garra arrancada de um membro de um<cf>ogro ancião. Usado na criação de<cf>armas e armaduras.
@@ -14422,8 +14422,8 @@ Um tratado sobre magia de um autor há<cf>muito esquecido. Imbuído com o poder<
 Um tratado sobre magia de um autor há<cf>muito esquecido. Imbuído com o poder<cf>de espalhar luz.
 Um remédio especialmente preparado para<cf>uso pelo Duque. Consuma-o para<cf>recuperar uma grande quantidade de vida.
 Um remédio especial criado a partir de uma<cf>receita alquímica secreta. Consuma-o para<cf>recuperar completamente sua vida.
-Um bastão aromático com um cheiro suave.<cf>Use-o para recuperar uma grande<cf>quantidade de vida para todo o grupo.
-Um bastão aromático com um cheiro suave.<cf>Use-o para recuperar completamente a<cf>vida de todo o grupo.
+Um cajado aromático com um cheiro suave.<cf>Use-o para recuperar uma grande<cf>quantidade de vida para todo o grupo.
+Um cajado aromático com um cheiro suave.<cf>Use-o para recuperar completamente a<cf>vida de todo o grupo.
 Uma pedra que pode levar o usuário de volta<cf>à entrada da Ilha Bitterblack,<cf>mas utilizável apenas dentro do<cf>labirinto imundo daquela ilha amaldiçoada.
 Este item aprimora as seguintes<cf>habilidades de arma:<cf><CSEX>
 Este item aprimora as seguintes<cf>habilidades de arma:<cf><CSEX 0><cf><CSEX 1>
@@ -15329,7 +15329,7 @@ Sua jornada vai se tornar ainda mais perigosa a partir de agora, temo...
 Histórias e canções dizem que a morte da wyrm é o dever sagrado<cf>do Arisen...
 Mas eu vendo um navio pra qualquer um que acredite em histórias e canções como verdade.
 Ninguém te culparia se você não enfrentasse o dragão.
-Se o destino quiser que a wyrm seja nosso fim... que assim seja.
+Se o destino quiser que o wyrm seja nosso fim... que assim seja.
 Então a Quina foi embora, foi?
 Eu disse pra ela que você ia se cuidar, mas ela não quis ouvir, essa teimosa.
 Não tenho dúvidas de que ela vai voltar, e menos ainda de que vai voltar com ajuda pra sua causa.
@@ -17887,14 +17887,14 @@ Esse item é meu.
 Esquece as feras, eu vou pegar<cf>o saque.
 Isso parece promissor...
 Você luta, eu pego isso...
-...Que diabos 'cê tá fazendo aqui?
+...Que diabos 'você tá fazendo aqui?
 Vaza!
 Que foi? Quer apanhar?
 Se afasta antes que eu te estapeie.
 Quem te deu permissão pra falar comigo?
-Então, 'cê QUER morrer!
+Então, 'você QUER morrer!
 Vai. Embora!
-'Cê é mais doido que morcego em campanário!
+'Você é mais doido que morcego em campanário!
 Preciso te pagar pra sumir?
 Você de novo?
 E aí?
@@ -18651,18 +18651,18 @@ Ei, amigo. À toa, você está? Aqui para um conto dos meus dias de juventude, t
 Verdade seja dita, eu era um mercenário na minha juventude. Fiquei de guarda enquanto fortalezas e muros de castelos eram construídos.
 Emprestei minha espadona pra grande limpa dos goblins uns vinte anos atrás, eu fiz.
 E aí, camarada? Tá a fim de me levar contigo na sua Caçada ao Wyrm?
-Cê sabe daquele túnel, lá no fundo da pedreira ao sul daqui?
+Você sabe daquele túnel, lá no fundo da pedreira ao sul daqui?
 Hoje em dia é mais um ninho de monstro do que qualquer outra coisa, mas teve uma época que guardava um tesouro digno de lendas.
 Pelo menos, acho que lembro de ter ouvido algo nesse sentido em algum momento...
 As ruínas tristes de um castelo morto ficam a oeste da ponta sul de Gransys.
 Obra do último dragão, aquilo ali. Atacou cinquenta anos atrás, e a terra continua estéril até hoje.
 Até a fortaleza mais poderosa vira castelo de areia diante do dragão, eu temo.
-Cê viu a torre que fica a noroeste da costa, camarada? Lá no cabo.
+Você viu a torre que fica a noroeste da costa, camarada? Lá no cabo.
 A Torre Lua Azul, que chamam, construída por um duque de Gransys gerações atrás pra ser um testamento do poder dele.
 Agora serve mais como casa pra monstro. A estrada que leva até a base não tá muito melhor, dizem.
 Que agitação foi aquela no portão oeste.
 Mais obra sua, foi? Impressionante como sempre, camarada.
-Nessa altura do campeonato, cê já é o herói da cidade, hein. Não tem fim pros seus feitos.
+Nessa altura do campeonato, você já é o herói da cidade, hein. Não tem fim pros seus feitos.
 Se tudo isso te levar ao lugar do duque, rezo pra que não se esqueça dos seus amigos do povão.
 Parece que ainda tamo inteiros, você e eu.
 Mesmo assim, isso aqui tá sendo demais... É mais do que até eu imaginava.
@@ -19813,7 +19813,7 @@ Você chegou ao destino com seu<cf>companheiro. Recompensa da missão recebida.
 
 
 E aí. Um guerreiro como você tá sempre atrás de armas melhores, né?
-Se você me ajudar numa parada, vai ter acesso a umas armas cabulosas e poderosas. Que que cê me diz?
+Se você me ajudar numa parada, vai ter acesso a umas armas cabulosas e poderosas. Que que você me diz?
 Ouvir o que ele tem a dizer
 Agora não
 Excelente. Então... Já ouviu falar do mestre ferreiro aqui da região?
@@ -20590,14 +20590,14 @@ Saiam! Vazaando!
 Recebemos ordens pra voltar!
 Corram!
 Essa sempre será sua casa, e nós sua família. Volte quando quiser, peixinho.
-Que que 'cê tá fazendo aqui!?
+Que que 'você tá fazendo aqui!?
 Vaza!
-Quem 'cê pensa que é?
-'Cê não é bem-vindo aqui.
+Quem 'você pensa que é?
+'Você não é bem-vindo aqui.
 A gente não tolera invasores.
 A fim de morrer, camarada?
 Some daqui!
-'Cê é lesado, amigo.
+'Você é lesado, amigo.
 Não tem nada melhor pra fazer não?
 Ainda tá aqui?
 Como vai?
@@ -20611,12 +20611,12 @@ A gente vai dar um jeito neles, pode crer...
 Que foi?
 Entendi...
 E aí?
-'Cê tá se mantendo ocupado, hein? Ouvi dizer que tão mexendo no poço?
+'Você tá se mantendo ocupado, hein? Ouvi dizer que tão mexendo no poço?
 Se tiver que lidar com fogo, por favor, tome cuidado. Apesar de toda a água lá embaixo, os caminhos são estreitos.
 Tome mais cuidado ainda se for levar óleo. Jogue um pouco de óleo, e o fogo vai pegar em quase tudo.
 Vai lembrar, né? Não quero te ver machucado.
 Expulsem ele! Por ali!
-'Cê não gosta muito de viver, né.
+'Você não gosta muito de viver, né.
 Vaza.
 Tá querendo briga, é?
 Sua burrice é inacreditável. Cai fora!
@@ -20625,16 +20625,16 @@ Não gaste seu fôlego falando comigo, e eu não vou ter que perder meu tempo te
 Se não tem nada pra fazer aqui, vaza.
 Arranje encrenca aqui e vai se arrepender rapidinho.
 Veio visitar, amigo?
-'Cê devia se juntar a nós! A gente não pegaria tão pesado com você...
+'Você devia se juntar a nós! A gente não pegaria tão pesado com você...
 Que? Quem diabos é você?
 Vaza!
-Era pra eu ligar que 'cê é "Arisen" ou sei lá o quê?
-'Cê não é bem-vindo, sacou?
+Era pra eu ligar que 'você é "Arisen" ou sei lá o quê?
+'Você não é bem-vindo, sacou?
 Quer descobrir o que a gente faz com invasores?
 Eu tava pensando em machucar alguém. Devo começar com você?
 Some daqui!
-'Cê é um idiota descarado como poucos que já vi.
-'Cê nunca vai embora?
+'Você é um idiota descarado como poucos que já vi.
+'Você nunca vai embora?
 Ninguém te matou ainda?
 Como vai?
 Ei!
@@ -21934,8 +21934,8 @@ Eu me juntarei a você, milorde.
 Bah, ainda tô em forma pra lutar!
 É enorme!
 Um ogro... Que azar...
-Ogres são brutamontes sedentos por sangue!
-Tão perigosos quanto bárbaros,<cf>ogres!
+Ogros são brutamontes sedentos por sangue!
+Tão perigosos quanto bárbaros,<cf>ogros!
 A força bruta dele é mortal!
 O poder bruto deles os torna uma ameaça!
 Cuidado, eles são rápidos apesar de toda essa massa muscular!
@@ -22135,7 +22135,7 @@ Armas: Espadas, Adagas, Escudos, Arcos<cf>Vocação híbrida -- Um especialista 
 Armas: Adagas, Cajados, Arcos Mágicos<cf>Vocação híbrida -- Um explorador habilidoso e bem-<cf>aventureiro equilibrado, capaz de brandir um arco mágico.
 Armas: Espadas Longas, Martelos de Guerra<cf>Vocação avançada -- Um lutador especialmente habilidoso<cf>em combate corpo a corpo, e que não tem medo da morte.
 Armas: Adagas, Arcos Longos<cf>Vocação avançada -- Um ladino cujas habilidades<cf>excepcionais com arco o tornam uma ameaça mortal de longe.
-Armas: Arquistafes<cf>Vocação avançada -- Um mago adepto de todas as formas<cf>de magia, incluindo feitiços ofensivos e punitivos.
+Armas: Arquicajados<cf>Vocação avançada -- Um mago adepto de todas as formas<cf>de magia, incluindo feitiços ofensivos e punitivos.
 Mensagem Inválida
  ---
 Selecione um espaço com <SIZE 23><ICON PAD_LS></SIZE>.
@@ -22147,8 +22147,8 @@ Mudar suas habilidades ativadas?
 Não é possível ativar
 Cavaleiros Místicos e Arqueiros Mágicos<cf>só podem ativar três habilidades.
 Isto depositará todos os itens desta categoria<cf>de uma vez. Prosseguir?
-Aprenda habilidades de arma de arquistafes.
-Ativar habilidades de arma de arquistafes.
+Aprenda habilidades de arma de arquicajados.
+Ativar habilidades de arma de arquicajados.
 Nós nos preparamos bem... Não há motivo para ficar ansioso.
 Ele corre!
 N-não...
@@ -24985,11 +24985,11 @@ Melhor fugir agora, enquanto podemos.
 Você viu o abismo? Tem um buraco que não tem conserto...
 Sinto falta dos dias em que minhas maiores preocupações eram qual pedra encaixar e qual cerveja beber depois.
 Howlen nunca esquece uma dívida, milorde.
-Tá trancado. Cê não tem a chave certa...
+Tá trancado. Você não tem a chave certa...
 Tá preso em alguma coisa. Talvez dê pra abrir do outro lado.
 Tá trancado com ferrolho. Talvez dê pra quebrar.
 Tá bem fechado.
-Não adianta nada nessa hora. Cê vai ter que voltar mais tarde.
+Não adianta nada nessa hora. Você vai ter que voltar mais tarde.
 Melhor parar por agora.
 Parece que tá fechado.
 Alguém passou por aqui...
@@ -25410,11 +25410,11 @@ Prepare com o botão atribuído, então<cf>atire com <ICON SHOT>. Ajuste o ângu
 Segure o botão atribuído para preparar, então<cf>aperte <ICON SHOT> para atirar. Suas<cf>propriedades especiais serão ativadas com o impacto.
 Segure o botão atribuído para conjurar,<cf>solte para iniciar.<cf><ICON ATTACK0> / <ICON ATTACK1>: Eletrificar aliados <ICON JUMP>: Dissipar
 Segure o botão atribuído para conjurar,<cf>solte para lançar. Mova com <SIZE 23><ICON PAD_LS></SIZE>. Dê<cf>para outros na área com <SIZE 25><ICON JUMP></SIZE>.
-Tá trancada. Cê não tem a chave certa...
+Tá trancada. Você não tem a chave certa...
 Tá presa em alguma coisa. Talvez dê pra abrir do outro lado.
 Tá trancada com ferrolho. Talvez dê pra quebrar.
 Tá fechada com força.
-Não adianta nada nessa hora. Cê vai ter que voltar mais tarde.
+Não adianta nada nessa hora. Você vai ter que voltar mais tarde.
 Melhor parar por agora.
 Parece que tá fechado.
 Alguém passou por aqui...
@@ -25679,7 +25679,7 @@ Não, não.
 Ah, muito obrigado.
 Eu... eu tô meio emocionado, na real.
 Eu tava no campo no dia que o dragão atacou a costa, mas ouvi dizer que você o atacou onde ele estava?
-Eu achava que as histórias sobre você e a wyrm eram só boatos até ouvir falar do seu confronto com a hidra.
+Eu achava que as histórias sobre você e o wyrm eram só boatos até ouvir falar do seu confronto com a hidra.
 Tô impressionado, milorde.
 Pensei que vocês, marinheiros, eram brutos no temperamento e fortes no braço, mas isso não era nem metade da coisa!
 Ah, isso? Já passou.
@@ -27683,7 +27683,7 @@ Tente um contra-ataque no dragão.
 
 
 
-Que cê tá pensando que tá fazendo!?
+Que você tá pensando que tá fazendo!?
 Vaza daqui!
 Se acha o bam-bam-bam, é?
 Dá o fora, camarada.
@@ -27836,7 +27836,7 @@ Você chegou à Guilda dos Peões e falou com<cf>Barnaby, o gerente de lá. Reco
 
 
 
-Cê conhece a Torre Lua Azul, camarada? Lá pro nordeste? Ouvi uma história estranha dum mercador uns dias atrás...
+Você conhece a Torre Lua Azul, camarada? Lá pro nordeste? Ouvi uma história estranha dum mercador uns dias atrás...
 Parece que tem um cara que anda vindo e indo por ali ultimamente. Lá longe!
 E dizem que ele espantou todas as feras que viviam lá com alguma magia arcana.
 É ele, digo eu -- aquele feiticeiro que dizem ter roubado uma bugiganga do duque. Qual era mesmo...?
@@ -28205,7 +28205,7 @@ Escolhido para lutar, foi?
 Eu já tinha a sensação de que esse dia chegaria. Quando nos despediríamos de você...
 Pelo menos não preciso me preocupar com você. Você sempre foi bom em navegar em águas turbulentas.
 Só não se esqueça de que este lugar sempre será seu lar.
-Pode ser a wyrm que te faz partir agora...
+Pode ser o wyrm que te faz partir agora...
 Mas você vai por sua livre e espontânea vontade. Esta é uma jornada de sua escolha.
 Siga orgulhoso, pescador, e confie em seu coração.
 Eu invejo suas viagens, primo.
@@ -28678,7 +28678,7 @@ Esta lâmina em forma de foice aumenta em poder a<cf>cada golpe sucessivo que o 
 Uma espada que enferrujou com anos<cf>de desuso.
 Um porrete com ponta de ferro, usado desde a<cf>antiguidade. Requer uma medida de força bruta.
 Uma arma contundente repleta de espinhos,<cf>projetada para infligir ferimentos mortais em<cf>vez de pulverizar inimigos.
-Um bastão bem trabalhado de intenção<cf>bárbara. Sua cabeça pesada fornece forte<cf>impulso para golpes arrasadores.
+Um cajado bem trabalhado de intenção<cf>bárbara. Sua cabeça pesada fornece forte<cf>impulso para golpes arrasadores.
 Uma Obliteratrix de metal alquímico dourado.<cf>Vale uma boa grana, mas de resto,<cf>nada de especial.
 Uma Obliteratrix untada que ensopa<cf>qualquer coisa que atinge com óleo.
 Um porrete pesado pontudo de um lado,<cf>capaz tanto de perfurar carne quanto de<cf>estilhaçar ossos.
@@ -28801,7 +28801,7 @@ Um belo cajado arcano na forma de dragões<cf>duplos, suas formas se torcendo ju
 Detalhes desconhecidos.
 Um cajado arcano com a cabeça de um<cf>olho maligno. Especialmente eficaz contra<cf>qualquer espécie de criatura ocular.
 A gaiola no topo deste cajado arcano contém uma fonte de<cf>energia mágica. Ataques mágicos sucessivos<cf>sem sofrer dano aumentam seu poder, mas no<cf>poder máximo, um golpe derruba a Estamina para 0.
-Um archistaff que enferrujou por <cf>anos de desuso.
+Um arquicajado que enferrujou por <cf>anos de desuso.
 Uma lâmina flamejante que não pode ser <cf>extinta. Possuída por um <cf>encantamento de fogo para sempre.
 Uma espada atingida por um raio dos <cf>céus. Ela sempre crepita com um <cf>encantamento de trovão.
 Uma espada coberta de gelo que rouba de suas <cf>vítimas todo o calor e, portanto, a vida. Seu <cf>encantamento de gelo nunca derrete.
@@ -29139,9 +29139,9 @@ Uma máscara impressionante com a forma de um <cf>dragão feroz. Sua aura domina
 Um tapa-olho modelado a partir de um dragão <cf>caolho da lenda. Dizem que usar <cf>tais remendos era comum em cerimônias <cf>destinadas a apaziguar a ira da besta.
 A coroa da rainha de uma terra há muito <cf>caída, esculpida do coração de um dragão. <cf>Ainda hoje, um pulso ecoa de dentro dela.
 Um elmo que evoca a imagem de um falcão <cf>em voo. Sua forma elegante permite a <cf>evasão da maioria dos danos.
-Um arquibastão infundido com a <cf>magia natural e a névoa tóxica de um dragão amaldiçoado.
-Um arquibastão outrora maculado pela <cf>maldição de um dragão, mas desde então <cf>redimido por magias exóticas. Seu <cf>encantamento sagrado brilhará para sempre.
-Um arquibastão feito carbonizando <cf>Galhos Favoritos e cultivando <cf>gradualmente seu poder. Sangue rico em <cf>magia percorre seu eixo venoso.
+Um arquicajado infundido com a <cf>magia natural e a névoa tóxica de um dragão amaldiçoado.
+Um arquicajado outrora maculado pela <cf>maldição de um dragão, mas desde então <cf>redimido por magias exóticas. Seu <cf>encantamento sagrado brilhará para sempre.
+Um arquicajado feito carbonizando <cf>Galhos Favoritos e cultivando <cf>gradualmente seu poder. Sangue rico em <cf>magia percorre seu eixo venoso.
 Um escudo feito com as escamas de <cf>um dragão. O choque de seu <cf>encantamento de trovão pode roubar a <cf>Força dos inimigos atacantes.
 Um escudo cuja parte externa escamosa foi <cf>moldada por pura malícia. Dizem que ele <cf>canaliza os medos de quem o empunha em <cf>um senso selvagem de empoderamento.
 Um pavês escuro recuperado por magias <cf>sagradas, o brilho de seu encantamento <cf>sagrado pode deslumbrar e distrair os inimigos.
@@ -29704,9 +29704,9 @@ Um tônico da cor de lápis-lazúli, criado<cf>combinando outras substâncias. C
 Um tônico da cor de cobre velho, criado<cf>combinando outras substâncias. Consumir<cf>assim pode não ser uma boa ideia.
 Um tônico da cor de íris, criado<cf>combinando outras substâncias. Consumir<cf>assim pode não ser uma boa ideia.
 Um líquido com um aroma suave. Aplique<cf>para recuperar um pouco de vida para todo<cf>o grupo.
-Um bastão aromático com um cheiro suave.<cf>Use para recuperar uma boa quantidade de vida<cf>para todo o grupo.
+Um cajado aromático com um cheiro suave.<cf>Use para recuperar uma boa quantidade de vida<cf>para todo o grupo.
 Um líquido com um aroma revitalizante. Aplique<cf>para recuperar um pouco de vigor para todo<cf>o grupo.
-Um bastão aromático com um<cf>cheiro revitalizante. Use para recuperar uma boa<cf>quantidade de vigor para todo o grupo.
+Um cajado aromático com um<cf>cheiro revitalizante. Use para recuperar uma boa<cf>quantidade de vigor para todo o grupo.
 Uma bebida produzida com as ervas<cf>cultivadas por Selene.
 Uma bebida encorpada feita com as melhores<cf>ervas tratadas pelas mãos de Selene.
 Uma versão fortificada da bebida feita<cf>com ervas tratadas pelas mãos de Selene.
@@ -30122,10 +30122,10 @@ Um fragmento da arma da morte.<cf>Usado na criação de armas<cf>e armaduras.
 A antiga propriedade da morte.<cf>Usado na criação de armas<cf>e armaduras.
 Um implemento usado antigamente por um<cf>eliminador. Usado na criação de<cf>armas e armaduras.
 Equipamento que já pertenceu a um eliminador.<cf>Usado na criação de armas<cf>e armaduras.
-Peça de equipamento que já pertenceu a um<cf>gorecíclope. Usado na criação de<cf>armas e armaduras.
-O olho horripilante de um gorecíclope,<cf>pode ser usado na criação de<cf>armas e armaduras.
-O poderoso dente de um gorecíclope. Usado<cf>na criação de armas e armaduras.
-Um osso arrancado da carcaça de um<cf>gorecíclope. Usado na criação de<cf>armas e armaduras.
+Peça de equipamento que já pertenceu a um<cf>ciclope sangrento. Usado na criação de<cf>armas e armaduras.
+O olho horripilante de um ciclope sangrento,<cf>pode ser usado na criação de<cf>armas e armaduras.
+O poderoso dente de um ciclope sangrento. Usado<cf>na criação de armas e armaduras.
+Um osso arrancado da carcaça de um<cf>ciclope sangrento. Usado na criação de<cf>armas e armaduras.
 Uma placa de metal que já pertenceu a uma<cf>armadura viva. Usado na<cf>criação de armas e armaduras.
 Uma joia mágica, que já foi propriedade de<cf>uma armadura viva. Usado na<cf>criação de armas e armaduras.
 Uma garra arrancada do membro de um ogro<cf>ancião. Usado na criação de<cf>armas e armaduras.
@@ -30218,8 +30218,8 @@ Um tratado sobre magia de um autor há muito<cf>esquecido. Imbuído com o poder 
 Um tratado sobre magia de um autor há muito<cf>esquecido. Imbuído com o poder de<cf>espalhar luz.
 Um remédio especialmente preparado para uso<cf>pelo Duque. Consuma para recuperar uma<cf>grande quantidade de Saúde.
 Um remédio especial criado a partir de uma<cf>receita alquímica secreta. Consuma para<cf>recuperar completamente sua Saúde.
-Um bastão aromático com um cheiro suave.<cf>Use para recuperar uma grande quantidade<cf>de Saúde para todo o grupo.
-Um bastão aromático com um cheiro suave.<cf>Use para recuperar completamente a<cf>Saúde de todo o grupo.
+Um cajado aromático com um cheiro suave.<cf>Use para recuperar uma grande quantidade<cf>de Saúde para todo o grupo.
+Um cajado aromático com um cheiro suave.<cf>Use para recuperar completamente a<cf>Saúde de todo o grupo.
 Uma pedra que pode levar o usuário de volta<cf>à entrada da Ilha Bitterblack,<cf>mas só pode ser usada no labirinto<cf>imundo dessa ilha amaldiçoada.
 Este item aprimora as seguintes<cf>habilidades de arma:<cf><CSEX>
 Este item aprimora as seguintes<cf>habilidades de arma:<cf><CSEX 0><cf><CSEX 1>
@@ -31957,7 +31957,7 @@ Você o encontrou...
 Ele era meu mestre, embora tenha sido há cem<cf>vidas passadas.
 Quando ele veio enfrentar o dragão, ele recebeu<cf>uma escolha dura demais, cruel demais para fazer.
 Ele não podia viver com nenhuma das respostas, então ele<cf>ofereceu apenas uma maldição em resposta. Aquelas palavras<cf>o viram se tornar o monstro que ele é agora.
-Ao conceder a ele a forma amaldiçoada que ele escolheu,<cf>a wyrm cumpriu seu acordo... e eu<cf>fui o preço.
+Ao conceder a ele a forma amaldiçoada que ele escolheu,<cf>o wyrm cumpriu seu acordo... e eu<cf>fui o preço.
 Eu era sua peoa, e sua amada também.
 Por favor... Você deve libertá-lo.
 Que sua vontade de ferro seja como um martelo para quebrar<cf>os laços de ódio que o mantêm aqui.
@@ -34548,7 +34548,7 @@ Espectros
 Fantasmas
 Magos Esqueleto
 Feiticeiros Esqueleto
-Ogres
+Ogros
 Bandidos
 Aventureiros
 Soldados
@@ -34615,12 +34615,12 @@ Eliminadores
 Strigoi
 Sereias
 Aparições
-Ogres Anciões
+Ogros Anciões
 Brutos Esqueleto
 Cavaleiros Dourados
 Cavaleiros de Prata
 Armadura Viva
-Gorecyclopes
+Ciclope Sangrento
 Observadores
 Come-gente
 Drakes
@@ -34757,7 +34757,7 @@ Os soldados do duque são um bando irremediavelmente desajeitado. Leva uma etern
 De que serve pompa e cerimônia quando isso nos impede de estar nas linhas de frente onde somos necessários?
 Infelizmente, minha posição na corte me dá pouca voz em tais assuntos.
 Isso torna um homem grato por aliados ágeis. Invejo sua liberdade, milorde.
-A wyrm se mostrou.
+O wyrm se mostrou.
 Ainda estamos terrivelmente sem homens, mas a besta não vai esperar por nós.
 Eu mesmo partirei para enfrentá-la em breve, sem dúvida...
 Tenha pena de mim, Arisen, pois me falta o peso da lenda para me fortalecer para o desafio.
@@ -36225,13 +36225,13 @@ Preto Doloroso
 Menisco
 Menisco Dourado
 Menisco Forjado
-Arquistaff Helicoidal
+Arquicajado Helicoidal
 Númen Solar
 Dragões Ascendidos
 Item Desconhecido
 Visão Maligna
 Fúria Enjaulada
-Arquistaff Enferrujado
+Arquicajado Enferrujado
 Guardião do Éden
 Caladbolg
 Almace
@@ -36565,14 +36565,14 @@ Máscara Saint George
 Óculos Pretos
 Óculos Vermelhos
 Capuz de Despedida
-Viseira Wyrmfyre
+Viseira do Fogo Wyrm
 Banda Olho de Dragão
 Diadema Pulso de Dragão
 Elmo Falcão Branco
 Arquicajado da Ruína
 Dragão Sagrado
 Cabo Sanguíneo
-Poleiro do Dragão
+Covil do Dragão
 Aspis Pavoroso
 Broquel Expurgado
 Escudo Diabólico
@@ -37217,7 +37217,7 @@ Pedra-ímã
 Reminiscogumelo
 Grama do Destino
 Erva do Diabo
-Poleiro do Demônio
+Covil do Demônio
 Flor Grandiosa
 Item Desconhecido
 Item Desconhecido
@@ -37690,7 +37690,7 @@ Nenhum Item
 Por acaso você não está com o comboio então!?
 Nos disseram para aguardar uma carroça com carga importante. Não deixaremos nenhum estranho passar até então.
 Vaza daqui!
-Que que cê tá pensando que tá fazendo!?
+Que que você tá pensando que tá fazendo!?
 Cai fora!
 Tá se achando o maioral, é?
 Dá o fora, camarada.
@@ -39113,7 +39113,7 @@ Não sou nenhum estudioso de magia e profecias e tal, mas... você derrotou o dr
 Não entendo por que tá batendo papo comigo -- é melhor levar essa notícia pro Duque Edmun.
 Ah, eu esperava te ver hoje, camarada. Tenho algo pra te contar:
 Eu decidi abandonar a vida de pescador pra viajar pela terra e estudar suas maravilhas.
-E aí, tava pensando se você podia me dar uma força nos preparativos pra minha jornada. Que cê acha da ideia?
+E aí, tava pensando se você podia me dar uma força nos preparativos pra minha jornada. Que você acha da ideia?
 Ajudar
 Agora não
 Eu vou ser eternamente grato, camarada...
@@ -39380,7 +39380,7 @@ Mate 25 corvos.<cf>Region: Toda Gransys
 Derrote 3 grifos.<cf>Region: Toda Gransys
 Derrote 8 ogros.<cf>Região: Toda Gransys
 Derrote 15 súcubos.<cf>Região: Toda Gransys
-Derrote uma archydra.<cf>Região: Câmara da Hesitação
+Derrote uma arquidra.<cf>Região: Câmara da Hesitação
 Derrote 10 olhos malignos.<cf>Região: Everfall
 Derrote 10 sáurios.<cf>Região: Toda Gransys
 Mate 10 aves marinhas.<cf>Região: Toda Gransys
@@ -39868,10 +39868,10 @@ Examine todas as "Recordações de outro<cf>Arisen" dentro da Ilha Bitterblack p
 Mate todos os pirossauros na<cf>Montanha Maculada.<cf>Região: Montanha Maculada
 Derrote os cavaleiros prateados e dourados.<cf>Região: Everfall
 Adquira 3 Chifres de Dragão Amaldiçoado.<cf>Região: Ilha Bitterblack, Estrato Central
-Mate o gorecíclope no Cânion Desalmador.<cf>Região: Cânion Desalmador
-Mate o gorecíclope prisioneiro mantido<cf>na Ilha Bitterblack.<cf>Região: Ilha Bitterblack, Estrato Superior
+Mate o ciclope sangrento no Cânion Desalmador.<cf>Região: Cânion Desalmador
+Mate o ciclope sangrento prisioneiro mantido<cf>na Ilha Bitterblack.<cf>Região: Ilha Bitterblack, Estrato Superior
 Adquira 3 Cristais Vermelho-Sangue.<cf>Região: Ilha Bitterblack, Estrato Central
-Mate o gorecíclope prisioneiro mantido<cf>no Forte Sombrio.<cf>Região: Forte Sombrio
+Mate o ciclope sangrento prisioneiro mantido<cf>no Forte Sombrio.<cf>Região: Forte Sombrio
 Mate a armadura viva nas Catacumbas.<cf>Região: Catacumbas
 Mate a morte na Ilha Bitterblack.<cf>Região: Ilha Bitterblack
 Adquira todos os 13 lendários<cf>armamentos de Bitterblack corrompidos pela feitiçaria.<cf>Região: Ilha Bitterblack
@@ -40139,7 +40139,7 @@ Se um peão de suporte for perdido, quaisquer itens<cf>que ele estava carregando
 Você pode mandar peões de partida com um<cf>único item como um presente para seu criador.
 Você pode passar itens para e de seus peões<cf>no sub menu.
 Vaza daqui!
-Que que cê tá olhando?
+Que que você tá olhando?
 Vaza daqui!
 Quer sangrar, é?
 Não tenho nada pra te dizer.
@@ -42095,7 +42095,7 @@ Porque eu não consigo, pra salvar minha alma.
 E então devo confessar a você que Sua Graça o duque já foi um Arisen.
 Ah, então você sabia? Entendo, entendo.
 Diga-me, então...
-Se você, por algum milagre verdadeiramente inconcebível, replicasse seu feito e matasse a wyrm...
+Se você, por algum milagre verdadeiramente inconcebível, replicasse seu feito e matasse o wyrm...
 E daí?
 Receio que você acharia o duque menos do que satisfeito, para dizer o mínimo.
 Ele governa a terra de cima do cadáver da besta que ele matou, e dois heróis são demais.
@@ -42148,8 +42148,8 @@ Quando o dragão vem, ele não começa a queimar o campo de cara.
 Ele dorme e junta suas forças. Onde, ou por quanto tempo, quem pode dizer?
 A letargia do dragão significa que ainda há tempo para reunir um exército e atacar a besta onde ela dorme.
 ...Embora a conversa vinda do acampamento pinte aquele bando como um bando de idiotas.
-De volta, está você, peixinho?
-Aqui para mais contos do dragão, está?
+Você está de volta, peixinho?
+Está aqui para mais contos do dragão, está?
 Se bem me lembro, o dragão do duque costumava fazer ninhos no extremo norte.
 Dormiu por semanas no topo de algum pico cruel e árido...
 O duque Edmun partiu para enfrentar seu dragão onde ele estava. Lembre-se, isso foi antes de ele ser duque.
@@ -42257,7 +42257,7 @@ Te devo uma, amigo.
 Ansioso por uma luta, hein?
 Seu desgraçado!
 Rragh!
-Vou te sangrar até secar!
+Vou te fazer sangrar até secar!
 Augh, cansei de você!
 Estou muito cansado de ouvir as pessoas reclamando.
 O mundo todo foi para o inferno...
@@ -42703,14 +42703,14 @@ No entanto, nada mais da terra foi engolido. Nada mais o<cf>céu foi manchado de
 Ou deixado, pelo menos, para apodrecer sob a custódia da humanidade.
 Fui deixado com uma única esperança. Um único desejo.
 Trazer de volta a luz aos olhos mortos de<cf>um mirmidão sem mestre.
-Ela era uma peão, eu sabia bem. Não humana.<cf>Não desta terra. E daí?
+Ela era uma peoa, eu sabia bem. Não humana.<cf>Não desta terra. E daí?
 Ela tinha a aparência de Grette. O rosto dela. Querendo ou não,<cf>logo me vi apaixonado.
 Você o conheceu...
 Ele era meu mestre, embora tenha sido há cem<cf>vidas passadas.
 Quando ele veio encarar o dragão, ele<cf>recebeu uma escolha difícil demais, cruel demais para fazer.
 Ele não conseguia viver com nenhuma das respostas, então ele<cf>ofereceu apenas uma maldição em resposta. Essas palavras<cf>o fizeram se tornar o monstro que ele é agora.
 Ao conceder a ele a forma amaldiçoada que ele escolheu,<cf>o wyrm manteve sua barganha... e eu<cf>fui o preço.
-Eu era sua peão, e sua amada também.
+Eu era sua peoa, e sua amada também.
 Por favor... Você deve libertá-lo.
 Que sua vontade de ferro seja como um martelo para estilhaçar<cf>os laços de ódio que o mantêm aqui.
 E se a liberdade estiver além de seu alcance, por favor, ofereça a ele<cf>pelo menos um fim pacífico...
@@ -46033,7 +46033,7 @@ Arco Mágico
 Espada Longa
 Armas Pesadas
 Escudo Mágico
-Arquibastão
+Arquicajado
 Arco Longo
 Habilidades Essenciais
 Aumentos
@@ -46227,7 +46227,7 @@ Sua lista de Favoritos está cheia.<cf>Para registrar peões adicionais, você d
 - Carta de Dragon's Dogma: Dark Arisen-<cf>Nossos peões se encontraram além da fenda. Talvez essa união permita selar um pacto de amizade entre nossos dois reinos. Se quiser, aceite esse pedido de amizade.
 [Uma mensagem de Dragon's Dogma: Dark Arisen]<cf>Nossos peões se encontraram além da fenda. Talvez essa união permita selar um pacto de amizade entre nossos dois reinos. Se quiser, aceite esse pedido de amizade.
 [Uma mensagem de Dragon's Dogma: Dark Arisen]<cf>Nossos peões se encontraram além da fenda. Talvez essa união permita selar um pacto de amizade entre nossos dois reinos. Se quiser, aceite esse pedido de amizade.
-Solicitação de amizade de outro Arisen:<cf><cf>Meu peão me contou que conheceu o seu além da fenda e que viveram aventuras juntos. Aí pensei que talvez a gente pudesse ser amigo também. Que que cê acha?
+Solicitação de amizade de outro Arisen:<cf><cf>Meu peão me contou que conheceu o seu além da fenda e que viveram aventuras juntos. Aí pensei que talvez a gente pudesse ser amigo também. Que que você acha?
 Da próxima vez, vou me esforçar mais ainda.
 Valeu a pena o esforço!
 Esse peão se orgulha do que <cf>conquistamos.
@@ -46252,7 +46252,7 @@ Núcleo
 [Uma habilidade com espada e maça]
 [Uma habilidade com espada longa e martelo]
 [Uma habilidade com cajado]
-[Uma habilidade com cajado e arquistaff]
+[Uma habilidade com cajado e arquicajado]
 [Uma habilidade com adaga]
 [Uma habilidade com escudo]
 [Uma habilidade com escudo mágico]
@@ -47058,7 +47058,7 @@ Vigor Máximo aumentado por um tempo limitado.
 Nível de peso diminuído por um tempo limitado.
 Tá querendo apanhar, é?
 Vaza daqui!
-Que que cê tá olhando?
+Que que você tá olhando?
 Some daqui!
 Que foi?
 Não tenho nada pra te dizer.
@@ -48712,7 +48712,7 @@ Nada é o relato mais bem-vindo de um forte.
 É um tolo quem sai por aí causando problemas sem uma boa razão.
 Quê? Eu... eu não fiz nada de errado. Só fiz meu trabalho, como sempre.
 Você está enganado, eu te garanto.
-Que que cê tá olhando?
+Que que você tá olhando?
 Vaza daqui!
 Quer sangrar, é?
 Some daqui!
@@ -48904,7 +48904,7 @@ Espectros
 Miragens
 Magos Esqueletos
 Feiticeiros Esqueletos
-Ogres
+Ogros
 Bandidos
 Aventureiros
 Soldados
@@ -48971,12 +48971,12 @@ Eliminadores
 Strigoi
 Sereias
 Aparições
-Ogres Anciões
+Ogros Anciões
 Brutos Esqueletos
 Cavaleiros Dourados
 Cavaleiros Prateados
 Armadura Viva
-Gorecyclopes
+Ciclope Sangrento
 Observadores
 Devoradores de Homens
 Drakes Atrozes
@@ -48987,7 +48987,7 @@ Bispos Negros
 Morte
 Daimon
 Leapworms
-Gorecyclops Prisioneiro
+Ciclope Sangrento Prisioneiro
 Problema Serio
 Rosnados perturbadores do antigo poço de Cassardis<cf>assustaram um soldado que buscava refúgio lá dentro.<cf>Investigue a fonte dos sons.
 
