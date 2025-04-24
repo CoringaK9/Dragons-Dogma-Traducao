@@ -1,7 +1,7 @@
 # **🐉 Bem-vindo ao Projeto de Tradução de *Dragon's Dogma*!**  
 *(Organizado por **CoringaK**)*  
 
-🔍 **Estamos revisando e melhorando a tradução do jogo** para torná-la mais fiel, imersiva e divertida em português! Se você é fã do jogo ou ama traduções de games, **sua ajuda é essencial** para esse projeto colaborativo.  
+🔍 **Estou revisando e melhorando a tradução do jogo** para torná-la mais fiel, imersiva e divertida em português! Se você é fã do jogo ou ama traduções de games, **sua ajuda é essencial** para esse projeto colaborativo.  
 
 ---
 
@@ -39,8 +39,7 @@ Queremos uma tradução **natural para o PT-BR**, então:
 
 ---
 
-## **💬 Discussão e Dúvidas**  
-- **Discord da Amianto**: [https://discord.gg/9Mme95JA2T](#) *(comunidade ativa para debater termos difíceis!)*  
+## **💬 Discussão e Dúvidas**   
 - **Issues do GitHub**: Abra uma *Issue* para sugerir mudanças globais ou discutir expressões polêmicas.  
 
 ---
