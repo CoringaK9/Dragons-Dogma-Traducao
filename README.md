@@ -62,6 +62,6 @@ Todos os contribuidores serão creditados no **arquivo `CREDITOS.md`** e nos lan
 
 ### **DDA-PT-BR-NEXUS:**  
 
-nexusmods.com/dragonsdogma/mods/1103
+[nexusmods.com/dragonsdogma/mods/1103]Download
 
 ---
