@@ -428,8 +428,8 @@ Esgotar toda a Stamina vai te impedir<cf>de agir por um tempo. Se liga pra conse
 Você pode atacar enquanto está agarrado nos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizador Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
-Seu rank dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa quests. Em ranks<cf>mais altos, uma variedade maior de habilidades estão disponíveis.
-Derrotar inimigos e completar quests te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
+Seu rank dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em ranks<cf>mais altos, uma variedade maior de habilidades estão disponíveis.
+Derrotar inimigos e completar missões te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
 Os peões vão coletar e usar itens por<cf>conta própria.
 Você não pode carregar ou comprar itens que<cf>fariam você exceder seu peso máximo<cf>permitido.
 Aperte <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>pra descer rapidão.
@@ -3578,11 +3578,11 @@ Quarta Gema dos salvadores
 Chave do Altar do Deus da Água
 Chave da Pedreira
 Portcrystal
-Wakestone
+Pedra do Despertar
 Licença de Caça ao Wyrm
 Permissão do Jardineiro
 Lousa Antiga
-Fragmento de Wakestone
+Fragmento de Pedra do Despertar
 Item Desconhecido
 Item Desconhecido
 Contrato Incriminatório
@@ -3702,8 +3702,8 @@ Flor Murcha Guardada
 Ferrystone
 Dedo do Criador
 Portcrystal
-Wakestone
-Fragmento de Wakestone
+Pedra do Despertar
+Fragmento de Pedra do Despertar
 Perfume Repugnante
 Falsificação do Grimório de Salomet
 Falsificação do Ídolo de Ouro
@@ -5179,7 +5179,7 @@ Policristal da Fenda
 Cristal da Fenda Perfeito
 Garra de Daimon
 Chifre de Daimon
-Wakestone Vil
+Pedra do Despertar Vil
 Quartzo do Feiticeiro
 Carapaça Violeta
 Olho Abissal
@@ -8357,9 +8357,9 @@ Quando você alcançar um certo nível,<cf>pode ir à estalagem pra pegar<cf>voc
 Materiais coletados durante suas viagens<cf>podem ser usados em lojas ou outros lugares<cf>pra melhorar seus equipamentos.
 Cristais de teletransporte funcionam junto com<cf>Pedras de Teletransporte.
 Finque este Cristal de Teletransporte no chão em<cf>qualquer lugar, menos em uma dungeon, e você pode usar<cf>uma Pedra de Teletransporte pra voltar lá rapidinho.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
-Guarde cada Wakestone, porque os fragmentos<cf>necessários pra formá-las são bem raros, e<cf>cada pedra só pode ser usada uma vez.
-Junte Fragmentos de Wakestone suficientes e<cf>eles vão se juntar automaticamente pra<cf>formar uma pedra completa.
+Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
+Guarde cada Pedra do Despertar, porque os fragmentos<cf>necessários pra formá-las são bem raros, e<cf>cada pedra só pode ser usada uma vez.
+Junte Fragmentos de Pedra do Despertar suficientes e<cf>eles vão se juntar automaticamente pra<cf>formar uma pedra completa.
 Murais de avisos por Gransys anunciam<cf>missões -- tarefas e favores que você pode<cf>escolher fazer.
 Quando você estiver conectado online, os atributos<cf>do seu peão principal serão enviados toda<cf>vez que você descansar em uma estalagem.
 Seu peão principal também vai ganhar bônus<cf>conquistados em outros mundos na estalagem. Visite<cf>com frequência pra ficar por dentro das novidades.
@@ -8555,8 +8555,8 @@ Acabar com toda a Stamina vai te deixar incapaz<cf>de agir por um tempo. Se liga
 Você pode atacar enquanto tá agarrado nos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Usa Suavizador Secreto ou algo parecido pra<cf>curar qualquer aliado petrificado.
-Seu rank dentro de uma vocação sobe conforme você<cf>derrota inimigos e completa quests. Em ranks<cf>mais altos, uma variedade maior de habilidades fica disponível.
-Derrotar inimigos e completar quests te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
+Seu rank dentro de uma vocação sobe conforme você<cf>derrota inimigos e completa missões. Em ranks<cf>mais altos, uma variedade maior de habilidades fica disponível.
+Derrotar inimigos e completar missões te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
 Os peões coletarão e usarão itens por <cf>conta própria.
 Você não pode carregar ou comprar itens que<cf>fariam você exceder seu limite máximo de<cf>carga.
 Aperte <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
@@ -11777,7 +11777,7 @@ Bandidos... Mas eles podem ser encontrados por toda<cf>Gransys.
 Os bandidos do Martelo de Ferro são conhecidos por negociar<cf>grimórios e outras curiosidades.
 Fizemos o que foi pedido. Que bom que foi.
 Era um tomo de poder considerável.<cf>Ele deve estar bem satisfeito em tê-lo.
-Ouvi dizer que Wakestones podem ser encontrados<cf>no Everfall.
+Ouvi dizer que Pedras do Despertar podem ser encontrados<cf>no Everfall.
 Parece que nosso trabalho aqui está feito.<cf>Bom trabalho, Mestre.
 Os mortos respiram mais uma vez... Que<cf>cena estranha.
 Ouso dizer que teremos utilidade para tal poder em<cf>nossas jornadas futuras.
@@ -12019,12 +12019,12 @@ O vazio escuro do Everfall parece não ter fim.<cf>E ainda assim você se sente 
 
 
 Junte as Pedras
-Siga as instruções do peão e colete<cf>o número necessário de Wakestones.
+Siga as instruções do peão e colete<cf>o número necessário de Pedras do Despertar.
 
 
 
 Entregue as Pedras
-Leve as Wakestones coletadas de volta ao peão.
+Leve as Pedras do Despertar coletadas de volta ao peão.
 
 
 
@@ -16673,7 +16673,7 @@ Segure o botão designado para preparar, então<cf>aperte <SIZE 20><ICON SHOT></
 Segure o botão designado para preparar, então<cf>aperte <SIZE 20><ICON SHOT></SIZE> para atirar.
 Segure o botão designado para preparar, então<cf>aperte <SIZE 20><ICON SHOT></SIZE> para atirar.
 
-Quests do Quadro de Avisos: Estalagem de Gran Soren
+Missões do Quadro de Avisos: Estalagem de Gran Soren
 Procura-se: Peão Habilidoso<cf>Todos os tipos de pedidos são postados aqui. Talvez<cf>você possa aprimorar sua reputação como Arisen.
 
 
@@ -20756,7 +20756,7 @@ A saída está logo ali! Quase chegamos!
 Pise com cuidado, Arisen. Esta ponte é velha além da imaginação.
 É melhor atravessarmos rápido.
 Eu não confio nessa ponte.
-Uma pedra para trazer os mortos de volta à vida? Você fala das Wakestones, Arisen.
+Uma pedra para trazer os mortos de volta à vida? Você fala das Pedras do Despertar, Arisen.
 Pedras vermelhas como sangue, enfeitiçadas com magia arcana. A Desprezo da Morte, também são chamadas.
 Que estranho você mencionar isso: ouvi dizer que um mercador ambulante encontrou uma em uma caverna há poucos dias.
 Pode não dar em nada, mas você pode procurar a pedra nas prateleiras das lojas de Gran Soren.
@@ -22451,7 +22451,7 @@ Não há espaço disponível suficiente na unidade de disco rígido.<cf>Para ini
 Este jogo usa uma função de Auto-Save.<lf>Por favor, não desligue o sistema PlayStation®4<lf>enquanto o indicador de Auto-Save estiver sendo exibido.
 Verificando dados salvos.<cf>Por favor, não desligue seu<cf>sistema PlayStation®4.
 Criando novos dados salvos...<cf>Por favor, não desligue seu<cf>sistema PlayStation®4.
-Quests do Quadro de Pedidos: Ilha Bitterblack
+Missões do Quadro de Pedidos: Ilha Bitterblack
 Todo tipo de pedido e preocupação são postados<cf>aqui. A conclusão bem-sucedida de cada um rende<cf>uma recompensa base de 20.000 de ouro e 12.000 de experiência.
 
 
@@ -22466,18 +22466,18 @@ Faça o que for necessário para cumprir a<cf>tarefa designada a você.
 
 
 
-Quest Bem-Sucedida
-Você cumpriu sua missão. Recompensa da quest<cf>recebida.
+Missão Bem-Sucedida
+Você cumpriu sua missão. Recompensa da missão<cf>recebida.
 
 
 
-Quest Falhou
+Missão Falhou
 Uma ação importante não foi realizada.
 
 
 
-Não é Possível Continuar a Quest
-A quest não pode mais ser concluída.
+Não é Possível Continuar a Missão
+A missão não pode mais ser concluída.
 
 
 
@@ -23257,7 +23257,7 @@ A gente não trabalha com essas coisas de grimórios por aqui.
 Nosso negócio é honesto. Esses tomos de magia geralmente são falsificações ou propriedade roubada.
 Ei, aí vai uma ideia. Por que não pergunta para um ladrão?
 Eles têm mais chances de ter isso do que pessoas honestas como eu, eu <cf>garanto.
-Quests do Quadro de Avisos: Porão da Guilda dos Peões
+Missões do Quadro de Avisos: Porão da Guilda dos Peões
 Todos os tipos de oportunidades de treinamento são postados <cf>aqui. A conclusão bem-sucedida rende uma recompensa base <cf>de 1.000 de experiência.
 
 
@@ -24587,9 +24587,9 @@ Uma Pedra de Teletransporte te leva de volta para Gran<cf>Soren em um instante, 
 Cristais de Teletransporte funcionam em conjunto com<cf>Pedras de Teletransporte.
 Um círculo de Cristais de Teletransporte está colocado<cf>no chão em Gran Soren, mas outro cristal<cf>móvel pode ser encontrado em algum lugar em Gransys.
 Coloque este Cristal de Teletransporte no chão em<cf>qualquer lugar, exceto em uma masmorra, e você pode usar<cf>uma Pedra de Teletransporte para retornar lá em um instante.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
-Preze cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bem raros,<cf>e cada pedra só pode ser usada uma vez.
-Junte fragmentos de Wakestone suficientes<cf>e eles se montarão automaticamente para<cf>formar uma pedra completa.
+Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
+Preze cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros,<cf>e cada pedra só pode ser usada uma vez.
+Junte fragmentos de Pedra do Despertar suficientes<cf>e eles se montarão automaticamente para<cf>formar uma pedra completa.
 Este é seu peão principal, o companheiro que<cf>você criou como Arisen. Ele sempre agirá<cf>como seu servo fiel.
 Sob sua orientação, seu peão principal vai<cf>aprender e evoluir suas habilidades e outros<cf>comportamentos no decorrer de suas aventuras.
 Peões também podem dar conselhos, como<cf>acharem adequado, em áreas específicas.
@@ -25291,9 +25291,9 @@ Pode haver outro caminho.
 É uma arma poderosa... Pena que não funciona.
 Perto de paredes ou bordas, pressione <TUTO><SIZE 25><ICON LIFT></SIZE> na<cf>hora certa para se agarrar.
 Pule no Everfall para explorar a próxima<cf>área das ruínas.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
-Aprecie cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
-Junte fragmentos de Wakestone suficientes e<cf>eles se montarão automaticamente para<cf>formar uma pedra completa.
+Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
+Aprecie cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
+Junte fragmentos de Pedra do Despertar suficientes e<cf>eles se montarão automaticamente para<cf>formar uma pedra completa.
 Seu peão principal ganhará rift crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a alistar seu lacaio!
 Uma Ferrystone te leva de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra some após<cf>um único uso.
@@ -27240,9 +27240,9 @@ A alavanca foi removida. É inútil neste estado.
 Não vai abrir... Parece que é controlado por algum<cf>dispositivo.
 Uma alavanca está firmemente presa.
 Se você continuar, não poderá<cf>voltar por um tempo. Certifique-se de que está<cf>bem preparado.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados peões ou<cf>outros de volta à vida.
-Atesoure cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
-Junte fragmentos de Wakestone suficientes e<cf>eles se montarão automaticamente para<cf>formar uma pedra completa.
+Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, aliados peões ou<cf>outros de volta à vida.
+Atesoure cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
+Junte fragmentos de Pedra do Despertar suficientes e<cf>eles se montarão automaticamente para<cf>formar uma pedra completa.
 Uma Ferrystone vai te levar de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra desaparece após<cf>um único uso.
 Você pode se equipar com uma arma primária e<cf>uma arma secundária.
@@ -32607,9 +32607,9 @@ Você está indo bem com o tempo.
 Parece que você veio na hora errada.
 Pode haver outro caminho.
 É uma arma poderosa... Que pena que não funciona.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
-Atesoure cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
-Junte fragmentos de Wakestone suficientes e<cf>eles se juntarão automaticamente para<cf>formar uma pedra completa.
+Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
+Atesoure cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
+Junte fragmentos de Pedra do Despertar suficientes e<cf>eles se juntarão automaticamente para<cf>formar uma pedra completa.
 Seu peão principal vai ganhar rift crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a recrutar seu peão!
 Uma Pedra de Teleporte vai te levar de volta pra Gran<cf>Soren num instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra desaparece após<cf>um único uso.
@@ -35245,9 +35245,9 @@ Colete mais coisas assim.
 A fechadura abre.
 Como dizem, é melhor não cutucar cachorro que dorme. Pessoas dormindo também.
 Você pode tentar puxar assunto... mas não vai conseguir.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
-Preze cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
-Junte fragmentos de Wakestone suficientes e<cf>eles se juntarão automaticamente para<cf>formar uma pedra completa.
+Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
+Preze cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
+Junte fragmentos de Pedra do Despertar suficientes e<cf>eles se juntarão automaticamente para<cf>formar uma pedra completa.
 Este jogo tem uma função de salvamento<cf>automático, salvando periodicamente seu<cf>progresso ao longo da aventura.
 Você também pode salvar manualmente a<cf>qualquer momento pressionando <TUTO><SIZE 28><ICON PAD_SL></SIZE> no<cf>Menu de Pausa.
 Você também pode salvar manualmente a<cf>qualquer momento pressionando <TUTO><SIZE 28><ICON PAD_SL></SIZE> no<cf>Menu de Pausa.
@@ -35935,11 +35935,11 @@ Quarta Gema dos salvadores
 Chave do Altar do Deus da Água
 Chave da Pedreira
 Portcrystal
-Wakestone
+Pedra do Despertar
 Licença de Caça ao Wyrm
 Permissão do Jardineiro
 Lousa Antiga
-Fragmento de Wakestone
+Fragmento de Pedra do Despertar
 Item Desconhecido
 Item Desconhecido
 Contrato Incriminatório
@@ -36059,8 +36059,8 @@ Flor Murcha Conservada
 Ferrystone
 Dedo do Criador
 Portcrystal
-Wakestone
-Fragmento de Wakestone
+Pedra do Despertar
+Fragmento de Pedra do Despertar
 Perfume de Wyrmward
 Falsificação do Grimório de Salomet
 Falsificação do Ídolo de Ouro
@@ -37536,7 +37536,7 @@ Policristal da Fenda
 Cristal da Fenda Perfeito
 Garra de Daimon
 Chifre de Daimon
-Wakestone Vil
+Pedra do Despertar Vil
 Quartzo do Feiticeiro
 Carapaça Violeta
 Olho Abissal
@@ -38646,9 +38646,9 @@ Uma Pedra de Traslado irá te levar de volta para<cf>Gran Soren em um instante, 
 Cristais de Transição funcionam em conjunto com<cf>Pedras de Traslado.
 Um círculo de Portcrystals está fincado<cf>no chão em Gran Soren, mas outro cristal<cf>móvel pode ser encontrado em algum lugar de Gransys.
 Enterre este Portcrystal no chão em<cf>qualquer lugar, exceto em uma dungeon, e você<cf>pode usar uma Ferrystone para retornar lá num instante.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
-Aprecie cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
-Junte Wakestone Shards suficientes e<cf>eles vão se juntar automaticamente para<cf>formar uma pedra completa.
+Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
+Aprecie cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
+Junte Pedra do Despertar Shards suficientes e<cf>eles vão se juntar automaticamente para<cf>formar uma pedra completa.
 Este é seu peão principal, o companheiro que<cf>você criou como Arisen. Ele sempre agirá como<cf>seu servo fiel.
 Sob sua orientação, seu peão principal vai<cf>aprender e evoluir suas habilidades e outros<cf>comportamentos no decorrer de suas aventuras.
 Peões também podem dar conselhos, como<cf>acharem melhor, em áreas específicas.
@@ -40453,10 +40453,10 @@ Como dizem, é melhor não cutucar onça com vara curta. Pessoas dormindo també
 Você poderia tentar puxar conversa... você simplesmente não vai conseguir.
 Portcrystals funcionam em conjunto com <cf>Ferrystones.
 Grave este Portcrystal no chão em qualquer <cf>lugar, exceto em uma dungeon, e você pode usar <cf>uma Ferrystone para retornar lá em um instante.
-Wakestones são itens milagrosos que podem <cf>trazer seu personagem, peões aliados ou <cf>outros de volta à vida.
-Preze cada Wakestone, pois os fragmentos <cf>necessários para formá-los são bem raros, e <cf>cada pedra só pode ser usada uma vez.
-Junte fragmentos de Wakestone suficientes e <cf>eles se montarão automaticamente para <cf>formar uma pedra completa.
-Quadros de avisos por Gransys divulgam <cf>quests -- tarefas e favores que você pode <cf>escolher realizar.
+Pedras do Despertar são itens milagrosos que podem <cf>trazer seu personagem, peões aliados ou <cf>outros de volta à vida.
+Preze cada Pedra do Despertar, pois os fragmentos <cf>necessários para formá-los são bem raros, e <cf>cada pedra só pode ser usada uma vez.
+Junte fragmentos de Pedra do Despertar suficientes e <cf>eles se montarão automaticamente para <cf>formar uma pedra completa.
+Quadros de avisos por Gransys divulgam <cf>missões -- tarefas e favores que você pode <cf>escolher realizar.
 Quando você estiver conectado online, os <cf>atributos do seu peão principal serão enviados <cf>toda vez que você descansar em uma estalagem.
 Seu peão principal também ganhará dádivas <cf>conquistadas em outros mundos na estalagem. <cf>Visite sempre para se manter atualizado.
 Mudar de vocação tem um custo para sua <cf>disciplina, então pense bem antes de <cf>tomar uma decisão.
@@ -40862,9 +40862,9 @@ Você está indo bem no tempo.
 Parece que você veio na hora errada.
 Pode haver outro caminho.
 É uma arma poderosa... Pena que não funciona.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
-Aprecie cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
-Junte fragmentos de Wakestone suficientes e<cf>eles vão se juntar automaticamente para<cf>formar uma pedra completa.
+Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
+Aprecie cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
+Junte fragmentos de Pedra do Despertar suficientes e<cf>eles vão se juntar automaticamente para<cf>formar uma pedra completa.
 Seu peão principal vai ganhar rift crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a contratar seu lacaio!
 Uma Ferrystone vai te levar de volta para Gran<cf>Soren num instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra desaparece após<cf>um único uso.
@@ -41987,7 +41987,7 @@ Tipos de Armaduras Obtidas
 Melhorias de Armas
 Melhorias de Armaduras
 Pedras de Teletransporte Usadas
-Wakestones Usadas
+Pedras do Despertar Usadas
 Vezes que Itens Foram Combinados
 Itens Escavados Comprados
 Colheitas
@@ -42477,7 +42477,7 @@ Deletar Dados Inválidos
 Tirar Foto
 Um pacote com 2000 cristais da fenda. Após a compra, é necessário adicionar os Cristais da Fenda aos seus dados salvos. Uma vez que eles tenham sido adicionados, o item desaparecerá. Você pode comprar este pacote mais de uma vez.*Você deve completar a missão do prólogo antes que os Cristais da Fenda estejam disponíveis em seu jogo.*Erros de transferência de dados ou outros problemas podem fazer com que os dados não sejam adicionados aos dados salvos. Não há devoluções ou reembolsos nesses casos. Por favor, tenha cuidado.
 Um pacote considerável com 5000 cristais da fenda. Após a compra, é necessário adicionar os Cristais da Fenda aos seus dados salvos. Uma vez que eles tenham sido adicionados, o item desaparecerá. Você pode comprar este pacote mais de uma vez. *Você deve completar a missão do prólogo antes que os Cristais da Fenda estejam disponíveis em seu jogo. *Erros de transferência de dados ou outros problemas podem fazer com que os dados não sejam adicionados aos dados salvos. Não há devoluções ou reembolsos nesses casos. Por favor, tenha cuidado.
-Um pacote gigante de 30000 Rift Crystals. Depois da compra, é necessário adicionar os Rift Crystals aos seus dados salvos. Uma vez adicionados, o item desaparecerá. Você pode comprar este pacote mais de uma vez. *Você deve completar a quest do prólogo antes que os Rift Crystals estejam disponíveis no seu jogo. *Erros de transferência de dados ou outros problemas podem impedir que os dados sejam adicionados aos dados salvos. Não há devoluções ou reembolsos nesses casos. Por favor, tenha cuidado.
+Um pacote gigante de 30000 Rift Crystals. Depois da compra, é necessário adicionar os Rift Crystals aos seus dados salvos. Uma vez adicionados, o item desaparecerá. Você pode comprar este pacote mais de uma vez. *Você deve completar a missão do prólogo antes que os Rift Crystals estejam disponíveis no seu jogo. *Erros de transferência de dados ou outros problemas podem impedir que os dados sejam adicionados aos dados salvos. Não há devoluções ou reembolsos nesses casos. Por favor, tenha cuidado.
 Dê um up no seu estilo e no do seu peão com esta nova seleção de dois penteados, dois estilos de barba e quatro variações de cor para a ferramenta de personalização de personagem!
 Você vai virar cabeças em toda Gransys com este conjunto de seis trajes pertencentes a alguns rostos familiares. Os trajes estarão disponíveis para compra no Gato Preto em Gran Soren. Como bônus, você encontrará um de cada um dos trajes esperando por você no seu armazenamento de itens após a compra. É só procurar pelos ícones verde-azulados! <cf><cf>*O bônus só pode ser aplicado uma vez por dados salvos.<cf>*Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
 O pacote disponibiliza 7 novos equipamentos para compra no Gato Preto em Gran Soren, incluindo alguns que serão úteis na sua descida ao labirinto da Ilha Bitterblack. Como bônus, você encontrará um de cada um esperando por você no seu armazenamento de itens após a compra. É só procurar pelos ícones verde-azulados! *O bônus só pode ser aplicado uma vez por dados salvos. *Se os itens forem descartados ou doados durante o jogo, eles serão perdidos.
@@ -42584,18 +42584,18 @@ Dê o mapa para quem você deseja impressionar<cf>e viaje até o local designado
 
 
 
-Quest Falhou
+Missão Falhou
 Um ato importante ficou por fazer.
 
 
 
-Não é Possível Continuar a Quest
-A quest não pode mais ser completada.
+Não é Possível Continuar a Missão
+A missão não pode mais ser completada.
 
 
 
-Quest Bem Sucedida
-Você chegou ao destino com seu<cf>companheiro. Recompensa da quest recebida.
+Missão Bem Sucedida
+Você chegou ao destino com seu<cf>companheiro. Recompensa da missão recebida.
 
 
 
@@ -43288,9 +43288,9 @@ O Ur-Dragon é um inimigo incrivelmente poderoso.<cf>Derrotá-lo requer múltipl
 Quando você estiver conectado online, o progresso<cf>de outros jogadores contribuirá para<cf>derrotar o Ur-Dragon na sua instância.
 A recompensa que você ganha depende de<cf>quanto dano você causa. Se você tiver muita<cf>sorte, você pode até dar o golpe final!
 Um inimigo poderoso e maligno espreita por perto.<cf>Tenha cuidado ao engajar peões em batalha, pois<cf>eles podem estar sob sua influência.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
-Aprecie cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
-Junte fragmentos de Wakestone suficientes e<cf>eles se juntarão automaticamente para<cf>formar uma pedra completa.
+Pedras do Despertar são itens milagrosos que podem<cf>trazer seu personagem, peões aliados ou<cf>outros de volta à vida.
+Aprecie cada Pedra do Despertar, pois os fragmentos<cf>necessários para formá-los são bem raros, e<cf>cada pedra só pode ser usada uma vez.
+Junte fragmentos de Pedra do Despertar suficientes e<cf>eles se juntarão automaticamente para<cf>formar uma pedra completa.
 Um Ferrystone te leva de volta para Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viajar, mas cada pedra desaparece após<cf>um único uso.
 Você pode se equipar com uma arma primária e<cf>uma arma secundária.
@@ -44272,8 +44272,8 @@ Esgotar toda a Stamina o deixará incapaz<cf>de agir por um tempo. Tenha cuidado
 Você pode atacar enquanto se agarra aos inimigos.
 Petrificação não pode ser curada por magia<cf>normal, e é fatal se não for tratada.
 Use Suavizador Secreto ou algo parecido para<cf>curar quaisquer aliados petrificados.
-Seu rank dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa quests. Em ranks mais altos,<cf>uma variedade maior de habilidades está disponível.
-Derrotar inimigos e completar quests te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
+Seu rank dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em ranks mais altos,<cf>uma variedade maior de habilidades está disponível.
+Derrotar inimigos e completar missões te dá<cf>mais disciplina, aumentando sua proeza<cf>em uma vocação.
 Peões coletarão e usarão itens por sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>fariam você exceder seu peso máximo.
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
@@ -47151,7 +47151,7 @@ Mensagem Inválida
 Mensagem Inválida
 Mensagem Inválida
 O Anel do Rei Wyrm
-Quest de Ordens Reais<cf>Um ladrão fugiu com o anel mágico do duque,<cf>um tesouro do reino. Ele deve ser recuperado.
+Missão de Ordens Reais<cf>Um ladrão fugiu com o anel mágico do duque,<cf>um tesouro do reino. Ele deve ser recuperado.
 
 
 
@@ -49605,11 +49605,11 @@ Por favor... Pegue isto.
 Minha senhora reuniu coisas como estas enquanto procurava seu caminho pelas profundezas.
 Ela morreu antes de terminar. Se você quiser assumir a tarefa dela, por favor, traga-as aqui para mim.
 Confio que você verá a vontade da minha senhora ser cumprida.
-Eu imploro. Traga as Wakestones aqui.
+Eu imploro. Traga as Pedras do Despertar aqui.
 Eu o esperarei mais adiante.
 Sim, finalmente... Finalmente você reuniu todas elas.
 Com elas, você pode invocar uma fenda de poder considerável.
-Esta fenda, nascida do poder das Wakestones, o guiará adiante, Arisen.
+Esta fenda, nascida do poder das Pedras do Despertar, o guiará adiante, Arisen.
 Temo que não haja como retornar a este lugar. Você está preparado para seguir em frente?
 Sim
 Ainda não
