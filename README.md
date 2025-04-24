@@ -63,6 +63,6 @@ Todos os contribuidores serão creditados no **arquivo `CREDITOS.md`** e nos lan
 ### **DDA-PT-BR:**  
 
 
-https://imgur.com/a/SzKDkVS
+[https://www.nexusmods.com/dragonsdogma/mods/1103]
 
 ---
