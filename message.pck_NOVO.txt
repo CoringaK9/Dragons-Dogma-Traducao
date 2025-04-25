@@ -46,7 +46,7 @@ Vaza daqui, então.
 Sim.
 Keh! Nem pensar.
 Heh, obrigado.
-Você não é um encanto? Que beleza.
+Você não é um encanto? Que fofo.
 O que você é, então?
 Mais importante, quem te deu permissão para falar comigo? Some daqui!
 Bem-vindo à cova dos leões.
@@ -81,7 +81,7 @@ Não gosto da sua cara, cara. Veio para morrer?
 Não temos lugar para homens aqui. Agora vá, antes que eu corte sua garganta de porco!
 Não sinto prazer em caçar homens, além disso.
 Outro dia, outra presa.
-Você não é um encanto? Que beleza.
+Você não é um encanto? Que fofo.
 
 
 Localização
@@ -3052,7 +3052,7 @@ Vá e enfrente o que está além…
 A loucura chama, meu fantoche…
 Madeleine? A jovem que tocava a loja?
 Passou correndo por este lugar há pouco tempo.
-Que beleza, aquela! Provavelmente estava tentando se livrar de algum pretendente que veio pedi-la em casamento, hein? Heh heh.
+Que lindeza, aquela! Provavelmente estava tentando se livrar de algum pretendente que veio pedi-la em casamento, hein? Heh heh.
 Claro, ouvi boatos sobre ela estar em apuros... Pode ser que ela estivesse fugindo da Guarda.
 Ngh!
 Oof!
@@ -17413,7 +17413,7 @@ Já temos luz suficiente aqui.
 Nossa lanterna ficou sem óleo.
 Vamos precisar de mais óleo pra lanterna.
 Boa!
-Que beleza!
+Magnífico!
 Conseguimos!
 Ufa... Parece que vencemos.
 Que inimigo formidável...
@@ -19831,7 +19831,7 @@ Dizem que os ídolos vêm em vários formatos.
 Não importa qual você pegar, o importante é que ele me deixe negociar com o ferreiro.
 Confio que você é bom no que faz, senão nem te pediria.
 Um ídolo? Pela Mãe Divina, me dá isso aqui!
-Que beleza... Dá pra ver a qualidade do trabalho.
+Magnífico... Dá pra ver a qualidade do trabalho.
 É, vai servir...
 Mmm... Bem simples, né? Mas tudo bem...
 Vou rapidinho falar com o armeiro.
@@ -21144,7 +21144,7 @@ Ter você vindo visitá-la com tanta frequência é, sem dúvida,<cf>um alívio 
 E devo confessar, vi um brilho nos olhos da senhora quando<cf>ela fala de você.
 Tal companhia é uma bênção, realmente. Ainda mais para alguém tão distante de seus parentes e amigos.
 Saudações, Arisen. Você já se encontrou com minha senh... a Duquesa Aelinore?
-Que beleza, oui? Mesmo na corte de Meloire, ela era famosa<cf>por sua bela aparência.
+Uma lindeza, oui? Mesmo na corte de Meloire, ela era famosa<cf>por sua bela aparência.
 Tive o privilégio de cuidar dela desde que era apenas uma criança, e ainda a adoro como se fosse meu próprio sangue.
 E agora, ver a criança que tenho tão perto ir se casar em uma terra tão estrangeira...
 Deveria ter sido um casamento grandioso, eu acho. Um banquete,<cf>se nada mais.
@@ -37959,7 +37959,7 @@ Ajudar os outros é o trabalho do Criador, amigo.<cf>Por que não deixa isso pra
 Eu não sou do tipo que aceita ordens, além disso.<cf>Eu vou pra onde eu quero. Parece que somos parecidos nisso.
 Nossa, que surpresa. Quer dizer que você pode ir e<cf>vir como quiser, então?
 Eu achava que todo mundo que vinha pra esse lugar tava<cf>perdido para o mundo lá fora. Eu incluso.
-Ah, beleza. É a exceção que prova a<cf>regra, ou é o que dizem.
+Ah, certo. É a exceção que prova a<cf>regra, ou é o que dizem.
 Meu trabalho? Não é óbvio? ...Heh, não, acho<cf>que não é mesmo.
 Eu sou uma espécie de estudioso errante, e um Arisen<cf>além disso, embora eu não pareça nenhum dos dois.
 Na verdade, eu abandonei essa palhaçada de caçar wyrm. Uma<cf>atividade perigosa, e as recompensas são mixurucas.
@@ -48753,7 +48753,7 @@ Que te vá bem, então. Que te vá bem.
 Ah, sim.
 Isso não é verdade.
 Desculpa o transtorno.
-Olha só, que beleza, meu bom.
+Olha só, que magnífico, meu bom.
 Se tem tempo sobrando, tem tempo pra dar uma olhada.
 Ahh, bom olho, meu bom.
 Coleção bacana, hein?
@@ -48775,7 +48775,7 @@ Tempos sombrios, amigo. Os mais sombrios de todos pra comerciantes como eu, temo
 Você esperaria que a maioria das pessoas quisesse estar bem abastecida pra chegada do dragão, mas não! Ha!
 Isso pode ser a morte dos negócios, até pra mim.
 Ainda assim, é melhor continuar até o fim chegar, né?
-Olha só, que beleza, meu bom.
+Olha só, que magnífico, meu bom.
 <SHOP>Aqui está: As mercadorias de hoje.
 Comprar
 Vender
