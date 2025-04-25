@@ -494,7 +494,7 @@ Isso eu não posso fazer.
 Ninguém pode apressar a maré, né?
 O mundo enlouqueceu, camarada.
 Trabalhar no mar não deixa tempo pra preocupações.
-Beleza, qual o próximo?
+Tudo bem, qual o próximo?
 Calma aí, pescador.
 É loucura, pura e simples...
 Dá uma olhada!
@@ -712,7 +712,7 @@ Nf.
 Hya!
 Hee hee...
 Até a próxima.
-Beleza.
+Tudo bem.
 Mmm...
 Obrigado.
 Oh, muito obrigado.
@@ -2089,7 +2089,7 @@ Um homem da Fé -- ou pelo menos era o que<cf>alegava -- me ofereceu uma boa gra
 As trompas que os guardas da capital tocam são<cf>lindas, e o som delas é tão claro e puro quanto<cf>uma manhã de primavera. Queria ter uma pra mim.
 O telhado desgraçado começou a vazar que nem<cf>uma peneira furada. Até em dias de sol agora,<cf>a gente é atormentado pelos pingos do resto da<cf>última chuva, encharcados na palha. Um balde<cf>só não tá dando conta. Por favor, alguém me<cf>arrume outro!
 Que as escamas do dragão amaldiçoem a<cf>loucura que ele desencadeou! Outro dia um<cf>monstro invadiu meus campos. Saí correndo,<cf>gritando e acenando a enxada até que a<cf>desgraça alçou voo. A enxada, isso sim. Perdi<cf>a firmeza, e lá se foi ela. Não dá pra plantar<cf>sem uma, né.
-Eu tava tendo umas DRs com a patroa quando a<cf>doida varrida jogou meu martelo pela<cf>janela. Não consigo fazer nada sem ele. Se<cf>alguém vir a desgraça,<cf>traz pra mim, beleza?
+Eu tava tendo umas DRs com a patroa quando a<cf>doida varrida jogou meu martelo pela<cf>janela. Não consigo fazer nada sem ele. Se<cf>alguém vir a desgraça,<cf>traz pra mim, tudo bem?
 Eu quase esvaziei meus cofres por aquele<cf>pergaminho, e ele foi roubado! Era o único do<cf>tipo, um catálogo de técnicas pra combater<cf>monstros grandes. Toda a minha fortuna dependia<cf>dele, e sumiu! Por favor, me ajudem a<cf>recuperá-lo!
 Dá pra pensar que o dragão trouxe uma praga<cf>de poeira junto, pra ver a nossa casa. Meu<cf>marido tá tendo crises horríveis de tosse. Eu<cf>tinha pensado em limpar a casa e acabar com<cf>o barulho, mas parece que perdi minha vassoura.<cf>Alguém tem uma sobrando?
 Que o Criador me perdoe, perdi minhas escrituras<cf>de novo. Sou um padre fracassado.
@@ -2209,7 +2209,7 @@ Então, surgiu uma coisa -- assunto menor, quase<cf>nada, não se preocupe com i
 Eu gostaria que viajássemos juntos, Arisen. Não posso<cf>revelar detalhes, mas confie em mim que é uma questão<cf>de grande interesse para minha terra natal e a sua.
 Isso pode não dar em nada, mas...<cf>Eu quero me juntar à vanguarda, mas primeiro preciso<cf>aprender melhor a me virar em Gransys. Eu gostaria que você<cf>fosse meu guia... Você topa?<cf>Não me entenda mal, vou te recompensar pelo seu<cf>tempo. Isso é um exercício militar, nada mais.
 Gran disse que havia lugares lindos neste mundo.<cf>Alguns, ainda mais lindos que esta floresta.<cf>Você me mostraria?
-Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho demais pra eu lidar sozinho.<cf>Por que você não vem comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Não tenho muito pra oferecer em troca, mas pensa aí,<cf>beleza?
+Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho demais pra eu lidar sozinho.<cf>Por que você não vem comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Não tenho muito pra oferecer em troca, mas pensa aí,<cf>tudo bem?
 Precisa-se: um guerreiro forte pra servir de<cf>guarda-costas numa viagem curta.
 Tô procurando companhia pra fazer uns<cf>corres. As estradas ficam solitárias, né.
 Por mais que eu lute contra, a vontade de viajar queima<cf>como bafo de dragão no meu peito. A única coisa que impede<cf>minha partida agora é a falta de um companheiro de viagem.
@@ -2404,7 +2404,7 @@ Então, surgiu uma coisa -- assunto menor, quase<cf>nada, não se preocupe com i
 Eu gostaria que viajássemos juntos, Arisen. Não posso<cf>divulgar detalhes, mas confie em mim que é um assunto<cf>de grande interesse para sua terra natal e a minha.
 Isso pode não dar em nada, mas...<cf>Eu quero me juntar à vanguarda, mas primeiro preciso<cf>aprender melhor a me virar em Gransys. Eu gostaria que<cf>você fosse meu guia... Você topa?<cf>Não me entenda mal, vou te recompensar pelo seu<cf>tempo. Isso é um exercício militar, nada mais.
 Gran disse que existem lugares lindos nesse mundo.<cf>Alguns, ainda mais lindos que essa floresta.<cf>Você me mostraria?
-Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho demais pra eu dar conta sozinho.<cf>Por que você não vem comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Não tenho muito pra oferecer em troca, mas pensa aí,<cf>beleza?
+Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho demais pra eu dar conta sozinho.<cf>Por que você não vem comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Não tenho muito pra oferecer em troca, mas pensa aí,<cf>tudo bem?
 Precisa-se: um guerreiro de respeito pra servir de<cf>guarda-costas numa jornada curta.
 Procurando companhia pra fazer umas<cf>paradas por aí. As estradas ficam solitárias, né.
 Por mais que eu tente evitar, a paixão por viajar queima<cf>como bafo de dragão no meu peito. A única coisa que impede<cf>minha partida agora é a falta de um companheiro de viagem.
@@ -2472,7 +2472,7 @@ Então, surgiu uma coisa -- assunto menor, quase<cf>nada, não se preocupe com i
 Eu gostaria que viajássemos juntos, Arisen. Não posso<cf>revelar detalhes, mas confie em mim que é um assunto<cf>de grande interesse para sua terra natal e a minha.
 Pode não dar em nada, mas...<cf>Eu quero entrar na vanguarda, mas primeiro preciso<cf>aprender a me virar em Gransys. Eu queria que você<cf>fosse meu guia... Topa?<cf>Não me entenda mal, eu te pago pelo seu<cf>tempo. É só um exercício militar, nada demais.
 A Gran disse que tem uns lugares lindos nesse mundo.<cf>Uns, até mais bonitos que essa floresta.<cf>Você me mostra?
-Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho pra caramba pra eu dar conta sozinho.<cf>Que tal você vir comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Não tenho muito pra oferecer em troca, mas pensa aí,<cf>beleza?
+Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho pra caramba pra eu dar conta sozinho.<cf>Que tal você vir comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Não tenho muito pra oferecer em troca, mas pensa aí,<cf>tudo bem?
 Precisa-se: um guerreiro fortão pra ser meu<cf>guarda-costas numa viagem curta.
 Tô procurando alguém pra fazer companhia enquanto<cf>eu corro atrás de umas coisas. As estradas ficam<cf>muito desertas, né.
 Por mais que eu tente lutar contra, a vontade de<cf>vagar queima forte como bafo de dragão no meu peito.<cf>A única coisa que me impede de partir agora é a<cf>falta de um companheiro de viagem.
@@ -2540,7 +2540,7 @@ Então, surgiu uma coisa -- assunto menor, quase<cf>nada, não se preocupe com i
 Eu gostaria que viajássemos juntos, Arisen. Eu não posso<cf>revelar detalhes, mas confie em mim que é uma questão<cf>de grande interesse para sua terra natal e a minha.
 Pode não dar em nada, mas...<cf>Eu pretendo me juntar à vanguarda, mas primeiro preciso<cf>aprender melhor a me locomover por Gransys. Eu gostaria que você<cf>fosse meu guia... Você topa?<cf>Não me entenda mal, eu vou te recompensar pelo seu<cf>tempo. Isso é um exercício militar, nada mais.
 Gran disse que havia lugares lindos nesse mundo.<cf>Alguns, até mais lindos que essa floresta.<cf>Você me mostraria?
-Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho demais pra eu lidar sozinho.<cf>Por que você não vem comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Eu não tenho muito pra oferecer em troca, mas pensa<cf>com carinho, beleza?
+Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho demais pra eu lidar sozinho.<cf>Por que você não vem comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Eu não tenho muito pra oferecer em troca, mas pensa<cf>com carinho, tudo bem?
 Precisa-se: um guerreiro de certa força para servir de<cf>guarda-costas numa jornada curta.
 Procurando companhia enquanto eu faço umas<cf>paradas. As estradas ficam solitárias, afinal.
 Por mais que eu lute, a paixão por viajar queima forte como<cf>bafo de dragão no meu peito. A única coisa que impede<cf>minha partida agora é a falta de um companheiro de viagem.
@@ -2608,7 +2608,7 @@ Então, surgiu algo -- assunto menor, quase <cf>nada, não se preocupe com isso 
 Eu gostaria que viajássemos juntos, Arisen. Não posso <cf>revelar detalhes, mas confie em mim que é um assunto <cf>de grande interesse para sua terra natal e a minha.
 Isso pode não dar em nada, mas...<cf>Eu quero me juntar à vanguarda, mas primeiro preciso<cf>aprender a me virar em Gransys. Eu queria que você<cf>fosse meu guia... Topa?<cf>Não me entenda mal, vou te pagar pelo seu<cf>tempo. É só um exercício militar, nada demais.
 A Gran disse que tem uns lugares lindos nesse mundo.<cf>Uns, até mais bonitos que essa floresta.<cf>Você me mostra?
-Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho demais pra eu dar conta sozinho.<cf>Por que você não vem comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Não tenho muito pra oferecer em troca, mas pensa aí,<cf>beleza?
+Tem um lugar que eu tô louco pra explorar, mas tá<cf>cheio de bicho demais pra eu dar conta sozinho.<cf>Por que você não vem comigo, camarada? Você ficou<cf>tão forte, acho que aguenta qualquer parada.<cf>Não tenho muito pra oferecer em troca, mas pensa aí,<cf>tudo bem?
 Precisa-se: guerreiro forte pra ser<cf>guarda-costas numa viagem curta.
 Tô procurando companhia pra fazer uns<cf>corres. As estradas ficam solitárias, né.
 Por mais que eu lute contra, a paixão por viajar queima<cf>forte como bafo de dragão no meu peito. A única coisa que<cf>me impede de partir agora é a falta de um companheiro de viagem.
@@ -3366,7 +3366,7 @@ Não pagar
 Agora que é um de nós, tá na hora de trabalhar um pouco.
 Tem outra gangue de ladrões dando sopa por aqui. Uma cambada arrogante, pra um bando de ratos.
 E o líder banana deles fica sempre tagarelando sobre besteiras de filosofia, de educação e vontade e blá blá blá...
-Vai lá e esmaga o orgulho de uns caras deles, beleza?
+Vai lá e esmaga o orgulho de uns caras deles, tudo bem?
 Para de enrolar. Vai logo acabar com aqueles outros bandidos.
 Ouvi dizer que nos livramos de uns ratos, graças a você.
 Você tem fogo, e um braço forte pra combinar. Gostei disso.
@@ -10965,7 +10965,7 @@ O mundo todo já enlouqueceu<cf>com medo desse dragão...
 Nada de bom virá disso.
 Preciso ir ver os outros, Quina.
 Me avise se algo mudar aqui.
-Beleza.
+Tudo bem.
 Se tem treinamento pra fazer, é melhor<cf>fazer logo.
 É sempre bom aprimorar as habilidades.
 Não foi muito bom...
@@ -11054,7 +11054,7 @@ Se a gente come pra viver, mas não tem comida, como é que isso é viver?
 Toda noite eu acho que o Criador vai me levar enquanto eu durmo, mas a cada amanhecer eu acordo e vejo Ele rindo...
 Noite passada eu sonhei com um banquete com todo tipo de carne e cerveja. Acordado, até um cheirinho já serviria...
 Que foi, tô te irritando com essa parada de fome? Eu sou um mendigo, achou que eu ia falar de quê!?
-Beleza, que tal a gente trocar -- eu vou bancar o Arisen, e você fica aí morrendo de fome na rua.
+Tudo bem, que tal a gente trocar -- eu vou bancar o Arisen, e você fica aí morrendo de fome na rua.
 Metade da cidade vira pó e de alguma forma eu continuo aqui. Que tal essa pra um apocalipse meia-boca?
 Assado...urgh, droga. Tô com fome!
 ...Você é muito gentil.
@@ -14694,10 +14694,10 @@ Ah, que delícia!
 Comprar
 Vender
 Deixa pra lá
-Beleza, então.
+Tudo bem, então.
 Que bom.
 Apareça sempre que tiver algo pra mostrar.
-Beleza, então.
+Tudo bem, então.
 <EQSH>Tem alguma raridade pra vender? Pago bem!
 Comprar
 Vender
@@ -14966,7 +14966,7 @@ Será que o dragão é mais forte ainda?
 Chegou uma remessa de mercadorias. A estrada tá fechada até organizarem tudo.
 Tenha paciência. Não vai demorar.
 Diga o que quer. ...É da Guilda dos Peões, é?
-Beleza. Por aqui e à esquerda. Só não arrume confusão, hein?
+Tudo bem. Por aqui e à esquerda. Só não arrume confusão, hein?
 Guilda dos Peões? É por ali e à esquerda.
 A estrada foi liberada. Pode passar, mas, por favor, não arrume encrenca com aquela gente.
 Que visão inesperada.
@@ -15094,11 +15094,11 @@ Outra hora, camarada.
 Dá uma olhada, camarada?
 Vê alguma coisa que te agrade?
 Ah, uma ótima escolha.
-Beleza, então!
+Tudo bem, então!
 Apareça quando quiser.
 Sempre rápido com uma piada, hein.
 Hmm, parece justo, não?
-Beleza, então.
+Tudo bem, então.
 Aqui está.
 Fechado.
 Nem pra você, camarada.
@@ -18202,7 +18202,7 @@ Deixa pra lá
 Se está procurando caridade, procure em outro lugar.
 Esta é minha oferta final.
 Deixe comigo.
-Sim, beleza.
+Sim, tudo bem.
 Nem pensar.
 Hoje em dia, uma boa arma é uma necessidade tão grande quanto comida ou abrigo.
 Confesso, faço isso meio que por amor.
@@ -19833,7 +19833,7 @@ Confio que você é bom no que faz, senão nem te pediria.
 Um ídolo? Pela Mãe Divina, me dá isso aqui!
 Que beleza... Dá pra ver a qualidade do trabalho.
 É, vai servir...
-Mmm... Bem simples, né? Mas beleza...
+Mmm... Bem simples, né? Mas tudo bem...
 Vou rapidinho falar com o armeiro.
 Seus esforços serão recompensados, Arisen. Na próxima vez que nos falarmos, você verá que a minha seleção estará bem melhor!
 Hum... Esperava um trabalho melhor, pra falar a verdade. Mas tudo bem...
@@ -20381,7 +20381,7 @@ Ainda não consigo acreditar...
 Ao Arisen! Que o caminho à frente esteja sempre livre!
 Vossa Graça parece um pouco... estranho para você?
 Adora umas festinhas, né? Meio estranho fazer uma agora, mas...
-A gente continua isso depois, beleza?
+A gente continua isso depois, tudo bem?
 Se divirta... mas não exagera.
 Ocorreu um erro.
 Não foi possível completar a solicitação.
@@ -20524,7 +20524,7 @@ Gwaugh!
 Aaaaugh...
 Ho.
 Hraah!
-'E aí, 'e aí.
+E aí, e aí.
 Adeus, então.
 Ah, sim.
 Acho que não...
@@ -21200,7 +21200,7 @@ Hah!
 Hyagh!
 Ei!
 Até mais.
-Beleza!
+Tudo bem!
 Não...
 Uau, valeu!
 Eba! Valeu!
@@ -22721,7 +22721,7 @@ Essa é uma piada cruel...
 Hmm, o que me diz disso?
 Pra mim?
 Aqui está.
-Beleza.
+Tudo bem.
 Nem pensar!
 Aí, que foi?
 Não me torture assim!
@@ -24957,7 +24957,7 @@ Ha!
 Rragh!
 Como você está?
 Outra hora.
-Beleza.
+Tudo bem.
 Que besteira.
 Agradeço.
 Howlen nunca se esquece de uma dívida, milorde.
@@ -27951,7 +27951,7 @@ O Padre Clemente conseguiu encontrar um<cf>conjunto de escrituras substituto. A 
 
 Sim, alimente a chama da sua vontade de sobreviver. Para ser vitorioso! Tempere sua alma em seu calor!
 A forja do meu coração esfria, e o mundo estremece por isso.
-Saiba disto, Arisen: O mundo é implacável... Frio e vazio, apesar de toda a sua beleza.
+Saiba disto, Arisen: O mundo é implacável... Frio e vazio, apesar de toda a sua tudo bem.
 É uma roda que gira sem parar, perfeita além da comparação.
 Eu permaneço no seu centro, como você pode vir a permanecer por sua vez.
 É minha vontade que a mantém girando. Minha vontade que impulsiona o tempo através da eternidade.
@@ -34460,7 +34460,7 @@ Entendido...
 Entendido.
 Sim!
 Entendido.
-Beleza.
+Tudo bem.
 Sim, milorde.
 Como desejar.
 Será feito.
@@ -34726,7 +34726,7 @@ Me chamam de Mason, se te aprouver.
 Agora que você chegou à capital como um herói conquistador, vai precisar de algo pra fazer, né?
 Um conselho: comece com os peões. Pergunte sobre eles aqui em Gran Soren.
 Eles estão intimamente ligados ao destino do Arisen. Se quer conhecer seu destino, conheça-os.
-Tenho outro assunto pra discutir com você, com o tempo, mas vamos deixar isso pra outro dia, beleza?
+Tenho outro assunto pra discutir com você, com o tempo, mas vamos deixar isso pra outro dia, tudo bem?
 Estou ansioso por isso, amigo.
 Ah, não se preocupe. Esse outro assunto pode esperar, amigo.
 Ah, diga, amigo, você se deparou com um velho estranho ultimamente? Aparência sombria, murmúrios esquisitos...?
@@ -39039,7 +39039,7 @@ Desculpa, meu bom. Não é o suficiente.
 Fica por volta disso.
 Está em boas mãos.
 Esse aqui, é?
-Beleza.
+Tudo bem.
 Desculpa, meu bom.
 Assim você me faz corar, meu bom.
 <SHOP>Queria ter mais coisas pra oferecer.
@@ -39149,7 +39149,7 @@ Me desculpa pelo incômodo. De verdade.
 Eu não te incomodaria de novo se minhas provisões não fossem tão importantes pra mim.
 Fantástico! Isso é tudo mesmo.
 Tomei muito do seu tempo, e só posso te agradecer em troca.
-Er... beleza, então! ...Pegou pesado aí, hein, camarada? Mas... tá bom.
+Er... tudo bem, então! ...Pegou pesado aí, hein, camarada? Mas... tá bom.
 Achei que a gente nunca ia terminar. Valeu, pescador.
 Por ordem do duque, ninguém passa!
 Obtenha 3 Ervas Desidratadas.<cf>Região: Cassardis
@@ -41325,11 +41325,11 @@ Ahh...exatamente.
 E aí?
 Ô, camarada... Que coisinha bonitinha você tem aí, amigo.
 Por que não deixa comigo um pouco? Eu vou te fazer uma falsificação que enganaria até o próprio Criador.
-A mercadoria vai estar pronta amanhã a essa hora. Apareça de novo, beleza?
+A mercadoria vai estar pronta amanhã a essa hora. Apareça de novo, tudo bem?
 Ainda não está pronto, infelizmente. Por favor, me dê mais um tempinho.
 Aqui está. Uma cópia perfeita. É sua.
 O outro vai demorar um pouquinho ainda. Paciência, amigo!
-Beleza, deixa comigo.
+Tudo bem, deixa comigo.
 Vai levar com você, hein? Toma aqui, então.
 <R_G>Não vou enrolar.
 <VAL 0>G
@@ -42628,7 +42628,7 @@ Parece que a terra está cheia de criaturas malignas ultimamente...
 Entre as feras e minha própria saúde debilitada, tô quase ficando em casa e trancando tudo.
 Ninguém pode apressar a maré, né?
 O mundo enlouqueceu, primo.
-Beleza, e agora?
+Tudo bem, e agora?
 É loucura, pura e simples...
 Hum, tô quase conseguindo me recuperar, finalmente.
 Eo, aquraata m'squurite...
@@ -44908,7 +44908,7 @@ Mas logo você estará livre deste ciclo interminável...
 Então seus pensamentos pertencerão somente a você. Então você falará com sua própria voz.
 Ah, é você. Mason me disse para te esperar.
 Se você tem uma mensagem, eu posso repassar.
-...O cavaleiro, então, é? Beleza, vou avisar.
+...O cavaleiro, então, é? Tudo bem, vou avisar.
 Menu de Peão
 Buscar
 Peões Populares
@@ -46364,7 +46364,7 @@ Mas não voltarei ao meu barco tão cedo -- disso eu tenho certeza.
 Ultimamente, tenho pensado no meu pai.
 Ele se juntou ao Criador no ano passado... Às vezes, eu... eu me pergunto se eu não seria mais feliz, lá com ele...
 Trabalhar no mar deixa pouco tempo pra ficar noiado.
-Beleza, qual é a próxima?
+Tudo bem, qual é a próxima?
 Calma aí, pescador.
 Na verdade, nosso primeiro dever é consertar o píer quebrado...
 Você realmente veio me buscar!
@@ -48748,7 +48748,7 @@ Hnngh!
 Guhagh...nngh...
 Yoh!
 Taah!
-'E aí, 'e aí.
+E aí, e aí.
 Que te vá bem, então. Que te vá bem.
 Ah, sim.
 Isso não é verdade.
